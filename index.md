@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Smart Nation Singapore
+description: Careers at Smart Nation Singapore
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
