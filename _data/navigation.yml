@@ -9,11 +9,11 @@ logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Data Science And Ai
+  - title: Data Science & Ai
     collection: data-science-and-ai
   - title: Cybersecurity
     collection: cybersecurity
-  - title: Sensors And Internet Of Things
+  - title: Sensors And IOT
     collection: sensors-and-internet-of-things
   - title: Ict Infrastructure
     collection: ict-infrastructure
@@ -21,5 +21,5 @@ links:
     collection: modelling-and-simulation
   - title: Tech Policy And Governance
     collection: tech-policy-and-governance
-  - title: App Design Development And Deployment
+  - title: App Design Development
     collection: app-design-development-and-deployment
