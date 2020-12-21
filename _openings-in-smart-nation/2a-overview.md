@@ -1,7 +1,7 @@
 ---
 title: Overview
 permalink: /openings-in-smart-nation/sensors-and-internet-of-things/overview/
-breadcrumb: Sensors & Internet Of Things
+breadcrumb: Overview
 third_nav_title: "Sensors & Internet Of Things"
 ---
 
