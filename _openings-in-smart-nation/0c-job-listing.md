@@ -1,8 +1,8 @@
 ---
 title: Job Listing
-permalink: /openings-in-smart-nation/cybersecurity/job-listing/
-breadcrumb: Cybersecurity
-third_nav_title: "Cybersecurity"
+permalink: /openings-in-smart-nation/data-science-and-ai/job-listing/
+breadcrumb: Data Science & AI
+third_nav_title: "Data Science & AI"
 ---
 
 ### **Job Listing**
