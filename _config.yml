@@ -20,7 +20,7 @@ colors:
 
 
 collections:
-  openings-in-smart-nation:
+  openings:
     output: true
   data-science-and-ai:
     output: true
