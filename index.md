@@ -7,8 +7,8 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Careers @ Smart Nation
-        subtitle: Singapore
+        title: ICT Careers @ Government
+        subtitle: Smart Nation Singapore
         background: /images/hero-banner.png
         button: Contact Us
         url: /contact-us/
