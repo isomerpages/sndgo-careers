@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /openings-in-smart-nation/cybersecurity/overview/
+permalink: /openings/cybersecurity/overview/
 breadcrumb: Overview
 third_nav_title: "Cybersecurity"
 ---
