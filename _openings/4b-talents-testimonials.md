@@ -1,6 +1,6 @@
 ---
 title: Talents Testimonials
-permalink: /openings-in-smart-nation/modelling-and-simulation/talents-testimonials/
+permalink: /openings/modelling-and-simulation/talents-testimonials/
 breadcrumb: Talents Testimonials
 third_nav_title: "Modelling & Simulation"
 ---
