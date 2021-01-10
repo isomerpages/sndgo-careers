@@ -1,25 +1,6 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/logo.png
-
 links:
   - title: Tech Job Openings
     collection: openings
-#  - title: Data Science & AI
-#    collection: data-science-and-ai
-#  - title: Cybersecurity
-#    collection: cybersecurity
-#  - title: Sensors & IOT
-#    collection: sensors-and-internet-of-things
-#  - title: ICT Infrastructure
-#    collection: ict-infrastructure
-#  - title: Modelling & Simulation
-#    collection: modelling-and-simulation
-#  - title: Tech Policy & Governance
-#    collection: tech-policy-and-governance
-#  - title: App Design & Development
-#    collection: app-design-development-and-deployment
+  - title: ''
+    resource_room: true
