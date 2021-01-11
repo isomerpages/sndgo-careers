@@ -18,20 +18,6 @@ colors:
 collections:
   openings:
     output: true
-  data-science-and-ai:
-    output: true
-  cybersecurity:
-    output: true
-  sensors-and-internet-of-things:
-    output: true
-  ict-infrastructure:
-    output: true
-  modelling-and-simulation:
-    output: true
-  tech-policy-and-governance:
-    output: true
-  app-design-development-and-deployment:
-    output: true
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ''
