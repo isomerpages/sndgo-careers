@@ -52,6 +52,7 @@ sections:
       button: More
       url: /openings/app-design-development-and-deployment/overview/
       alt: App Design & Development
+      image: /images/app-development.png
   - infopic:
       title: 'ICT Infrastructure '
       description: >-
