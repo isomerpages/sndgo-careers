@@ -59,7 +59,8 @@ sections:
         powering Singapore’s digital transformation.
       button: More
       url: /openings/ict-infrastructure/overview/
-      alt: Image alt text
+      alt: 'ICT Infrastructure '
+      image: /images/ict.png
   - infopic:
       title: 'Tech Policy & Governance '
       description: >-
