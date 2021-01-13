@@ -8,8 +8,7 @@ third_nav_title: Tech Policy & Governance
 
 ### **Tech Policy & Governance**
 
-Apps play a key role on our journey to build a Smart Nation that harnesses tech and data 
-to improve the lives of citizens. If you are passionate about apps that people need, use and appreciate, we need your expertise and experience! 
+Set the scene. A Smart Nation calls for tech, talents and thinking. Be the one who helps bring it all together.
 
 ### **Hear from our tech talents**
 
