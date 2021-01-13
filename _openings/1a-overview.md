@@ -8,8 +8,7 @@ third_nav_title: Cybersecurity
 
 ### **Cybersecurity**
 
-Apps play a key role on our journey to build a Smart Nation that harnesses tech and data 
-to improve the lives of citizens. If you are passionate about apps that people need, use and appreciate, we need your expertise and experience! 
+Save the day, every day. Safeguard our digital economy by building resilience to cyber-attacks. 
 
 ### **Hear from our tech talents**
 
