@@ -10,8 +10,6 @@ sections:
       title: Smart Moves Ahead
       subtitle: Smart Nation Singapore
       background: /images/hero_banner.png
-      button: Contact Us
-      url: /contact-us/
   - infobar:
       title: Join us
       description: >-
