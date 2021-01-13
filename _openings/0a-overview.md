@@ -8,8 +8,7 @@ third_nav_title: Data Science & AI
 
 ### **Data Science & Artificial Intelligence**
 
-Apps play a key role on our journey to build a Smart Nation that harnesses tech and data 
-to improve the lives of citizens. If you are passionate about apps that people need, use and appreciate, we need your expertise and experience! 
+Create new marvels. From boosting productivity to enhancing lives, AI and Data are here to power our future. 
 
 ### **Hear from our tech talents**
 
