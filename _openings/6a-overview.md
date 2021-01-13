@@ -13,7 +13,7 @@ to improve the lives of citizens. If you are passionate about apps that people n
 
 ### **Hear from our tech talents**
 
-<table width="300px" border="0">
+<table width="300px">
 <tbody>
       <td width="100px">
          <a href="#"><img src="/images/placeholder.png" alt="" title="Tech Talent" /></a><br /><em><strong>Ravi Kumar</strong><br />Digital Services</em><br />“Lorem ipsum dolr sit amet,
