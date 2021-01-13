@@ -13,10 +13,9 @@ to improve the lives of citizens. If you are passionate about apps that people n
 
 ### **Hear from our tech talents**
 
-
 <table width="300px">
 <tbody>
-      <td width="100px">
+      <td width="100px"><br><br>
       <a href="#"><img src="/images/placeholder.png" alt="" title="Tech Talent" /></a><br><em><strong>Ravi Kumar</strong><br>Digital Services</em><br><br>“Lorem ipsum dolr sit amet,
 consectetur adipiscings elit. Nulla ac leo viverra, dictum tortor vitae, venenatis arcu. Suspendisse sed tortor cono dimentum nunc iaculis pretiu um quis quis mauris.”<br><br>Government Technology Agency    
       <br><br>
