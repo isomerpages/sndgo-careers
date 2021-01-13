@@ -13,7 +13,7 @@ sections:
       button: Contact Us
       url: /contact-us/
   - infobar:
-      title: Smart Moves Ahead
+      title: Join us
       description: >-
         Our story is one of transformation. Together, we co-create a future of
         better living for all. Be our new pioneers.  Join us on the Smartnation
