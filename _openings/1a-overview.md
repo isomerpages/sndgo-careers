@@ -8,7 +8,7 @@ third_nav_title: Cybersecurity
 
 ### **Cybersecurity**
 
-Save the day, every day. Safeguard our digital economy by building resilience to cyber-attacks. 
+Secure our digital fronts to power our Smart Nation’s digital way of life. As we innovate to improve lives and livelihoods for all, you’ll be entrusted to ensure cyberspace and Singapore’s Critical Information Infrastructure are safe, secure and shielded against cyber threats.
 
 ### **Hear from our tech talents**
 
