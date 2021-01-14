@@ -8,8 +8,7 @@ third_nav_title: 'APP Design, Development & Deployment'
 
 ### **App Design, Development & Deployment**
 
-Apps play a key role on our journey to build a Smart Nation that harnesses tech and data 
-to improve the lives of citizens. If you are passionate about apps that people need, use and appreciate, we need your expertise and experience! 
+Build digital products and services that improve the lives of citizens and businesses in Singapore, while transforming how they’re built in the government. The ‘rules’ are simple. Design for citizens. Engineer with care. Be and build inclusive. And, go far and go together.
 
 ### **Hear from our tech talents**
 
