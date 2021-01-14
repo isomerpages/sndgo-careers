@@ -45,8 +45,8 @@ sections:
   - infopic:
       title: App Design & Development
       description: >-
-        Tap tech’s power. Build the apps we use to work, live, play, learn and
-        more in Singapore.
+        Harness the power of technology to build the applications we need to
+        work, play, live and learn in Singapore.
       button: More
       url: /openings/app-design-development-and-deployment/overview/
       alt: App Design & Development
