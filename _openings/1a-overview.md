@@ -4,7 +4,7 @@ permalink: /openings/cybersecurity/overview/
 breadcrumb: Overview
 third_nav_title: Cybersecurity
 ---
-![](/images/hero-cybersecurity.png)
+![](/images/hero-cybersecurity.jpg)
 
 ### **Cybersecurity**
 
