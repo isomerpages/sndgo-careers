@@ -37,9 +37,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: 'Sensors & Internet of Things '
-      description: >-
-        Make what’s next. From improved work processes to more efficient
-        transport systems, Sensors and IoT is a key enabler.
+      description: 'Sensing Singapore, Connecting Citizens.'
       button: More
       url: /openings/sensors-and-internet-of-things/overview/
       image: /images/sensors-iot.png
