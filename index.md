@@ -63,8 +63,8 @@ sections:
   - infopic:
       title: 'Tech Policy & Governance '
       description: >-
-        Set the scene. A Smart Nation calls for tech, talents and thinking. Be
-        the one who helps bring it all together.
+        Set the stage. A Smart Nation calls for tech, talent and thought
+        leadership. Be the one who helps bring it all together.
       button: More
       url: /openings/tech-policy-and-governance/overview/
       image: /images/tech-governance.png
