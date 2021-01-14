@@ -15,8 +15,7 @@ Create new marvels. From boosting productivity to enhancing lives, AI and Data a
 <table width="300px">
 <tbody><br>
       <td width="100px">
-      <img src="/images/placeholder.png" alt="" title="Tech Talent" /><br><em><strong>Ravi Kumar</strong><br>Digital Services</em><br><br>“Lorem ipsum dolr sit amet,
-consectetur adipiscings elit. Nulla ac leo viverra, dictum tortor vitae, venenatis arcu. Suspendisse sed tortor cono dimentum nunc iaculis pretiu um quis quis mauris.”<br><br>Government Technology Agency    
+      <img src="/images/placeholder.png" alt="" title="Tech Talent" /><br><em><strong>Kelvin Goh</strong><br>Deputy Director </em><br><br>“Transforming government agencies is all in a day’s work here. It’s both rewarding and meaningful to be able to apply data science and AI techniques to improve policies and service delivery, and ultimately – to benefit the public..”<br><br>Government Technology Agency    
       <br><br>
       
       </td>
