@@ -8,7 +8,7 @@ third_nav_title: Data Science & AI
 
 ### **Data Science & Artificial Intelligence**
 
-Create new marvels. From boosting productivity to enhancing lives, AI and Data are here to power our future. 
+Data Science and AI hold the secrets to actionable insights and transformative impact. Be at the core of new advancement to improve service delivery, policy outcomes and operational efficiency. Bring your talent to new frontiers with analytical rigour, smart acumen, and purpose-led vision.
 
 ### **Hear from our tech talents**
 
