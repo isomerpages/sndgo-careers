@@ -15,21 +15,14 @@ As the foundation element supporting the growth of our digital economy, ICT Infr
 <table width="300px">
 <tbody><br>
       <td width="100px">
-      <img src="/images/placeholder.png" alt="" title="Tech Talent" /><br><em><strong>Ravi Kumar</strong><br>Digital Services</em><br><br>“Lorem ipsum dolr sit amet,
-consectetur adipiscings elit. Nulla ac leo viverra, dictum tortor vitae, venenatis arcu. Suspendisse sed tortor cono dimentum nunc iaculis pretiu um quis quis mauris.”<br><br>Government Technology Agency    
-      <br><br>
-      
+      <img src="/images/reuben-wong.png" alt="Reuben Wong" title="Tech Talent" /><br><em><strong>Reuben Wong</strong><br>Senior Manager, Infrastructure Planning & Facilitation<br>
+IMDA</em><br><br>“This sector is ever growing. There’s never a dull moment when we accelerate the future. I often think about how my children and the next generation of citizens would benefits from our work. This motivates me to always work harder.”<br><br>      
       </td>
-      <td width="100px">
-      <img src="/images/placeholder.png" alt="" title="Tech Talent" /><br><em><strong>Ravi Kumar</strong><br>Digital Services</em><br><br>“Lorem ipsum dolr sit amet,
-consectetur adipiscings elit. Nulla ac leo viverra, dictum tortor vitae, venenatis arcu. Suspendisse sed tortor cono dimentum nunc iaculis pretiu um quis quis mauris.”<br><br>Government Technology Agency    
-      <br><br>
-      
+     <td width="100px">
+      <img src="/images/hidden.gif"><br><br>
       </td>
-      <td width="100px">
-      <img src="/images/placeholder.png" alt="" title="Tech Talent" /><br><em><strong>Ravi Kumar</strong><br>Digital Services</em><br><br>“Lorem ipsum dolr sit amet,
-consectetur adipiscings elit. Nulla ac leo viverra, dictum tortor vitae, venenatis arcu. Suspendisse sed tortor cono dimentum nunc iaculis pretiu um quis quis mauris.”<br><br>Government Technology Agency    
-      <br><br>
+			<td width="100px">
+      <img src="/images/hidden.gif"><br><br>
       </td>
   </tbody>
 </table>
