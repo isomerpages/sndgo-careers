@@ -8,7 +8,7 @@ third_nav_title: ICT Infrastructure
 
 ### **ICT Infrastructure**
 
-Master the plan. Architect, engineer, build and enhance the systems powering Singapore’s digital transformation.
+As the foundation element supporting the growth of our digital economy, ICT Infrastructure offers you exciting opportunities to architect and implement tremendous transformation. Gain an end-to-end experience in this field and pioneer bold new forays into tomorrow’s digital frontiers.
 
 ### **Hear from our tech talents**
 
