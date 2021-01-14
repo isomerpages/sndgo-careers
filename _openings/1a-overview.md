@@ -15,21 +15,14 @@ Secure our digital fronts to power our Smart Nation’s digital way of life. As 
 <table width="300px">
 <tbody><br>
       <td width="100px">
-      <img src="/images/placeholder.png" alt="" title="Tech Talent" /><br><em><strong>Ravi Kumar</strong><br>Digital Services</em><br><br>“Lorem ipsum dolr sit amet,
-consectetur adipiscings elit. Nulla ac leo viverra, dictum tortor vitae, venenatis arcu. Suspendisse sed tortor cono dimentum nunc iaculis pretiu um quis quis mauris.”<br><br>Government Technology Agency    
+      <img src="/images/kok-kiat-han.png" alt="Kok Kiat Han" title="Tech Talent" /><br><em><strong>Kok Kiat Han</strong><br>Cyber Threat Intelligence Analyst<br>Digital Services<br>National Cyber Threat Monitoring Centre, CSA</em><br><br>“Knowing I am part of the team that helps Singapore stay safe in cyberspace motivates me to give my very best. I want my Smart Nation to become even smarter, and cybersecurity plays a big part ensuring what is built is safe and secure.”<br><br>Government Technology Agency    
       <br><br>
-      
       </td>
       <td width="100px">
-      <img src="/images/placeholder.png" alt="" title="Tech Talent" /><br><em><strong>Ravi Kumar</strong><br>Digital Services</em><br><br>“Lorem ipsum dolr sit amet,
-consectetur adipiscings elit. Nulla ac leo viverra, dictum tortor vitae, venenatis arcu. Suspendisse sed tortor cono dimentum nunc iaculis pretiu um quis quis mauris.”<br><br>Government Technology Agency    
-      <br><br>
-      
+      <img src="/images/hidden.gif"><br><br>
       </td>
-      <td width="100px">
-      <a href="#"><img src="/images/placeholder.png" alt="" title="Tech Talent" /></a><br><em><strong>Ravi Kumar</strong><br>Digital Services</em><br><br>“Lorem ipsum dolr sit amet,
-consectetur adipiscings elit. Nulla ac leo viverra, dictum tortor vitae, venenatis arcu. Suspendisse sed tortor cono dimentum nunc iaculis pretiu um quis quis mauris.”<br><br>Government Technology Agency    
-      <br><br>
+			<td width="100px">
+      <img src="/images/hidden.gif"><br><br>
       </td>
   </tbody>
 </table>
