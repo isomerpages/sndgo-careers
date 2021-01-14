@@ -29,8 +29,8 @@ sections:
   - infopic:
       title: Cybersecurity
       description: >-
-        Save the day, every day. Safeguard our digital economy by building
-        resilience to cyber-attacks. 
+        Defend the digital. Cybersecurity is crucial in our digital economy and
+        way of life. Defend our cyberspace and safeguard national security. 
       button: More
       url: /openings/cybersecurity/overview/
       image: /images/cybersecurity.png
