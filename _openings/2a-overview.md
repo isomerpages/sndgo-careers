@@ -8,7 +8,7 @@ third_nav_title: Sensors & Internet Of Things
 
 ### **Sensors & Internet of Things**
 
-Make what’s next. From improved work processes to more efficient transport systems, Sensors and IoT is a key enabler.
+Sensing Singapore and connecting citizens to make a meaningful difference drives our solutions. Harness the trillions of possibilities Sensors and IoT can bring about, across anything and everything from Smart homes and gardens, to large-scale assisted living ecosystems and community wellness enablers.
 
 ### **Hear from our tech talents**
 
