@@ -4,7 +4,7 @@ permalink: /openings/tech-policy-and-governance/overview/
 breadcrumb: Overview
 third_nav_title: Tech Policy & Governance
 ---
-![](/images/hero-tech-policy-governance .png)
+![](/images/hero-tech-policy-governance.jpg)
 
 ### **Tech Policy & Governance**
 
