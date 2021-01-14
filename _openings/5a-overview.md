@@ -15,21 +15,14 @@ Design and drive forward-thinking tech policies that shape our Smart Nation and 
 <table width="300px">
 <tbody><br>
       <td width="100px">
-      <img src="/images/placeholder.png" alt="" title="Tech Talent" /><br><em><strong>Ravi Kumar</strong><br>Digital Services</em><br><br>“Lorem ipsum dolr sit amet,
-consectetur adipiscings elit. Nulla ac leo viverra, dictum tortor vitae, venenatis arcu. Suspendisse sed tortor cono dimentum nunc iaculis pretiu um quis quis mauris.”<br><br>Government Technology Agency    
-      <br><br>
-      
+      <img src="/images/annabelle-ng.png" alt="Annabelle Ng" title="Tech Talent" /><br><em><strong>Annabelle Ng</strong><br>Manager, Standards, Cybersecurity & Quality Assurance<br>SNDGO
+</em><br><br>“The digital tech domain is a crucial part of our daily lives. For every generation and all walks of life. As we become a digital society, we must leave no one behind and ensure that our tech products and services are accessible to all.”<br><br>
       </td>
       <td width="100px">
-      <img src="/images/placeholder.png" alt="" title="Tech Talent" /><br><em><strong>Ravi Kumar</strong><br>Digital Services</em><br><br>“Lorem ipsum dolr sit amet,
-consectetur adipiscings elit. Nulla ac leo viverra, dictum tortor vitae, venenatis arcu. Suspendisse sed tortor cono dimentum nunc iaculis pretiu um quis quis mauris.”<br><br>Government Technology Agency    
-      <br><br>
-      
+      <img src="/images/hidden.gif"><br><br>
       </td>
-      <td width="100px">
-     <img src="/images/placeholder.png" alt="" title="Tech Talent" /><br><em><strong>Ravi Kumar</strong><br>Digital Services</em><br><br>“Lorem ipsum dolr sit amet,
-consectetur adipiscings elit. Nulla ac leo viverra, dictum tortor vitae, venenatis arcu. Suspendisse sed tortor cono dimentum nunc iaculis pretiu um quis quis mauris.”<br><br>Government Technology Agency    
-      <br><br>
+			<td width="100px">
+      <img src="/images/hidden.gif"><br><br>
       </td>
   </tbody>
 </table>
