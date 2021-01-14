@@ -4,7 +4,7 @@ permalink: /openings/app-design-development-and-deployment/overview/
 breadcrumb: Overview
 third_nav_title: 'APP Design, Development & Deployment'
 ---
-![](/images/hero-in-app-design.png)
+![](/images/hero-in-app-design.jpg![](/images/hero-in-app-design.jpg))
 
 ### **App Design, Development & Deployment**
 
