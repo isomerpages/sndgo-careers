@@ -8,7 +8,7 @@ third_nav_title: Tech Policy & Governance
 
 ### **Tech Policy & Governance**
 
-Set the scene. A Smart Nation calls for tech, talents and thinking. Be the one who helps bring it all together.
+Design and drive forward-thinking tech policies that shape our Smart Nation and Digital Government transformation. You’ll deploy and hone both big-picture thinking and laser focus on detail to effect change and ensure what works best for people, businesses and Government.
 
 ### **Hear from our tech talents**
 
