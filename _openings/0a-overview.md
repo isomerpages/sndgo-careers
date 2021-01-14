@@ -4,7 +4,7 @@ permalink: /openings/data-science-and-ai/overview/
 breadcrumb: Overview
 third_nav_title: Data Science & AI
 ---
-![](/images/hero-data-science-ai.png)
+![](/images/hero-data-science-ai.jpg)
 
 ### **Data Science & Artificial Intelligence**
 
