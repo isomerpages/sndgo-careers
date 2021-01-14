@@ -4,7 +4,7 @@ permalink: /openings/sensors-and-internet-of-things/overview/
 breadcrumb: Overview
 third_nav_title: Sensors & Internet Of Things
 ---
-![](/images/hero-sensors-internet-things.png)
+![](/images/hero-sensors-internet-things.jpg)
 
 ### **Sensors & Internet of Things**
 
