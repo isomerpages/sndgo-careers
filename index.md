@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Smart Moves Ahead
       subtitle: Smart Nation Singapore
-      background: /images/hero_banner.png
+      background: /images/hero-banner.png
   - infobar:
       title: Join us
       description: >-
