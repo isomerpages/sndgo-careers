@@ -53,6 +53,5 @@ Secure our digital fronts to power our Smart Nation’s digital way of life. As 
       <td width="100px"><img src="/images/hidden.gif"></td>
       <td width="100px"><img src="/images/hidden.gif"></td>
       <td width="100px"><img src="/images/hidden.gif"></td>
-      <td width="100px"><img src="/images/hidden.gif"></td>
 </tbody>
 </table>
