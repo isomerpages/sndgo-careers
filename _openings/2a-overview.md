@@ -36,15 +36,13 @@ Sensing Singapore and connecting citizens to make a meaningful difference drives
       <td width="100px"><a href="https://careers.pageuppeople.com/845/cw/en/listing/"><img src="/images/logo-dsta.png" alt="DSTA" title="DSTA"/></a></td>
       <td width="100px"><a href="https://go.gov.sg/GovTechCareers"><img src="/images/logo-govtech.png" alt="A-Star" title="A-Star"/></a></td>
       <td width="100px"><a href="#"><img src="/images/logo-hdb.png" alt="HDB" title="HDB"/></a></td>
-      <td width="100px"><a href="https://www.htx.gov.sg/join-us/careers"><img src="/images/logo-htx.png" alt="HTX" title="HTX"/></a></td>
 </tbody>
 </table>
 
 <table width="500px">
 <tbody>
+      <td width="100px"><a href="https://www.htx.gov.sg/join-us/careers"><img src="/images/logo-htx.png" alt="HTX" title="HTX"/></a></td>
       <td width="100px"><a href="https://careers.pageuppeople.com/688/cwlive/en/listing/"><img src="/images/logo-lta.png" alt="LTA" title="LTA"/></a></td>  
-      <td width="100px"><img src="/images/hidden.gif"></td>
-      <td width="100px"><img src="/images/hidden.gif"></td>
       <td width="100px"><img src="/images/hidden.gif"></td>
       <td width="100px"><img src="/images/hidden.gif"></td>
       <td width="100px"><img src="/images/hidden.gif"></td>
