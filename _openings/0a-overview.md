@@ -53,6 +53,5 @@ Data Science and AI hold the secrets to actionable insights and transformative i
       <td width="100px"><a href="https://www.smartnation.gov.sg/"><img src="/images/logo-sndgo.png" alt="SNDGO" title="SNDGO"/></a></td>
       <td width="100px"><img src="/images/hidden.gif"></td>
       <td width="100px"><img src="/images/hidden.gif"></td>
-      <td width="100px"><img src="/images/hidden.gif"></td>
 </tbody>
 </table>
