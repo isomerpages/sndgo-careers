@@ -26,3 +26,23 @@ Design and drive forward-thinking tech policies that shape our Smart Nation and 
       </td>
   </tbody>
 </table>
+
+<table width="500px">
+<tbody><br><br>
+      <td width="100px"><a href="https://www.csa.gov.sg/careers/overview"><img src="/images/logo-csa.png" alt="A-Star" title="A-Star"/></a></td>
+      <td width="100px"><a href="https://careers.pageuppeople.com/845/cw/en/listing/"><img src="/images/logo-dsta.png" alt="DSTA" title="DSTA"/></a></td>
+      <td width="100px"><a href="https://go.gov.sg/GovTechCareers"><img src="/images/logo-govtech.png" alt="A-Star" title="A-Star"/></a></td>
+      <td width="100px"><a href="#"><img src="/images/logo-hdb.png" alt="HDB" title="HDB"/></a></td>
+      <td width="100px"><a href="https://www.imda.gov.sg/Who-We-Are/careers"><img src="/images/logo-imda.png" alt="IMDA" title="IMDA"/></a></td> 
+</tbody>
+</table>
+
+<table width="500px">
+<tbody>
+      <td width="100px"><a href="https://www.iras.gov.sg/irashome/Careers/"><img src="/images/logo-iras.png" alt="IRAS" title="IRAS"/></a></td> 
+      <td width="100px"><a href="https://www.smartnation.gov.sg/"><img src="/images/logo-sndgo.png" alt="SNDGO" title="SNDGO"/></a></td>
+      <td width="100px"><img src="/images/hidden.gif"></td>
+      <td width="100px"><img src="/images/hidden.gif"></td>
+      <td width="100px"><img src="/images/hidden.gif"></td>
+</tbody>
+</table>
