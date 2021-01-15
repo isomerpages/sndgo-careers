@@ -26,7 +26,7 @@ Data Science and AI hold the secrets to actionable insights and transformative i
   </tbody>
 </table>
 
-<table width="600px">
+<table width="300px">
 <tbody><br><br>
       <td width="100px"><a href="https://careers.a-star.edu.sg/"  target="_blank"><img src="/images/logo-astar.png" alt="ASTAR" title="ASTAR"/></a></td>
       <td width="100px"><a href="https://www.cpf.gov.sg/members/careers" target="_blank"><img src="/images/logo-cpf.png" alt="CPFB" title="CPFB"/></a></td>
