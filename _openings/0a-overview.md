@@ -36,3 +36,25 @@ Data Science and AI hold the secrets to actionable insights and transformative i
       <td width="100px"><a href="https://go.gov.sg/GovTechCareers" target="_blank"><img src="/images/logo-govtech.png" alt="A-Star" title="A-Star"/></a></td>
 </tbody>
 </table>
+
+<table width="600px">
+<tbody>
+      <td width="100px"><a href="#" target="_blank"><img src="/images/logo-hdb.png" alt="HDB" title="HDB"/></a></td>
+      <td width="100px"><a href="https://www.htx.gov.sg/join-us/careers" target="_blank"><img src="/images/logo-htx.png" alt="HTX" title="HTX"/></a></td>
+      <td width="100px"><a href="https://www.ihis.com.sg/careers" target="_blank"><img src="/images/logo-ihis.png" alt="iHIS" title="iHIS"/></a></td>
+      <td width="100px"><a href="https://www.imda.gov.sg/Who-We-Are/careers" target="_blank"><img src="/images/logo-imda.png" alt="IMDA" title="IMDA"/></a></td>
+      <td width="100px"><a href="https://www.iras.gov.sg/irashome/Careers/" target="_blank"><img src="/images/logo-iras.png" alt="IRAS" title="IRAS"/></a></td>
+      <td width="100px"><a href="https://careers.pageuppeople.com/688/cwlive/en/listing/" target="_blank"><img src="/images/logo-lta.png" alt="LTA" title="LTA"/></a></td>   
+</tbody>
+</table>
+
+<table width="600px">
+<tbody>
+      <td width="100px"><a href="https://www.smartnation.gov.sg/" target="_blank"><img src="/images/logo-sndgo.png" alt="SNDGO" title="SNDGO"/></a></td>
+      <td width="100px"><img src="/images/hidden.gif"></td>
+      <td width="100px"><img src="/images/hidden.gif"></td>
+      <td width="100px"><img src="/images/hidden.gif"></td>
+      <td width="100px"><img src="/images/hidden.gif"></td>
+      <td width="100px"><img src="/images/hidden.gif"></td>
+</tbody>
+</table>
