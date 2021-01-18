@@ -8,7 +8,12 @@ third_nav_title: Data Science & AI
 
 ### **Data Science & Artificial Intelligence**
 
-Data Science and AI hold the secrets to actionable insights and transformative impact. Be at the core of new advancement to improve service delivery, policy outcomes and operational efficiency. Bring your talent to new frontiers with analytical rigour, smart acumen, and purpose-led vision.
+Data science and AI hold the secrets to actionable insights and transformative impact. Be at the core of new advancement to improve service delivery, policy outcomes and operational efficiency.
+
+To deliver public sector impact, we are outcome driven. Our projects are not academic exercises, and we make sure our findings can be translated into tangible impact. In addition, we start small and move fast – to scale up what works, and to improve quickly as needed. It’s fast-paced and focused. We relish tackling challenging technical problems, working in collaborative, multi-disciplinary teams, and using the latest technologies.
+
+Bring your talent to new frontiers as we bring big change to areas such as transport planning, contactless temperature screening gantry systems, Smart glasses for maritime use, drowning detection, and economic nowcasting, among others.
+
 
 ### **Hear from our tech talents**
 
