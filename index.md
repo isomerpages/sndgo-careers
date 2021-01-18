@@ -66,7 +66,7 @@ sections:
         Set the stage. A Smart Nation calls for tech, talent and thought
         leadership. Be the one who helps bring it all together.
       button: More
-      url: /openings/tech-policy-and-governance/overview/
+      url: /tech-careers/tech-policy-and-governance/overview/
       image: /images/tech-governance.png
       alt: 'Tech Policy & Governance '
 ---
