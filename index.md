@@ -57,7 +57,7 @@ sections:
       title: 'Sensors & Internet of Things '
       description: 'Sensing Singapore, Connecting Citizens.'
       button: More
-      url: /openings/sensors-and-internet-of-things/overview/
+      url: /tech-careers/sensors-and-internet-of-things/overview/
       image: /images/sensors-iot.png
       alt: Image alt text
   - infopic:
