@@ -32,7 +32,7 @@ sections:
         Defend the digital. Cybersecurity is crucial in our digital economy and
         way of life. Defend our cyberspace and safeguard national security. 
       button: More
-      url: /openings/cybersecurity/overview/
+      url: /tech-careers/cybersecurity/overview/
       image: /images/cybersecurity.png
       alt: Image alt text
   - infopic:
