@@ -29,8 +29,11 @@ Sensing Singapore and connecting citizens to make a meaningful difference drives
   </tbody>
 </table>
 
+### **Get set for Smart Moves Ahead**
+Discover your career opportunities in these agencies.
+
 <table width="500px">
-<tbody><br><br>
+<tbody><br>
       <td width="100px"><a href="https://careers.a-star.edu.sg/"><img src="/images/logo-astar.png" alt="ASTAR" title="ASTAR"/></a></td>
       <td width="100px"><a href="https://www.csa.gov.sg/careers/overview"><img src="/images/logo-csa.png" alt="A-Star" title="A-Star"/></a></td>
       <td width="100px"><a href="https://careers.pageuppeople.com/845/cw/en/listing/"><img src="/images/logo-dsta.png" alt="DSTA" title="DSTA"/></a></td>
