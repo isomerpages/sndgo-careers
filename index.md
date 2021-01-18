@@ -18,14 +18,14 @@ sections:
         Journey.
       url: /faq/
   - infopic:
-      title: Data Science & AI
+      title: App Design & Development
       description: >-
-        Create new marvels. From boosting productivity to enhancing lives, AI
-        and Data are here to power our future. 
+        Harness the power of technology to build the applications we need to
+        work, play, live and learn in Singapore.
       button: More
-      url: /openings/data-science-and-ai/overview/
-      image: /images/data-science.png
-      alt: Data Science & AI
+      url: /tech-careers/app-design-development-and-deployment/overview/
+      alt: App Design & Development
+      image: /images/app-development.png
   - infopic:
       title: Cybersecurity
       description: >-
@@ -36,21 +36,14 @@ sections:
       image: /images/cybersecurity.png
       alt: Image alt text
   - infopic:
-      title: 'Sensors & Internet of Things '
-      description: 'Sensing Singapore, Connecting Citizens.'
-      button: More
-      url: /openings/sensors-and-internet-of-things/overview/
-      image: /images/sensors-iot.png
-      alt: Image alt text
-  - infopic:
-      title: App Design & Development
+      title: Data Science & AI
       description: >-
-        Harness the power of technology to build the applications we need to
-        work, play, live and learn in Singapore.
+        Create new marvels. From boosting productivity to enhancing lives, AI
+        and Data are here to power our future. 
       button: More
-      url: /openings/app-design-development-and-deployment/overview/
-      alt: App Design & Development
-      image: /images/app-development.png
+      url: /openings/data-science-and-ai/overview/
+      image: /images/data-science.png
+      alt: Data Science & AI
   - infopic:
       title: 'ICT Infrastructure '
       description: >-
@@ -60,6 +53,13 @@ sections:
       url: /openings/ict-infrastructure/overview/
       alt: 'ICT Infrastructure '
       image: /images/ict.png
+  - infopic:
+      title: 'Sensors & Internet of Things '
+      description: 'Sensing Singapore, Connecting Citizens.'
+      button: More
+      url: /openings/sensors-and-internet-of-things/overview/
+      image: /images/sensors-iot.png
+      alt: Image alt text
   - infopic:
       title: 'Tech Policy & Governance '
       description: >-
