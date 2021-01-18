@@ -1,6 +1,6 @@
 title: Smart Moves Ahead
 url: ''
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon.ico
 colors:
   primary-color: '#6031b6'
   secondary-color: '#4372d6'
@@ -52,3 +52,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 resources_name: ''
+shareicon: /images/logo-shared.png
