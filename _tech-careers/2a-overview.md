@@ -26,8 +26,11 @@ Data Science and AI hold the secrets to actionable insights and transformative i
   </tbody>
 </table>
 
+### **Get set for Smart Moves Ahead**
+Discover your career opportunities in these agencies.
+
 <table width="500px">
-<tbody><br><br>
+<tbody><br>
       <td width="100px"><a href="https://careers.a-star.edu.sg/" target="_blank"><img src="/images/logo-astar.png" alt="ASTAR" title="ASTAR"/></a></td>
       <td width="100px"><a href="https://www.cpf.gov.sg/members/careers"><img src="/images/logo-cpf.png" alt="CPFB" title="CPFB"/></a></td>
       <td width="100px"><a href="https://www.csa.gov.sg/careers/overview"><img src="/images/logo-csa.png" alt="A-Star" title="A-Star"/></a></td>
