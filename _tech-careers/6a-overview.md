@@ -27,8 +27,11 @@ Design and drive forward-thinking tech policies that shape our Smart Nation and 
   </tbody>
 </table>
 
+### **Get set for Smart Moves Ahead**
+Discover your career opportunities in these agencies.
+
 <table width="500px">
-<tbody><br><br>
+<tbody><br>
       <td width="100px"><a href="https://www.csa.gov.sg/careers/overview"><img src="/images/logo-csa.png" alt="A-Star" title="A-Star"/></a></td>
       <td width="100px"><a href="https://careers.pageuppeople.com/845/cw/en/listing/"><img src="/images/logo-dsta.png" alt="DSTA" title="DSTA"/></a></td>
       <td width="100px"><a href="https://go.gov.sg/GovTechCareers"><img src="/images/logo-govtech.png" alt="A-Star" title="A-Star"/></a></td>
