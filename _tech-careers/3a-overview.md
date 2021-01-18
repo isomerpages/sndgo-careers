@@ -8,7 +8,12 @@ third_nav_title: ICT Infrastructure
 
 ### **ICT Infrastructure**
 
-As the foundation element supporting the growth of our digital economy, ICT Infrastructure offers you exciting opportunities to architect and implement tremendous transformation. Gain an end-to-end experience in this field and pioneer bold new forays into tomorrow’s digital frontiers.
+We are the infrastructure architects and engineers who architect, design and deliver an agile, secure and sustainable digital infrastructure which enables a digital government for Singapore.
+
+As the foundation element supporting the growth of our digital economy, ICT Infrastructure offers you exciting opportunities to implement tremendous transformation. Gain an end-to-end experience in this field as we Innovate, operate and uplift the Whole-of-Government infrastructure standards and deepen the competencies of our developed workforce. 
+
+Leverage on innovative cloud and SaaS technologies such as Infrastructure as Code, Policy as Code, Analytics and Machine Learning. Architect, design, build and deliver hosting environments and services which will accelerate modern applications and services. You will also have opportunities to develop policies and establish standards and best practices to steer the ICT infrastructure for the Government. 
+
 
 ### **Hear from our tech talents**
 
