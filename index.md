@@ -50,7 +50,7 @@ sections:
         Master the plan. Architect, engineer, build and enhance the systems
         powering Singapore’s digital transformation.
       button: More
-      url: /openings/ict-infrastructure/overview/
+      url: /tech-careers/ict-infrastructure/overview/
       alt: 'ICT Infrastructure '
       image: /images/ict.png
   - infopic:
