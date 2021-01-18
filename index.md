@@ -45,8 +45,9 @@ sections:
   - infopic:
       title: 'ICT Infrastructure '
       description: >-
-        Master the plan. Architect, engineer, build and enhance the systems
-        powering Singapore’s digital transformation.
+        Develop, masterplan, architect, build, engineer and enhance the digital
+        infrastructure that powers Singapore’s digital transformation and
+        digital government.
       button: More
       url: /tech-careers/ict-infrastructure/overview/
       alt: 'ICT Infrastructure '
