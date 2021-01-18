@@ -11,6 +11,10 @@ sections:
       subtitle: Smart Nation Singapore
       background: /images/hero-banner.png
   - infobar:
+      description: >-
+        Our story is one of transformation. Together, we co-create a future of
+        better living for all. Be our new pioneers. 
+  - infobar:
       title: Join us
       description: >-
         Our story is one of transformation. Together, we co-create a future of
