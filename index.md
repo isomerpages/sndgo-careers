@@ -41,7 +41,7 @@ sections:
         Create new marvels. From boosting productivity to enhancing lives, AI
         and Data are here to power our future. 
       button: More
-      url: /openings/data-science-and-ai/overview/
+      url: /tech-careers/data-science-and-ai/overview/
       image: /images/data-science.png
       alt: Data Science & AI
   - infopic:
