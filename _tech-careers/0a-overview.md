@@ -8,14 +8,19 @@ third_nav_title: 'APP Design, Development & Deployment'
 
 ### **App Design, Development & Deployment**
 
-Build digital products and services that improve the lives of citizens and businesses in Singapore, while transforming how they’re built in the government. The ‘rules’ are simple. Design for citizens. Engineer with care. Be and build inclusive. And, go far and go together.
+Build digital products and services that improve the lives of citizens and businesses in Singapore, while transforming how they’re built in the government. The ‘rules’ are simple. Design for citizens. Engineer with care. Be and build inclusive. And: Go far and go together.
+
+We go to the ground to listen to citizens’ feedback, followed by testing and iterating relentlessly to understand their needs, wants and concerns in order to build better citizen-centric digital products and services, and to support the digital transformation of the Public Service. 
+
+You’ll sync up with fellow government agencies, businesses and thought leaders to design, develop and deliver products and services. Some examples include the GoWhere Suite of websites to provide citizens with timely and accurate information regarding matters of national interest, and the TraceTogether digital system developed to facilitate nationwide, community-driven contract tracing efforts.
+
 
 ### **Hear from our tech talents**
 
 <table width="300px">
 <tbody><br>
       <td width="100px">
-     <img src="/images/muhammad-hafidzuddin.png" alt="Muhammad Hafidzuddin" title="Tech Talent" /><br><em><strong>Muhammad Hafidzuddin</strong><br>Software Engineer, GDS (DCube)<br>GovTech </em><br><br>“I continuously get excited about the apps I can build to benefit people. Ultimately, we hope to positively impact every Singaporean by improving their digital experience and relationship with government services.”<br><br>
+     <img src="/images/muhammad-hafidzuddin.png" alt="Muhammad Hafidzuddin" title="Tech Talent" /><br><em><strong>Tengku Muhammad Hafidzuddin Bin Tengku Ibrahim</strong><br>Software Engineer, GDS (DCube), <br>GovTech / App Design, Development, & Deployment </em><br><br>“I continuously get excited about the apps I can build to benefit people. Ultimately, we hope to positively impact every Singaporean by improving their digital experience and relationship with government services.”<br><br>
       </td>
        <td width="100px">
       <img src="/images/hidden.gif"><br><br>
