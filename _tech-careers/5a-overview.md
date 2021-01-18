@@ -8,7 +8,12 @@ third_nav_title: Sensors & Internet Of Things
 
 ### **Sensors & Internet of Things**
 
-Sensing Singapore and connecting citizens to make a meaningful difference drives our solutions. Harness the trillions of possibilities Sensors and IoT can bring about, across anything and everything from Smart homes and gardens, to large-scale assisted living ecosystems and community wellness enablers.
+Harness the many possibilities Sensors and the Internet of Things (SIOT) can bring about, across anything and everything from Smart homes and gardens, to large-scale assisted living ecosystems and community wellness enablers.
+
+Our SIOT solutions help to improve efficiency, efficacy, and innovation of public service and public service officers in performing city operations and delivering citizen-centric services. We empower our engineers to take charge of the end-to-end engineering process while providing the resources to build, architect and deploy products and digital services.
+
+On our team, you’ll work on meaningful projects that impact the nation. For instance, we’ve already innovated and prototyped SIOT solutions to meet the needs of diverse groups – from the elderly (IoT Panic Alert Button) to people with special needs (assistive technology such as eCanvas) to the general populace (TraceTogether Tokens for contact tracing). There’s much more to come.
+
 
 ### **Hear from our tech talents**
 
