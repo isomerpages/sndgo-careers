@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /openings/cybersecurity/overview/
+permalink: /tech-careers/cybersecurity/overview/
 breadcrumb: Overview
 third_nav_title: Cybersecurity
 ---
