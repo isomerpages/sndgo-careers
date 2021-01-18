@@ -8,7 +8,12 @@ third_nav_title: Tech Policy & Governance
 
 ### **Tech Policy & Governance**
 
-Design and drive forward-thinking tech policies that shape our Smart Nation and Digital Government transformation. You’ll deploy and hone both big-picture thinking and laser focus on detail to effect change and ensure what works best for people, businesses and Government.
+Design and drive forward-thinking the tech policies that shape our Smart Nation and Digital Government transformation. 
+
+Expect to take on, master and captain a wide range that covers anything from cybersecurity to usability across all kinds of tech systems. You will get to work on ensuring our backend systems are secure from attacks while driving efforts to make our websites more user-friendly and inclusive for citizens from all walks of life. 
+
+You will be the one we count on to set the stage for all the other tech domains to push ahead and succeed in their work. Lead our Smart Moves Ahead as you deploy and hone both big-picture thinking and laser focus on detail to effect change and ensure what works best for people, businesses and Government.
+
 
 ### **Hear from our tech talents**
 
