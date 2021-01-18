@@ -28,9 +28,7 @@ sections:
       image: /images/app-development.png
   - infopic:
       title: Cybersecurity
-      description: >-
-        Defend the digital. Cybersecurity is crucial in our digital economy and
-        way of life. Defend our cyberspace and safeguard national security. 
+      description: Safeguard our digital economy by building resilience to cyberattacks.
       button: More
       url: /tech-careers/cybersecurity/overview/
       image: /images/cybersecurity.png
