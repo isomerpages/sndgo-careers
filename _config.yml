@@ -16,7 +16,7 @@ colors:
     - title: media-color-five
       color: '#00838f'
 collections:
-  openings:
+  domains:
     output: true
 description: An Isomer site of the Singapore Government
 permalink: none
