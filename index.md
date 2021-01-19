@@ -22,7 +22,7 @@ sections:
       title: Join us
       description: >-
         Discover a multi-dimensional career championing Tech for Public Good –
-        from big data, ICT infrastructure, tech policy to and more.
+        from big data, ICT infrastructure, tech policy and more.
       url: /faq/
   - infopic:
       title: App Design & Development
