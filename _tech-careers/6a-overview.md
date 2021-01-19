@@ -24,7 +24,7 @@ You will be the one we count on to set the stage for all the other tech domains 
 </em><br><br>“The digital tech domain is a crucial part of our daily lives. For every generation and all walks of life. As we become a digital society, we must leave no one behind and ensure that our tech products and services are accessible to all.”<br><br>
       </td>
       <td width="100px">
-      <img src="/images/annabelle-ng.png" alt="Annabelle Ng" title="Tech Talent" /><br><em><strong>Derek Nam</strong><br>Associate Software Engineer/ Sensors & IOT</em><br><br>“I see myself contributing to the technical capabilities of our Smart Nation and I like knowing that the work that we do impacts Singapore in a beneficial way. It is nice to see how projects in GovTech are deployed into the hands of citizens.”<br><br>
+      <img src="/images/hidden.gif"><br><br>
       </td>
 			<td width="100px">
       <img src="/images/hidden.gif"><br><br>
