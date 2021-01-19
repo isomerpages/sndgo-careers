@@ -24,11 +24,10 @@ Leverage on innovative cloud and SaaS technologies such as Infrastructure as Cod
 IMDA</em><br><br>“This sector is ever growing. There’s never a dull moment when we accelerate the future. I often think about how my children and the next generation of citizens would benefits from our work. This motivates me to always work harder.”<br><br>      
       </td>
      <td width="100px">
-      <img src="/images/reuben-wong.png" alt="Reuben Wong" title="Tech Talent" /><br><em><strong>Kenneth Yeo </strong><br>Infra Engineer / ICT Infrastructure<br></em><br><br>“There is never a dull moment during my time in GovTech, I’m challenged technically daily and I enjoy every moment of it. Each challenge is a learning opportunity. My career means I get to pursue my passion as well as serve the greater good.”<br><br>      
+      <img src="/images/reuben-wong.png" alt="Reuben Wong" title="Tech Talent" /><br><em><strong>Kenneth Yeo </strong><br>Infra Engineer / ICT Infrastructure</em><br><br>“There is never a dull moment during my time in GovTech, I’m challenged technically daily and I enjoy every moment of it. Each challenge is a learning opportunity. My career means I get to pursue my passion as well as serve the greater good.”<br><br>
       </td>
 			<td width="100px">
-      <img src="/images/reuben-wong.png" alt="Reuben Wong" title="Tech Talent" /><br><em><strong>Foo Zi Hui</strong><br><br>
-</em><br><br>“I’m keen to offer what I can to actualise the Smart Nation goal. Contributing to the Smart Nation goal means helping Singapore stay competitive globally, which will draw investments and jobs that will feed families in Singapore.”<br><br>      
+      <img src="/images/reuben-wong.png" alt="Reuben Wong" title="Tech Talent" /><br><em><strong>Foo Zi Hui</strong>Infra Engineer / ICT Infrastructure<br><br></em>“I’m keen to offer what I can to actualise the Smart Nation goal. Contributing to the Smart Nation goal means helping Singapore stay competitive globally, which will draw investments and jobs that will feed families in Singapore.”<br><br>      
       </td>
   </tbody>
 </table>
