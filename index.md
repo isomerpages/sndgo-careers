@@ -8,18 +8,20 @@ notification: ''
 sections:
   - hero:
       title: Smart Moves Ahead
-      subtitle: Smart Nation Singapore
+      subtitle: >-
+        Our story is one of transformation. Together, we co-create a future of
+        better living for all. Be our new pioneers. 
       background: /images/hero-banner.png
   - infobar:
       description: >-
-        Our story is one of transformation. Together, we co-create a future of
-        better living for all. Be our new pioneers. 
+        The Singapore Government is one of the largest single employers, with a
+        range of Infocomm Technology and Smart Systems careers across domains
+        and agencies. 
   - infobar:
       title: Join us
       description: >-
-        Our story is one of transformation. Together, we co-create a future of
-        better living for all. Be our new pioneers.  Join us on the Smartnation
-        Journey.
+        Discover a multi-dimensional career championing Tech for Public Good –
+        from big data, ICT infrastructure, tech policy to and more.
       url: /faq/
   - infopic:
       title: App Design & Development
