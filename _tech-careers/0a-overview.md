@@ -20,7 +20,7 @@ You’ll sync up with fellow government agencies, businesses and thought leaders
 <table width="300px">
 <tbody><br>
       <td width="100px">
-     <img src="/images/muhammad-hafidzuddin.png" alt="Muhammad Hafidzuddin" title="Tech Talent" /><br><em><strong>Muhammad Hafidzuddin Bin Tengku Ibrahim</strong><br>Software Engineer, GDS (DCube), <br>GovTech / App Design, Development, & Deployment </em><br><br>“I continuously get excited about the apps I can build to benefit people. Ultimately, we hope to positively impact every Singaporean by improving their digital experience and relationship with government services.”<br><br>
+     <img src="/images/muhammad-hafidzuddin.png" alt="Muhammad Hafidzuddin" title="Tech Talent" /><br><em><strong>Muhammad Hafidzuddin Bin Tengku Ibrahim</strong><br>Software Engineer, GDS (DCube), <br>GovTech </em><br><br>“I continuously get excited about the apps I can build to benefit people. Ultimately, we hope to positively impact every Singaporean by improving their digital experience and relationship with government services.”<br><br>
       </td>
        <td width="100px">
       <img src="/images/hidden.gif"><br><br>
