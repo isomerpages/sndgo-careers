@@ -6,7 +6,7 @@ permalink: /events
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempor, tellus eget faucibus feugiat, quam est condimentum justo, ut euismod arcu augue eget libero. 
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/uOlKsaW9t-s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="home-video" ><iframe width="640" height="360" src="https://www.youtube.com/embed/uOlKsaW9t-s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ### **Watch video 2**
 
