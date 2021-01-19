@@ -14,7 +14,6 @@ As the foundation element supporting the growth of our digital economy, ICT Infr
 
 Leverage on innovative cloud and SaaS technologies such as Infrastructure as Code, Policy as Code, Analytics and Machine Learning. Architect, design, build and deliver hosting environments and services which will accelerate modern applications and services. You will also have opportunities to develop policies and establish standards and best practices to steer the ICT infrastructure for the Government. 
 
-
 ### **Hear from our tech talents**
 
 <table width="300px">
