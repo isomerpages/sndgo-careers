@@ -10,7 +10,8 @@ sections:
       title: Smart Moves Ahead
       subtitle: >-
         Our story is one of transformation. Together, we co-create a future of
-        better living for all. Be our new pioneers. 
+        better living for all.                                             Be
+        our new pioneers. 
       background: /images/hero-banner.png
   - infobar:
       description: >-
