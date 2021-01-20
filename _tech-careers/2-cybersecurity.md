@@ -17,9 +17,6 @@ Expect to respond to cybersecurity incidents to ensure the security of our publi
 
 ### **Hear from our tech talents**
 
-<table>
-<tbody><br>
-<td>
 <div class="row-testimonial">
 <div class="column-testimonial">
 <img src="/images/kok-kiat-han.png" alt="Kok Kiat Han" title="Tech Talent" /><br>
@@ -31,9 +28,6 @@ Expect to respond to cybersecurity incidents to ensure the security of our publi
 <br>“With the constant drive for digitalisation and building a Smart Nation, I see myself contributing to a safer and more secured digital experience for the nation, allowing individuals, regardless of age, to feel that the digitalisation by the nation is safe and a smarter way of life.”<br><br></div>
 <div class="column-testimonial"></div>					
 </div>
-</td>
-  </tbody>
-</table>
 
 ### **Get set for Smart Moves Ahead**
 Discover cybersecurity career opportunities in these agencies.
