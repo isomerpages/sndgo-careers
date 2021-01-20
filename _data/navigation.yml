@@ -2,6 +2,5 @@ logo: /images/logo.png
 links:
   - title: Tech Careers
     collection: tech-careers
-    url: https://sndgo-careers-staging.netlify.app/
   - title: Events
     url: /events/
