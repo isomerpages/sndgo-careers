@@ -1,8 +1,6 @@
 ---
-title: Overview
-permalink: /tech-careers/cybersecurity/overview/
-breadcrumb: Overview
-third_nav_title: Cybersecurity
+title: Cybersecurity
+permalink: /tech-careers/cybersecurity/
 ---
 ![](/images/hero-cybersecurity.jpg)
 
