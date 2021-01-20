@@ -6,26 +6,27 @@ permalink: /tech-careers/ict-infrastructure/
 
 ### **ICT Infrastructure**
 
-We are the infrastructure architects and engineers who architect, design and deliver an agile, secure and sustainable digital infrastructure which enables a digital government for Singapore.
+Contribute to the foundation of our digital economy and uplift the whole-of-government digital infrastructure standards.
 
-As the foundation element supporting the growth of our digital economy, ICT Infrastructure offers you exciting opportunities to implement tremendous transformation. Gain an end-to-end experience in this field as we Innovate, operate and uplift the Whole-of-Government infrastructure standards and deepen the competencies of our developed workforce. 
+ICT infrastructure offers you exciting opportunities from operating cloud infrastructure, to data centre capacity planning, and enhancing connectivity between key infrastructure nodes. Leverage on innovative cloud and SaaS technologies such as Infrastructure as Code, Policy as Code, analytics, and machine learning. Architect and implement hosting environments and services that will accelerate modern applications and services.
 
-Leverage on innovative cloud and SaaS technologies such as Infrastructure as Code, Policy as Code, Analytics and Machine Learning. Architect, design, build and deliver hosting environments and services which will accelerate modern applications and services. You will also have opportunities to develop policies and establish standards and best practices to steer the ICT infrastructure for the Government. 
+You will discover ICT infrastructure building blocks like the Singapore Government Tech Stack (SGTS) that serves as a common platform for government agencies to build digital services quickly and effectively, and the Government Commercial Cloud (GCC) that enables government systems to leverage on the capabilities of commercial cloud computing platform with security in place to ensure systems and data are well-protected. Be part of the team to lay the foundation for the future and enable the delivery of critical digital services that is used by citizens, businesses, and the government.
 
 ### **Hear from our tech talents**
 
 <table width="300px">
 <tbody><br>
       <td width="100px">
-      <img src="/images/reuben-wong.png" alt="Reuben Wong" title="Tech Talent" /><br><em><strong>Reuben Wong</strong><br>Senior Manager, Infrastructure Planning & Facilitation<br>
-IMDA</em><br><br>“This sector is ever growing. There’s never a dull moment when we accelerate the future. I often think about how my children and the next generation of citizens would benefits from our work. This motivates me to always work harder.”<br><br>      
+      <img src="/images/reuben-wong.png" alt="Reuben Wong" title="Tech Talent" /><br><em><strong>Reuben Wong</strong><br>
+IMDA</em><br><br>“**The digital infrastructure work we do provide the foundation for enabling Smart Nation related initiatives.** Whether in data centres, 5G, or connectivity, these will remain critical pillars to enable all sorts of Smart Nation related applications.”<br><br>      
+      </td>
+	<td width="100px">
+      <img src="/images/foo-zi-hui.png" alt="Foo Zi Hui" title="Tech Talent" /><br><em><strong>Foo Zi Hui</strong><br>GovTech</em><br><br>“My main responsibility is to configure and maintain a cloud environment that is secure to host applications. Knowing that my work contributes to the Smart Nation goal keeps me motivated to offer what I can to actualise the goals.”<br><br>      
       </td>
      <td width="100px">
-      <img src="/images/kenneth-yeo.png" alt="Kenneth Yeo" title="Tech Talent" /><br><em><strong>Kenneth Yeo </strong><br>Infra Engineer / ICT Infrastructure</em><br><br>“There is never a dull moment during my time in GovTech, I’m challenged technically daily and I enjoy every moment of it. Each challenge is a learning opportunity. My career means I get to pursue my passion as well as serve the greater good.”<br><br>
+      <img src="/images/kenneth-yeo.png" alt="Kenneth Yeo" title="Tech Talent" /><br><em><strong>Kenneth Yeo </strong><br>GovTech</em><br><br>“My work cuts across multiple ICT&SS domain areas that include app infrastructure and cybersecurity. I’m constantly provided with challenging tech problems to resolve and I enjoy every moment of it. Each challenge is a learning opportunity.”<br><br>
       </td>
-			<td width="100px">
-      <img src="/images/foo-zi-hui.png" alt="Foo Zi Hui" title="Tech Talent" /><br><em><strong>Foo Zi Hui</strong>Infra Engineer / ICT Infrastructure<br><br></em>“I’m keen to offer what I can to actualise the Smart Nation goal. Contributing to the Smart Nation goal means helping Singapore stay competitive globally, which will draw investments and jobs that will feed families in Singapore.”<br><br>      
-      </td>
+			
   </tbody>
 </table>
 
