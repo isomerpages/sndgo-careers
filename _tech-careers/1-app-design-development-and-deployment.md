@@ -18,7 +18,7 @@ You can create a next-generation digital experience and provide solutions to peo
 <tbody><br><td>
 <div class="row-testimonial">
 <div class="column-testimonial">
-<img src="/images/muhammad-hafidzuddin.png" alt="Muhammad Hafidzuddin" title="Tech Talent" /><br><em><strong>Muhammad Hafidzuddin  </strong><br>Software Engineer, GDS (DCube) <br>GovTech </em><br><br>“I continuously get excited about the apps I can build to benefit people. Ultimately, we hope to positively impact every Singaporean by improving their digital experience and relationship with government services.”<br><br></div>
+<img src="/images/muhammad-hafidzuddin.png" alt="Muhammad Hafidzuddin" title="Tech Talent" /><br><em><strong>Muhammad Hafidzuddin  </strong><br>Software Engineer, Government Digital Services <br>GovTech </em><br><br>“I continuously get excited about the apps I can build to benefit people. Ultimately, we hope to positively impact every Singaporean by improving their digital experience and relationship with government services.”<br><br></div>
 <div class="column-testimonial"></div>
 <div class="column-testimonial"></div>
 </div>
