@@ -6,12 +6,11 @@ permalink: /tech-careers/sensors-and-internet-of-things/
 
 ### **Sensors & Internet of Things**
 
-Harness the many possibilities Sensors and the Internet of Things (SIOT) can bring about, across anything and everything from Smart homes and gardens, to large-scale assisted living ecosystems and community wellness enablers.
+Harness the many possibilities Sensors and the Internet of Things (SIOT) can bring about, across anything and everything from smart homes and gardens, to large-scale assisted living ecosystems, community wellness enablers and state-of-the-art public security systems. 
 
-Our SIOT solutions help to improve efficiency, efficacy, and innovation of public service and public service officers in performing city operations and delivering citizen-centric services. We empower our engineers to take charge of the end-to-end engineering process while providing the resources to build, architect and deploy products and digital services.
+Our SIOT solutions improve the efficiency and efficacy of public service officers in performing city operations and delivering citizen-centric services. As a SIOT engineer, you are empowered to take charge of the end-to-end engineering process, working alongside passionate and technically competent co-workers to build and deploy platforms and system that scale from 1 to 1,000,000.
 
-On our team, you’ll work on meaningful projects that impact the nation. For instance, we’ve already innovated and prototyped SIOT solutions to meet the needs of diverse groups – from the elderly (IoT Panic Alert Button) to people with special needs (assistive technology such as eCanvas) to the general populace (TraceTogether Tokens for contact tracing). There’s much more to come.
-
+Join one of our many teams on meaningful projects that impact the nation. The Smart Nation Sensor Platform (SNSP) connects a shared network of sensors that collects and analyses data to enable smarter decisions on city planning and the delivery of citizen-centric public services. Or build the next surveillance and sensemaking system that is a force-multiplier for the system and brain of our homeland security forces. Our SIOT solutions meet the needs of diverse groups – from the elderly (IoT Panic Alert Button) to people with special needs (eCanvas assistive technology) to the general populace (TraceTogether Tokens for contact tracing). There’s much more to come.
 
 ### **Hear from our tech talents**
 
