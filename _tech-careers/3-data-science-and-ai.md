@@ -18,7 +18,7 @@ Discover endless possibilities with data science and AI – from recommending su
 <tbody><br><td>
 <div class="row-testimonial">
 <div class="column-testimonial">
-<img src="/images/elizabeth-lim.png" alt="Elizabeth Lim" title="Tech Talent" /><br><em><strong>Elizabeth Lim</strong><br>Data Scientist, DSAID<br>  GovTech</em><br><br>
+<img src="/images/elizabeth-lim.png" alt="Elizabeth Lim" title="Tech Talent" /><br><em><strong>Elizabeth Lim</strong><br>Data Scientist, Data Science & Artificial Intelligence Division<br>  GovTech</em><br><br>
 “I aim to bridge the gap between the technical aspects of data science and the contextualised needs of the end-user, to build machine learning solutions that add value and convenience to citizens, businesses, and public service agencies.”<br><br></div>
 	
 <div class="column-testimonial">
