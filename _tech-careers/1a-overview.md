@@ -36,7 +36,7 @@ Discover your career opportunities in these agencies.
 
 <table width="500px">
 <tbody><br>
-      <td width="100px"><a href="https://careers.a-star.edu.sg/"><img src="/images/logo-astar.png" alt="ASTAR" title="ASTAR"/></a></td>
+      <td width="100px"><a href="https://careers.a-star.edu.sg/" target="new"><img src="/images/logo-astar.png" alt="ASTAR" title="ASTAR"/></a></td>
       <td width="100px"><a href="https://www.cpf.gov.sg/members/careers"><img src="/images/logo-cpf.png" alt="CPFB" title="CPFB"/></a></td>
       <td width="100px"><a href="https://www.csa.gov.sg/careers/overview"><img src="/images/logo-csa.png" alt="A-Star" title="A-Star"/></a></td>
       <td width="100px"><a href="https://www.csit.gov.sg/"><img src="/images/logo-csit.png" alt="CSIT" title="CSIT"/></a></td>
