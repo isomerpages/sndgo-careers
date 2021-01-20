@@ -1,8 +1,6 @@
 ---
-title: Overview
-permalink: /tech-careers/ict-infrastructure/overview/
-breadcrumb: Overview
-third_nav_title: ICT Infrastructure
+title: ICT Infrastructure
+permalink: /tech-careers/ict-infrastructure/
 ---
 ![](/images/hero-ict-infrastructure.jpg)
 
