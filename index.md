@@ -22,10 +22,10 @@ sections:
   - infopic:
       title: App Design & Development
       description: >-
-        Harness the power of technology to build the applications we use to
-        work, live, play, learn and more in Singapore.
+        Harness the power of tech to build apps we use to work, live, play,
+        learn and more.
       button: More
-      url: /tech-careers/app-design-development-and-deployment/overview/
+      url: /tech-careers/app-design-development-and-deployment/
       alt: App Design & Development
       image: /images/app-development.png
   - infopic:
