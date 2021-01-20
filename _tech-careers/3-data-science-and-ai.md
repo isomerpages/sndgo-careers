@@ -1,8 +1,6 @@
 ---
-title: Overview
-permalink: /tech-careers/data-science-and-ai/overview/
-breadcrumb: Overview
-third_nav_title: Data Science & AI
+title: Data Science & AI
+permalink: /tech-careers/data-science-and-ai/
 ---
 ![](/images/hero-data-science-ai.jpg)
 
