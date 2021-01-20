@@ -16,20 +16,22 @@ Lead our Smart Nation and Digital Government transformation. You will be the one
 
 ### **Hear from our tech talents**
 
-<table width="300px">
+<table>
 <tbody><br>
-      <td width="100px">
-      <img src="/images/annabelle-ng.png" alt="Annabelle Ng" title="Tech Talent" /><br><em><strong>Annabelle Ng</strong><br>Manager, Standards, Cybersecurity & Quality Assurance<br>SNDGO
-</em><br><br>
-				“As we become a digital society, we must leave no one behind and ensure that our tech products and services are accessible to all. The challenge is to constantly be developing new policies in step with new tech development, while operationalising existing policies to meet intended outcomes.”<br><br>
-      </td>
-     <td width="100px">
-      <img src="/images/kelvin-goh.png" alt="Kelvin Goh" title="Tech Talent" /><br><em><strong>Kelvin Goh</strong><br>Deputy Director, Government Data Office, Data Architecture <br>SNDGO</em><br><br>“I lead the team that develops the government data architecture that facilitates the efficient data sharing of clean and authoritative datasets across public agencies. It is rewarding to apply data science and AI techniques to improve policies and service delivery, in ways that benefit the public.”
-				</td>
-			<td width="100px">
-      <img src="/images/blank.png"><br><br>
-      </td>
-  </tbody>
+ <td>
+<div class="row-testimonial">
+<div class="column-testimonial">
+<img src="/images/annabelle-ng.png" alt="Annabelle Ng" title="Tech Talent" /><br><em><strong>Annabelle Ng</strong><br>Manager, Standards, Cybersecurity & Quality Assurance<br>SNDGO
+</em><br>
+<p>“As we become a digital society, we must leave no one behind and ensure that our tech products and services are accessible to all. The challenge is to constantly be developing new policies in step with new tech development, while operationalising existing policies to meet intended outcomes.”</p></div>
+	
+<div class="column-testimonial">
+<img src="/images/kelvin-goh.png" alt="Kelvin Goh" title="Tech Talent" /><br><em><strong>Kelvin Goh</strong><br>Deputy Director, Government Data Office, Data Architecture <br>SNDGO</em><br>
+	<p>“I lead the team that develops the government data architecture that facilitates the efficient data sharing of clean and authoritative datasets across public agencies. It is rewarding to apply data science and AI techniques to improve policies and service delivery, in ways that benefit the public.”</p></div>
+	
+<div class="column-testimonial"></div>
+</div>
+</tbody>
 </table>
 
 ### **Get set for Smart Moves Ahead**
