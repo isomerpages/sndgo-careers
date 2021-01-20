@@ -39,18 +39,18 @@ Discover app design, development & deployment career opportunities in these agen
 <tbody><br>
       <td width="100px"><a href="https://www.csa.gov.sg/careers/overview" target="new"><img src="/images/logo-csa.png" alt="A-Star" title="A-Star"/></a></td>
       <td width="100px"><a href="https://careers.pageuppeople.com/845/cw/en/listing/" target="new"><img src="/images/logo-dsta.png" alt="DSTA" title="DSTA"/></a></td>
-      <td width="100px"><a href="https://go.gov.sg/GovTechCareers" target="new"><img src="/images/logo-govtech.png" alt="A-Star" title="A-Star"/></a></td>
-      <td width="100px"><a href="https://www.hdb.gov.sg/cs/infoweb/about-us/careers/career-opportunities" target="new"><img src="/images/logo-hdb.png" alt="HDB" title="HDB"/></a></td>
       <td width="100px"><a href="https://www.imda.gov.sg/Who-We-Are/careers" target="new"><img src="/images/logo-imda.png" alt="IMDA" title="IMDA"/></a></td> 
+	<td width="100px"><a href="https://www.iras.gov.sg/irashome/Careers/" target="new"><img src="/images/logo-iras.png" alt="IRAS" title="IRAS"/></a></td> 
+	<td width="100px"><a href="https://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=singapore%20land%20authority&job-mail-subscribe-privacy=agree" target="new"><img src="/images/logo-sla.png" alt="SLA" title="SLA"/></a></td> 
 </tbody>
 </table>
 
 <table width="500px">
 <tbody>
-            <td width="100px"><a href="https://www.iras.gov.sg/irashome/Careers/" target="new"><img src="/images/logo-iras.png" alt="IRAS" title="IRAS"/></a></td> 
-	<td width="100px"><a href="https://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=singapore%20land%20authority&job-mail-subscribe-privacy=agree" target="new"><img src="/images/logo-sla.png" alt="SLA" title="SLA"/></a></td> 
       <td width="100px"><a href="https://www.smartnation.gov.sg/" target="new"><img src="/images/logo-sndgo.png" alt="SNDGO" title="SNDGO"/></a></td>      
       <td width="100px"><img src="/images/hidden.gif"></td>
+      <td width="100px"><img src="/images/hidden.gif"></td>
+	    <td width="100px"><img src="/images/hidden.gif"></td>
       <td width="100px"><img src="/images/hidden.gif"></td>
 </tbody>
 </table>
