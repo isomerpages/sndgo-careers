@@ -22,7 +22,7 @@ Join one of our many teams on meaningful projects that impact the nation. The Sm
       <br><br>
       </td>
       <td width="100px">
-      <img src="/images/derek-nam.png" alt="Derek Nam" title="Tech Talent" /><br><em><strong>Derek Nam</strong><br>Associate Software Engineer/ Sensors & IOT</em><br><br>“I see myself contributing to the technical capabilities of our Smart Nation and I like knowing that the work that we do impacts Singapore in a beneficial way. It is nice to see how projects in GovTech are deployed into the hands of citizens.”<br><br>
+      <img src="/images/chandrasehar.png" alt="Chandrasehar S/O Rajaseharan" title="Tech Talent" /><br><em><strong>Chandrasehar S/O Rajaseharan</strong><br>HTX</em><br><br>“I see myself contributing to the technical capabilities of our Smart Nation and I like knowing that the work that we do impacts Singapore in a beneficial way. It is nice to see how projects in GovTech are deployed into the hands of citizens.”<br><br>
       </td>
 			<td width="100px">
       <img src="/images/hidden.gif"><br><br>
@@ -35,19 +35,19 @@ Discover your career opportunities in these agencies.
 
 <table width="500px">
 <tbody><br>
-      <td width="100px"><a href="https://careers.a-star.edu.sg/"><img src="/images/logo-astar.png" alt="ASTAR" title="ASTAR"/></a></td>
-      <td width="100px"><a href="https://www.csa.gov.sg/careers/overview"><img src="/images/logo-csa.png" alt="A-Star" title="A-Star"/></a></td>
-      <td width="100px"><a href="https://careers.pageuppeople.com/845/cw/en/listing/"><img src="/images/logo-dsta.png" alt="DSTA" title="DSTA"/></a></td>
-      <td width="100px"><a href="https://go.gov.sg/GovTechCareers"><img src="/images/logo-govtech.png" alt="A-Star" title="A-Star"/></a></td>
-      <td width="100px"><a href="#"><img src="/images/logo-hdb.png" alt="HDB" title="HDB"/></a></td>
+      <td width="100px"><a href="https://careers.a-star.edu.sg/" target="new"><img src="/images/logo-astar.png" alt="ASTAR" title="ASTAR"/></a></td>
+      <td width="100px"><a href="https://www.csa.gov.sg/careers/overview" target="new"><img src="/images/logo-csa.png" alt="A-Star" title="A-Star"/></a></td>
+      <td width="100px"><a href="https://careers.pageuppeople.com/845/cw/en/listing/" target="new"><img src="/images/logo-dsta.png" alt="DSTA" title="DSTA"/></a></td>
+      <td width="100px"><a href="https://go.gov.sg/GovTechCareers" target="new"><img src="/images/logo-govtech.png" alt="A-Star" title="A-Star"/></a></td>
+      <td width="100px"><a href="https://www.hdb.gov.sg/cs/infoweb/about-us/careers/career-opportunities" target="new"><img src="/images/logo-hdb.png" alt="HDB" title="HDB"/></a></td>
 </tbody>
 </table>
 
 <table width="500px">
 <tbody>
-      <td width="100px"><a href="https://www.htx.gov.sg/join-us/careers"><img src="/images/logo-htx.png" alt="HTX" title="HTX"/></a></td>
-      <td width="100px"><a href="https://careers.pageuppeople.com/688/cwlive/en/listing/"><img src="/images/logo-lta.png" alt="LTA" title="LTA"/></a></td>  
-      <td width="100px"><img src="/images/hidden.gif"></td>
+      <td width="100px"><a href="https://www.htx.gov.sg/join-us/careers" target="new"><img src="/images/logo-htx.png" alt="HTX" title="HTX"/></a></td>
+      <td width="100px"><a href="https://careers.pageuppeople.com/688/cwlive/en/listing/" target="new"><img src="/images/logo-lta.png" alt="LTA" title="LTA"/></a></td>  
+      <td width="100px"><a href="https://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=singapore%20land%20authority&job-mail-subscribe-privacy=agree" target="new"><img src="/images/logo-sla.png" alt="SLA" title="SLA"/></a></td>
       <td width="100px"><img src="/images/hidden.gif"></td>
       <td width="100px"><img src="/images/hidden.gif"></td>
 </tbody>
