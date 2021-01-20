@@ -29,7 +29,7 @@ Join one of our many teams on meaningful projects that impact the nation. The Sm
 </table>
 
 ### **Get set for Smart Moves Ahead**
-Discover your career opportunities in these agencies.
+Discover app design, development & deployment career opportunities in these agencies.
 
 <table width="500px">
 <tbody><br>
