@@ -58,7 +58,7 @@ Discover app design, development & deployment career opportunities in these agen
 <tbody>
       <td width="100px"><a href="https://www.iras.gov.sg/irashome/Careers/" target="new"><img src="/images/logo-iras.png" alt="IRAS" title="IRAS"/></a></td>
       <td width="100px"><a href="https://careers.pageuppeople.com/688/cwlive/en/listing/" target="new"><img src="/images/logo-lta.png" alt="LTA" title="LTA"/></a></td>  
-      <td width="100px"><img src="/images/hidden.gif"></td>
+     <td width="100px"><a href="https://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=singapore%20land%20authority&job-mail-subscribe-privacy=agree" target="new"><img src="/images/logo-sla.png" alt="SLA" title="SLA"/></a></td>
       <td width="100px"><img src="/images/hidden.gif"></td>
       <td width="100px"><img src="/images/hidden.gif"></td>
 </tbody>
