@@ -14,20 +14,16 @@ You will discover ICT infrastructure building blocks like the Singapore Governme
 
 ### **Hear from our tech talents**
 
-<table>
-<tbody><br>
-<td>
 <div class="row-testimonial">
 <div class="column-testimonial">
 <img src="/images/reuben-wong.png" alt="Reuben Wong" title="Tech Talent" /><br><em><strong>Reuben Wong</strong><br>Senior Manager, Infrastructure Planning & Facilitation<br>
-IMDA</em><br>“The digital infrastructure work we do provide the foundation for enabling Smart Nation related initiatives. Whether in data centres, 5G, or connectivity, these will remain critical pillars to enable all sorts of Smart Nation related applications.”<br><br></div>      
+IMDA</em><br>“The digital infrastructure work we do provide the foundation for enabling Smart Nation related initiatives. Whether in data centres, 5G, or connectivity, these will remain critical pillars to enable all sorts of Smart Nation related applications.”<br><br></div> 
+	
 <div class="column-testimonial">
 <img src="/images/foo-zi-hui.png" alt="Foo Zi Hui" title="Tech Talent" /><br><em><strong>Foo Zi Hui</strong><br>Infrastructure Engineer<br> GovTech</em><br><br>“My main responsibility is to configure and maintain a cloud environment that is secure to host applications. Knowing that my work contributes to the Smart Nation goal keeps me motivated to offer what I can to actualise the goals.”<br><br></div>      
+	
 <div class="column-testimonial"><img src="/images/kenneth-yeo.png" alt="Kenneth Yeo" title="Tech Talent" /><br><em><strong>Kenneth Yeo, </strong><br>Infrastructure Engineer<br> GovTech</em><br><br>“My work cuts across multiple ICT&SS domain areas that include app infrastructure and cybersecurity. I’m constantly provided with challenging tech problems to resolve and I enjoy every moment of it. Each challenge is a learning opportunity.”<br><br></div>   
 </div>
-</td>
-</tbody>
-</table>
 
 ### **Get set for Smart Moves Ahead**
 Discover ICT infrastructure career opportunities in these agencies.
