@@ -10,7 +10,7 @@ Build digital products and services that improve the lives of citizens and suppo
 
 We go to the ground to listen to citizens’ feedback, followed by testing and iterating relentlessly to understand their pain points and build better products that make a lasting impact. We leverage cutting-edge technologies and integrate IT solutions across diverse fields and platforms to improve digital capabilities across the government.
 
-You can create a next-generation digital experience and provide solutions to people’s everyday problems. Examples include TraceTogether, the digital tool developed to facilitate nationwide, community-driven contract tracing efforts in response to the COVID-19 pandemic. Another example is the GoWhere suite of websites, which provides citizens with timely and accurate information regarding matters of national interest. Drive the spirit of innovation and play a part in enhancing the lives of Singaporeans.
+You can create a next-generation digital experience and provide solutions to people’s everyday problems. Examples include TraceTogether, the digital tool developed to facilitate nationwide, community-driven contact tracing efforts in response to the COVID-19 pandemic. Another example is the GoWhere suite of websites, which provides citizens with timely and accurate information regarding matters of national interest. Drive the spirit of innovation and play a part in enhancing the lives of Singaporeans.
 
 ### **Hear from our tech talents**
 
