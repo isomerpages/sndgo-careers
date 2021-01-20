@@ -1,8 +1,6 @@
 ---
-title: Overview
-permalink: /tech-careers/app-design-development-and-deployment/overview/
-breadcrumb: Overview
-third_nav_title: 'APP Design, Development & Deployment'
+title: APP Design, Development & Deployment
+permalink: /tech-careers/app-design-development-and-deployment/
 ---
 ![](/images/hero-in-app-design.jpg)
 
