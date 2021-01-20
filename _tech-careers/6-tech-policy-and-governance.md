@@ -28,9 +28,9 @@ Lead our Smart Nation and Digital Government transformation. You will be the one
 <div class="column-testimonial">
 <img src="/images/kelvin-goh.png" alt="Kelvin Goh" title="Tech Talent" /><br><em><strong>Kelvin Goh</strong><br>Deputy Director, Government Data Office, Data Architecture <br>SNDGO</em><br>
 	<p>“I lead the team that develops the government data architecture that facilitates the efficient data sharing of clean and authoritative datasets across public agencies. It is rewarding to apply data science and AI techniques to improve policies and service delivery, in ways that benefit the public.”</p></div>
-	
-<div class="column-testimonial"></div>
+	<div class="column-testimonial"></div>
 </div>
+</td>
 </tbody>
 </table>
 
