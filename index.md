@@ -14,11 +14,6 @@ sections:
         our new pioneers. 
       background: /images/hero-ban.gif
   - infobar:
-      description: >-
-        The Singapore Government is one of the largest single employers, with a
-        range of Infocomm Technology and Smart Systems careers across domains
-        and agencies. 
-  - infobar:
       title: Join us
       description: >-
         Discover a multi-dimensional career championing Tech for Public Good –
