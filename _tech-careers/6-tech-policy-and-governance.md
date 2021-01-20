@@ -19,7 +19,7 @@ Lead our Smart Nation and Digital Government transformation. You will be the one
 <table width="300px">
 <tbody><br>
       <td width="100px">
-      <img src="/images/annabelle-ng.png" alt="Annabelle Ng" title="Tech Talent" /><br><em><strong>Annabelle Ng</strong><br>Manager (Standards, Cybersecurity & Quality Assurance)<br>SNDGO
+      <img src="/images/annabelle-ng.png" alt="Annabelle Ng" title="Tech Talent" /><br><em><strong>Annabelle Ng</strong><br>Manager, Standards, Cybersecurity & Quality Assurance<br>SNDGO
 </em><br><br>
 				“As we become a digital society, we must leave no one behind and ensure that our tech products and services are accessible to all. The challenge is to constantly be developing new policies in step with new tech development, while operationalising existing policies to meet intended outcomes.”<br><br>
       </td>
