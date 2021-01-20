@@ -18,11 +18,11 @@ Bring your talent to new frontiers as we bring big change to areas such as trans
 <table width="300px">
 <tbody><br>
       <td width="100px">
-      <img src="/images/kelvin-goh.png" alt="Kelvin Goh" title="Tech Talent" /><br><em><strong>Kelvin Goh</strong><br>Deputy Director <br>SNDGO, Government Data Office, Data Architecture</em><br><br>“Transforming government agencies is all in a day’s work here. It’s both rewarding and meaningful to be able to apply data science and AI techniques to improve policies and service delivery, and ultimately – to benefit the public.”<br><br>
+      <img src="/images/elizabeth-lim.png" alt="Elizabeth Lim" title="Tech Talent" /><br><em><strong>Elizabeth Lim,</strong><br> GovTech</em><br><br>“**I aim to bridge the gap between the technical aspects of data science and the contextualised needs of the end-user**, to build machine learning solutions that add value and convenience to citizens, businesses, and public service agencies.”<br><br>
 				</td>
       <td width="100px">
-      <img src="/images/hidden.gif"><br><br>
-      </td>
+      <img src="/images/huang-shisheng.png" alt="Huang Shisheng" title="Tech Talent" /><br><em><strong>Huang Shisheng, </strong><br> HTX</em><br><br>“I've always been interested in understanding the underlying numbers and relations between entities. The opportunity to lead a team that looks at data-related problems in the area of risk profiling and management within the safety and security domain of Singapore is a big pull factor for me.”<br><br>
+				</td>
 			<td width="100px">
       <img src="/images/hidden.gif"><br><br>
       </td>
