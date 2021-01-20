@@ -22,12 +22,11 @@ Lead our Smart Nation and Digital Government transformation. You will be the one
 <div class="row-testimonial">
 <div class="column-testimonial">
 <img src="/images/annabelle-ng.png" alt="Annabelle Ng" title="Tech Talent" /><br><em><strong>Annabelle Ng</strong><br>Manager, Standards, Cybersecurity & Quality Assurance<br>SNDGO
-</em><br>
-<p>“As we become a digital society, we must leave no one behind and ensure that our tech products and services are accessible to all. The challenge is to constantly be developing new policies in step with new tech development, while operationalising existing policies to meet intended outcomes.”</p></div>
+</em><br><br>“As we become a digital society, we must leave no one behind and ensure that our tech products and services are accessible to all. The challenge is to constantly be developing new policies in step with new tech development, while operationalising existing policies to meet intended outcomes.”<br><br></div>
 	
 <div class="column-testimonial">
 <img src="/images/kelvin-goh.png" alt="Kelvin Goh" title="Tech Talent" /><br><em><strong>Kelvin Goh</strong><br>Deputy Director, Government Data Office, Data Architecture <br>SNDGO</em><br>
-	<p>“I lead the team that develops the government data architecture that facilitates the efficient data sharing of clean and authoritative datasets across public agencies. It is rewarding to apply data science and AI techniques to improve policies and service delivery, in ways that benefit the public.”</p></div>
+<br>“I lead the team that develops the government data architecture that facilitates the efficient data sharing of clean and authoritative datasets across public agencies. It is rewarding to apply data science and AI techniques to improve policies and service delivery, in ways that benefit the public.”<br><br></div>
 	<div class="column-testimonial"></div>
 </div>
 </td>
