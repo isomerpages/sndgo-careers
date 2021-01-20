@@ -1,8 +1,6 @@
 ---
-title: Overview
-permalink: /tech-careers/sensors-and-internet-of-things/overview/
-breadcrumb: Overview
-third_nav_title: Sensors & Internet Of Things
+title: Sensors & Internet Of Things
+permalink: /tech-careers/sensors-and-internet-of-things/
 ---
 ![](/images/hero-sensors-internet-things.jpg)
 
