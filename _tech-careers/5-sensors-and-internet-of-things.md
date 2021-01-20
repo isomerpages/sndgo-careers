@@ -25,6 +25,7 @@ Join one of our many teams on meaningful projects that impact the nation. The Sm
 	<p>“I see myself contributing to the technical capabilities of our Smart Nation and I like knowing that the work that we do impacts Singapore in a beneficial way. It is nice to see how projects in GovTech are deployed into the hands of citizens.”</p></div>
 <div class="column-testimonial"></div>
 </div>
+</td>
 </tbody>
 </table>
 
