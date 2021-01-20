@@ -14,8 +14,6 @@ Join one of our many teams on meaningful projects that impact the nation. The Sm
 
 ### **Hear from our tech talents**
 
-<table>
-<tbody><br><td>
 <div class="row-testimonial">
 <div class="column-testimonial">
 <img src="/images/brandon-chua.png" alt="Brandon Chua" title="Tech Talent" /><br><em><strong>Brandon Chua</strong><br>Engineer, Sense-making & Surveillance Centre of Expertise<br>HTX
@@ -25,9 +23,6 @@ Join one of our many teams on meaningful projects that impact the nation. The Sm
 “I see myself contributing to the technical capabilities of our Smart Nation and I like knowing that the work that we do impacts Singapore in a beneficial way. It is nice to see how projects in GovTech are deployed into the hands of citizens.”<br><br></div>
 <div class="column-testimonial"></div>
 </div>
-</td>
-</tbody>
-</table>
 
 ### **Get set for Smart Moves Ahead**
 Discover sensors & IOT career opportunities in these agencies.
