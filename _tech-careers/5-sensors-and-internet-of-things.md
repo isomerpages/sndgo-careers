@@ -20,7 +20,7 @@ Join one of our many teams on meaningful projects that impact the nation. The Sm
 </em><br><br>“We specialise in R&D for the computer vision field, where we harness new technology such as AI. Best of all, I can see the fruits of my labour being implemented to enhance the safety of our citizens, which includes my family and loved ones.”<br><br></div>
 <div class="column-testimonial">
 <img src="/images/chandrasehar.png" alt="Chandrasehar S/O Rajaseharan" title="Tech Talent" /><br><em><strong>Chandrasehar S/O Rajaseharan</strong><br>Engineer, Sense-making & Surveillance Centre of Expertise<br>HTX</em><br><br>
-“I see myself contributing to the technical capabilities of our Smart Nation and I like knowing that the work that we do impacts Singapore in a beneficial way. It is nice to see how projects in GovTech are deployed into the hands of citizens.”<br><br></div>
+“The challenges in designing the best video analytics solutions and the need to always keep track of new trends in technology, motivates me to push on in my work, knowing that what we design will lead to a more secure environment for our nation, including my loved ones.”<br><br></div>
 <div class="column-testimonial"></div>
 </div>
 
