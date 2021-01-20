@@ -14,18 +14,19 @@ Discover endless possibilities with data science and AI – from recommending su
 
 ### **Hear from our tech talents**
 
-<table width="300px">
-<tbody><br>
-      <td width="100px">
-      <img src="/images/elizabeth-lim.png" alt="Elizabeth Lim" title="Tech Talent" /><br><em><strong>Elizabeth Lim</strong><br>Data Scientist, DSAID<br>  GovTech</em><br><br>“I aim to bridge the gap between the technical aspects of data science and the contextualised needs of the end-user, to build machine learning solutions that add value and convenience to citizens, businesses, and public service agencies.”<br><br>
-				</td>
-      <td width="100px">
-      <img src="/images/huang-shisheng.png" alt="Huang Shisheng" title="Tech Talent" /><br><em><strong>Huang Shisheng </strong><br>Head, Risk Profiling Analytics, Data Science & AI Centre of Expertise <br>HTX</em><br><br>“I've always been interested in understanding the underlying numbers and relations between entities. The opportunity to lead a team that looks at data-related problems in the area of risk profiling and management within the safety and security domain of Singapore is a big pull factor for me.”<br><br>
-				</td>
-			<td width="100px">
-      <img src="/images/hidden.gif"><br><br>
-      </td>
-  </tbody>
+<table>
+<tbody><br><td>
+<div class="row-testimonial">
+<div class="column-testimonial">
+<img src="/images/elizabeth-lim.png" alt="Elizabeth Lim" title="Tech Talent" /><br><em><strong>Elizabeth Lim</strong><br>Data Scientist, DSAID<br>  GovTech</em><br>
+	<p>“I aim to bridge the gap between the technical aspects of data science and the contextualised needs of the end-user, to build machine learning solutions that add value and convenience to citizens, businesses, and public service agencies.”</p></div>
+	
+<div class="column-testimonial">
+<img src="/images/huang-shisheng.png" alt="Huang Shisheng" title="Tech Talent" /><br><em><strong>Huang Shisheng </strong><br>Head, Risk Profiling Analytics, Data Science & AI Centre of Expertise <br>HTX</em><br>
+	<p>“I've always been interested in understanding the underlying numbers and relations between entities. The opportunity to lead a team that looks at data-related problems in the area of risk profiling and management within the safety and security domain of Singapore is a big pull factor for me.”</p></div>
+<div class="column-testimonial"></div>
+</div>
+</tbody>
 </table>
 
 ### **Get set for Smart Moves Ahead**
