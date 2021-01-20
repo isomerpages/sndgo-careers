@@ -23,12 +23,12 @@ Expect to respond to cybersecurity incidents to ensure the security of our publi
 <div class="row-testimonial">
 <div class="column-testimonial">
 <img src="/images/kok-kiat-han.png" alt="Kok Kiat Han" title="Tech Talent" /><br>
-<em><strong>Kok Kiat Han</strong><br>Systems Engineer, National Cyber Threat Monitoring Centre<br>CSA</em><br>
-<p>“Knowing I am part of the team that helps Singapore stay safe in cyberspace motivates me to give my very best. I want my Smart Nation to become even smarter, and cybersecurity plays a big part ensuring what is built is safe and secure.”</p></div>
+<em><strong>Kok Kiat Han</strong><br>Systems Engineer, National Cyber Threat Monitoring Centre<br>CSA</em><br><br>
+“Knowing I am part of the team that helps Singapore stay safe in cyberspace motivates me to give my very best. I want my Smart Nation to become even smarter, and cybersecurity plays a big part ensuring what is built is safe and secure.”<br><br></div>
 
 <div class="column-testimonial">
 <img src="/images/sean-tan.png" alt="Sean Tan" title="Tech Talent" /><br><em><strong>Sean Tan</strong><br> Head, Planning & Architecture, Cybersecurity Centre of Expertise<br>HTX</em><br>
-<p>“With the constant drive for digitalisation and building a Smart Nation, I see myself contributing to a safer and more secured digital experience for the nation, allowing individuals, regardless of age, to feel that the digitalisation by the nation is safe and a smarter way of life.”</p></div>
+<br>“With the constant drive for digitalisation and building a Smart Nation, I see myself contributing to a safer and more secured digital experience for the nation, allowing individuals, regardless of age, to feel that the digitalisation by the nation is safe and a smarter way of life.”<br><br></div>
 <div class="column-testimonial"></div>					
 </div>
 </td>
