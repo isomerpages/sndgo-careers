@@ -26,6 +26,7 @@ Discover endless possibilities with data science and AI – from recommending su
 	<p>“I've always been interested in understanding the underlying numbers and relations between entities. The opportunity to lead a team that looks at data-related problems in the area of risk profiling and management within the safety and security domain of Singapore is a big pull factor for me.”</p></div>
 <div class="column-testimonial"></div>
 </div>
+	</td>
 </tbody>
 </table>
 
