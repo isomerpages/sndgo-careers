@@ -355,3 +355,22 @@ $desktop: 960px + (2 * $gap) !default;
       height: 100% !important;
   }
 }
+/* Testimonials - three equal columns*/
+.column-testimonial {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+}
+/* Clear floats after the columns */
+.row-testimonial:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Testimonials - Responsive*/
+@media screen and (max-width: 600px) {
+  .column-testimonial {
+    width: 100%;
+  }
+}
