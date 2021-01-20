@@ -16,8 +16,9 @@ sections:
   - infobar:
       title: Join us
       description: >-
-        Discover a multi-dimensional career championing Tech for Public Good –
-        from big data, ICT infrastructure, tech policy and more.
+        Champion tech for public good via a multifaceted career in the Singapore
+        Government’s Information and Communications Technology & Smart Systems
+        (ICT&SS) sector.
       url: /faq/
   - infopic:
       title: App Design & Development
