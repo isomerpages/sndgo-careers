@@ -1,8 +1,6 @@
 ---
-title: Overview
-permalink: /tech-careers/tech-policy-and-governance/overview/
-breadcrumb: Overview
-third_nav_title: Tech Policy & Governance
+title: Tech Policy & Governance
+permalink: /tech-careers/tech-policy-and-governance/
 ---
 ![](/images/hero-tech-policy-governance.jpg)
 
