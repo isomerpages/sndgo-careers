@@ -8,7 +8,7 @@ permalink: /tech-careers/cybersecurity/
 
 Secure our cyberspace to enable Singapore to be a safe and secure Smart Nation. 
 
-Alongside Singapore’s Smart Moves Ahead, we work to expand our digitalisation efforts, secure our cyberspace, underpin our national security, power a digital economy, and protect our digital way of life. A cyber defender provides cybersecurity solutions to better sense, identify, contain and counter cyber threats to protect Singapore’s public systems. The work will never be mundane as we are constantly facing new challenges. 
+ A cyber defender provides cybersecurity solutions to better sense, identify, contain and counter cyber threats to protect Singapore’s public systems. The work will never be mundane as we are constantly facing new challenges. 
 
 Beyond the traditional IT security domain of host and network security, cybersecurity cuts across all IT, Internet of Things and operational technology domains. This stretches across different hosting environments, from on-premise DC to commercial cloud as well as securing connectivity through 5G. 
 
