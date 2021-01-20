@@ -37,28 +37,25 @@ sections:
       alt: Image alt text
   - infopic:
       title: Data Science & AI
-      description: >-
-        Create new marvels. From boosting productivity to enhancing lives, AI
-        and Data are here to power our future. 
+      description: Create tech marvels. Discover endless possibilities with Data and AI.
       button: More
-      url: /tech-careers/data-science-and-ai/overview/
+      url: /tech-careers/data-science-and-ai/
       image: /images/data-science.png
       alt: Data Science & AI
   - infopic:
       title: 'ICT Infrastructure '
       description: >-
-        Develop, masterplan, architect, build, engineer and enhance the digital
-        infrastructure that powers Singapore’s digital transformation and
-        digital government.
+        Architect digital infrastructure to power Singapore's digital
+        transformation. 
       button: More
-      url: /tech-careers/ict-infrastructure/overview/
+      url: /tech-careers/ict-infrastructure/
       alt: 'ICT Infrastructure '
       image: /images/ict.png
   - infopic:
       title: 'Sensors & Internet of Things '
       description: 'Sensing Singapore, Connecting Citizens.'
       button: More
-      url: /tech-careers/sensors-and-internet-of-things/overview/
+      url: /tech-careers/sensors-and-internet-of-things/
       image: /images/sensors-iot.png
       alt: Image alt text
   - infopic:
@@ -67,7 +64,7 @@ sections:
         Set the stage. A Smart Nation calls for tech, talent and thought
         leadership. Be the one who helps bring it all together.
       button: More
-      url: /tech-careers/tech-policy-and-governance/overview/
+      url: /tech-careers/tech-policy-and-governance/
       image: /images/tech-governance.png
       alt: 'Tech Policy & Governance '
 ---
