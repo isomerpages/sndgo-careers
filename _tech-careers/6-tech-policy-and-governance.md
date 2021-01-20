@@ -6,12 +6,13 @@ permalink: /tech-careers/tech-policy-and-governance/
 
 ### **Tech Policy & Governance**
 
-Design and drive forward-thinking the tech policies that shape our Smart Nation and Digital Government transformation. 
+Design and drive forward-thinking tech policies that shape our Smart Nation and Digital Government agenda.
 
-Expect to take on, master and captain a wide range that covers anything from cybersecurity to usability across all kinds of tech systems. You will get to work on ensuring our backend systems are secure from attacks while driving efforts to make our websites more user-friendly and inclusive for citizens from all walks of life. 
+There never is a boring day when you are at the forefront of setting the stage for digital transformation - strategising on how to govern tech for beneficial outcomes and delving deep into the nitty gritty details to make things happen. As we go all out to further the Smart Nation effort, there are limited resources that require you to carefully consider trade-offs. You analyse implications on usability, security, cost effectiveness and technical excellence and bring it to the forefront of decision-making to ensure what is best for citizens, businesses and Government.
 
-You will be the one we count on to set the stage for all the other tech domains to push ahead and succeed in their work. Lead our Smart Moves Ahead as you deploy and hone both big-picture thinking and laser focus on detail to effect change and ensure what works best for people, businesses and Government.
+Every technology needs a policy, so no technology is out of bounds. Expect to take on, master and put forth coherent positions on a wide range of issues that covers anything from ensuring our backend systems are secure from attacks while driving efforts to make our websites more user-friendly and inclusive for citizens from all walks of life.
 
+Lead our Smart Nation and Digital Government transformation. You will be the one we count on to set the stage for all the other tech domains to push ahead and succeed in their work. You might even become an expert at something you never thought about before. 
 
 ### **Hear from our tech talents**
 
