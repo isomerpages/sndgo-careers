@@ -30,9 +30,9 @@ sections:
       image: /images/app-development.png
   - infopic:
       title: Cybersecurity
-      description: Safeguard our digital economy by building resilience to cyberattacks.
+      description: 'Save the day, every day. Defend our cyberspace. Protect our way of life.'
       button: More
-      url: /tech-careers/cybersecurity/overview/
+      url: /tech-careers/cybersecurity
       image: /images/cybersecurity.png
       alt: Image alt text
   - infopic:
