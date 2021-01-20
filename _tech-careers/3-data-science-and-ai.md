@@ -6,12 +6,11 @@ permalink: /tech-careers/data-science-and-ai/
 
 ### **Data Science & Artificial Intelligence**
 
-Data science and AI hold the secrets to actionable insights and transformative impact. Be at the core of new advancement to improve service delivery, policy outcomes and operational efficiency.
+Draw actionable insights from data and create algorithms for better and faster decision-making. 
 
-To deliver public sector impact, we are outcome driven. Our projects are not academic exercises, and we make sure our findings can be translated into tangible impact. In addition, we start small and move fast – to scale up what works, and to improve quickly as needed. It’s fast-paced and focused. We relish tackling challenging technical problems, working in collaborative, multi-disciplinary teams, and using the latest technologies.
+Data science and AI use a range of techniques, from simple data visualisation to more sophisticated algorithms. It is more than just technical knowledge. Business sense is also very important as projects must be well scoped so that the right techniques can be applied, and the analysis can be translated into actions. 
 
-Bring your talent to new frontiers as we bring big change to areas such as transport planning, contactless temperature screening gantry systems, Smart glasses for maritime use, drowning detection, and economic nowcasting, among others.
-
+Discover endless possibilities with data science and AI – from recommending suitable roles to job seekers through the MyCareersFuture jobs portal, to strengthening border security, to enhancing transport planning and more. Bring your talent to new frontiers and leverage on data science and AI to enable data-driven decision-making by citizens, businesses, and government.
 
 ### **Hear from our tech talents**
 
