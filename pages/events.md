@@ -2,26 +2,26 @@
 title: Events
 permalink: /events
 ---
-### **Watch video 1**
+### **Cybersecurity**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempor, tellus eget faucibus feugiat, quam est condimentum justo, ut euismod arcu augue eget libero. 
+Deep dive into the road ahead for cybersecurity and explore the insights, innovations and impact. Watch our video and hear from industry experts first-hand.
 
 <div class="events-video" ><iframe width="640" height="360" src="https://www.youtube.com/embed/uOlKsaW9t-s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-### **Watch video 2**
+### **Data Science & AI**
 
-Morbi scelerisque eu lectus eu fermentum. Mauris massa ligula, feugiat eget odio vulputate, cursus eleifend purus. Quisque vel vulputate nunc, ac pellentesque libero.
+Discover more about this core technology domain and meet the teams powering and thinking up new advancements to come in Data Science and AI.
 
 <div class="events-video" ><iframe width="640" height="360" src="https://www.youtube.com/embed/n3jrVlsbzM4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-### **Watch video 3**
+### **Cloud, Infrastructure, Sensors, IoT**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempor, tellus eget faucibus feugiat, quam est condimentum justo, ut euismod arcu augue eget libero. 
+These are practically everything, everyday and everywhere in today’s digital age. Learn more with the people who hone our digital edge – all for a larger purpose.
 
 <div class="events-video" ><iframe width="640" height="360" src="https://www.youtube.com/embed/6Y4ABPwWpfI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-### **Watch video 4**
+### **Software Engineering**
 
-Morbi scelerisque eu lectus eu fermentum. Mauris massa ligula, feugiat eget odio vulputate, cursus eleifend purus. Quisque vel vulputate nunc, ac pellentesque libero.
+Hear first-hand from software engineering developers, engineers and leaders on what they work on and how it lends impact to tech for public good.
 
 <div class="events-video" ><iframe width="640" height="360" src="https://www.youtube.com/embed/8joN9J9L3nk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
