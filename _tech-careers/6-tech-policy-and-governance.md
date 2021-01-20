@@ -27,7 +27,7 @@ Lead our Smart Nation and Digital Government transformation. You will be the one
       <img src="/images/kelvin-goh.png" alt="Kelvin Goh" title="Tech Talent" /><br><em><strong>Kelvin Goh</strong><br>SNDGO</em><br><br>“I lead the team that develops the government data architecture that facilitates the efficient data sharing of clean and authoritative datasets across public agencies. It is rewarding to apply data science and AI techniques to improve policies and service delivery, in ways that benefit the public.”
 				</td>
 			<td width="100px">
-      <img src="/images/hidden.gif"><br><br>
+      <img src="/images/blank.png"><br><br>
       </td>
   </tbody>
 </table>
