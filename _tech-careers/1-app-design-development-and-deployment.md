@@ -1,5 +1,5 @@
 ---
-title: APP Design, Development & Deployment
+title: App Design, Development & Deployment
 permalink: /tech-careers/app-design-development-and-deployment/
 ---
 ![](/images/hero-in-app-design.jpg)
