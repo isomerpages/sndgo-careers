@@ -31,11 +31,10 @@ Expect to respond to cybersecurity incidents to ensure the security of our publi
 <img src="/images/sean-tan.png" alt="Sean Tan" title="Tech Talent" /><br><em><strong>Sean Tan</strong><br> Head, Planning & Architecture, Cybersecurity Centre of Expertise<br>HTX</em><br>
 <p>“With the constant drive for digitalisation and building a Smart Nation, I see myself contributing to a safer and more secured digital experience for the nation, allowing individuals, regardless of age, to feel that the digitalisation by the nation is safe and a smarter way of life.”</p>
 </div>
+					
+<div class="column-testimonial"></div>					
 </div>
 </td>
-			<td width="100px">
-      <img src="/images/hidden.gif"><br><br>
-      </td>
   </tbody>
 </table>
 
