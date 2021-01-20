@@ -48,6 +48,6 @@ Discover your career opportunities in these agencies.
       <td width="100px"><a href="https://www.hdb.gov.sg/cs/infoweb/about-us/careers/career-opportunities" target="new"><img src="/images/logo-hdb.png" alt="HDB" title="HDB"/></a></td>
       <td width="100px"><a href="https://www.ihis.com.sg/careers" target="new"><img src="/images/logo-ihis.png" alt="iHIS" title="iHIS"/></a></td>
       <td width="100px"><a href="https://www.iras.gov.sg/irashome/Careers/" target="new"><img src="/images/logo-iras.png" alt="IRAS" title="IRAS"/></a></td>
-      <td width="100px"><a href="" target="new"><img src="/images/logo-sla.png" alt="SLA" title="SLA"/></a></td>
+      <td width="100px"><a href="https://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=singapore%20land%20authority&job-mail-subscribe-privacy=agree" target="new"><img src="/images/logo-sla.png" alt="SLA" title="SLA"/></a></td>
 </tbody>
 </table>
