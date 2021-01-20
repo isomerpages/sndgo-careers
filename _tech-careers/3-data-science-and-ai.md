@@ -14,8 +14,6 @@ Discover endless possibilities with data science and AI – from recommending su
 
 ### **Hear from our tech talents**
 
-<table>
-<tbody><br><td>
 <div class="row-testimonial">
 <div class="column-testimonial">
 <img src="/images/elizabeth-lim.png" alt="Elizabeth Lim" title="Tech Talent" /><br><em><strong>Elizabeth Lim</strong><br>Data Scientist, Data Science & Artificial Intelligence Division<br>  GovTech</em><br><br>
@@ -26,9 +24,6 @@ Discover endless possibilities with data science and AI – from recommending su
 “I've always been interested in understanding the underlying numbers and relations between entities. The opportunity to lead a team that looks at data-related problems in the area of risk profiling and management within the safety and security domain of Singapore is a big pull factor for me.”<br><br></div>
 <div class="column-testimonial"></div>
 </div>
-	</td>
-</tbody>
-</table>
 
 ### **Get set for Smart Moves Ahead**
 Discover data science & AI career opportunities in these agencies.
