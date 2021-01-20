@@ -18,9 +18,7 @@ Join one of our many teams on meaningful projects that impact the nation. The Sm
 <tbody><br>
       <td width="100px">
       <img src="/images/brandon-chua.png" alt="Brandon Chua" title="Tech Talent" /><br><em><strong>Brandon Chua</strong><br>Engineer, Sense-making & Surveillance<br>HTX
-</em><br><br>“We specialise in R&D for the computer vision field, where we harness new technology such as AI. Best of all, I can see the fruits of my labour being implemented to enhance the safety of our citizens, which includes my family and loved ones.”<br><br>  
-      <br><br>
-      </td>
+</em><br><br>“We specialise in R&D for the computer vision field, where we harness new technology such as AI. Best of all, <strong>I can see the fruits of my labour being implemented to enhance the safety of our citizens, which includes my family and loved ones.</strong>”<br><br></td>
       <td width="100px">
       <img src="/images/chandrasehar.png" alt="Chandrasehar S/O Rajaseharan" title="Tech Talent" /><br><em><strong>Chandrasehar S/O Rajaseharan</strong><br>HTX</em><br><br>“I see myself contributing to the technical capabilities of our Smart Nation and I like knowing that the work that we do impacts Singapore in a beneficial way. It is nice to see how projects in GovTech are deployed into the hands of citizens.”<br><br>
       </td>
