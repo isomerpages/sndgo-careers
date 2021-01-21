@@ -22,7 +22,7 @@ IMDA</em><br>“The digital infrastructure work we do provide the foundation for
 <div class="column-testimonial">
 <img src="/images/foo-zi-hui.png" alt="Foo Zi Hui" title="Tech Talent" /><br><em><strong>Foo Zi Hui</strong><br>Infrastructure Engineer<br> GovTech</em><br><br>“My main responsibility is to configure and maintain a cloud environment that is secure to host applications. Knowing that my work contributes to the Smart Nation goal keeps me motivated to offer what I can to actualise the goals.”<br><br></div>      
 	
-<div class="column-testimonial"><img src="/images/kenneth-yeo.png" alt="Kenneth Yeo" title="Tech Talent" /><br><em><strong>Kenneth Yeo, </strong><br>Infrastructure Engineer<br> GovTech</em><br><br>“My work cuts across multiple ICT&SS domain areas that include app infrastructure and cybersecurity. I’m constantly provided with challenging tech problems to resolve and I enjoy every moment of it. Each challenge is a learning opportunity.”<br><br></div>   
+<div class="column-testimonial"><img src="/images/kenneth-yeo.png" alt="Kenneth Yeo" title="Tech Talent" /><br><em><strong>Kenneth Yeo, </strong><br>Application Infrastructure Engineer<br> GovTech</em><br><br>“My work cuts across multiple ICT&SS domain areas that include app infrastructure and cybersecurity. I’m constantly provided with challenging tech problems to resolve and I enjoy every moment of it. Each challenge is a learning opportunity.”<br><br></div>   
 </div>
 
 ### **Get set for Smart Moves Ahead**
