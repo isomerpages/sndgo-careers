@@ -4,7 +4,7 @@ permalink: /tech-careers/application-design-development-and-deployment/
 ---
 ![](/images/hero-in-app-design.jpg)
 
-### **Applications Design, Development & Deployment**
+### **Application Design, Development & Deployment**
 
 Build digital products and services that improve the lives of citizens, enhance business productivity, and contribute to the defence and security of Singapore. The ‘rules’ are simple. Design for users. Engineer with care. Build inclusively. Transform experiences. 
 
