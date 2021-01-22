@@ -26,7 +26,7 @@ sections:
         Harness the power of tech to build apps we use to work, live, play,
         learn and more.
       button: More
-      url: /tech-careers/app-design-development-and-deployment/
+      url: /tech-careers/applications-design-development-and-deployment/
       alt: App Design & Development
       image: /images/app-development.png
   - infopic:
