@@ -20,8 +20,8 @@ Respond to cybersecurity incidents to ensure the security of our public and defe
 <div class="row-testimonial">
 <div class="column-testimonial">
 <img src="/images/kok-kiat-han.png" alt="Kok Kiat Han" title="Tech Talent" /><br>
-<em><strong>Kok Kiat Han</strong><br>Systems Engineer, National Cyber Threat Monitoring Centre<br>CSA</em><br><br>
-“Knowing I am part of the team that helps Singapore stay safe in cyberspace motivates me to give my very best. I want my Smart Nation to become even smarter, and cybersecurity plays a big part ensuring what is built is safe and secure.”<br><br></div>
+<em><strong>Kok Kiat Han</strong><br>Cyber Threat Intelligence Analyst, National Cyber Threat Monitoring Centre<br>CSA</em><br><br>
+“Knowing I am part of the team that helps Singapore stay safe in cyberspace motivates me to give my very best. I want our Smart Nation to become even smarter, and cybersecurity plays a big part in ensuring what is built is safe and secure.”<br><br></div>
 
 <div class="column-testimonial">
 <img src="/images/sean-tan.png" alt="Sean Tan" title="Tech Talent" /><br><em><strong>Sean Tan</strong><br> Head, Planning & Architecture, Cybersecurity Centre of Expertise<br>HTX</em><br>
