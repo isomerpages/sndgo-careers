@@ -1,6 +1,6 @@
 ---
-title: 'App Design, Development & Deployment'
-permalink: /tech-careers/app-design-development-and-deployment/
+title: 'Applications Design, Development & Deployment'
+permalink: /tech-careers/applications-design-development-and-deployment/
 ---
 ![](/images/hero-in-app-design.jpg)
 
