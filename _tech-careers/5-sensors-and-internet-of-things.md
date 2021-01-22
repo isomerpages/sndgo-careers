@@ -17,15 +17,13 @@ Join one of our many teams to implement meaningful projects that impact the nati
 <div class="row-testimonial">
 <div class="column-testimonial">
 <img src="/images/brandon-chua.png" alt="Brandon Chua" title="Tech Talent" /><br><em><strong>Brandon Chua</strong><br>Engineer, Sense-making & Surveillance Centre of Expertise<br>HTX
-</em><br><br>“We specialise in R&D for the computer vision field, where we harness new technology such as AI. Best of all, I can see the fruits of my labour being implemented to enhance the safety of our citizens, which includes my family and loved ones.”<br><br></div>
-	
-<div class="column-testimonial">
-<img src="/images/chandrasehar.png" alt="Chandrasehar S/O Rajaseharan" title="Tech Talent" /><br><em><strong>Chandrasehar S/O Rajaseharan</strong><br>Engineer, Sense-making & Surveillance Centre of Expertise<br>HTX</em><br><br>
-“The challenges in designing the best video analytics solutions and the need to always keep track of new trends in technology, motivates me to push on in my work, knowing that what we design will lead to a more secure environment for our nation, including my loved ones.”<br><br></div>
-	
+</em><br><br>“We specialise in R&D for the computer vision field, where we harness new technology such as AI. Best of all, I can see the fruits of my labour being implemented to enhance the safety of our citizens, which includes my family and loved ones.”<br><br></div>	
 <div class="column-testimonial">
 <img src="/images/kok-boon.png" alt="Goh Kok Boon" title="Tech Talent" /><br><em><strong>Goh Kok Boon </strong><br>Embedded Engineer<br>GovTech</em><br><br><br>
 “I code for nation-wide projects that allows me to push the frontier of Singapore’s technological landscape in Sensors and Internet of Things. The work that I do gives me purpose when I witness how they can impact and improve the lives of my loved ones.”<br><br></div>
+<div class="column-testimonial">
+<img src="/images/chandrasehar.png" alt="Chandrasehar S/O Rajaseharan" title="Tech Talent" /><br><em><strong>Chandrasehar S/O Rajaseharan</strong><br>Engineer, Sense-making & Surveillance Centre of Expertise<br>HTX</em><br><br>
+“The challenges in designing the best video analytics solutions and the need to always keep track of new trends in technology, motivates me to push on in my work, knowing that what we design will lead to a more secure environment for our nation, including my loved ones.”<br><br></div>
 </div>
 
 ### **Get set for Smart Moves Ahead**
