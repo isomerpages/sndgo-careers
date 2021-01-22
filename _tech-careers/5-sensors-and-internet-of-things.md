@@ -6,11 +6,11 @@ permalink: /tech-careers/sensors-and-internet-of-things/
 
 ### **Sensors & Internet of Things**
 
-Harness the many possibilities Sensors and the Internet of Things (SIOT) can bring about, across anything and everything from smart homes and gardens, to large-scale assisted living ecosystems, community wellness enablers and state-of-the-art public security systems. 
+Harness the many possibilities Sensors and the Internet of Things (SIOT) can bring about, across anything and everything from smart homes and gardens, to large-scale assisted living ecosystems, community wellness enablers and state-of-the-art defence and public security systems. 
 
-Our SIOT solutions improve the efficiency and efficacy of public service officers in performing city operations and delivering citizen-centric services. As a SIOT engineer, you are empowered to take charge of the end-to-end engineering process, working alongside passionate and technically competent co-workers to build and deploy platforms and system that scale from 1 to 1,000,000.
+Our SIOT solutions improve the efficiency and efficacy of public service officers in performing city operations and delivering citizen-centric services. As a SIOT engineer, you are empowered to take charge of the end-to-end engineering process, working alongside passionate and technically competent co-workers to build and deploy platforms and systems that scale from 1 to 1,000,000.
 
-Join one of our many teams on meaningful projects that impact the nation. The Smart Nation Sensor Platform (SNSP) connects a shared network of sensors that collects and analyses data to enable smarter decisions on city planning and the delivery of citizen-centric public services. Or build the next surveillance and sensemaking system that is a force-multiplier for the system and brain of our homeland security forces. Our SIOT solutions meet the needs of diverse groups – from the elderly (IoT Personal Alert Button) to people with special needs (eCanvas assistive technology) to the general populace (TraceTogether Tokens for contact tracing). There’s much more to come.
+Join one of our many teams to implement meaningful projects that impact the nation. The Smart Nation Sensor Platform (SNSP) connects a shared network of sensors that collects and analyses data to enable smarter decisions on city planning and the delivery of citizen-centric services. Or build the next generation surveillance and sensemaking system that is a force-multiplier for our defence and homeland security forces. Our SIOT solutions meet the needs of diverse groups – from NSmen (improving the NS experience) to the elderly (IoT Personal Alert Button) and people with special needs (eCanvas assistive technology) as well as general populace (TraceTogether Tokens for contact tracing). There’s much more to come.
 
 ### **Hear from our tech talents**
 
