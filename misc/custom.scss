@@ -374,3 +374,24 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+	  
+/* Agency logos - five equal columns*/
+.column-agencies {
+  float: left;
+  width: 20%;
+  padding: 10px;
+}
+/* Clear floats after the columns */
+.row-agencies:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Agency logos - Responsive*/
+@media screen and (max-width: 600px) {
+  .column-agencies {
+    width: 100%;
+  }
+}
+
