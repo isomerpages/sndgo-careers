@@ -24,7 +24,7 @@ Join one of our many teams to implement meaningful projects that impact the nati
 “The challenges in designing the best video analytics solutions and the need to always keep track of new trends in technology, motivates me to push on in my work, knowing that what we design will lead to a more secure environment for our nation, including my loved ones.”<br><br></div>
 	
 <div class="column-testimonial">
-<img src="/images/kok-boon.png" alt="Goh Kok Boon" title="Tech Talent" /><br><em><strong>Goh Kok Boon </strong><br>Embedded Engineer<br>GovTech</em><br><br>
+<img src="/images/kok-boon.png" alt="Goh Kok Boon" title="Tech Talent" /><br><em><strong>Goh Kok Boon </strong><br>Embedded Engineer<br>GovTech</em><br><br><br>
 “I code for nation-wide projects that allows me to push the frontier of Singapore’s technological landscape in Sensors and Internet of Things. The work that I do gives me purpose when I witness how they can impact and improve the lives of my loved ones.”<br><br></div>
 </div>
 
