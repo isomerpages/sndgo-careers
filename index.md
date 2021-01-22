@@ -12,7 +12,7 @@ sections:
         Our story is one of transformation. Together, we co-create a future of
         better living for all.                                             Be
         our new pioneers. 
-      background: /images/hero-ban.gif
+      background: /images/hero-banner.gif
   - infobar:
       title: Join us
       description: >-
