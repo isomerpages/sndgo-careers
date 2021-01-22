@@ -6,13 +6,13 @@ permalink: /tech-careers/tech-policy-and-governance/
 
 ### **Tech Policy & Governance**
 
-Design and drive forward-thinking tech policies that shape our Smart Nation and Digital Government agenda.
+Design and drive forward-thinking tech policies that shape our Defence, Smart Nation and Digital Government agenda.
 
-There never is a boring day when you are at the forefront of setting the stage for digital transformation – strategising on how to govern tech for beneficial outcomes and delving deep into the nitty gritty details to make things happen. As we go all out to further the Smart Nation effort, there are limited resources that require you to carefully consider trade-offs. You analyse implications on usability, security, cost effectiveness and technical excellence and bring it to the forefront of decision-making to ensure what is best for citizens, businesses and Government.
+There never is a boring day when you are at the forefront of setting the stage for digital transformation - strategising on how to govern tech for beneficial outcomes and delving deep into the nitty gritty details to make things happen. As we go all out to further the Smart Nation effort, there are limited resources that require you to carefully consider trade-offs. You will analyse implications on usability, security, cost effectiveness and technical excellence and bring it to the forefront of decision-making to ensure what is best for citizens, businesses and Government.
 
-Every technology needs a policy, so no technology is out of bounds. Expect to take on, master and put forth coherent positions on a wide range of issues that covers anything from ensuring our backend systems are secure from attacks while driving efforts to make our websites more user-friendly and inclusive for citizens from all walks of life.
+Every technology needs a policy, so no technology is out of bounds. Expect to take on, master and put forth coherent positions on a wide range of issues that cover anything from ensuring our backend systems are secure from cyber-attacks while driving efforts to make our websites more user-friendly and inclusive for citizens from all walks of life.
 
-Lead our Smart Nation and Digital Government transformation. You will be the one we count on to set the stage for all the other tech domains to push ahead and succeed in their work. You might even become an expert at something you never thought about before. 
+Lead our Defence, Smart Nation and Digital Government transformation. You will be the one we count on to set the stage for all the other tech domains to push ahead and succeed in their work. You might even become an expert at something you never thought about before.
 
 ### **Hear from our tech talents**
 
