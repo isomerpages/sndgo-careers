@@ -11,6 +11,7 @@ Secure our cyberspace to enable Singapore to be a safe and secure Smart Nation.
 Singapore harnesses technology to improve lives and livelihoods for all, our plans must be built on a strong foundation of cybersecurity. In cybersecurity, you will hunt for cyber threats, investigate breaches and defend our cyberspace to build a resilient and trusted cyber environment. The work will never be mundane in this challenging and fast-moving environment.
 
 There are career opportunities in incident response, threat hunting, penetration testing, research and development in new technologies and systems. Be involved in driving Singapore’s cyber and digital security diplomacy efforts internationally, and the exciting work in other cybersecurity-related roles.
+
 Be our next generation of cybersecurity leaders. Join us to shape, transform and safeguard our cyber landscape.
 
 ### **Hear from our tech talents**
