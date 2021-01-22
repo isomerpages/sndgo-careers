@@ -26,7 +26,7 @@ Respond to cybersecurity incidents to ensure the security of our public and defe
 <img src="/images/sean-tan.png" alt="Sean Tan" title="Tech Talent" /><br><em><strong>Sean Tan</strong><br> Head, Planning & Architecture, Cybersecurity Centre of Expertise<br>HTX</em><br>
 <br>“With the constant drive for digitalisation and building a Smart Nation, I see myself contributing to a safer and more secured digital experience for the nation, allowing individuals, regardless of age, to feel that the digitalisation by the nation is safe and a smarter way of life.”<br><br></div>
 <div class="column-testimonial">
-<img src="/images/lee-min-yi.png" alt="Lee Min Yi" title="Tech Talent" /><br><em><strong>Lee Min Yi</strong><br> Senior Engineer, Cybersecurity <br>DSTA</em><br>
+<img src="/images/lee-min-yi.png" alt="Lee Min Yi" title="Tech Talent" /><br><em><strong>Lee Min Yi</strong><br> Senior Engineer, Cybersecurity <br>DSTA</em><br><br>
 <br>“I was part of the DSTA team which led the development of the Cyber Security Operations Centre 2.0 (Cyber SOC 2.0), a major cybersecurity development that has enhanced MINDEF’s and the SAF’s ability to monitor, detect, analyses and respond to cyber incidents.”<br><br></div>			
 </div>
 <div class="row-testimonial">
