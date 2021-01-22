@@ -31,7 +31,7 @@ sections:
       image: /images/app-development.png
   - infopic:
       title: Cybersecurity
-      description: 'Save the day, every day. Defend our cyberspace. Protect our way of life.'
+      description: Defend our cyberspace. Protect our way of life.
       button: More
       url: /tech-careers/cybersecurity/
       image: /images/cybersecurity.png
