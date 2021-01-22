@@ -10,7 +10,7 @@ Contribute to the foundation of our digital economy and uplift the whole-of-gove
 
 ICT infrastructure offers you exciting opportunities from operating cloud infrastructure, to data centre capacity planning, to enhancing connectivity between key infrastructure nodes. Leverage on innovative cloud and SaaS technologies such as Infrastructure as Code, Policy as Code, analytics, and machine learning. Architect and implement hosting environments and services that will accelerate modern applications and services.
 
-You will discover ICT infrastructure building blocks like the Singapore Government Tech Stack (SGTS) that serves as a common platform for government agencies to build digital services quickly and effectively, and the Government Commercial Cloud (GCC) that enables government systems to leverage on the capabilities of commercial cloud computing platform with security in place to ensure systems and data are well-protected. Be part of the team to lay the foundation for the future and enable the delivery of critical digital services that are used by citizens, businesses, and the government.
+You will discover ICT infrastructure building blocks like the Singapore Government Tech Stack (SGTS) that serves as a common platform for government agencies to build digital services quickly and effectively, and the Government Commercial Cloud (GCC) that enables government systems to leverage on the capabilities of commercial cloud computing platform with security in place to ensure systems and data are well-protected. Be part of the team to lay the foundation for the future and enable the delivery of critical digital services that are used by citizens, businesses, and government.
 
 ### **Hear from our tech talents**
 
