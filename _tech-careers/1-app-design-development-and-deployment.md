@@ -6,11 +6,12 @@ permalink: /tech-careers/app-design-development-and-deployment/
 
 ### **App Design, Development & Deployment**
 
-Build digital products and services that improve the lives of citizens and support businesses in Singapore. The ‘rules’ are simple. Design for citizens. Engineer with care. Be and build inclusive. Transform experience digitally. 
+Build digital products and services that improve the lives of citizens, enhance business productivity, and contribute to the defence and security of Singapore. The ‘rules’ are simple. Design for users. Engineer with care. Build inclusively. Transform experiences. 
 
-We go to the ground to listen to citizens’ feedback, followed by testing and iterating relentlessly to understand their pain points and build better products that make a lasting impact. We leverage cutting-edge technologies and integrate IT solutions across diverse fields and platforms to improve digital capabilities across the government.
+We constantly engage users and iteratively test product prototypes to understand their pain points, so that we can build better products. We also leverage cutting-edge technologies across diverse fields and platforms to improve digital capabilities across the government. We not only build great products; we make a lasting impact on how our government serves people. 
 
-You can create a next-generation digital experience and provide solutions to people’s everyday problems. Examples include TraceTogether, the digital tool developed to facilitate nationwide, community-driven contact tracing efforts in response to the COVID-19 pandemic. Another example is the GoWhere suite of websites, which provides citizens with timely and accurate information regarding matters of national interest. Drive the spirit of innovation and play a part in enhancing the lives of Singaporeans.
+Be empowered to create next-generation digital experiences and provide solutions to real-life problems. Some of our products include LifeSG, an app that integrates services across government agencies, and GoBusiness, a portal that creates a seamless experience for businesses applying for licenses. Your possibilities are limitless. Embody the spirit of innovation and play a part in enhancing the lives of Singaporeans. 
+
 
 ### **Hear from our tech talents**
 
