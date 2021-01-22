@@ -31,15 +31,15 @@ Lead our Defence, Smart Nation and Digital Government transformation. You will b
 Discover tech policy & governance career opportunities in these agencies.
 
 <div class="row-agencies">
-<div class="column-agencies"><a href="https://www.csa.gov.sg/careers/overview" target="new"><img src="/images/logo-csa.png" alt="A-Star" title="A-Star"/ ></a></div>
-<div class="column-agencies"><a href="https://careers.pageuppeople.com/845/cw/en/listing/" target="new"><img src="/images/logo-dsta.png" alt="DSTA" title="DSTA"/ ></a></div>
+<div class="column-agencies"><a href="https://www.csa.gov.sg/careers/overview" target="new"><img src="/images/logo-csa.png" alt="A-Star" title="A-Star"/></a></div>
+<div class="column-agencies"><a href="https://careers.pageuppeople.com/845/cw/en/listing/" target="new"><img src="/images/logo-dsta.png" alt="DSTA" title="DSTA"/></a></div>
 <div class="column-agencies"><a href="https://www.imda.gov.sg/Who-We-Are/careers" target="new"><img src="/images/logo-imda.png" alt="IMDA" title="IMDA"/></a></div>
 <div class="column-agencies"><a href="https://www.iras.gov.sg/irashome/Careers/" target="new"><img src="/images/logo-iras.png" alt="IRAS" title="IRAS"/></a></div>
-<div class="column-agencies"><a href="https://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=singapore%20land%20authority&job-mail-subscribe-privacy=agree" target="new"><img src="/images/logo-sla.png" alt="SLA" title="SLA"/ ></a></div>
+<div class="column-agencies"><a href="https://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=singapore%20land%20authority&job-mail-subscribe-privacy=agree" target="new"><img src="/images/logo-sla.png" alt="SLA" title="SLA"/></a></div>
 </div>
 
 <div class="row-agencies">
-<div class="column-agencies"><a href="https://www.smartnation.gov.sg/" target="new"><img src="/images/logo-sndgo.png" alt="SNDGO" title="SNDGO"/ ></a></div> 
+<div class="column-agencies"><a href="https://www.smartnation.gov.sg/" target="new"><img src="/images/logo-sndgo.png" alt="SNDGO" title="SNDGO"/></a></div> 
 <div class="column-agencies"><img src="/images/hidden.gif"></div>
 <div class="column-agencies"><img src="/images/hidden.gif"></div>
 <div class="column-agencies"><img src="/images/hidden.gif"></div>
