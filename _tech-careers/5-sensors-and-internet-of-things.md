@@ -29,22 +29,18 @@ Join one of our many teams to implement meaningful projects that impact the nati
 ### **Get set for Smart Moves Ahead**
 Discover sensors & IOT career opportunities in these agencies.
 
-<table width="500px">
-<tbody><br>
-      <td width="100px"><a href="https://careers.a-star.edu.sg/" target="new"><img src="/images/logo-astar.png" alt="ASTAR" title="ASTAR"/></a></td>
-      <td width="100px"><a href="https://www.csa.gov.sg/careers/overview" target="new"><img src="/images/logo-csa.png" alt="A-Star" title="A-Star"/></a></td>
-      <td width="100px"><a href="https://careers.pageuppeople.com/845/cw/en/listing/" target="new"><img src="/images/logo-dsta.png" alt="DSTA" title="DSTA"/></a></td>
-      <td width="100px"><a href="https://go.gov.sg/GovTechCareers" target="new"><img src="/images/logo-govtech.png" alt="A-Star" title="A-Star"/></a></td>
-      <td width="100px"><a href="https://www.hdb.gov.sg/cs/infoweb/about-us/careers/career-opportunities" target="new"><img src="/images/logo-hdb.png" alt="HDB" title="HDB"/></a></td>
-</tbody>
-</table>
+<div class="row-agencies">
+<div class="column-agencies"><a href="https://careers.a-star.edu.sg/" target="new"><img src="/images/logo-astar.png" alt="ASTAR" title="ASTAR"/></a></div>
+<div class="column-agencies"><a href="https://www.csa.gov.sg/careers/overview" target="new"><img src="/images/logo-csa.png" alt="A-Star" title="A-Star"/></a></div>
+<div class="column-agencies"><a href="https://careers.pageuppeople.com/845/cw/en/listing/" target="new"><img src="/images/logo-dsta.png" alt="DSTA" title="DSTA"/></a></div>
+<div class="column-agencies"><a href="https://go.gov.sg/GovTechCareers" target="new"><img src="/images/logo-govtech.png" alt="A-Star" title="A-Star"/></a></div>
+<div class="column-agencies"><a href="https://www.hdb.gov.sg/cs/infoweb/about-us/careers/career-opportunities" target="new"><img src="/images/logo-hdb.png" alt="HDB" title="HDB"/></a></div>
+</div>
 
-<table width="500px">
-<tbody>
-      <td width="100px"><a href="https://www.htx.gov.sg/join-us/careers" target="new"><img src="/images/logo-htx.png" alt="HTX" title="HTX"/></a></td>
-      <td width="100px"><a href="https://careers.pageuppeople.com/688/cwlive/en/listing/" target="new"><img src="/images/logo-lta.png" alt="LTA" title="LTA"/></a></td>  
-      <td width="100px"><a href="https://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=singapore%20land%20authority&job-mail-subscribe-privacy=agree" target="new"><img src="/images/logo-sla.png" alt="SLA" title="SLA"/></a></td>
-      <td width="100px"><img src="/images/hidden.gif"></td>
-      <td width="100px"><img src="/images/hidden.gif"></td>
-</tbody>
-</table>
+<div class="row-agencies">
+<div class="column-agencies"><a href="https://www.htx.gov.sg/join-us/careers" target="new"><img src="/images/logo-htx.png" alt="HTX" title="HTX"/></a></div>
+<div class="column-agencies"><a href="https://careers.pageuppeople.com/688/cwlive/en/listing/" target="new"><img src="/images/logo-lta.png" alt="LTA" title="LTA"/></a></div>
+<div class="column-agencies"><a href="https://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=singapore%20land%20authority&job-mail-subscribe-privacy=agree" target="new"><img src="/images/logo-sla.png" alt="SLA" title="SLA"/></a></div>
+<div class="column-agencies"><img src="/images/hidden.gif"></div>
+<div class="column-agencies"><img src="/images/hidden.gif"></div>
+</div>
