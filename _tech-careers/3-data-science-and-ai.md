@@ -10,7 +10,7 @@ Draw actionable insights from data and create algorithms for better and faster d
 
 Data science and AI use a range of techniques, from simple data visualisation to more sophisticated algorithms. It is more than just technical knowledge. Business sense is also very important as projects must be well scoped so that the right techniques can be applied, and the analysis can be translated into actions. 
 
-Discover endless possibilities with data science and AI – from recommending suitable roles to job seekers through the MyCareersFuture jobs portal, to strengthening border security, to enhancing transport planning and more. Bring your talent to new frontiers and leverage on data science and AI to enable data-driven decision-making by citizens, businesses, and government.
+Discover endless possibilities with data science and AI from recommending suitable roles to job seekers through MyCareersFuture jobs portal, to strengthening the defence and security of the nation, to enhancing transport planning and more. Bring your talent to new frontiers and leverage on data science and AI to enable data-driven decision making by citizens, businesses, and Government.
 
 ### **Hear from our tech talents**
 
