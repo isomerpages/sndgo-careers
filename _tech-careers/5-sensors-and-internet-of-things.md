@@ -1,7 +1,8 @@
 ---
-title: Sensors & Internet Of Things
+title: Sensors & Internet of Things
 permalink: /tech-careers/sensors-and-internet-of-things/
 ---
+
 ![](/images/hero-sensors-internet-things.jpg)
 
 ### **Sensors & Internet of Things**
