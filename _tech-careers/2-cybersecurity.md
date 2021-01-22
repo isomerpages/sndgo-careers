@@ -29,7 +29,7 @@ Be our next generation of cybersecurity leaders. Join us to shape, transform and
 </div>
 <div class="row-testimonial">
 <div class="column-testimonial">
-<img src="/images/kee-hock.png" alt="Tan Kee Hock" title="Tech Talent" /><br><em><strong>Tan Kee Hock</strong><br> Cybersecurity Specialist<br>GovTech</em><br>
+<img src="/images/kee-hock.png" alt="Tan Kee Hock" title="Tech Talent" /><br><em><strong>Tan Kee Hock</strong><br> Cybersecurity Specialist, Cyber Security Group<br>GovTech</em><br>
 <br>“As a Red Team member, I conduct security assessments on Government products to identify vulnerabilities before an attacker does. These security assessments help to keep our digital services safe from the ever-changing cybersecurity landscape.”<br><br></div>
 <div class="column-testimonial"></div>	
 <div class="column-testimonial"></div>	
