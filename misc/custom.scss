@@ -391,7 +391,7 @@ $desktop: 960px + (2 * $gap) !default;
 /* Agency logos - Responsive*/
 @media screen and (max-width: 600px) {
   .column-agencies {
-    width: 100%;
+    width: 33%;
   }
 }
 
