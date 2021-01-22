@@ -22,19 +22,19 @@ Respond to cybersecurity incidents to ensure the security of our public and defe
 <img src="/images/kok-kiat-han.png" alt="Kok Kiat Han" title="Tech Talent" /><br>
 <em><strong>Kok Kiat Han</strong><br>Cyber Threat Intelligence Analyst, National Cyber Threat Monitoring Centre<br>CSA</em><br><br>
 “Knowing I am part of the team that helps Singapore stay safe in cyberspace motivates me to give my very best. I want our Smart Nation to become even smarter, and cybersecurity plays a big part in ensuring what is built is safe and secure.”<br><br></div>
-
 <div class="column-testimonial">
 <img src="/images/sean-tan.png" alt="Sean Tan" title="Tech Talent" /><br><em><strong>Sean Tan</strong><br> Head, Planning & Architecture, Cybersecurity Centre of Expertise<br>HTX</em><br>
 <br>“With the constant drive for digitalisation and building a Smart Nation, I see myself contributing to a safer and more secured digital experience for the nation, allowing individuals, regardless of age, to feel that the digitalisation by the nation is safe and a smarter way of life.”<br><br></div>
-	
 <div class="column-testimonial">
 <img src="/images/lee-min-yi.png" alt="Lee Min Yi" title="Tech Talent" /><br><em><strong>Lee Min Yi</strong><br> Senior Engineer, Cybersecurity <br>DSTA</em><br>
-<br>“I was part of the DSTA team which led the development of the Cyber Security Operations Centre 2.0 (Cyber SOC 2.0), a major cybersecurity development that has enhanced MINDEF’s and the SAF’s ability to monitor, detect, analyses and respond to cyber incidents.”<br><br></div>
-	
+<br>“I was part of the DSTA team which led the development of the Cyber Security Operations Centre 2.0 (Cyber SOC 2.0), a major cybersecurity development that has enhanced MINDEF’s and the SAF’s ability to monitor, detect, analyses and respond to cyber incidents.”<br><br></div>			
+</div>
+<div class="row-testimonial">
 <div class="column-testimonial">
 <img src="/images/kee-hock.png" alt="Tan Kee Hock" title="Tech Talent" /><br><em><strong>Tan Kee Hock</strong><br> Cybersecurity Specialist<br>GovTech</em><br>
 <br>“As a Red Team member, I conduct security assessments on Government products to identify vulnerabilities before an attacker does. These security assessments help to keep our digital services safe from the ever-changing cybersecurity landscape.”<br><br></div>
-<div class="column-testimonial"></div>					
+<div class="column-testimonial"></div>	
+<div class="column-testimonial"></div>	
 </div>
 
 ### **Get set for Smart Moves Ahead**
