@@ -31,10 +31,10 @@ Discover data science & AI career opportunities in these agencies.
 <div class="row-agencies">
 <div class="column-agencies"><a href="https://careers.a-star.edu.sg/" target="new"><img src="/images/logo-astar.png" alt="ASTAR" title="ASTAR"/></a></div>
 <div class="column-agencies"><a href="https://www.cpf.gov.sg/members/careers" target="new"><img src="/images/logo-cpf.png" alt="CPFB" title="CPFB"/></a></div>
-<div class="column-agencies"><a href="https://www.csa.gov.sg/careers/overview" target="new"><img src="/images/logo-csa.png" alt="A-Star" title="A-Star"/></a></div>
+<div class="column-agencies"><a href="https://www.csa.gov.sg/careers/overview" target="new"><img src="/images/logo-csa.png" alt="CSA" title="CSA"/></a></div>
 <div class="column-agencies"><a href="https://www.csit.gov.sg/" target="new"><img src="/images/logo-csit.png" alt="CSIT" title="CSIT"/></a></div>
 <div class="column-agencies"><a href="https://careers.pageuppeople.com/845/cw/en/listing/" target="new"><img src="/images/logo-dsta.png" alt="DSTA" title="DSTA"/></a></div>
-<div class="column-agencies"><a href="https://go.gov.sg/GovTechCareers" target="new"><img src="/images/logo-govtech.png" alt="A-Star" title="A-Star"/></a></div>
+<div class="column-agencies"><a href="https://go.gov.sg/GovTechCareers" target="new"><img src="/images/logo-govtech.png" alt="GovTech" title="GovTech"/></a></div>
 <div class="column-agencies"><a href="https://www.hdb.gov.sg/cs/infoweb/about-us/careers/career-opportunities" target="new"><img src="/images/logo-hdb.png" alt="HDB" title="HDB"/></a></div>
 <div class="column-agencies"><a href="https://www.htx.gov.sg/join-us/careers" target="new"><img src="/images/logo-htx.png" alt="HTX" title="HTX"/></a></div>
 <div class="column-agencies"><a href="https://www.ihis.com.sg/careers" target="new"><img src="/images/logo-ihis.png" alt="iHIS" title="iHIS"/></a></div>
