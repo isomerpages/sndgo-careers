@@ -2,7 +2,6 @@
 title: Sensors & Internet of Things
 permalink: /tech-careers/sensors-and-internet-of-things/
 ---
-
 ![](/images/hero-sensors-internet-things.jpg)
 
 ### **Sensors & Internet of Things**
@@ -28,7 +27,7 @@ Join one of our many teams to implement meaningful projects that impact the nati
 </div>
 
 ### **Get set for Smart Moves Ahead**
-Discover sensors & IOT career opportunities in these agencies.
+Discover sensors & IoT career opportunities in these agencies.
 
 <div class="row-agencies">
 <div class="column-agencies"><a href="https://careers.a-star.edu.sg/" target="new"><img src="/images/logo-astar.png" alt="ASTAR" title="ASTAR"/></a></div>
