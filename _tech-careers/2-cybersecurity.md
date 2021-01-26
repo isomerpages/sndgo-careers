@@ -26,7 +26,7 @@ Be our next generation of cybersecurity leaders. Join us to shape, transform and
 <br>“With the constant drive for digitalisation and building a Smart Nation, I see myself contributing to a safer and more secured digital experience for the nation, allowing individuals, regardless of age, to feel that the digitalisation by the nation is safe and a smarter way of life.”<br><br></div>
 <div class="column-testimonial">
 <img src="/images/lee-min-yi.png" alt="Lee Min Yi" title="Tech Talent" /><br><em><strong>Lee Min Yi</strong><br> Senior Engineer, Cybersecurity <br>DSTA</em><br><br>
-<br>“I was part of the DSTA team which led the development of the Cyber Security Operations Centre 2.0 (Cyber SOC 2.0), a major cybersecurity development that has enhanced MINDEF’s and the SAF’s ability to monitor, detect, analyses and respond to cyber incidents.”<br><br></div>			
+<br>“I was part of the DSTA team which led the development of the Cyber Security Operations Centre 2.0 (Cyber SOC 2.0), a major cybersecurity development that has enhanced MINDEF’s and the SAF’s ability to monitor, detect, analyse and respond to cyber incidents.”<br><br></div>			
 </div>
 <div class="row-testimonial">
 <div class="column-testimonial">
