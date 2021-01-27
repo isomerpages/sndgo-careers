@@ -10,14 +10,14 @@ Draw actionable insights from data and create algorithms for better and faster d
 
 Data science and AI use a range of techniques, from simple data visualisation to more sophisticated algorithms. It is more than just technical knowledge. Business sense is also very important as projects must be well scoped so that the right techniques can be applied, and the analysis can be translated into actions. 
 
-Discover endless possibilities with data science and AI from informing policy and service delivery, to strengthening the defence and security of the nation, to enhancing transport planning and more. Bring your talent to new frontiers and leverage on data science and AI to enable data-driven decision making by citizens, businesses and Government.
+Discover endless possibilities with data science and AI, from informing policy and service delivery, to strengthening the defence and security of the nation, to enhancing transport planning and more. Bring your talent to new frontiers and leverage on data science and AI to enable data-driven decision-making by citizens, businesses and Government.
 
 ### **Hear from our tech talents**
 
 <div class="row-testimonial">
 <div class="column-testimonial">
 <img src="/images/elizabeth-lim.png" alt="Elizabeth Lim" title="Tech Talent" /><br><em><strong>Elizabeth Lim</strong><br>Data Scientist, Data Science & Artificial Intelligence Division<br>  GovTech</em><br><br>
-“Data science and analytics have a great potential to change and transform the way we live, work, as well as how we interact with our citizens. I aim to bridge the gap between the technical aspects of data science and the contextualised needs of the end-user, to build machine learning solutions that add value and convenience to citizens, businesses, and public service agencies.”<br><br></div>
+“Data science and Analytics have a great potential to change and transform the way we live, work, as well as how we interact with our citizens. I aim to bridge the gap between the technical aspects of data science and the contextualised needs of the end-user, to build machine learning solutions that add value and convenience to citizens, businesses, and public service agencies.”<br><br></div>
 	
 <div class="column-testimonial">
 <img src="/images/huang-shisheng.png" alt="Huang Shisheng" title="Tech Talent" /><br><em><strong>Huang Shisheng </strong><br>Head, Risk Profiling Analytics, Data Science & AI Centre of Expertise <br>HTX</em><br><br>
