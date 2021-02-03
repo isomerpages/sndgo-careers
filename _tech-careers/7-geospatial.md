@@ -2,7 +2,7 @@
 title: Geospatial
 permalink: /tech-careers/geospatial
 ---
-![](/images/hero-tech-policy-governance.jpg)
+![](/images/hero-geospatial.jpg)
 
 ### **Geospatial**
 
