@@ -44,12 +44,6 @@ sections:
       image: /images/data-science.png
       alt: Data Science & AI
   - infopic:
-      title: Geospatial
-      description: 'Map and propel the pace and path of Smart advancement. '
-      button: More
-      url: /tech-careers/geospatial
-      alt: Image alt text
-  - infopic:
       title: 'ICT Infrastructure '
       description: >-
         Architect digital infrastructure to power Singapore's digital
