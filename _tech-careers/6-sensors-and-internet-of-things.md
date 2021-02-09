@@ -25,6 +25,17 @@ Join one of our many teams to implement meaningful projects that impact the nati
 <img src="/images/chandrasehar.png" alt="Chandrasehar S/O Rajaseharan" title="Tech Talent" /><br><em><strong>Chandrasehar S/O Rajaseharan</strong><br>Engineer, Sense-making & Surveillance Centre of Expertise<br>HTX</em><br><br>
 “The challenges in designing the best video analytics solutions and the need to always keep track of new trends in technology, motivates me to push on in my work, knowing that what we design will lead to a more secure environment for our nation, including my loved ones.”<br><br></div>
 </div>
+<div class="row-testimonial">
+<div class="column-testimonial">
+<img src="/images/christopher-tong.png" alt="Christopher Tong" title="Tech Talent" /><br><em><strong>Christopher Tong</strong><br>Associate Product Manager<br> Sensors & Internet of Things, <br>GovTech
+</em><br><br>“I work with local partners and government agencies to scale applications in Infrastructure communication (V2X), lighting, energy management and IOT Sensing and computing. I’m proud to be part of the urban innovation team that digitally transforms Singapore to become a Smart Nation.”<br><br></div>	
+<div class="column-testimonial">
+<img src="/images/lau-lee-hong.png" alt="Lau Lee Hong" title="Tech Talent" /><br><em><strong>Lau Lee Hong</strong><br>Associate Embedded Engineer<br> Sensors & Internet of Things<br>GovTech</em><br><br>
+“I lead a team of engineers to digitize our national parks and gardens. What excites me is, from the products we build and deploy, we get to constantly redefine what a Smart Nation really is!”<br><br></div>
+<div class="column-testimonial">
+<img src="/images/derek-nam.png" alt="Derek Nam" title="Tech Talent" /><br><em><strong>Derek Nam</strong><br>Associate Software Engineer<br> Sensors and Internet of Things<br> GovTech</em><br><br>
+“My team provides value to various government agencies, and they in turn provide value to our citizens. As a backend engineer in SIOT, most of my work revolve around data acquisition, storage and information retrieval components in software systems. I feel proud to be able to contribute to Singapore in my small ways.”<br><br></div>
+</div>
 
 ### **Get set for Smart Moves Ahead**
 Discover sensors & IoT career opportunities in these agencies.
