@@ -8,7 +8,7 @@ permalink: /tech-careers/cybersecurity/
 
 Secure our cyberspace to enable Singapore to be a safe and secure Smart Nation. 
 
-As Singapore harnesses technology to improve lives and livelihoods for all, our plans must be built on a strong foundation of cybersecurity. In cybersecurity, you will hunt for cyber threats, investigate breaches and defend our cyberspace to build a resilient and trusted cyber environment. The work will never be mundane in this challenging and fast-moving environment.
+As Singapore harnesses technology to improve lives and livelihoods for all, our plans must be built on a strong foundation of cybersecurity. In cybersecurity, you will hunt for cyber threats, investigate breaches and fortify our cyberspace and defence systems to build a resilient and trusted cyber environment. The work will never be mundane in this challenging and fast-moving environment.
 
 There are career opportunities in incident response, threat hunting, penetration testing, research and development in new technologies and systems. Be involved in driving Singapore’s cyber and digital security diplomacy efforts internationally, and the exciting work in other cybersecurity-related roles.
 
@@ -25,15 +25,17 @@ Be our next generation of cybersecurity leaders. Join us to shape, transform and
 <img src="/images/sean-tan.png" alt="Sean Tan" title="Tech Talent" /><br><em><strong>Sean Tan</strong><br> Head, Planning & Architecture, Cybersecurity Centre of Expertise<br>HTX</em><br>
 <br>“With the constant drive for digitalisation and building a Smart Nation, I see myself contributing to a safer and more secured digital experience for the nation, allowing individuals, regardless of age, to feel that the digitalisation by the nation is safe and a smarter way of life.”<br><br></div>
 <div class="column-testimonial">
-<img src="/images/lee-min-yi.png" alt="Lee Min Yi" title="Tech Talent" /><br><em><strong>Lee Min Yi</strong><br> Senior Engineer, Cybersecurity <br>DSTA</em><br><br>
-<br>“I was part of the DSTA team which led the development of the Cyber Security Operations Centre 2.0 (Cyber SOC 2.0), a major cybersecurity development that has enhanced MINDEF’s and the SAF’s ability to monitor, detect, analyse and respond to cyber incidents.”<br><br></div>			
+<img src="/images/lee-min-yi.png" alt="Lee Min Yi" title="Tech Talent" /><br><em><strong>Lee Min Yi</strong><br> Senior Engineer, Cybersecurity Programme Centre<br>DSTA</em><br><br>
+“I fuse smart technologies into the digital solutions we design, develop and implement for Singapore’s defence, such as the Cyber Security Operations Centre 2.0 which enhances MINDEF/SAF’s ability to monitor, detect, analyse and respond to cyber incidents. The team integrated AI and machine learning techniques that allow it to learn and adapt constantly to evolving threats.”<br><br></div>			
 </div>
 <div class="row-testimonial">
 <div class="column-testimonial">
 <img src="/images/kee-hock.png" alt="Tan Kee Hock" title="Tech Talent" /><br><em><strong>Tan Kee Hock</strong><br> Cybersecurity Specialist, Cyber Security Group<br>GovTech</em><br>
 <br>“As a Red Team member, I conduct security assessments on Government products to identify vulnerabilities before an attacker does. These security assessments help to keep our digital services safe from the ever-changing cybersecurity landscape.”<br><br></div>
-<div class="column-testimonial"></div>	
-<div class="column-testimonial"></div>	
+<div class="column-testimonial">
+<img src="/images/heng-tian-hao.png" alt="Heng Tian Hao" title="Tech Talent" /><br><em><strong>Heng Tian Hao</strong><br>Senior Engineer<br> Cybersecurity Programme Centre<br>DSTA</em><br>
+<br>“Protecting the cybersecurity of our defence systems is an ongoing battle – with new vulnerabilities and their exploits discovered every day, it could lead to serious real-world implications if left undetected. As someone who looks forward to overcoming fresh challenges, it is an exciting field to be in while playing a part in the cyber defence of our nation.”<br><br></div>
+<div class="column-testimonial"></div>
 </div>
 
 ### **Get set for Smart Moves Ahead**
