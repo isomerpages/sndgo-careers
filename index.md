@@ -9,9 +9,8 @@ sections:
   - hero:
       title: Smart Moves Ahead
       subtitle: >-
-        Our story is one of transformation. Together, we co-create a future of
-        better living for all.                                             Be
-        our new pioneers. 
+        Our story is one of progress. Together, we can harness technology to
+        transform the way we live, work and play. Be a trailblazer!
       background: /images/hero-banner.gif
   - infobar:
       title: Join us
