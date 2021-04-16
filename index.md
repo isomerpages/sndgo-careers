@@ -11,7 +11,7 @@ sections:
       subtitle: >-
         Our story is one of progress. Together, we can harness technology to
         transform the way we live, work and play. Be a trailblazer.
-      background: /images/hero-banner.gif
+      background: /images/hero-banner.png
   - infobar:
       title: Join us
       description: >-
