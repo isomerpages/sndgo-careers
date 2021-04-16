@@ -31,7 +31,7 @@ The deep expertise you develop will drive Singapore’s digital transformation i
 </div>
 
 ### **Get set for Smart Moves Ahead**
-Discover tech policy & governance career opportunities in these agencies.
+Discover geospatial career opportunities in these agencies.
 
 <div class="row-agencies">
 <div class="column-agencies"><a href="https://www.csa.gov.sg/careers/overview" target="new"><img src="/images/logo-csa.png" alt="CSA" title="CSA"/></a></div>
