@@ -43,6 +43,12 @@ sections:
       image: /images/data-science.png
       alt: Data Science & AI
   - infopic:
+      title: Geospatial
+      description: Tap into Geospatial’s potential. Redefine Singapore’s landscape.
+      button: MORE
+      url: tech-careers/geospatial/
+      alt: Image alt text
+  - infopic:
       title: 'ICT Infrastructure '
       description: >-
         Architect digital infrastructure to power Singapore's digital
@@ -67,10 +73,4 @@ sections:
       url: /tech-careers/tech-policy-and-governance/
       image: /images/tech-governance.png
       alt: 'Tech Policy & Governance '
-  - infopic:
-      title: Geospatial
-      description: Tap into Geospatial’s potential. Redefine Singapore’s landscape.
-      button: MORE
-      url: tech-careers/geospatial/
-      alt: Image alt text
 ---
