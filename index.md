@@ -67,4 +67,10 @@ sections:
       url: /tech-careers/tech-policy-and-governance/
       image: /images/tech-governance.png
       alt: 'Tech Policy & Governance '
+  - infopic:
+      title: Geospatial
+      description: Tap into Geospatial’s potential. Redefine Singapore’s landscape.
+      button: MORE
+      url: tech-careers/geospatial/
+      alt: Image alt text
 ---
