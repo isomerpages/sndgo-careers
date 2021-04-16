@@ -36,8 +36,9 @@ Discover tech policy & governance career opportunities in these agencies.
 <div class="row-agencies">
 <div class="column-agencies"><a href="https://www.csa.gov.sg/careers/overview" target="new"><img src="/images/logo-csa.png" alt="CSA" title="CSA"/></a></div>
 <div class="column-agencies"><a href="https://careers.pageuppeople.com/845/cw/en/listing/" target="new"><img src="/images/logo-dsta.png" alt="DSTA" title="DSTA"/></a></div>
-<div class="column-agencies"><a href="https://www.imda.gov.sg/Who-We-Are/careers" target="new"><img src="/images/logo-imda.png" alt="IMDA" title="IMDA"/></a></div>
-<div class="column-agencies"><a href="https://www.iras.gov.sg/irashome/Careers/" target="new"><img src="/images/logo-iras.png" alt="IRAS" title="IRAS"/></a></div>
+	<div class="column-agencies"><a href="https://go.gov.sg/GovTechCareers" target="new"><img src="/images/logo-govtech.png" alt="GovTech" title="GovTech"/></a></div>
+<div class="column-agencies"><a href="https://www.hdb.gov.sg/cs/infoweb/about-us/careers/career-opportunities" target="new"><img src="/images/logo-hdb.png" alt="HDB" title="HDB"/></a></div>
+<div class="column-agencies"><a href="https://www.htx.gov.sg/join-us/careers" target="new"><img src="/images/logo-htx.png" alt="HTX" title="HTX"/></a></div>
+<div class="column-agencies"><a href="https://careers.pageuppeople.com/688/cwlive/en/listing/" target="new"><img src="/images/logo-lta.png" alt="LTA" title="LTA"/></a></div>
 <div class="column-agencies"><a href="https://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=singapore%20land%20authority&job-mail-subscribe-privacy=agree" target="new"><img src="/images/logo-sla.png" alt="SLA" title="SLA"/></a></div>
-<div class="column-agencies"><a href="https://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=smart%20nation&brand=smart%20nation%20and%20digital%20government%20office&job-mail-subscribe-privacy=agree" target="new"><img src="/images/logo-sndgo.png" alt="SNDGO" title="SNDGO"/></a></div> 
 </div>
