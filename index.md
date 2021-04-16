@@ -48,6 +48,7 @@ sections:
       button: MORE
       url: tech-careers/geospatial/
       alt: Image alt text
+      image: /images/geospatial.png
   - infopic:
       title: 'ICT Infrastructure '
       description: >-
