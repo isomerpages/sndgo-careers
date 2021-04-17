@@ -31,11 +31,11 @@ Be our next generation of cybersecurity leaders. Join us to shape, transform and
 
 <div class="row-testimonial">
 <div class="column-testimonial">
-<img src="/images/kee-hock.png" alt="Tan Kee Hock" title="Tech Talent" /><br><em><strong>Tan Kee Hock</strong><br> Cybersecurity Specialist, Cyber Security Group<br>GovTech</em><br>
-<br>“As a Red Team member, I conduct security assessments on Government products to identify vulnerabilities before an attacker does. These security assessments help to keep our digital services safe from the ever-changing cybersecurity landscape.”<br><br></div>
+<img src="/images/kee-hock.png" alt="Tan Kee Hock" title="Tech Talent" /><br><em><strong>Tan Kee Hock</strong><br> Cybersecurity Specialist, Cyber Security Group， <br>GovTech</em><br><br>
+	“As a Red Team member, I conduct security assessments on Government products to identify vulnerabilities before an attacker does. These security assessments help to keep our digital services safe from the ever-changing cybersecurity landscape.”<br><br></div>
 <div class="column-testimonial">
-<img src="/images/heng-tian-hao.png" alt="Heng Tian Hao" title="Tech Talent" /><br><em><strong>Heng Tian Hao</strong><br>Senior Engineer<br> Cybersecurity Programme Centre<br>DSTA</em><br>
-<br>“Protecting the cybersecurity of our defence systems is an ongoing battle – with new vulnerabilities and their exploits discovered every day, it could lead to serious real-world implications if left undetected. As someone who looks forward to overcoming fresh challenges, it is an exciting field to be in while playing a part in the cyber defence of our nation.”<br><br></div>
+<img src="/images/heng-tian-hao.png" alt="Heng Tian Hao" title="Tech Talent" /><br><em><strong>Heng Tian Hao</strong><br>Senior Engineer<br> Cybersecurity Programme Centre， <br>DSTA</em><br><br>
+	“Protecting the cybersecurity of our defence systems is an ongoing battle – with new vulnerabilities and their exploits discovered every day, it could lead to serious real-world implications if left undetected. As someone who looks forward to overcoming fresh challenges, it is an exciting field to be in while playing a part in the cyber defence of our nation.”<br><br></div>
 <div class="column-testimonial">
 <img src="/images/jonathan-samraj.png" alt="Jonathan Samraj" title="Tech Talent" /><br><em><strong>Jonathan Samraj</strong><br>Senior Manager, Telecom Cybersecurity Engineer & Specialist Office, IMDA</em><br><br>
 “Harnessing data to meet evolving cybersecurity threats head on is truly an exciting role which involves drawing knowledge from multiple disciplines and coordinating with a variety of stakeholders. The challenge of helping the nation stay ahead of our adversaries makes this role a fulfilling and enriching one indeed.”<br><br></div>
