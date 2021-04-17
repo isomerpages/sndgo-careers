@@ -19,15 +19,25 @@ Be our next generation of cybersecurity leaders. Join us to shape, transform and
 <div class="row-testimonial">
 <div class="column-testimonial">
 <img src="/images/kok-kiat-han.png" alt="Kok Kiat Han" title="Tech Talent" /><br>
-<em><strong>Kok Kiat Han</strong><br>Cyber Threat Intelligence Analyst, National Cyber Threat Monitoring Centre<br>CSA</em><br>
+<em><strong>Kok Kiat Han</strong><br>Cyber Threat Intelligence Analyst, National Cyber Threat Monitoring Centre, CSA</em><br><br>
 “Knowing I am part of the team that helps Singapore stay safe in cyberspace motivates me to give my very best. I want our Smart Nation to become even smarter, and cybersecurity plays a big part in ensuring what is built is safe and secure.”<br><br></div>
 <div class="column-testimonial">
-<img src="/images/sean-tan.png" alt="Sean Tan" title="Tech Talent" /><br><em><strong>Sean Tan</strong><br> Head, Planning & Architecture, Cybersecurity Centre of Expertise<br>HTX</em><br>
-<br>“With the constant drive for digitalisation and building a Smart Nation, I see myself contributing to a safer and more secured digital experience for the nation, allowing individuals, regardless of age, to feel that the digitalisation by the nation is safe and a smarter way of life.”<br><br></div>
+<img src="/images/sean-tan.png" alt="Sean Tan" title="Tech Talent" /><br><em><strong>Sean Tan</strong><br> Head, Planning & Architecture, Cybersecurity Centre of Expertise, <br>HTX</em><br><br>
+	“With the constant drive for digitalisation and building a Smart Nation, I see myself contributing to a safer and more secured digital experience for the nation, allowing individuals, regardless of age, to feel that the digitalisation by the nation is safe and a smarter way of life.”<br><br></div>
 <div class="column-testimonial">
-<img src="/images/lee-min-yi.png" alt="Lee Min Yi" title="Tech Talent" /><br><em><strong>Lee Min Yi</strong><br> Senior Engineer, Cybersecurity Programme Centre<br>DSTA</em><br><br>
+<img src="/images/lee-min-yi.png" alt="Lee Min Yi" title="Tech Talent" /><br><em><strong>Lee Min Yi</strong><br> Senior Engineer, Cybersecurity Programme Centre, <br>DSTA</em><br><br>
 “I fuse smart technologies into the digital solutions we design, develop and implement for Singapore’s defence, such as the Cyber Security Operations Centre 2.0 which enhances MINDEF/SAF’s ability to monitor, detect, analyse and respond to cyber incidents. The team integrated AI and machine learning techniques that allow it to learn and adapt constantly to evolving threats.”<br><br></div>			
 </div>
+<div class="row-testimonial">
+<div class="column-testimonial">
+<img src="/images/jonathan-samraj.png" alt="Jonathan Samraj" title="Tech Talent" /><br><em><strong>Jonathan Samraj</strong><br>Senior Manager, Telecom Cybersecurity Engineer & Specialist Office, IMDA</em><br><br>
+“Harnessing data to meet evolving cybersecurity threats head on is truly an exciting role which involves drawing knowledge from multiple disciplines and coordinating with a variety of stakeholders. The challenge of helping the nation stay ahead of our adversaries makes this role a fulfilling and enriching one indeed.”<br><br></div>
+<div class="column-testimonial">
+<img src="/images/wan-pei-fen.png" alt="Wan Pei Fen" title="Tech Talent" /><br><em><strong>Wan Pei Fen</strong><br> System Engineer, National Cyber Incident Response Centre, CSA</em><br><br>
+	“At the frontline of cyberspace, our cybersecurity knowledge and skills help protect members of the public and enterprises. There are dangers and risks lurking and in cyber incident investigations, everything you analyse is unique. It’s about being inquisitive, communication and the agility to adapt to the dynamic nature of cybersecurity.”<br><br></div>
+<div class="column-testimonial"><br><br></div>			
+</div>
+
 <div class="row-testimonial">
 <div class="column-testimonial">
 <img src="/images/kee-hock.png" alt="Tan Kee Hock" title="Tech Talent" /><br><em><strong>Tan Kee Hock</strong><br> Cybersecurity Specialist, Cyber Security Group<br>GovTech</em><br>
