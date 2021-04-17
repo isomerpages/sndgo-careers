@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Government of Singapore
+title: Smart Moves Ahead
 description: Careers at Smart Nation Singapore
 image: /images/isomer-logo.svg
 permalink: /
