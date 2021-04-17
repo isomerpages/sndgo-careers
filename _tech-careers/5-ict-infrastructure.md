@@ -16,7 +16,7 @@ You will discover ICT infrastructure building blocks like the Singapore Governme
 
 <div class="row-testimonial">
 <div class="column-testimonial">
-<img src="/images/reuben-wong.png" alt="Reuben Wong" title="Tech Talent" /><br><em><strong>Reuben Wong</strong><br>Senior Manager, Infrastructure Planning & Facilitation, IMDA</em><br><br>
+<img src="/images/reuben-wong.png" alt="Reuben Wong" title="Tech Talent" /><br><em><strong>Reuben Wong</strong><br><span style="font-size:10px">Senior Manager, Infrastructure Planning & Facilitation, IMDA</span></em><br><br>
 	“The digital infrastructure work we do provides the foundation for enabling Smart Nation related initiatives. Whether in data centres, 5G, or connectivity, these will remain critical pillars to enable all sorts of Smart Nation related applications.”<br><br></div> 
 	
 <div class="column-testimonial">
