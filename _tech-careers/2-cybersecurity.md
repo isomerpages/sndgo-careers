@@ -28,15 +28,6 @@ Be our next generation of cybersecurity leaders. Join us to shape, transform and
 <img src="/images/lee-min-yi.png" alt="Lee Min Yi" title="Tech Talent" /><br><em><strong>Lee Min Yi</strong><br> Senior Engineer, Cybersecurity Programme Centre, <br>DSTA</em><br><br>
 “I fuse smart technologies into the digital solutions we design, develop and implement for Singapore’s defence, such as the Cyber Security Operations Centre 2.0 which enhances MINDEF/SAF’s ability to monitor, detect, analyse and respond to cyber incidents. The team integrated AI and machine learning techniques that allow it to learn and adapt constantly to evolving threats.”<br><br></div>			
 </div>
-<div class="row-testimonial">
-<div class="column-testimonial">
-<img src="/images/jonathan-samraj.png" alt="Jonathan Samraj" title="Tech Talent" /><br><em><strong>Jonathan Samraj</strong><br>Senior Manager, Telecom Cybersecurity Engineer & Specialist Office, IMDA</em><br><br>
-“Harnessing data to meet evolving cybersecurity threats head on is truly an exciting role which involves drawing knowledge from multiple disciplines and coordinating with a variety of stakeholders. The challenge of helping the nation stay ahead of our adversaries makes this role a fulfilling and enriching one indeed.”<br><br></div>
-<div class="column-testimonial">
-<img src="/images/wan-pei-fen.png" alt="Wan Pei Fen" title="Tech Talent" /><br><em><strong>Wan Pei Fen</strong><br> System Engineer, National Cyber Incident Response Centre, CSA</em><br><br>
-	“At the frontline of cyberspace, our cybersecurity knowledge and skills help protect members of the public and enterprises. There are dangers and risks lurking and in cyber incident investigations, everything you analyse is unique. It’s about being inquisitive, communication and the agility to adapt to the dynamic nature of cybersecurity.”<br><br></div>
-<div class="column-testimonial"><br><br></div>			
-</div>
 
 <div class="row-testimonial">
 <div class="column-testimonial">
@@ -45,7 +36,17 @@ Be our next generation of cybersecurity leaders. Join us to shape, transform and
 <div class="column-testimonial">
 <img src="/images/heng-tian-hao.png" alt="Heng Tian Hao" title="Tech Talent" /><br><em><strong>Heng Tian Hao</strong><br>Senior Engineer<br> Cybersecurity Programme Centre<br>DSTA</em><br>
 <br>“Protecting the cybersecurity of our defence systems is an ongoing battle – with new vulnerabilities and their exploits discovered every day, it could lead to serious real-world implications if left undetected. As someone who looks forward to overcoming fresh challenges, it is an exciting field to be in while playing a part in the cyber defence of our nation.”<br><br></div>
-<div class="column-testimonial"></div>
+<div class="column-testimonial">
+<img src="/images/jonathan-samraj.png" alt="Jonathan Samraj" title="Tech Talent" /><br><em><strong>Jonathan Samraj</strong><br>Senior Manager, Telecom Cybersecurity Engineer & Specialist Office, IMDA</em><br><br>
+“Harnessing data to meet evolving cybersecurity threats head on is truly an exciting role which involves drawing knowledge from multiple disciplines and coordinating with a variety of stakeholders. The challenge of helping the nation stay ahead of our adversaries makes this role a fulfilling and enriching one indeed.”<br><br></div>
+</div>
+
+<div class="row-testimonial">
+<div class="column-testimonial">
+<img src="/images/wan-pei-fen.png" alt="Wan Pei Fen" title="Tech Talent" /><br><em><strong>Wan Pei Fen</strong><br> System Engineer, National Cyber Incident Response Centre, CSA</em><br><br>
+	“At the frontline of cyberspace, our cybersecurity knowledge and skills help protect members of the public and enterprises. There are dangers and risks lurking and in cyber incident investigations, everything you analyse is unique. It’s about being inquisitive, communication and the agility to adapt to the dynamic nature of cybersecurity.”<br><br></div>
+<div class="column-testimonial"></div>		
+<div class="column-testimonial"></div>	
 </div>
 
 ### **Get set for Smart Moves Ahead**
