@@ -16,11 +16,11 @@ You will discover ICT infrastructure building blocks like the Singapore Governme
 
 <div class="row-testimonial">
 <div class="column-testimonial">
-<img src="/images/reuben-wong.png" alt="Reuben Wong" title="Tech Talent" /><br><em><strong>Reuben Wong</strong><br>Senior Manager, Infrastructure Planning & Facilitation, <br>IMDA</em><br><br>
+<img src="/images/reuben-wong.png" alt="Reuben Wong" title="Tech Talent" /><br><em><strong>Reuben Wong</strong><br>Senior Manager, Infrastructure Planning & Facilitation, IMDA</em><br><br>
 	“The digital infrastructure work we do provides the foundation for enabling Smart Nation related initiatives. Whether in data centres, 5G, or connectivity, these will remain critical pillars to enable all sorts of Smart Nation related applications.”<br><br></div> 
 	
 <div class="column-testimonial">
-<img src="/images/foo-zi-hui.png" alt="Foo Zi Hui" title="Tech Talent" /><br><em><strong>Foo Zi Hui</strong><br>Infrastructure Engineer, Government Infrastructure Group, <br>GovTech</em><br><br>
+<img src="/images/foo-zi-hui.png" alt="Foo Zi Hui" title="Tech Talent" /><br><em><strong>Foo Zi Hui</strong><br>Infrastructure Engineer, Government Infrastructure Group, GovTech</em><br><br>
 	“My main responsibility is to configure and maintain a cloud environment that is secure to host applications. Knowing that my work contributes to the Smart Nation goal keeps me motivated to offer what I can to actualise the goals.”<br><br></div>      
 	
 <div class="column-testimonial"><img src="/images/kenneth-yeo.png" alt="Kenneth Yeo" title="Tech Talent" /><br><em><strong>Kenneth Yeo, </strong><br>Application Infrastructure, Government Infrastructure Group,  GovTech</em><br><br>
