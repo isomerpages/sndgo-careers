@@ -1,5 +1,5 @@
 ---
-layout: landing-page
+layout: homepage
 title: Government of Singapore
 description: Careers at Smart Nation Singapore
 image: /images/isomer-logo.svg
