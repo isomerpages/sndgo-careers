@@ -19,14 +19,6 @@ sections:
         Government’s Information and Communications Technology & Smart Systems
         (ICT&SS) sector.
       url: /faq/
- <img
-    class="circuit-board-divider"
-    src="{{site.baseurl}}/images/circuit_board_big.svg"
-    width="100%"
-    height="auto"
-    position="absolute"
-    top="0"
-  />
   - infopic:
       title: App Design & Development
       description: >-
