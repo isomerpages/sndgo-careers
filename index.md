@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Smart Moves Ahead
+title: Government of Singapore
 description: Careers at Smart Nation Singapore
 image: /images/isomer-logo.svg
 permalink: /
@@ -19,6 +19,7 @@ sections:
         Government’s Information and Communications Technology & Smart Systems
         (ICT&SS) sector.
       url: /faq/
+<div class:"content">
   - infopic:
       title: App Design & Development
       description: >-
@@ -74,4 +75,5 @@ sections:
       url: /tech-careers/tech-policy-and-governance/
       image: /images/tech-governance.png
       alt: 'Tech Policy & Governance '
+</div>
 ---
