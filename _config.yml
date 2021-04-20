@@ -15,9 +15,6 @@ colors:
       color: '#00838f'
     - title: media-color-five
       color: '#00838f'
-collections:
-  tech-careers:
-    output: true
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ''
@@ -46,13 +43,16 @@ custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-plugins:
-  - jekyll-feed
-  - jekyll-assets
-  - jekyll-paginate
-  - jekyll-sitemap
 resources_name: ''
 shareicon: /images/logo-shared.png
 
 # Homepage sections
 homepage_resources: true
+staging: https://sndgo-careers-staging.netlify.app
+prod: https://sndgo-careers-prod.netlify.app
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
