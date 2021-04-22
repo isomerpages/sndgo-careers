@@ -402,7 +402,6 @@ $desktop: 960px + (2 * $gap) !default;
 .bg-newssection {
   background-color: transparent;
 }
-.bp-section:first-child {
+#main-content > section:nth-child(3) {
   background: #e1dfe0;
 }
-
