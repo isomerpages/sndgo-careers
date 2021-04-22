@@ -394,4 +394,7 @@ $desktop: 960px + (2 * $gap) !default;
     width: 33%;
   }
 }
-
+#main-content {
+  background: url(http://ydsp-dsta.mandatecomms.sg/bg-icn.svg) center no-repeat, linear-gradient(0deg, rgba(194,199,203,1) 0%, rgba(231,233,234,0.8) 48%, rgba(255,255,255,1) 100%);
+  background-size: contain; 
+}
