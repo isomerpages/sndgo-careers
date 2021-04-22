@@ -397,12 +397,12 @@ $desktop: 960px + (2 * $gap) !default;
 
 #main-content {
   background: url({{site.baseurl}}/images/bg-icn.svg) center 500px no-repeat, linear-gradient(0deg, rgba(194,199,203,1) 0%, rgba(231,233,234,0.8) 48%, rgba(255,255,255,1) 100%);
-    background-size: contain; 
-    .bp-section:first-child {
-      background: #e1dfe0;
-  }
+  background-size: cover;
 }
 .bg-newssection {
   background-color: transparent;
+}
+#main-content .bp-section:first-child {
+  background: #e1dfe0;
 }
 
