@@ -404,4 +404,6 @@ $desktop: 960px + (2 * $gap) !default;
 }
 #main-content > section:nth-child(3) {
   background: #e1dfe0;
+  padding-top: 10px;
+  padding-bottom: 60px;
 }
