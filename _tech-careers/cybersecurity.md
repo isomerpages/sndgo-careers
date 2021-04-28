@@ -34,17 +34,17 @@ Be our next generation of cybersecurity leaders. Join us to shape, transform and
 <img src="/images/kee-hock.png" alt="Tan Kee Hock" title="Tech Talent" /><br><em><strong>Tan Kee Hock</strong><br><span style="font-size:13px; line-height:14px">Cybersecurity Specialist, Cyber Security Group, GovTech</span></em><br><br>
 	“As a Red Team member, I conduct security assessments on Government products to identify vulnerabilities before an attacker does. These security assessments help to keep our digital services safe from the ever-changing cybersecurity landscape.”<br><br></div>
 <div class="column-testimonial">
-<img src="/images/heng-tian-hao.png" alt="Heng Tian Hao" title="Tech Talent" /><br><em><strong>Heng Tian Hao</strong><br>Senior Engineer<br><span style="font-size:13px; line-height:14px"> Cybersecurity Programme Centre, DSTA</span></em><br><br>
-	“Protecting the cybersecurity of our defence systems is an ongoing battle – with new vulnerabilities and their exploits discovered every day, it could lead to serious real-world implications if left undetected. As someone who looks forward to overcoming fresh challenges, it is an exciting field to be in while playing a part in the cyber defence of our nation.”<br><br></div>
-<div class="column-testimonial">
 <img src="/images/jonathan-samraj.png" alt="Jonathan Samraj" title="Tech Talent" /><br><em><strong>Jonathan Samraj</strong><br><span style="font-size:13px; line-height:14px">Senior Manager, Telecom Cybersecurity Engineer & Specialist Office, IMDA</span></em><br><br>
 “Harnessing data to meet evolving cybersecurity threats head on is truly an exciting role which involves drawing knowledge from multiple disciplines and coordinating with a variety of stakeholders. The challenge of helping the nation stay ahead of our adversaries makes this role a fulfilling and enriching one indeed.”<br><br></div>
 </div>
-
-<div class="row-testimonial">
 <div class="column-testimonial">
 <img src="/images/wan-pei-fen.png" alt="Wan Pei Fen" title="Tech Talent" /><br><em><strong>Wan Pei Fen</strong><br><span style="font-size:13px; line-height:14px"> System Engineer, National Cyber Incident Response Centre, CSA</span></em><br><br>
 	“At the frontline of cyberspace, our cybersecurity knowledge and skills help protect members of the public and enterprises. There are dangers and risks lurking and in cyber incident investigations, everything you analyse is unique. It’s about being inquisitive, communication and the agility to adapt to the dynamic nature of cybersecurity.”<br><br></div>
+
+<div class="row-testimonial">
+<div class="column-testimonial">
+<img src="/images/heng-tian-hao.png" alt="Heng Tian Hao" title="Tech Talent" /><br><em><strong>Heng Tian Hao</strong><br>Senior Engineer<br><span style="font-size:13px; line-height:14px"> Cybersecurity Programme Centre, DSTA</span></em><br><br>
+	“Protecting the cybersecurity of our defence systems is an ongoing battle – with new vulnerabilities and their exploits discovered every day, it could lead to serious real-world implications if left undetected. As someone who looks forward to overcoming fresh challenges, it is an exciting field to be in while playing a part in the cyber defence of our nation.”<br><br></div>
 <div class="column-testimonial"></div>		
 <div class="column-testimonial"></div>	
 </div>
