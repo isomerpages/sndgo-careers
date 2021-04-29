@@ -394,19 +394,3 @@ $desktop: 960px + (2 * $gap) !default;
     width: 33%;
   }
 }
-
-#main-content {
-  background: url({{site.baseurl}}/images/bg-icn.svg) center 600px no-repeat, linear-gradient(0deg, rgba(194,199,203,1) 0%, rgba(231,233,234,0.8) 48%, rgba(255,255,255,1) 100%);
-  background-size: contain;
-}
-#main-content > section.bp-hero.bg-hero > div > div > div > div {
-  padding-top: 3rem;
-}
-.bg-newssection {
-  background-color: transparent;
-}
-#main-content > section:nth-child(3) {
-  background: #e1dfe0;
-  padding-top: 10px;
-  padding-bottom: 60px;
-}
