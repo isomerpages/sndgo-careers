@@ -6,11 +6,11 @@ permalink: /tech-careers/geospatial
 
 ### **Geospatial**
 
-Model, simulate and analyse the urban environment. Plan and manage city operations effectively. Visualise and experiment with assets digitally.<br><br>
+Model, simulate and analyse the urban environment. Plan and manage city operations effectively. Visualise and experiment with assets digitally.<br>
  
-Beyond the display of information on a map, geospatial information and technology enables government and businesses to analyse patterns and generate insights to make more informed decisions and execute seamless operations. In addition, Geospatial information and technology is essential to our daily lives, driving everyday applications such as private hire, food delivery, and navigation. 
+Beyond the display of information on a map, geospatial information and technology enables government and businesses to analyse patterns and generate insights to make more informed decisions and execute seamless operations. In addition, Geospatial information and technology is essential to our daily lives, driving everyday applications such as private hire, food delivery, and navigation. <br>
  
-Geospatial is multi-faceted, encompassing the areas of: Mapping and Remote Sensing, Geospatial Data and Database Management, Geospatial Information System (GIS) Design, Development and Management, and Geospatial Modelling and Analysis. When you choose a career as a Geospatial Engineer, you embark on a journey of discovery and change.
+Geospatial is multi-faceted, encompassing the areas of: Mapping and Remote Sensing, Geospatial Data and Database Management, Geospatial Information System (GIS) Design, Development and Management, and Geospatial Modelling and Analysis. When you choose a career as a Geospatial Engineer, you embark on a journey of discovery and change.<br>
  
 The deep expertise you develop will drive Singapore’s digital transformation into a Smart Nation.
 
