@@ -6,7 +6,7 @@ permalink: /tech-careers/geospatial
 
 ### **Geospatial**
 
-Model, simulate and analyse the urban environment. Plan and manage city operations effectively. Visualise and experiment with assets digitally.
+Model, simulate and analyse the urban environment. Plan and manage city operations effectively. Visualise and experiment with assets digitally.<br><br>
  
 Beyond the display of information on a map, geospatial information and technology enables government and businesses to analyse patterns and generate insights to make more informed decisions and execute seamless operations. In addition, Geospatial information and technology is essential to our daily lives, driving everyday applications such as private hire, food delivery, and navigation. 
  
