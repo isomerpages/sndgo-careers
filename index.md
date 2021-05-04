@@ -66,4 +66,6 @@ sections:
       url: /tech-careers/tech-policy-and-governance/
       image: /images/tech-governance.png
       alt: "Tech Policy & Governance "
+  - infobar:
+      url: https://www.youtube.com/watch?v=FzegM1m4_GI
 ---
