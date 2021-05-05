@@ -8,6 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/hero-banner.gif
+      title: SMART MOVES AHEAD
   - infobar:
       title: Join us
       description: Champion tech for public good via a multifaceted career in the
