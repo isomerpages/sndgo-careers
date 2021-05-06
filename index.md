@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/hero-banner.gif
-      title: "       "
+      title: "                          "
   - infobar:
       title: Join us
       description: Champion tech for public good via a multifaceted career in the
