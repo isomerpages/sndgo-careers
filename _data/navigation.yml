@@ -5,4 +5,4 @@ links:
   - title: Events
     url: /events/
   - title: Job Profiles
-    url: /job-profiles/
+    collection: job-profiles
