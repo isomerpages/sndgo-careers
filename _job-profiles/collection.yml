@@ -1,0 +1,4 @@
+collections:
+  job-profiles:
+    output: true
+    order: []
