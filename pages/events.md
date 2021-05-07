@@ -2,6 +2,10 @@
 title: Videos
 permalink: /videos
 ---
+## **Smart Moves Ahead**
+
+Every day, in bold new ways, tech talents are leading the way in new Smart possibilities on a national scale. Be a trailblazer. Join us on our Smart Nation journey.
+
 <div class="events-video" ><iframe width="640" height="360" src="https://www.youtube.com/embed/FzegM1m4_GI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## **SG Tech Forum 2020**
