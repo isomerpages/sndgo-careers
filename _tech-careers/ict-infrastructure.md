@@ -22,18 +22,13 @@ You will discover ICT infrastructure building blocks like the Singapore Governme
 <div class="column-testimonial">
 <img src="/images/foo-zi-hui.png" alt="Foo Zi Hui" title="Tech Talent" /><br><em><strong>Foo Zi Hui</strong><br><span style="font-size:13px; line-height:14px">Infrastructure Engineer, Government Infrastructure Group, GovTech</span></em><br><br>
 	“My main responsibility is to configure and maintain a cloud environment that is secure to host applications. Knowing that my work contributes to the Smart Nation goal keeps me motivated to offer what I can to actualise the goals.”<br><br></div> 
-	
-<div class="column-testimonial">
-<img src="/images/ong-ling-ling.png" alt="Ong Ling Ling" title="Tech Talent" /><br><em><strong>Ong Ling Ling</strong><br><span style="font-size:13px; line-height:14px">Senior Manager, National Infocomm Infrastructure, IMDA</span></em><br><br>
-	“Work hard, play hard! That's what I do! In my role, I constantly pursue new knowledge to understand how rapidly evolving technologies can be leveraged on. Our aim is to make use of advanced applications such as AR, VR, MR and ER to solve challenges faced today for a better tomorrow!”<br><br></div> 
-	
+
 <div class="row-testimonial">
-<div class="column-testimonial"><img src="/images/kenneth-yeo.png" alt="Kenneth Yeo" title="Tech Talent" /><br><em><strong>Kenneth Yeo, </strong><br><span style="font-size:13px; line-height:14px">Application Infrastructure, Government Infrastructure Group,  GovTech</span></em><br><br>
+<img src="/images/kenneth-yeo.png" alt="Kenneth Yeo" title="Tech Talent" /><br><em><strong>Kenneth Yeo, </strong><br><span style="font-size:13px; line-height:14px">Application Infrastructure, Government Infrastructure Group,  GovTech</span></em><br><br>
 	“My work cuts across multiple ICT&SS domain areas that include app infrastructure and cybersecurity. I’m constantly provided with challenging tech problems to resolve and I enjoy every moment of it. Each challenge is a learning opportunity.”<br><br></div>   
 </div>
-<div class="column-testimonial"></div> 
-<div class="column-testimonial"></div> 
-</div> 
+	
+	
 
 ### **Get set for Smart Moves Ahead**
 Discover ICT infrastructure career opportunities in these agencies.
