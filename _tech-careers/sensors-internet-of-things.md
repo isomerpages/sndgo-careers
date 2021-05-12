@@ -33,8 +33,8 @@ Join one of our many teams to implement meaningful projects that impact the nati
 <img src="/images/lau-lee-hong.png" alt="Lau Lee Hong" title="Tech Talent" /><br><em><strong>Lau Lee Hong</strong><br><span style="font-size:13px; line-height:14px">Associate Embedded Engineer, Sensors & Internet of Things, GovTech</span></em><br><br>
 “I lead a team of engineers to digitise our national parks and gardens. What excites me is, from the products we build and deploy, we get to constantly redefine what a Smart Nation really is!”<br><br></div>
 <div class="column-testimonial">
-<img src="/images/derek-nam.png" alt="Derek Nam" title="Tech Talent" /><br><em><strong>Derek Nam</strong><br><span style="font-size:13px; line-height:14px">Associate Software Engineer, Sensors and Internet of Things, GovTech</span></em><br><br>
-“My team provides value to various government agencies, and they in turn provide value to our citizens. As a backend engineer in SIOT, most of my work revolves around data acquisition, storage and information retrieval components in software systems. I feel proud to be able to contribute to Singapore in my small ways.”<br><br></div>
+<img src="/images/ong-ling-ling.png" alt="Ong Ling Ling" title="Tech Talent" /><br><em><strong>Ong Ling Ling</strong><br><span style="font-size:13px; line-height:14px">Senior Manager, National Infocomm Infrastructure, IMDA</span></em><br><br>
+	“Work hard, play hard! That's what I do! In my role, I constantly pursue new knowledge to understand how rapidly evolving technologies can be leveraged on. Our aim is to make use of advanced applications such as AR, VR, MR and ER to solve challenges faced today for a better tomorrow!”<br><br></div> 
 </div>
 
 ### **Get set for Smart Moves Ahead**
