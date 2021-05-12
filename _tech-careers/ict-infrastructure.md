@@ -23,7 +23,7 @@ You will discover ICT infrastructure building blocks like the Singapore Governme
 <img src="/images/foo-zi-hui.png" alt="Foo Zi Hui" title="Tech Talent" /><br><em><strong>Foo Zi Hui</strong><br><span style="font-size:13px; line-height:14px">Infrastructure Engineer, Government Infrastructure Group, GovTech</span></em><br><br>
 	“My main responsibility is to configure and maintain a cloud environment that is secure to host applications. Knowing that my work contributes to the Smart Nation goal keeps me motivated to offer what I can to actualise the goals.”<br><br></div> 
 
-<div class="row-testimonial">
+<div class="column-testimonial">
 <img src="/images/kenneth-yeo.png" alt="Kenneth Yeo" title="Tech Talent" /><br><em><strong>Kenneth Yeo, </strong><br><span style="font-size:13px; line-height:14px">Application Infrastructure, Government Infrastructure Group,  GovTech</span></em><br><br>
 	“My work cuts across multiple ICT&SS domain areas that include app infrastructure and cybersecurity. I’m constantly provided with challenging tech problems to resolve and I enjoy every moment of it. Each challenge is a learning opportunity.”<br><br></div>   
 </div>
