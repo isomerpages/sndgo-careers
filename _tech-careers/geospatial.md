@@ -16,7 +16,7 @@ The deep expertise you develop will drive Singapore’s digital transformation i
 <div class="row-testimonial">
 <div class="column-testimonial">
 <img src="/images/lee-mou-jian.png" alt="Lee Mou Jian" title="Tech Talent" /><br><em><strong>Lee Mou Jian</strong><br><span style="font-size:13px; line-height:14px">Assistant Manager, Geospatial & Data Division, SLA
-</span></em><br><br>“My interest in the geospatial sector is driven by its position at the forefront of Singapore’s Smart Nation efforts. I drive strategy and implement policies for government officers to manage and share location data effectively. This helps agencies make better decisions and carry out operations more precisely, in areas such as land use, transportation, and healthcare.”<br><br></div>
+</span></em><br><br>“My interest in the geospatial sector is driven by its position at the forefront of Singapore’s Smart Nation efforts. I drive strategy and implement policies for government officers to manage and share location data effectively. This helps agencies make better decisions and carry out operations with better precision, in areas such as land use, transportation, and healthcare.”<br><br></div>
 	
 <div class="column-testimonial">
 <img src="/images/abhishek-tandon.png" alt="Abhishek Tandon" title="Tech Talent" /><br><em><strong>Abhishek Tandon</strong><br><span style="font-size:13px; line-height:14px">Deputy Director, Geospatial Development, National Parks Board (NParks)</span></em><br>
