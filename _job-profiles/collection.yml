@@ -1,0 +1,5 @@
+collections:
+  job-profiles:
+    output: true
+    order:
+      - overview.md

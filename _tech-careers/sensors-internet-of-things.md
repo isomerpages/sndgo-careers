@@ -16,25 +16,25 @@ Join one of our many teams to implement meaningful projects that impact the nati
 
 <div class="row-testimonial">
 <div class="column-testimonial">
-<img src="/images/brandon-chua.png" alt="Brandon Chua" title="Tech Talent" /><br><em><strong>Brandon Chua</strong><br>Engineer, Sense-making & Surveillance Centre of Expertise<br>HTX
-</em><br><br>“We specialise in R&D for the computer vision field, where we harness new technology such as AI. Best of all, I can see the fruits of my labour being implemented to enhance the safety of our citizens, which includes my family and loved ones.”<br><br></div>	
+<img src="/images/brandon-chua.png" alt="Brandon Chua" title="Tech Talent" /><br><em><strong>Brandon Chua</strong><br><span style="font-size:13px; line-height:14px">Engineer, Sense-making & Surveillance Centre of Expertise, HTX</span></em><br><br>
+	“We specialise in R&D for the computer vision field, where we harness new technology such as AI. Best of all, I can see the fruits of my labour being implemented to enhance the safety of our citizens, which includes my family and loved ones.”<br><br></div>	
 <div class="column-testimonial">
-<img src="/images/kok-boon.png" alt="Goh Kok Boon" title="Tech Talent" /><br><em><strong>Goh Kok Boon </strong><br>Embedded Engineer, Sensors & Internet of Things,<br>GovTech</em><br><br>
+<img src="/images/kok-boon.png" alt="Goh Kok Boon" title="Tech Talent" /><br><em><strong>Goh Kok Boon </strong><br><span style="font-size:13px; line-height:14px">Embedded Engineer, Sensors & Internet of Things, GovTech</span></em><br><br>
 “I code for nation-wide projects that allows me to push the frontier of Singapore’s technological landscape in Sensors and Internet of Things. The work that I do gives me purpose when I witness how they can impact and improve the lives of my loved ones.”<br><br></div>
 <div class="column-testimonial">
-<img src="/images/chandrasehar.png" alt="Chandrasehar S/O Rajaseharan" title="Tech Talent" /><br><em><strong>Chandrasehar S/O Rajaseharan</strong><br>Engineer, Sense-making & Surveillance Centre of Expertise<br>HTX</em><br><br>
-“The challenges in designing the best video analytics solutions and the need to always keep track of new trends in technology, motivates me to push on in my work, knowing that what we design will lead to a more secure environment for our nation, including my loved ones.”<br><br></div>
+<img src="/images/ong-ling-ling.png" alt="Ong Ling Ling" title="Tech Talent" /><br><em><strong>Ong Ling Ling</strong><br><span style="font-size:13px; line-height:14px">Senior Manager, National Infocomm Infrastructure, IMDA</span></em><br><br>
+	“Work hard, play hard! That's what I do! In my role, I constantly pursue new knowledge to understand how rapidly evolving technologies can be leveraged on. Our aim is to make use of advanced applications such as AR, VR, MR and ER to solve challenges faced today for a better tomorrow!”<br><br></div> 
 </div>
 <div class="row-testimonial">
 <div class="column-testimonial">
-<img src="/images/christopher-tong.png" alt="Christopher Tong" title="Tech Talent" /><br><em><strong>Christopher Tong</strong><br>Associate Product Manager<br> Sensors & Internet of Things, <br>GovTech
-</em><br><br>“I work with local partners and government agencies to scale applications in Infrastructure communication (V2X), lighting, energy management and IOT Sensing and computing. I’m proud to be part of the urban innovation team that digitally transforms Singapore to become a Smart Nation.”<br><br></div>	
+<img src="/images/chandrasehar.png" alt="Chandrasehar S/O Rajaseharan" title="Tech Talent" /><br><em><strong>Chandrasehar S/O Rajaseharan</strong><br><span style="font-size:13px; line-height:14px">Engineer, Sense-making & Surveillance Centre of Expertise, HTX</span></em><br><br>
+“The challenges in designing the best video analytics solutions and the need to always keep track of new trends in technology, motivates me to push on in my work, knowing that what we design will lead to a more secure environment for our nation, including my loved ones.”<br><br></div>
 <div class="column-testimonial">
-<img src="/images/lau-lee-hong.png" alt="Lau Lee Hong" title="Tech Talent" /><br><em><strong>Lau Lee Hong</strong><br>Associate Embedded Engineer<br> Sensors & Internet of Things<br>GovTech</em><br><br>
+<img src="/images/christopher-tong.png" alt="Christopher Tong" title="Tech Talent" /><br><em><strong>Christopher Tong</strong><br><span style="font-size:13px; line-height:14px">Associate Product Manager, Sensors & Internet of Things, GovTech</span></em><br><br>
+	“I work with local partners and government agencies to scale applications in Infrastructure communication (V2X), lighting, energy management and IOT Sensing and computing. I’m proud to be part of the urban innovation team that digitally transforms Singapore to become a Smart Nation.”<br><br></div>	
+<div class="column-testimonial">
+<img src="/images/lau-lee-hong.png" alt="Lau Lee Hong" title="Tech Talent" /><br><em><strong>Lau Lee Hong</strong><br><span style="font-size:13px; line-height:14px">Associate Embedded Engineer, Sensors & Internet of Things, GovTech</span></em><br><br>
 “I lead a team of engineers to digitise our national parks and gardens. What excites me is, from the products we build and deploy, we get to constantly redefine what a Smart Nation really is!”<br><br></div>
-<div class="column-testimonial">
-<img src="/images/derek-nam.png" alt="Derek Nam" title="Tech Talent" /><br><em><strong>Derek Nam</strong><br>Associate Software Engineer<br> Sensors and Internet of Things<br> GovTech</em><br><br>
-“My team provides value to various government agencies, and they in turn provide value to our citizens. As a backend engineer in SIOT, most of my work revolves around data acquisition, storage and information retrieval components in software systems. I feel proud to be able to contribute to Singapore in my small ways.”<br><br></div>
 </div>
 
 ### **Get set for Smart Moves Ahead**
@@ -47,6 +47,7 @@ Discover sensors & IoT career opportunities in these agencies.
 <div class="column-agencies"><a href="https://go.gov.sg/GovTechCareers" target="new"><img src="/images/logo-govtech.png" alt="GovTech" title="GovTech"/></a></div>
 <div class="column-agencies"><a href="https://www.hdb.gov.sg/cs/infoweb/about-us/careers/career-opportunities" target="new"><img src="/images/logo-hdb.png" alt="HDB" title="HDB"/></a></div>
 <div class="column-agencies"><a href="https://www.htx.gov.sg/join-us/careers" target="new"><img src="/images/logo-htx.png" alt="HTX" title="HTX"/></a></div>
+<div class="column-agencies"><a href="https://www.imda.gov.sg/Who-We-Are/careers" target="new"><img src="/images/logo-imda.png" alt="IMDA" title="IMDA"/></a></div>
 <div class="column-agencies"><a href="https://careers.pageuppeople.com/688/cwlive/en/listing/" target="new"><img src="/images/logo-lta.png" alt="LTA" title="LTA"/></a></div>
 <div class="column-agencies"><a href="https://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=singapore%20land%20authority&job-mail-subscribe-privacy=agree" target="new"><img src="/images/logo-sla.png" alt="SLA" title="SLA"/></a></div>
 </div>

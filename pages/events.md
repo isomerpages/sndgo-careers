@@ -1,7 +1,13 @@
 ---
-title: Events
-permalink: /events
+title: Videos
+permalink: /videos
 ---
+## **One Career, Infinite Opportunities**
+
+Explore a tech career with infinite opportunities to utilise your skills for public good. Here's a preview of a few of the many tech roles we have in the Public Service. Which one fits you?
+
+<div class="events-video" ><iframe width="640" height="360" src="https://www.youtube.com/embed/8XuWICB87zc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 ## **SG Tech Forum 2020**
 
 ### **Cybersecurity**

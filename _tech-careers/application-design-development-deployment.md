@@ -17,10 +17,12 @@ Be empowered to create next-generation digital experiences and provide solutions
 
 <div class="row-testimonial">
 <div class="column-testimonial">
-<img src="/images/muhammad-hafidzuddin.png" alt="Muhammad Hafidzuddin" title="Tech Talent" /><br><em><strong>Muhammad Hafidzuddin  </strong><br>Software Engineer, Government Digital Services <br>GovTech </em><br>“I continuously get excited about the apps I can build to benefit people. Ultimately, we hope to positively impact every Singaporean by improving their digital experience and relationship with government services.”<br><br></div>
+<img src="/images/muhammad-hafidzuddin.png" alt="Muhammad Hafidzuddin" title="Tech Talent" /><br><em><strong>Muhammad Hafidzuddin  </strong><br><span style="font-size:13px; line-height:14px">Software Engineer, Government Digital Services, GovTech </span></em><br><br>
+	“I continuously get excited about the apps I can build to benefit people. Ultimately, we hope to positively impact every Singaporean by improving their digital experience and relationship with government services.”<br><br></div>
 	
 <div class="column-testimonial">
-<img src="/images/charis-anne-lim.png" alt="Charis Anne Lim" title="Tech Talent" /><br><em><strong>Charis Anne Lim</strong><br>UX Designer, Government Digital Services<br>GovTech </em><br>“As a UX Designer, I enjoy co-creating digital products with and for citizens. I like the challenge of conceptualising service journeys that span across different agencies and transforming the gathered insights into accessible, human-centred digital services.”<br><br></div>
+<img src="/images/charis-anne-lim.png" alt="Charis Anne Lim" title="Tech Talent" /><br><em><strong>Charis Anne Lim</strong><br><span style="font-size:13px; line-height:14px">UX Designer, Government Digital Services, GovTech </span></em><br><br>
+	“As a UX Designer, I enjoy co-creating digital products with and for citizens. I like the challenge of conceptualising service journeys that span across different agencies and transforming the gathered insights into accessible, human-centred digital services.”<br><br></div>
 <div class="column-testimonial"></div>
 </div>
 
