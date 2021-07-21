@@ -32,7 +32,6 @@ permalink: /job-profiles/tech-policy-officer
     <li>Strong communication, interpersonal skill and stakeholder management to work and build relationships with a range of stakeholders holding different views</li>
     <li>Excellent analytical and problem-solving skills, and strong writing ability</li>
     <li>Sharp policy development skills</li>
-</li>
     </ul></p>
   </div>
   <div class="column-1 box reverse">
