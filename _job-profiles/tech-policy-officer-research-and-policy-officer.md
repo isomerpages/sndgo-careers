@@ -2,7 +2,7 @@
 title: Tech Policy Officer, Research and Policy Officer
 permalink: /job-profiles/tech-policy-officer
 ---
-### **Tech Policy Officer**
+### **Tech Policy Officer, Research and Policy Officer**
 
 <div class="profiles-expert">
   <div class="column-1 box">
