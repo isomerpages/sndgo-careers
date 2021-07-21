@@ -6,4 +6,6 @@ links:
     url: /videos/
   - title: Job Profiles
     url: /job-profiles/tech-policy-officer
-    sublinks: []
+    sublinks:
+      - title: Tech Policy Officer
+        url: /tech-policy-officer
