@@ -4,5 +4,6 @@ links:
     collection: tech-careers
   - title: Videos
     url: /videos/
-  - title: Media Hub
-    resource_room: true
+  - title: Job Profiles
+    url: /job-profiles/
+    sublinks: []
