@@ -1,5 +1,4 @@
 collections:
   test:
     output: true
-    order:
-      - example-title.md
+    order: []
