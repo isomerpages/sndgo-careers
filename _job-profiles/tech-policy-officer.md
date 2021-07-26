@@ -15,7 +15,7 @@ permalink: /job-profiles/tech-policy-officer/
     </ul></td></tr>
 </table>
 
-<table width="100%">
+<table style="padding-top: 0; padding-left: 0;">
 <tr>
 <td width="65%"><ul>
     <li>Loves technology</li>
