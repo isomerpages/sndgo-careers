@@ -61,7 +61,7 @@ permalink: /job-profiles/tech-policy-officer/
 
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column"><img src="images/wong-de-ming.jpg" width="300" alt="Wong De Ming"></div>
-      <div class="column" style="width: 70%; padding-left: 20px; ">
+      <div class="column" style="width: 70%; padding-left: 20px;  padding-bottom: 10px;">
        <span style="font-size: 40px; font-weight: bold;">Wong De Ming</span><br><span style="font-size: 16px; font-style: italic;">Senior Infocomm Specialist, Infocomm Division / Infocomm Technology & Planning Branch, IRAS</span>
     <p style="font-size: 16px; line-height: 24px;">As part of the Programme Management Office team working on the next generation of IRIN, the main ICT system underpinning Singapore’s tax administration and revenue collection service, my work involves extensive planning and close collaboration with various stakeholders to ensure that the system can be delivered on time and within budget.</p><br>
       </div>
