@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - tech-policy-officer-research-and-policy-officer.md
+      - example-title.md
