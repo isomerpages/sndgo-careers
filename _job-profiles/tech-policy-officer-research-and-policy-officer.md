@@ -4,6 +4,19 @@ permalink: /job-profiles/tech-policy-officer
 ---
 ### **Tech Policy Officer, Research and Policy Officer**
 
+
+
+| <h2>WHAT YOU CAN EXPECT TO BE DOING</h2> | <ul>
+    <li>Collaborate with diverse stakeholders to shape and develop tech policies, strategies and projects in various technology domain that will create nationwide impact</li>
+    <li>Create a consensus on action from a wide spectrum of external and internal stakeholders; including multi-agency and inter-departmental teams</li>
+    <li>Develop and execute strategies to ensure effective policy implementation</li>
+    <li>Assess and balance security, usability, and cost factors for key ICT policies</li>
+    </ul> | 
+| -------- | -------- | 
+|<img src="images/job-profile-1.jpg" width="100%"> | Text     | 
+
+
+
 <div class="profiles-expert">
   <div class="column-1 box">
     <h2>WHAT YOU CAN EXPECT TO BE DOING</h2>
