@@ -14,7 +14,7 @@ permalink: /job-profiles/tech-policy-officer/
     </ul></div>
 </div>
 
-| ---------------- |
+<hr><br>
 
 <div class="row">
   <div class="column"><ul>
