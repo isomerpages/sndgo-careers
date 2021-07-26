@@ -32,7 +32,7 @@ permalink: /job-profiles/tech-policy-officer/
 </div>
 
 ### **MEET OUR EXPERT**
-<br>
+
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column" style="padding: 20px 0px 20px 20px;"><img src="images/sindhu-achudan.jpg" width="300" alt="Sindhu Achudan"></div>
       <div class="column" style="width: 70%; padding: 20px 20px 20px 20px;">
