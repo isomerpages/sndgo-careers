@@ -30,3 +30,11 @@ permalink: /job-profiles/tech-policy-officer/
     </ul></div>
 	<div class="column" style="font-size:40px; font-weight: 700; color: #333333; line-height: 40px; text-align: right;">WHO WE ARE LOOKING FOR<br><p><img src="images/job-profile-2.jpg" width="100%"></p></div>
 </div>
+
+### **MEET OUR EXPERT**
+<br>
+<div class="row">
+  <div class="column"><img src="images/sindhu-achudan.jpg" width="100%" alt="Sindhu Achudan"></div>
+	<div class="column"><span style="font-size: 40px; font-weight: bold;">Sindhu Achudan</span><br><span style="font-size: 22px; font-style: italic;">Manager, Strategy and Masterplanning, SNDGO</span>
+    <p>I am proud to be a team where we work closely with agencies and industry partners to come up with strategies and frameworks that guide our transformation to a digital government. Strategy is key in providing the stability and guidance that organisations need to achieve their mission. Knowing that my efforts contribute to this bigger goal makes this role a fulfilling one.</p></div>
+</div>
