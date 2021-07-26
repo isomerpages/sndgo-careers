@@ -4,16 +4,15 @@ permalink: /job-profiles/tech-policy-officer/
 ---
 ### **Tech Policy Officer, Research and Policy Officer**
 
-<table style="padding-top: 0; padding-left: 0;">
-<tr>
-<td  style="font-size:40px; font-weight: 700; color: #333333; line-height: 40px; width: 40%;">WHAT YOU CAN EXPECT TO BE DOING<br><p><img src="images/job-profile-1.jpg" width="100%"></p></td>
-<td><ul>
+<div class="row">
+  <div class="column" style="font-size:40px; font-weight: 700; color: #333333; line-height: 40px; width: 50%; text-align: right;">WHAT YOU CAN EXPECT TO BE DOING<br><p><img src="images/job-profile-1.jpg" width="100%"></p></div>
+  <div class="column"><ul>
     <li>Collaborate with diverse stakeholders to shape and develop tech policies, strategies and projects in various technology domain that will create nationwide impact</li>
     <li>Create a consensus on action from a wide spectrum of external and internal stakeholders; including multi-agency and inter-departmental teams</li>
     <li>Develop and execute strategies to ensure effective policy implementation</li>
     <li>Assess and balance security, usability, and cost factors for key ICT policies</li>
-    </ul></td></tr>
-</table>
+    </ul></div>
+</div>
 
 <table style="padding-top: 0; padding-left: 0;">
 <tr>
@@ -33,12 +32,3 @@ permalink: /job-profiles/tech-policy-officer/
 
 
 
-<div class="row">
-  <div class="column" style="font-size:40px; font-weight: 700; color: #333333; line-height: 40px; width: 40%; text-align: right;">WHAT YOU CAN EXPECT TO BE DOING<br><p><img src="images/job-profile-1.jpg" width="100%"></p></div>
-  <div class="column"><ul>
-    <li>Collaborate with diverse stakeholders to shape and develop tech policies, strategies and projects in various technology domain that will create nationwide impact</li>
-    <li>Create a consensus on action from a wide spectrum of external and internal stakeholders; including multi-agency and inter-departmental teams</li>
-    <li>Develop and execute strategies to ensure effective policy implementation</li>
-    <li>Assess and balance security, usability, and cost factors for key ICT policies</li>
-    </ul></div>
-</div>
