@@ -1,7 +1,8 @@
 ---
 title: Tech Policy Officer, Research and Policy Officer
-permalink: /job-profiles/tech-policy-officer
+permalink: /job-profiles/tech-policy-officer/
 ---
+
 ### **Tech Policy Officer, Research and Policy Officer**
 
 <table width="100%">
