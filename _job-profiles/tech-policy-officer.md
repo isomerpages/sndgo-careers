@@ -48,7 +48,7 @@ This is the domain where you transform what’s new to what’s to come. Dive in
       <div class="column" style="padding: 20px 0px 20px 20px;"><img src="images/loh-shin-yee.jpg" width="300" alt="Loh Shin Yee"></div>
       <div class="column" style="width: 80%; padding: 20px 20px 20px 20px;">
        <span style="font-size: 40px; font-weight: bold; line-height: 40px;">Loh Shin Yee</span><br><span style="font-size: 16px; font-style: italic;">Assistant Director, Government Data Office, Data Policy, SNDGO</span>
-    <p style="font-size: 16px; line-height: 24px;">We continuously think of ways to better use data to serve the public better. I am in the team that sets out policies that govern how data is managed in the Government. This includes the establishment of the Public Sector Data Governance Framework and the personal data protection policies to improve the transparency of our data security regime.</p><br>
+    <p style="font-size: 16px; line-height: 24px;">We continuously think of ways to better use data to serve the public better. I am in the team that sets out policies that govern how data is managed in the Government. This includes the establishment of the Public Sector Data Governance Framework and the personal data protection policies to improve the transparency of our data security regime.</p>
       </div>
 </div>
 
