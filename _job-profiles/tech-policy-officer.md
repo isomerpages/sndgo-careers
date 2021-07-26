@@ -1,7 +1,8 @@
 ---
 title: Tech Policy Officer
-permalink: /job-profiles/tech-policy
+permalink: /job-profiles/tech-policy-officer
 ---
+
 
 
 
