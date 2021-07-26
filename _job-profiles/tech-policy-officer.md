@@ -17,7 +17,7 @@ permalink: /job-profiles/tech-policy-officer/
 <hr><br>
 
 <div class="row">
-  <div class="column"><ul>
+  <div class="column"><ul style="font-size: 20px; line-height: 20px;">
     <li>Loves technology</li>
     <li>Keen to build up ICT knowledge and into technological trends</li>
     <li>Self-starter, entrepreneurial spirit</li>
