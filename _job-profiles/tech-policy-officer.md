@@ -17,7 +17,7 @@ permalink: /job-profiles/tech-policy-officer/
 
 <table style="padding-top: 0; padding-left: 0;">
 <tr>
-<td width="65%"><ul>
+<td><ul>
     <li>Loves technology</li>
     <li>Keen to build up ICT knowledge and into technological trends</li>
     <li>Self-starter, entrepreneurial spirit</li>
@@ -28,5 +28,5 @@ permalink: /job-profiles/tech-policy-officer/
     <li>Excellent analytical and problem-solving skills, and strong writing ability</li>
     <li>Sharp policy development skills</li>
     </ul></td>
-<td style="font-size:40px; font-weight: 700; color: #333333; line-height: 40px; width: 40%; text-align: right;">WHO WE ARE LOOKING FOR<br><p><img src="images/job-profile-2.jpg" width="100%"></p></td></tr>
+<td style="font-size:40px; font-weight: 700; color: #333333; line-height: 40px; width: 45%; text-align: right;">WHO WE ARE LOOKING FOR<br><p><img src="images/job-profile-2.jpg" width="100%"></p></td></tr>
 </table>
