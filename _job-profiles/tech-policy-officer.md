@@ -41,6 +41,7 @@ permalink: /job-profiles/tech-policy-officer/
       </div>
 </div>
 
+<br>
 
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column"><img src="images/loh-shin-yee.jpg" width="300" alt="Loh Shin Yee"></div>
