@@ -2,4 +2,4 @@ collections:
   job-profiles:
     output: true
     order:
-      - tech-policy-officer.md
+      - tech-policy-officer-research-and-policy-officer.md
