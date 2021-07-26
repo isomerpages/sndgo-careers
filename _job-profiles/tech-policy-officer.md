@@ -2,16 +2,11 @@
 title: Tech Policy Officer
 permalink: /job-profiles/tech-policy-officer/
 ---
-
-
-
-
-
 ### **Tech Policy Officer, Research and Policy Officer**
 
-<table width="100%">
+<table style="padding-top: 0; padding-left: 0;">
 <tr>
-<td width="35%"><h2>WHAT YOU CAN EXPECT TO BE DOING</h2><br><p><img src="images/job-profile-1.jpg" width="100%"></p></td>
+<td  style="font-size:40px; font-weight: bold; color: #333333; line-height: 30px; width: 40%;"><h2>WHAT YOU CAN EXPECT TO BE DOING</h2><br><p><img src="images/job-profile-1.jpg" width="100%"></p></td>
 <td width="65%"><ul>
     <li>Collaborate with diverse stakeholders to shape and develop tech policies, strategies and projects in various technology domain that will create nationwide impact</li>
     <li>Create a consensus on action from a wide spectrum of external and internal stakeholders; including multi-agency and inter-departmental teams</li>
