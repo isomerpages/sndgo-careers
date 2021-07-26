@@ -5,7 +5,7 @@ permalink: /job-profiles/tech-policy-officer/
 ### **Tech Policy Officer, Research and Policy Officer**
 <br>
 This is the domain where you transform what’s new to what’s to come. Dive into emerging technologies and formulate the new policies and strategies that empower innovation. Explore the myriad possibilities, with a vision for the future and a focus on how to effect it.
-<br>
+<br><br>
 <div class="row">
   <div class="column" style="font-size:40px; font-weight: 700; color: #333333; line-height: 40px; text-align: left;">WHAT YOU CAN EXPECT TO BE DOING<br><p><img src="images/job-profile-1.jpg" width="100%"></p></div>
   <div class="column"><ul>
