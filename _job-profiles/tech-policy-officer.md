@@ -69,7 +69,7 @@ permalink: /job-profiles/tech-policy-officer/
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column" style="padding: 20px 0px 20px 20px;"><img src="images/ng-choon-sze.jpg" width="300" alt="Ng Choon Sze Daphne"></div>
       <div class="column" style="width: 78%; padding: 20px 20px 20px 20px;">
-       <span style="font-size: 40px; font-weight: bold;">Ng Choon Sze Daphne</span><br><span style="font-size: 16px; font-style: italic;">Infocomm Specialist, Infocomm Division / Infocomm Technology & Planning Branch, IRAS</span>
+       <span style="font-size: 40px; font-weight: bold; line-height: 38px;">Ng Choon Sze Daphne</span><br><span style="font-size: 16px; font-style: italic;">Infocomm Specialist, Infocomm Division / Infocomm Technology & Planning Branch, IRAS</span>
     <p style="font-size: 16px; line-height: 24px;">We’re always striving to improve our digital services. I enjoy delivering an enhanced tax experience to taxpayers by working closely with programme track leads to ensure that project milestones are met.</p>
       </div>
 </div>
