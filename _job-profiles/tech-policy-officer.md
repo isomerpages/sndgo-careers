@@ -7,10 +7,10 @@ permalink: /job-profiles/tech-policy-officer/
 <div class="row">
   <div class="column" style="font-size:40px; font-weight: 700; color: #333333; line-height: 40px; text-align: left;">WHAT YOU CAN EXPECT TO BE DOING<br><p><img src="images/job-profile-1.jpg" width="100%"></p></div>
   <div class="column"><ul>
-    <li style="font-size: 18px; line-height: 22px;">Collaborate with diverse stakeholders to shape and develop tech policies, strategies and projects in various technology domain that will create nationwide impact</li>
-    <li style="font-size: 18px; line-height: 22px;">Create a consensus on action from a wide spectrum of external and internal stakeholders; including multi-agency and inter-departmental teams</li>
-    <li style="font-size: 18px; line-height: 22px;">Develop and execute strategies to ensure effective policy implementation</li>
-    <li style="font-size: 18px; line-height: 22px;">Assess and balance security, usability, and cost factors for key ICT policies</li>
+    <li style="font-size: 20px; line-height: 26px;">Collaborate with diverse stakeholders to shape and develop tech policies, strategies and projects in various technology domain that will create nationwide impact</li>
+    <li style="font-size: 20px; line-height: 26px;">Create a consensus on action from a wide spectrum of external and internal stakeholders; including multi-agency and inter-departmental teams</li>
+    <li style="font-size: 20px; line-height: 26px;">Develop and execute strategies to ensure effective policy implementation</li>
+   <li style="font-size: 20px; line-height: 26px;">Assess and balance security, usability, and cost factors for key ICT policies</li>
     </ul></div>
 </div>
 
@@ -18,15 +18,15 @@ permalink: /job-profiles/tech-policy-officer/
 
 <div class="row">
   <div class="column"><ul>
-    <li style="font-size: 18px; line-height: 22px;">Loves technology</li>
-    <li style="font-size: 18px; line-height: 22px;">Keen to build up ICT knowledge and into technological trends</li>
-    <li style="font-size: 18px; line-height: 22px;">Self-starter, entrepreneurial spirit</li>
-    <li style="font-size: 18px; line-height: 22px;">Hunger to learn, continuously improve and disrupt</li>
-    <li style="font-size: 18px; line-height: 22px;">Relevant qualifications or experience in ICT&SS and/or policy field</li>
-   <li style="font-size: 18px; line-height: 22px;">Background in Computer Science/Engineering, Cybersecurity, Information Security, Data Science/Engineering or related fields</li>
-   <li style="font-size: 18px; line-height: 22px;">Strong communication, interpersonal skill and stakeholder management to work and build relationships with a range of stakeholders holding different views</li>
-    <li style="font-size: 18px; line-height: 22px;">Excellent analytical and problem-solving skills, and strong writing ability</li>
-    <li style="font-size: 18px; line-height: 22px;">Sharp policy development skills</li>
+    <li style="font-size: 20px; line-height: 26px;">Loves technology</li>
+    <li style="font-size: 20px; line-height: 26px;">Keen to build up ICT knowledge and into technological trends</li>
+    <li style="font-size: 20px; line-height: 26px;">Self-starter, entrepreneurial spirit</li>
+    <li style="font-size: 20px; line-height: 26px;">Hunger to learn, continuously improve and disrupt</li>
+    <li style="font-size: 20px; line-height: 26px;">Relevant qualifications or experience in ICT&SS and/or policy field</li>
+   <li style="font-size: 20px; line-height: 26px;">Background in Computer Science/Engineering, Cybersecurity, Information Security, Data Science/Engineering or related fields</li>
+   <li style="font-size: 20px; line-height: 26px;">Strong communication, interpersonal skill and stakeholder management to work and build relationships with a range of stakeholders holding different views</li>
+    <li style="font-size: 20px; line-height: 26px;">Excellent analytical and problem-solving skills, and strong writing ability</li>
+    <li style="font-size: 20px; line-height: 26px;">Sharp policy development skills</li>
     </ul></div>
 	<div class="column" style="font-size:40px; font-weight: 700; color: #333333; line-height: 40px; text-align: right;">WHO WE ARE LOOKING FOR<br><p><img src="images/job-profile-2.jpg" width="100%"></p></div>
 </div>
