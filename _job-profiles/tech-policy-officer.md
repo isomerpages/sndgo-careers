@@ -7,7 +7,7 @@ permalink: /job-profiles/tech-policy-officer/
 This is the domain where you transform what’s new to what’s to come. Dive into emerging technologies and formulate the new policies and strategies that empower innovation. Explore the myriad possibilities, with a vision for the future and a focus on how to effect it.
 <br>
 <div class="row" style="padding: 20px 0px 0px 0px;">
- <div class="column" style="font-size:40px; font-weight: 700; color: #333333; line-height: 40px; text-align: left;">WHAT YOU CAN EXPECT TO BE DOING<br><p><img src="images/job-profile-1.jpg" width="100%"></p></div>
+ <div class="column" style="width: 80%; font-size:40px; font-weight: 700; color: #333333; line-height: 40px; text-align: left;">WHAT YOU CAN EXPECT TO BE DOING<br><p><img src="images/job-profile-1.jpg" width="100%"></p></div>
   <div class="column"><ul>
     <li style="font-size: 20px; line-height: 26px;">Collaborate with diverse stakeholders to shape and develop tech policies, strategies and projects in various technology domain that will create nationwide impact</li>
     <li style="font-size: 20px; line-height: 26px;">Create a consensus on action from a wide spectrum of external and internal stakeholders; including multi-agency and inter-departmental teams</li>
