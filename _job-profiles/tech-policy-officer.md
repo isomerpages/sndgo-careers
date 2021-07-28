@@ -30,7 +30,7 @@ This is the domain where you transform what’s new to what’s to come. Dive in
     <li style="font-size: 20px; line-height: 26px;">Excellent analytical and problem-solving skills, and strong writing ability</li>
     <li style="font-size: 20px; line-height: 26px;">Sharp policy development skills</li>
     </ul></div>
-	<div class="column" style="text-align: right;"><span style="font-size:40px; font-weight: 700; color: #333333; line-height: 40px; ">WHO WE ARE LOOKING FOR</span><br><img src="images/job-profile-2.jpg" width="100%"></p></div>
+	<div class="column" style="text-align: right;"><span style="font-size:40px; font-weight: 700; color: #333333; line-height: 40px; width: 50%; ">WHO WE ARE LOOKING FOR</span><br><img src="images/job-profile-2.jpg" width="100%"></p></div>
 </div>
 
 
