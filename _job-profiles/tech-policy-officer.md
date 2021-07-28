@@ -75,3 +75,11 @@ This is the domain where you transform what’s new to what’s to come. Dive in
     <p style="font-size: 16px; line-height: 24px;">We’re always striving to improve our digital services. I enjoy delivering an enhanced tax experience to taxpayers by working closely with programme track leads to ensure that project milestones are met.</p>
       </div>
 </div>
+
+<div class="row" style="background-color: #f3f3f3;">
+      <div class="column" style="padding: 20px 0px 20px 20px;"><img src="images/justin-teh.jpg" width="300" alt="Justin Teh"></div>
+      <div class="column" style="width: 80%; padding: 20px 20px 20px 20px;">
+       <span style="font-size: 40px; font-weight: bold; line-height: 40px;">Justin Teh</span><br><span style="font-size: 16px; font-style: italic;">Assistant Director, SNDGO</span>
+    <p style="font-size: 16px; line-height: 24px;">Our roles and contributions here can power the next bound of Singapore’s Smart Nation transformation. Public or private, the tech sector is buzzing with entrepreneurial energy – fast-paced, with innovative, disruptive new ideas. Laying the foundations of digital infrastructure, we seek to provide simpler, faster, better experiences and e-services, so that lives are enriched and future generations can seize new opportunities.</p>
+      </div>
+</div>
