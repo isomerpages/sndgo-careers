@@ -70,7 +70,7 @@ This is the domain where you transform what’s new to what’s to come. Dive in
 
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column" style="padding: 10px 0px 30px 20px;"><img src="images/ng-choon-sze.jpg" alt="Ng Choon Sze Daphne"></div>
-      <div class="column" style="width: 80%; padding: 20px 20px 30px 20px;">
+      <div class="column" style="width: 80%; padding: 10px 20px 30px 20px;">
        <span style="font-size: 24px; font-weight: bold; line-height: 30px;">Ng Choon Sze Daphne</span><br><span style="font-size: 14px; font-style: italic;  line-height: 16px;">Infocomm Specialist, Infocomm Division/ Infocomm Technology & Planning Branch, IRAS</span><br><br>
     <span style="font-size: 16px; line-height: 23px;">We’re always striving to improve our digital services. I enjoy delivering an enhanced tax experience to taxpayers by working closely with programme track leads to ensure that project milestones are met.</span>
       </div>
