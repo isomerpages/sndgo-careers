@@ -63,7 +63,7 @@ This is the domain where you transform what’s new to what’s to come. Dive in
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column" style="padding: 20px 0px 20px 20px;"><img src="images/wong-de-ming.jpg" alt="Wong De Ming"></div>
       <div class="column" style="width: 80%; padding: 20px 20px 20px 20px;">
-       <span style="font-size: 26px; font-weight: bold; line-height: 30px;">Wong De Ming</span><br><span style="font-size: 14px; font-style: italic;">Senior Infocomm Specialist, Infocomm Division / Infocomm Technology & Planning Branch, IRAS</span>
+       <span style="font-size: 26px; font-weight: bold; line-height: 30px;">Wong De Ming</span><br><span style="font-size: 14px; font-style: italic;">Senior Infocomm Specialist, Infocomm Division/ Infocomm Technology & Planning Branch, IRAS</span>
     <p style="font-size: 16px; line-height: 24px;">As part of the Programme Management Office team working on the next generation of IRIN, the main ICT system underpinning Singapore’s tax administration and revenue collection service, my work involves extensive planning and close collaboration with various stakeholders to ensure that the system can be delivered on time and within budget.</p>
      </div>
 </div>
@@ -71,7 +71,7 @@ This is the domain where you transform what’s new to what’s to come. Dive in
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column" style="padding: 20px 0px 20px 20px;"><img src="images/ng-choon-sze.jpg" alt="Ng Choon Sze Daphne"></div>
       <div class="column" style="width: 80%; padding: 20px 20px 20px 20px;">
-       <span style="font-size: 26px; font-weight: bold; line-height: 30px;">Ng Choon Sze Daphne</span><br><span style="font-size: 14px; font-style: italic;">Infocomm Specialist, Infocomm Division / Infocomm Technology & Planning Branch, IRAS</span>
+       <span style="font-size: 26px; font-weight: bold; line-height: 30px;">Ng Choon Sze Daphne</span><br><span style="font-size: 14px; font-style: italic;">Infocomm Specialist, Infocomm Division/ Infocomm Technology & Planning Branch, IRAS</span>
     <p style="font-size: 16px; line-height: 24px;">We’re always striving to improve our digital services. I enjoy delivering an enhanced tax experience to taxpayers by working closely with programme track leads to ensure that project milestones are met.</p>
       </div>
 </div>
