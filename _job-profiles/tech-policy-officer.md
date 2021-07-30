@@ -38,7 +38,7 @@ This is the domain where you transform what’s new to what’s to come. Dive in
 				
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column" style="padding: 20px 0px 20px 20px;"><img src="images/sindhu-achudan.jpg" width="300" alt="Sindhu Achudan"></div>
-      <div class="column" style="width: 80%; padding: 20px 20px 20px 20px;">
+      <div class="column" style="width: 70%; padding: 20px 20px 20px 20px;">
        <span style="font-size: 28px; font-weight: bold; line-height: 40px;">Sindhu Achudan</span><br><span style="font-size: 15px; font-style: italic;">Manager, Strategy and Masterplanning, SNDGO</span>
     <p style="font-size: 16px; line-height: 24px;">I am proud to be a team where we work closely with agencies and industry partners to come up with strategies and frameworks that guide our transformation to a digital government. Strategy is key in providing the stability and guidance that organisations need to achieve their mission. Knowing that my efforts contribute to this bigger goal makes this role a fulfilling one.</p>
       </div>
@@ -46,7 +46,7 @@ This is the domain where you transform what’s new to what’s to come. Dive in
 
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column" style="padding: 20px 0px 20px 20px;"><img src="images/loh-shin-yee.jpg" width="300" alt="Loh Shin Yee"></div>
-      <div class="column" style="width: 80%; padding: 20px 20px 20px 20px;">
+      <div class="column" style="width:65%; padding: 20px 20px 20px 20px;">
        <span style="font-size: 28px; font-weight: bold; line-height: 40px;">Loh Shin Yee</span><br><span style="font-size: 15px; font-style: italic;">Assistant Director, Government Data Office, Data Policy, SNDGO</span>
     <p style="font-size: 16px; line-height: 24px;">We continuously think of ways to better use data to serve the public better. I am in the team that sets out policies that govern how data is managed in the Government. This includes the establishment of the Public Sector Data Governance Framework and the personal data protection policies to improve the transparency of our data security regime.</p>
       </div>
