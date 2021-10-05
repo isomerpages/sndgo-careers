@@ -11,13 +11,13 @@ Assistant Manager, Policy & Technology<br>
 
 <h2 style="color:#ed1a3b;">Shaping Singapore’s Tech Landscape, One Policy at a Time</h2>
 
-Digital trust is becoming increasingly valuable as more Singaporeans and businesses here move online. With this trend, new norms of security and trust are emerging and evolving. 
+<p>Digital trust is becoming increasingly valuable as more Singaporeans and businesses here move online. With this trend, new norms of security and trust are emerging and evolving. 
 
 And it is in this space that Jin Chong, who works in the Policy and Technology department of the Infocomm Media Development Authority, operates in. His role involves formulating and reviewing policies to make sure businesses who use citizens’ data do so responsibly. 
 
 “There is a role for everyone to contribute to the growth and development of Singapore’s digital economy. I chose to do policy work because I find it most fulfilling to work on solutions that benefit consumers and organisations alike,” says Jin Chong. 
 
-“In IMDA, I get to experience that by being part of the governance team looking to strengthen Singapore as a trusted digital innovation hub,” he adds.
+“In IMDA, I get to experience that by being part of the governance team looking to strengthen Singapore as a trusted digital innovation hub,” he adds.</p>
 
 <h3 style="color:#212121;">FOSTERING INNOVATION</h3>
 
