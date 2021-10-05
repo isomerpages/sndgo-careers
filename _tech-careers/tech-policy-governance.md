@@ -26,22 +26,22 @@ Lead our Defence, Smart Nation and Digital Government transformation. You will b
 “I lead the team that develops the government data architecture that facilitates the efficient data sharing of clean and authoritative datasets across public agencies. It is rewarding to enable better use of data to improve policies and service delivery, in ways that benefit the public.”<br><br></div>
 
 <div class="column-testimonial">
-<img src="/images/loh-shin-yee.jpg" alt="Loh Shin Yee" title="Tech Talent" /><br><em><strong>Loh Shin Yee</strong><br><span style="font-size:13px; line-height:14px">Assistant Director, Government Data Office, Data Policy, SNDGO</span></em><br><br>
+<img src="/images/loh-shin-yee.png" alt="Loh Shin Yee" title="Tech Talent" /><br><em><strong>Loh Shin Yee</strong><br><span style="font-size:13px; line-height:14px">Assistant Director, Government Data Office, Data Policy, SNDGO</span></em><br><br>
 “We continuously think of ways to better use data to serve the public better. I am in the team that sets out policies that govern how data is managed in the Government. This includes the establishment of the Public Sector Data Governance Framework and the personal data protection policies to improve the transparency of our data security regime.”<br><br>
 </div>
 </div>
 
 <div class="row-testimonial">
 <div class="column-testimonial">
-<img src="/images/wong-de-ming.jpg" alt="Wong De Ming" title="Tech Talent" /><br><em><strong>Wong De Ming</strong><br><span style="font-size:13px; line-height:14px">Senior Infocomm Specialist, Infocomm Division/ Infocomm Technology & Planning Branch, IRAS</span></em><br><br>
+<img src="/images/wong-de-ming.png" alt="Wong De Ming" title="Tech Talent" /><br><em><strong>Wong De Ming</strong><br><span style="font-size:13px; line-height:14px">Senior Infocomm Specialist, Infocomm Division/ Infocomm Technology & Planning Branch, IRAS</span></em><br><br>
 “As part of the Programme Management Office team working on the next generation of IRIN, the main ICT system underpinning Singapore’s tax administration and revenue collection service, my work involves extensive planning and close collaboration with various stakeholders to ensure that the system can be delivered on time and within budget.”<br><br></div>
 	
 <div class="column-testimonial">
-<img src="/images/ng-choon-sze.jpg" alt="Ng Choon Sze Daphne" title="Tech Talent" /><br><em><strong>Ng Choon Sze Daphne</strong><br><span style="font-size:13px; line-height:14px">Infocomm Specialist, Infocomm Division/ Infocomm Technology & Planning Branch, IRAS</span></em><br><br>
+<img src="/images/ng-choon-sze.png" alt="Ng Choon Sze Daphne" title="Tech Talent" /><br><em><strong>Ng Choon Sze Daphne</strong><br><span style="font-size:13px; line-height:14px">Infocomm Specialist, Infocomm Division/ Infocomm Technology & Planning Branch, IRAS</span></em><br><br>
 “We’re always striving to improve our digital services. I enjoy delivering an enhanced tax experience to taxpayers by working closely with programme track leads to ensure that project milestones are met.”<br><br></div>
 
 <div class="column-testimonial">
-<img src="/images/justin-teh.jpg" alt="Justin Teh" title="Tech Talent" /><br><em><strong>Justin Teh</strong><br><span style="font-size:13px; line-height:14px">Assistant Director, SNDGO</span></em><br><br>
+<img src="/images/justin-teh.png" alt="Justin Teh" title="Tech Talent" /><br><em><strong>Justin Teh</strong><br><span style="font-size:13px; line-height:14px">Assistant Director, SNDGO</span></em><br><br>
 “Our roles and contributions here can power the next bound of Singapore’s Smart Nation transformation. Public or private, the tech sector is buzzing with entrepreneurial energy – fast-paced, with innovative, disruptive new ideas. Laying the foundations of digital infrastructure, we seek to provide simpler, faster, better experiences and e-services, so that lives are enriched and future generations can seize new opportunities.”<br><br>
 </div>
 </div>
