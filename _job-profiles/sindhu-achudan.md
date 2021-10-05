@@ -4,7 +4,7 @@ permalink: /job-profiles/sindhu-achudan
 ---
 ### **Stepping Up for Public Good**
 
-<img src="/images/sindhu-achudan-l.jpg" alt="Sindhu Achudan	" title="Tech Talent" width="600" height="459"><br>
+<img src="/images/sindhu-achudan-l.jpg" alt="Sindhu Achudan	" title="Tech Talent" width="70%"><br>
 *<strong>Sindhu Achudan	</strong><br>
 	Manager, Strategy and Masterplanning,<br>
 	Smart Nation and Digital Government Office (SNDGO)*
