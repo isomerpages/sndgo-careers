@@ -19,7 +19,7 @@ And it is in this space that Jin Chong, who works in the Policy and Technology d
 
 “In IMDA, I get to experience that by being part of the governance team looking to strengthen Singapore as a trusted digital innovation hub,” he adds.
 
-<h3 style="color:#ed1a3b;">FOSTERING INNOVATION</h3>
+<h3 style="color:#212121;">FOSTERING INNOVATION</h3>
 
 It’s not all about policies either. Rather, it’s about seizing the opportunities thrown up by tech changes through a more agile, enabling approach to regulation. For instance, he and his colleagues would inform and guide organisations looking into tech such as biometrics on using and protecting data responsibly. 
 
@@ -35,7 +35,7 @@ And to be able to come up with relevant policies and provide meaningful guidance
 
 “I look forward to these meetings because they are intellectually stimulating and provide new perspectives,” he adds.  
 
-	<h3 style="color:#ed1a3b;">MORE THAN JUST A JOB</h3>
+	<h3 style="color:#212121;">MORE THAN JUST A JOB</h3>
 
 Ultimately, a career in tech policy is more than a job; it’s about helping Singapore achieve its Smart Nation ambitions and leveraging growth opportunities in today’s digital economy, he says.
 
