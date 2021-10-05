@@ -4,8 +4,6 @@ permalink: /job-profiles/sindhu-achudan
 ---
 ### **Stepping Up for Public Good**
 
-<div class="row-testimonial">
-<div class="column-testimonial">
 <img src="/images/sindhu-achudan.jpg" alt="Sindhu Achudan	" title="Tech Talent" /><br><em><strong>Sindhu Achudan	</strong><br><span style="font-size:13px; line-height:14px">Manager, Strategy and Masterplanning, Smart Nation and Digital Government Office (SNDGO)</span></em><br><br>
 
 Sindhu took a somewhat unconventional route joining the public service.
@@ -37,12 +35,3 @@ Her work as part of SNDGO’s COVID-19 working group is a case in point. During 
 Throughout her career, digital technology has been a game-changer. And she knows there’s more to be done. 
 
 “In the past decade, technology has transformed my life in many unexpected ways. I was intrigued by the potential growth in the tech industry and I knew there was so much more to learn. When the opportunity to contribute in the tech policy and governance domain in SNDGO presented itself, I decided to dive right into it. I’m glad that I made the right decision!”
-
-<br><br></div>
-	
-
-
-
-
-
-
