@@ -3,7 +3,7 @@ title: Sindhu Achudan
 permalink: /job-profiles/sindhu-achudan
 ---
 <div class="content">
-<p><img src="/images/sindhu-achudan-l.jpg" alt="Ahmad Nadim" style="width:400px;height:306px;" align="left">
+<p><img src="/images/sindhu-achudan-l.jpg" alt="Sindhu Achudan" style="width:400px;height:306px;" align="left">
 <br clear="left"><br>
 <strong>Sindhu Achudan	</strong><br>
 	Manager, Strategy and Masterplanning,<br>
@@ -40,3 +40,4 @@ Her work as part of SNDGO’s COVID-19 working group is a case in point. During 
 Throughout her career, digital technology has been a game-changer. And she knows there’s more to be done. 
 
 “In the past decade, technology has transformed my life in many unexpected ways. I was intrigued by the potential growth in the tech industry and I knew there was so much more to learn. When the opportunity to contribute in the tech policy and governance domain in SNDGO presented itself, I decided to dive right into it. I’m glad that I made the right decision!”
+</div>
