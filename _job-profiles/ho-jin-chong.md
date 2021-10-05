@@ -21,7 +21,7 @@ And it is in this space that Jin Chong, who works in the Policy and Technology d
 
 <h3 style="color:#212121;">FOSTERING INNOVATION</h3>
 
-It’s not all about policies either. Rather, it’s about seizing the opportunities thrown up by tech changes through a more agile, enabling approach to regulation. For instance, he and his colleagues would inform and guide organisations looking into tech such as biometrics on using and protecting data responsibly. 
+<p>It’s not all about policies either. Rather, it’s about seizing the opportunities thrown up by tech changes through a more agile, enabling approach to regulation. For instance, he and his colleagues would inform and guide organisations looking into tech such as biometrics on using and protecting data responsibly. 
 
  “A start-up was exploring using biometrics to increase security and convenience to hotel guests, and it approached PDPC for guidance on how to do so while protecting guests’ data,” Jin Chong recounts. 
 
@@ -33,12 +33,12 @@ And to be able to come up with relevant policies and provide meaningful guidance
 
 “I often find myself weaving together technological and legal developments as well as businesses’ and consumers’ interests in order to glean insights,” Jin Chong shares. “My colleagues and I would also actively engage various internal and external stakeholders, to obtain different perspectives or to validate our thinking on an issue. 
 
-“I look forward to these meetings because they are intellectually stimulating and provide new perspectives,” he adds.  
+“I look forward to these meetings because they are intellectually stimulating and provide new perspectives,” he adds.  </p>
 
 <h3 style="color:#212121;">MORE THAN JUST A JOB</h3>
 
-Ultimately, a career in tech policy is more than a job; it’s about helping Singapore achieve its Smart Nation ambitions and leveraging growth opportunities in today’s digital economy, he says.
+<p>Ultimately, a career in tech policy is more than a job; it’s about helping Singapore achieve its Smart Nation ambitions and leveraging growth opportunities in today’s digital economy, he says.
 
 “Many of us enjoy the benefits and convenience of a Smart Nation such as personalised content and recommendations when buying on e-commerce platforms,” Jin Chong says. 
 
-“My work allows me to play a part in maintaining the trust between consumers and firms to enable a flourishing and vibrant digital economy.”
+“My work allows me to play a part in maintaining the trust between consumers and firms to enable a flourishing and vibrant digital economy.”</p>
