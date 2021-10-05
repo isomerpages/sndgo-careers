@@ -6,7 +6,7 @@ permalink: /job-profiles/ho-jin-chong
 
 <img src="/images/ho-jin-chong-l.jpg" alt="Ho Jin Chong" title="Tech Talent" width="" height=""><br>
 *<strong>	Ho Jin Chong</strong><br>
-Assistant Manager, Policy & Technology
+Assistant Manager, Policy & Technology<br>
 Infocomm Media Development Authority (IMDA)*
 
 Digital trust is becoming increasingly valuable as more Singaporeans and businesses here move online. With this trend, new norms of security and trust are emerging and evolving. 
