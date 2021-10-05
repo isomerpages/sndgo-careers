@@ -6,9 +6,9 @@ permalink: /job-profiles/sindhu-achudan
 
 <table width="400" border="0" cellSpacing=0 cellPadding=0>
   <tr><td><img src="/images/sindhu-achudan-l.jpg" alt="Sindhu Achudan	" title="Tech Talent"><br>
-*<strong>Sindhu Achudan	</strong><br>
+<i><strong>Sindhu Achudan	</strong><br>
 	Manager, Strategy and Masterplanning,<br>
-	Smart Nation and Digital Government Office (SNDGO)*
+	Smart Nation and Digital Government Office (SNDGO)</i>
   </td></tr>
 </table>
 
