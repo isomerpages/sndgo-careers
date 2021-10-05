@@ -3,7 +3,7 @@ title: Sindhu Achudan
 permalink: /job-profiles/sindhu-achudan
 ---
 <div class="content">
-<p><img src="/images/sindhu-achudan-l.jpg" alt="Sindhu Achudan" style="width:400px; height:306px;" align="left">
+<p><img src="/images/sindhu-achudan-l.jpg" alt="Sindhu Achudan" style="width:400px;" align="left">
 <br clear="left"><br>
 <strong>Sindhu Achudan	</strong><br>
 	Manager, Strategy and Masterplanning,<br>
