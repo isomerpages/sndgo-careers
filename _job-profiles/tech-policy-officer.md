@@ -55,7 +55,7 @@ This is the domain where you transform what’s new to what’s to come. Dive in
       <div class="column" style="padding: 10px 0px 30px 20px;"><img src="images/ho-jin-chong.jpg" alt="Ho Jin Chong"></div>
       <div class="column" style="width: 80%; padding: 10px 20px 30px 20px; ">
        <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Ho Jin Chong</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Assistant Manager, Policy & Technology, IMDA</span><br><br>
-    <span style="font-size: 16px; line-height: 23px;">This is a dynamic sector to work in because technology evolves rapidly and it’s vital to ensure that policy evolves with industry needs. There is a role for everyone to contribute to growing and shaping the digital economy. I find it is meaningful to work on policy solutions that benefit consumers and organisations alike. [<a href="job-profiles/ho-jin-chong">Read more</a>]</span>
+    <span style="font-size: 16px; line-height: 23px;">This is a dynamic sector to work in because technology evolves rapidly and it’s vital to ensure that policy evolves with industry needs. There is a role for everyone to contribute to growing and shaping the digital economy. I find it is meaningful to work on policy solutions that benefit consumers and organisations alike. [<a href="../ho-jin-chong">Read more</a>]</span>
       </div>
 </div>
 
