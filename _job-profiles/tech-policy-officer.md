@@ -9,10 +9,11 @@ This is the domain where you transform what’s new to what’s to come. Dive in
 <div class="row" style="padding: 20px 0px 0px 0px;">
  <div class="column" style="width: 80%; font-size:40px; font-weight: 700; color: #333333; line-height: 40px; text-align: left;">WHAT YOU CAN EXPECT TO BE DOING<br><p><img src="images/job-profile-1.jpg" width="100%"></p></div>
   <div class="column"><ul>
-    <li style="font-size: 20px; line-height: 26px;">Collaborate with diverse stakeholders to shape and develop tech policies, strategies and projects in various technology domain that will create nationwide impact</li>
-    <li style="font-size: 20px; line-height: 26px;">Create a consensus on action from a wide spectrum of external and internal stakeholders; including multi-agency and inter-departmental teams</li>
-    <li style="font-size: 20px; line-height: 26px;">Develop and execute strategies to ensure effective policy implementation</li>
-   <li style="font-size: 20px; line-height: 26px;">Assess and balance security, usability, and cost factors for key ICT policies</li>
+<li style="font-size: 20px; line-height: 26px;">Research and study emerging technology trends and developments, key local and overseas developments and good practices/concerns relating to the area of work</li>
+<li style="font-size: 20px; line-height: 26px;">Develop strategies, policies, and frameworks to drive pervasive adoption of digital and smart technologies throughout Singapore and the government</li>
+<li style="font-size: 20px; line-height: 26px;">Create a consensus on action from a wide spectrum of external and internal stakeholders; including public, industry, and other government agencies</li>
+<li style="font-size: 20px; line-height: 26px;">Determine trade-offs between security, usability, and costs on key ICT policies</li>
+<li style="font-size: 20px; line-height: 26px;">Execute strategies and policies to create nationwide impact</li>
     </ul></div>
 </div>
 
@@ -20,15 +21,13 @@ This is the domain where you transform what’s new to what’s to come. Dive in
 
 <div class="row">
   <div class="column"><ul>
-    <li style="font-size: 20px; line-height: 26px;">Loves technology</li>
-    <li style="font-size: 20px; line-height: 26px;">Keen to build up ICT knowledge and into technological trends</li>
-    <li style="font-size: 20px; line-height: 26px;">Self-starter, entrepreneurial spirit</li>
-    <li style="font-size: 20px; line-height: 26px;">Hunger to learn, continuously improve and disrupt</li>
-    <li style="font-size: 20px; line-height: 26px;">Relevant qualifications or experience in ICT&SS and/or policy field</li>
-   <li style="font-size: 20px; line-height: 26px;">Background in Computer Science/Engineering, Cybersecurity, Information Security, Data Science/Engineering or related fields</li>
-   <li style="font-size: 20px; line-height: 26px;">Strong communication, interpersonal skill and stakeholder management to work and build relationships with a range of stakeholders holding different views</li>
-    <li style="font-size: 20px; line-height: 26px;">Excellent analytical and problem-solving skills, and strong writing ability</li>
-    <li style="font-size: 20px; line-height: 26px;">Sharp policy development skills</li>
+    <li style="font-size: 20px; line-height: 26px;">Passion and keen appreciation for technology</li>
+<li style="font-size: 20px; line-height: 26px;">Curious, willing to build up ICT knowledge and keep up with technological trends</li>
+<li style="font-size: 20px; line-height: 26px;">Self-starter, entrepreneurial spirit</li>
+<li style="font-size: 20px; line-height: 26px;">Hunger to learn and continuously seek improvement, challenge status quo</li>
+<li style="font-size: 20px; line-height: 26px;">Interacts effectively, builds relationships and resolves conflicts to achieve desirable outcomes</li>
+<li style="font-size: 20px; line-height: 26px;">Possesses sharp policy development skills</li>
+<li style="font-size: 20px; line-height: 26px;">Excellent analytical and problem-solving skills, and strong writing ability</li>
     </ul></div>
 	<div class="column" style="text-align: right; width: 80%;"><span style="font-size:40px; font-weight: 700; color: #333333; line-height: 40px; ">WHO WE ARE LOOKING FOR</span><br><img src="images/job-profile-2.jpg" width="100%"></div>
 </div>
