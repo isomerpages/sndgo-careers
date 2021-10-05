@@ -19,7 +19,7 @@ And there’s not been a boring day since as she strategises how to harness and 
 
 She says SNDGO was no different from her previous start-up environment as it has the same dynamism and change-the-world vibe – but with an added sense of purpose of realising Singapore’s Smart Nation dream. 
 
-<h3 style="color:#ed1a3b;">MAKING A DIFFERENCE</h3>
+<h3 style="color:#212121;">MAKING A DIFFERENCE</h3>
 
 Asked why she joined public service as a Tech Policy Officer, Sindhu shares she was inspired to make a difference in people’s lives through tech. 
 
@@ -31,7 +31,7 @@ Through this, she identifies pain points and challenges that citizens and busine
 
 “Stakeholder management and adaptability are two important qualities of a Tech Policy Officer. Depending on the situation, I often find myself playing the role of a consultant, sometimes a coordinator, and at times, even a mediator,” she says.
 
-<h3 style="color:#ed1a3b;">CLOSE COLLABORATIONS</h3>
+<h3 style="color:#212121;">CLOSE COLLABORATIONS</h3>
 
 Her work as part of SNDGO’s COVID-19 working group is a case in point. During the ongoing pandemic, SNDGO acts as the tech agency and is often pulled into various discussions on how tech can be used to resolve data issues or to automate processes.
 
