@@ -29,7 +29,7 @@ This is the domain where you transform what’s new to what’s to come. Dive in
 <li style="font-size: 20px; line-height: 26px;">Possesses sharp policy development skills</li>
 <li style="font-size: 20px; line-height: 26px;">Excellent analytical and problem-solving skills, and strong writing ability</li>
     </ul></div>
-	<div class="column" style="text-align: right; width: 80%;"><span style="font-size:40px; font-weight: 700; color: #333333; line-height: 40px; ">WHO WE ARE LOOKING FOR</span><br><img src="images/job-profile-2.jpg" width="100%"></div>
+	<div class="column" style="text-align: right; width: 80%; "><span style="font-size:40px; font-weight: 700; color: #333333; line-height: 40px; ">WHO WE ARE LOOKING FOR</span><br><img src="images/job-profile-2.jpg" width="100%"></div>
 </div>
 
 
@@ -51,34 +51,3 @@ This is the domain where you transform what’s new to what’s to come. Dive in
       </div>
 </div>
 
-<div class="row" style="background-color: #f3f3f3;">
-      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="images/loh-shin-yee.jpg" alt="Loh Shin Yee"></div>
-      <div class="column" style="width:80%; padding: 10px 20px 30px 20px;">
-       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Loh Shin Yee</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Assistant Director, Government Data Office, Data Policy, SNDGO</span><br><br>
-    <span style="font-size: 16px; line-height: 23px;">We continuously think of ways to better use data to serve the public better. I am in the team that sets out policies that govern how data is managed in the Government. This includes the establishment of the Public Sector Data Governance Framework and the personal data protection policies to improve the transparency of our data security regime.</span>
-      </div>
-</div>
-
-<div class="row" style="background-color: #f3f3f3;">
-      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="images/wong-de-ming.jpg" alt="Wong De Ming"></div>
-      <div class="column" style="width: 80%; padding: 10px 20px 30px 20px;">
-       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Wong De Ming</span><br><span style="font-size: 14px; font-style: italic;  line-height: 16px;">Senior Infocomm Specialist, Infocomm Division/ Infocomm Technology & Planning Branch, IRAS</span><br><br>
-    <span style="font-size: 16px; line-height: 23px;">As part of the Programme Management Office team working on the next generation of IRIN, the main ICT system underpinning Singapore’s tax administration and revenue collection service, my work involves extensive planning and close collaboration with various stakeholders to ensure that the system can be delivered on time and within budget.</span>
-     </div>
-</div>
-
-<div class="row" style="background-color: #f3f3f3;">
-      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="images/ng-choon-sze.jpg" alt="Ng Choon Sze Daphne"></div>
-      <div class="column" style="width: 80%; padding: 10px 20px 30px 20px;">
-       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Ng Choon Sze Daphne</span><br><span style="font-size: 14px; font-style: italic;  line-height: 16px;">Infocomm Specialist, Infocomm Division/ Infocomm Technology & Planning Branch, IRAS</span><br><br>
-    <span style="font-size: 16px; line-height: 23px;">We’re always striving to improve our digital services. I enjoy delivering an enhanced tax experience to taxpayers by working closely with programme track leads to ensure that project milestones are met.</span>
-      </div>
-</div>
-
-<div class="row" style="background-color: #f3f3f3;">
-      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="images/justin-teh.jpg" alt="Justin Teh"></div>
-      <div class="column" style="width: 80%; padding: 10px 20px 30px 20px;">
-       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Justin Teh</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Assistant Director, SNDGO</span><br><br>
-    <span style="font-size: 16px; line-height: 23px;">Our roles and contributions here can power the next bound of Singapore’s Smart Nation transformation. Public or private, the tech sector is buzzing with entrepreneurial energy – fast-paced, with innovative, disruptive new ideas. Laying the foundations of digital infrastructure, we seek to provide simpler, faster, better experiences and e-services, so that lives are enriched and future generations can seize new opportunities.</span>
-      </div>
-</div>
