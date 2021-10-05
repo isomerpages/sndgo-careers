@@ -35,7 +35,7 @@ And to be able to come up with relevant policies and provide meaningful guidance
 
 “I look forward to these meetings because they are intellectually stimulating and provide new perspectives,” he adds.  
 
-	<h3 style="color:#212121;">MORE THAN JUST A JOB</h3>
+<h3 style="color:#212121;">MORE THAN JUST A JOB</h3>
 
 Ultimately, a career in tech policy is more than a job; it’s about helping Singapore achieve its Smart Nation ambitions and leveraging growth opportunities in today’s digital economy, he says.
 
