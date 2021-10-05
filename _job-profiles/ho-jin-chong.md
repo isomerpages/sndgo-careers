@@ -42,4 +42,3 @@ Ultimately, a career in tech policy is more than a job; it’s about helping Sin
 “Many of us enjoy the benefits and convenience of a Smart Nation such as personalised content and recommendations when buying on e-commerce platforms,” Jin Chong says. 
 
 “My work allows me to play a part in maintaining the trust between consumers and firms to enable a flourishing and vibrant digital economy.”
-	</div>
