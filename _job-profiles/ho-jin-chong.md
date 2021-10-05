@@ -3,7 +3,7 @@ title: Ho Jin Chong
 permalink: /job-profiles/ho-jin-chong
 ---
 <div class="content">
-<p><img src="/images/ho-jin-chong-l.jpg" alt="Ho Jin Chong" style="width:400px; height:306px;" align="left">
+<p><img src="/images/ho-jin-chong-l.jpg" alt="Ho Jin Chong" style="width:400px;" align="left">
 <br clear="left"><br>
 <strong>	Ho Jin Chong</strong><br>
 Assistant Manager, Policy & Technology<br>
