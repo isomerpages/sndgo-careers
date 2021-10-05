@@ -5,7 +5,7 @@ permalink: /job-profiles/ho-jin-chong
 ### **Shaping Singapore’s Tech Landscape, One Policy at a Time**
 
 <table width="400" border="0" cellSpacing=0 cellPadding=0>
-  <tr><td><img src="/images/ho-jin-chong-l.jpg" alt="Ho Jin Chong" title="Tech Talent" width="600" height="459"><br>
+  <tr><td><img src="/images/ho-jin-chong-l.jpg" alt="Ho Jin Chong" title="Tech Talent" width="400" height="306"><br>
 <i><strong>	Ho Jin Chong</strong><br>
 Assistant Manager, Policy & Technology<br>
 	Infocomm Media Development Authority (IMDA)</i>
