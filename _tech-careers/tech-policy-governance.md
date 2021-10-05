@@ -24,8 +24,14 @@ Lead our Defence, Smart Nation and Digital Government transformation. You will b
 <div class="column-testimonial">
 <img src="/images/kelvin-goh.png" alt="Kelvin Goh" title="Tech Talent" /><br><em><strong>Kelvin Goh</strong><br><span style="font-size:13px; line-height:14px">Deputy Director, Government Data Office, Data Architecture, SNDGO</span></em><br><br>
 “I lead the team that develops the government data architecture that facilitates the efficient data sharing of clean and authoritative datasets across public agencies. It is rewarding to enable better use of data to improve policies and service delivery, in ways that benefit the public.”<br><br></div>
-	<div class="column-testimonial"></div>
+
+<div class="column-testimonial">
+<img src="/images/loh-shin-yee.jpg" alt="Loh Shin Yee" title="Tech Talent" /><br><em><strong>Loh Shin Yee</strong><br><span style="font-size:13px; line-height:14px">Assistant Director, Government Data Office, Data Policy, SNDGO</span></em><br><br>
+“We continuously think of ways to better use data to serve the public better. I am in the team that sets out policies that govern how data is managed in the Government. This includes the establishment of the Public Sector Data Governance Framework and the personal data protection policies to improve the transparency of our data security regime.”<br><br>
 </div>
+</div>
+
+
 
 ### **Get set for Smart Moves Ahead**
 Discover tech policy & governance career opportunities in these agencies.
