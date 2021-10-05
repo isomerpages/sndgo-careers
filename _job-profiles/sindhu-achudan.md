@@ -2,16 +2,14 @@
 title: Sindhu Achudan
 permalink: /job-profiles/sindhu-achudan
 ---
-### **Stepping Up for Public Good**
-
-<table width="400" border="0" cellSpacing=0 cellPadding=0>
-  <tr><td><img src="/images/sindhu-achudan-l.jpg" alt="Sindhu Achudan	" title="Tech Talent" width="400" height="306"><br>
-<i><strong>Sindhu Achudan	</strong><br>
+<div class="content">
+<p><img src="/images/sindhu-achudan-l.jpg" alt="Ahmad Nadim" style="width:400px;height:306px;" align="left">
+<br clear="left"><br>
+<strong>Sindhu Achudan	</strong><br>
 	Manager, Strategy and Masterplanning,<br>
-	Smart Nation and Digital Government Office (SNDGO)</i>
-  </td></tr>
-</table>
+	Smart Nation and Digital Government Office (SNDGO)
 
+<h2 style="color:#ed1a3b;">Stepping Up for Public Good</h2>
 
 Sindhu took a somewhat unconventional route joining the public service.
 
@@ -21,7 +19,7 @@ And there’s not been a boring day since as she strategises how to harness and 
 
 She says SNDGO was no different from her previous start-up environment as it has the same dynamism and change-the-world vibe – but with an added sense of purpose of realising Singapore’s Smart Nation dream. 
 
-**MAKING A DIFFERENCE**
+<h3 style="color:#ed1a3b;">MAKING A DIFFERENCE</h3>
 
 Asked why she joined public service as a Tech Policy Officer, Sindhu shares she was inspired to make a difference in people’s lives through tech. 
 
@@ -33,7 +31,7 @@ Through this, she identifies pain points and challenges that citizens and busine
 
 “Stakeholder management and adaptability are two important qualities of a Tech Policy Officer. Depending on the situation, I often find myself playing the role of a consultant, sometimes a coordinator, and at times, even a mediator,” she says.
 
-**CLOSE COLLABORATIONS**
+<h3 style="color:#ed1a3b;">CLOSE COLLABORATIONS</h3>
 
 Her work as part of SNDGO’s COVID-19 working group is a case in point. During the ongoing pandemic, SNDGO acts as the tech agency and is often pulled into various discussions on how tech can be used to resolve data issues or to automate processes.
 
