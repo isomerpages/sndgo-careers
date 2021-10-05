@@ -31,7 +31,20 @@ Lead our Defence, Smart Nation and Digital Government transformation. You will b
 </div>
 </div>
 
+<div class="row-testimonial">
+<div class="column-testimonial">
+<img src="/images/wong-de-ming.jpg" alt="Wong De Ming" title="Tech Talent" /><br><em><strong>Wong De Ming</strong><br><span style="font-size:13px; line-height:14px">Senior Infocomm Specialist, Infocomm Division/ Infocomm Technology & Planning Branch, IRAS</span></em><br><br>
+“As part of the Programme Management Office team working on the next generation of IRIN, the main ICT system underpinning Singapore’s tax administration and revenue collection service, my work involves extensive planning and close collaboration with various stakeholders to ensure that the system can be delivered on time and within budget.”<br><br></div>
+	
+<div class="column-testimonial">
+<img src="/images/ng-choon-sze.jpg" alt="Ng Choon Sze Daphne" title="Tech Talent" /><br><em><strong>Ng Choon Sze Daphne</strong><br><span style="font-size:13px; line-height:14px">Infocomm Specialist, Infocomm Division/ Infocomm Technology & Planning Branch, IRAS</span></em><br><br>
+“We’re always striving to improve our digital services. I enjoy delivering an enhanced tax experience to taxpayers by working closely with programme track leads to ensure that project milestones are met.”<br><br></div>
 
+<div class="column-testimonial">
+<img src="/images/justin-teh.jpg" alt="Justin Teh" title="Tech Talent" /><br><em><strong>Justin Teh</strong><br><span style="font-size:13px; line-height:14px">Assistant Director, SNDGO</span></em><br><br>
+“Our roles and contributions here can power the next bound of Singapore’s Smart Nation transformation. Public or private, the tech sector is buzzing with entrepreneurial energy – fast-paced, with innovative, disruptive new ideas. Laying the foundations of digital infrastructure, we seek to provide simpler, faster, better experiences and e-services, so that lives are enriched and future generations can seize new opportunities.”<br><br>
+</div>
+</div>
 
 ### **Get set for Smart Moves Ahead**
 Discover tech policy & governance career opportunities in these agencies.
