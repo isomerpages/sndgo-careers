@@ -7,7 +7,7 @@ permalink: /job-profiles/tech-policy-officer/
 <p>This is the domain where you transform what’s new to what’s to come. Dive into emerging technologies and formulate the new policies and strategies that empower innovation. Explore the myriad possibilities, with a vision for the future and a focus on how to effect it.</p>
 
 <div class="columns">
-   <div class="column" style="font-size:40px; font-weight: 700; color: #333333; line-height: 40px; text-align: left;">
+<div class="column" style="font-size:40px; font-weight: 700; color: #333333; line-height: 40px; text-align: left;">
      WHAT YOU CAN EXPECT TO BE DOING<br><p><img src="images/job-profile-1.jpg" width="300">
    </div>
    <div class="column">
@@ -23,17 +23,19 @@ permalink: /job-profiles/tech-policy-officer/
 
 <hr><br>
 
-<div class="row" style="padding: 20px 0px 0px 0px;">
- <div class="column" style="font-size:40px; font-weight: 700; color: #333333; line-height: 40px; text-align: left;">WHO WE ARE LOOKING<br><p><img src="images/job-profile-2.jpg" width="290"></p></div>
-<div class="column">
-<ul><li style="font-size: 20px; line-height: 26px;">Passion and keen appreciation for technology</li>
+<div class="columns">
+<div class="column" style="font-size:40px; font-weight: 700; color: #333333; line-height: 40px; text-align: left;">
+    WHO WE ARE LOOKING<br><p><img src="images/job-profile-2.jpg" width="300">
+   </div>
+   <div class="column">
+    <ul><li style="font-size: 20px; line-height: 26px;">Passion and keen appreciation for technology</li>
 <li style="font-size: 20px; line-height: 26px;">Curious, willing to build up ICT knowledge and keep up with technological trends</li>
 <li style="font-size: 20px; line-height: 26px;">Self-starter, entrepreneurial spirit</li>
 <li style="font-size: 20px; line-height: 26px;">Hunger to learn and continuously seek improvement, challenge status quo</li>
 <li style="font-size: 20px; line-height: 26px;">Interacts effectively, builds relationships and resolves conflicts to achieve desirable outcomes</li>
 <li style="font-size: 20px; line-height: 26px;">Possesses sharp policy development skills</li>
 <li style="font-size: 20px; line-height: 26px;">Excellent analytical and problem-solving skills, and strong writing ability</li></ul>
-</div>
+  </div>
 </div>
 
 <br>
