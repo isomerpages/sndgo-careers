@@ -7,9 +7,7 @@ permalink: /job-profiles/tech-policy-officer/
 <p>This is the domain where you transform what’s new to what’s to come. Dive into emerging technologies and formulate the new policies and strategies that empower innovation. Explore the myriad possibilities, with a vision for the future and a focus on how to effect it.</p>
 
 <div class="columns">
-<div class="column" style="font-size:40px; font-weight: 700; color: #333333; line-height: 40px; text-align: left;">
-     WHAT YOU CAN EXPECT TO BE DOING<br><p><img src="images/job-profile-1.jpg" width="300">
-   </div>
+<div class="column" style="font-size:40px; font-weight: 700; color: #333333; line-height: 40px; text-align: left;">WHAT YOU CAN EXPECT TO BE DOING<br><p><img src="images/job-profile-1.jpg" width="300"></div>
    <div class="column">
      <ul>
      <li style="font-size: 20px; line-height: 26px;">Research and study emerging technology trends and developments, key local and overseas developments and good practices/concerns relating to the area of work</li>
@@ -17,28 +15,26 @@ permalink: /job-profiles/tech-policy-officer/
      <li style="font-size: 20px; line-height: 26px;">Create a consensus on action from a wide spectrum of external and internal stakeholders; including public, industry, and other government agencies</li>
      <li style="font-size: 20px; line-height: 26px;">Determine trade-offs between security, usability, and costs on key ICT policies</li>
      <li style="font-size: 20px; line-height: 26px;">Execute strategies and policies to create nationwide impact</li>
-     </ul>
-  </div>
+ </ul>
+</div>
 </div>
 
 <hr><br>
 
 <div class="columns">
-<div class="column" style="font-size:40px; font-weight: 700; color: #333333; line-height: 40px; text-align: left;">
-    WHO WE ARE LOOKING<br><p><img src="images/job-profile-2.jpg" width="300">
-   </div>
-   <div class="column">
-    <ul><li style="font-size: 20px; line-height: 26px;">Passion and keen appreciation for technology</li>
+<div class="column" style="font-size:40px; font-weight: 700; color: #333333; line-height: 40px; text-align: left;"> WHO WE ARE LOOKING<br><p><img src="images/job-profile-2.jpg" width="300">
+</div>
+<div class="column">
+<ul><li style="font-size: 20px; line-height: 26px;">Passion and keen appreciation for technology</li>
 <li style="font-size: 20px; line-height: 26px;">Curious, willing to build up ICT knowledge and keep up with technological trends</li>
 <li style="font-size: 20px; line-height: 26px;">Self-starter, entrepreneurial spirit</li>
 <li style="font-size: 20px; line-height: 26px;">Hunger to learn and continuously seek improvement, challenge status quo</li>
 <li style="font-size: 20px; line-height: 26px;">Interacts effectively, builds relationships and resolves conflicts to achieve desirable outcomes</li>
 <li style="font-size: 20px; line-height: 26px;">Possesses sharp policy development skills</li>
 <li style="font-size: 20px; line-height: 26px;">Excellent analytical and problem-solving skills, and strong writing ability</li></ul>
-  </div>
+ </div>
 </div>
 
-<br>
 
 <div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> MEET OUR EXPERTS</div>
 				
