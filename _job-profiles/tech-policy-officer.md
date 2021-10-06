@@ -18,6 +18,7 @@ permalink: /job-profiles/tech-policy-officer/
 </div>
 
 <hr><br>
+
 <div class="row" style="padding: 20px 0px 0px 0px;">
  <div class="column" style="width: 80%; font-size:40px; font-weight: 700; color: #333333; line-height: 40px; text-align: left;">WHO WE ARE LOOKING<br><p><img src="images/job-profile-2.jpg" width="100%"></p></div>
   <div class="column"><ul>
@@ -31,6 +32,7 @@ permalink: /job-profiles/tech-policy-officer/
     </ul></div>
 	</div>
 
+<hr><br>
 
 <div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> MEET OUR EXPERTS</div>
 				
