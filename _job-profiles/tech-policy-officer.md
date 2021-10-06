@@ -7,7 +7,7 @@ permalink: /job-profiles/tech-policy-officer/
 <p>This is the domain where you transform what’s new to what’s to come. Dive into emerging technologies and formulate the new policies and strategies that empower innovation. Explore the myriad possibilities, with a vision for the future and a focus on how to effect it.</p>
 <br>
 <div class="row" style="padding: 20px 0px 0px 0px;">
- <div class="column" style="width: 80%; font-size:40px; font-weight: 700; color: #333333; line-height: 40px; text-align: left;">WHAT YOU CAN EXPECT TO BE DOING<br><p><img src="images/job-profile-1.jpg" width="100%"></p></div>
+ <div class="column" style="font-size:40px; font-weight: 700; color: #333333; line-height: 40px; text-align: left;">WHAT YOU CAN EXPECT TO BE DOING<br><p><img src="images/job-profile-1.jpg" width="100%"></p></div>
   <div class="column"><ul>
 <li style="font-size: 20px; line-height: 26px;">Research and study emerging technology trends and developments, key local and overseas developments and good practices/concerns relating to the area of work</li>
 <li style="font-size: 20px; line-height: 26px;">Develop strategies, policies, and frameworks to drive pervasive adoption of digital and smart technologies throughout Singapore and the government</li>
