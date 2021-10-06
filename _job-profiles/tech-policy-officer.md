@@ -21,7 +21,7 @@ permalink: /job-profiles/tech-policy-officer/
 <hr><br>
 
 <div class="row" style="padding: 20px 0px 0px 0px;">
- <div class="column" style="font-size:40px; font-weight: 700; color: #333333; line-height: 40px; text-align: left;">WHO WE ARE LOOKING<br><p><img src="images/job-profile-2.jpg" width="100%"></p></div>
+ <div class="column" style="font-size:40px; font-weight: 700; color: #333333; line-height: 40px; text-align: left;">WHO WE ARE LOOKING<br><p><img src="images/job-profile-2.jpg" width="290"></p></div>
 <div class="column">
 <ul><li style="font-size: 20px; line-height: 26px;">Passion and keen appreciation for technology</li>
 <li style="font-size: 20px; line-height: 26px;">Curious, willing to build up ICT knowledge and keep up with technological trends</li>
