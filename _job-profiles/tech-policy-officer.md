@@ -29,6 +29,7 @@ permalink: /job-profiles/tech-policy-officer/
 <li style="font-size: 20px; line-height: 26px;">Possesses sharp policy development skills</li>
 <li style="font-size: 20px; line-height: 26px;">Excellent analytical and problem-solving skills, and strong writing ability</li>
     </ul></div>
+	</div>
 
 
 <div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> MEET OUR EXPERTS</div>
