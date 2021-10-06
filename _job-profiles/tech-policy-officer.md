@@ -7,7 +7,7 @@ permalink: /job-profiles/tech-policy-officer/
 <p>This is the domain where you transform what’s new to what’s to come. Dive into emerging technologies and formulate the new policies and strategies that empower innovation. Explore the myriad possibilities, with a vision for the future and a focus on how to effect it.</p>
 
 <div class="columns">
-   <div class="column">WHAT YOU CAN EXPECT TO BE DOING<br><p><img src="images/job-profile-1.jpg" width="300"></div>
+   <div class="column">WHAT YOU CAN EXPECT TO BE DOING<br><p><img src="images/job-profile-1.jpg" width="300">
    <div class="column">
      <ul>
      <li style="font-size: 20px; line-height: 26px;">Research and study emerging technology trends and developments, key local and overseas developments and good practices/concerns relating to the area of work</li>
@@ -16,7 +16,7 @@ permalink: /job-profiles/tech-policy-officer/
      <li style="font-size: 20px; line-height: 26px;">Determine trade-offs between security, usability, and costs on key ICT policies</li>
      <li style="font-size: 20px; line-height: 26px;">Execute strategies and policies to create nationwide impact</li>
      </ul>
-  </div>
+  </div></div>
 </div>
 
 <div class="columns">
