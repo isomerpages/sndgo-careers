@@ -1,8 +1,9 @@
 ---
 title: Sindhu Achudan
-permalink: /job-profiles/sindhu-achudan
+permalink: /job-profiles/job-profiles/tech-policy/sindhu
 third_nav_title: Tech Policy Officer
 ---
+
 <div class="content">
 <p><img src="/images/sindhu-achudan-l.jpg" alt="Sindhu Achudan" style="width:400px;" align="left">
 <br clear="left"><br>
