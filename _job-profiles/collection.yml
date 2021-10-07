@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - tech-policy-officer/.keep
+      - tech-policy-officer/ho-jin-chong.md
       - tech-policy-officer.md
       - sindhu-achudan.md
