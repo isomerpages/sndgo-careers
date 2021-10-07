@@ -1,8 +1,9 @@
 ---
 title: Ho Jin Chong
-permalink: /job-profiles/ho-jin-chong
+permalink: /job-profiles/tech-policy/ho-jin-chong
 third_nav_title: Tech Policy Officer
 ---
+
 <div class="content">
 <p><img src="/images/ho-jin-chong-l.jpg" alt="Ho Jin Chong" style="width:400px;" align="left">
 <br clear="left"><br>
