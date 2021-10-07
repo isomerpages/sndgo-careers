@@ -18,7 +18,7 @@ Lead our Defence, Smart Nation and Digital Government transformation. You will b
 
 <div class="row-testimonial">
 <div class="column-testimonial">
-<img src="/images/annabelle-ng.png" alt="Annabelle Ng" title="Tech Talent" /><br><em><strong>Annabelle Ng</strong><br><span style="font-size:13px; line-height:14px">Manager, Standards, Cybersecurity & Quality Assurance, SNDGO</span></em><br><br>
+<img src="/images/annabelle-ng.png" alt="Annabelle Ng" title="Tech Talent" /><br><em><strong>Annabelle Ng</strong><br><span style="font-size:13px; line-height:14px">Senior Manager, Standards, Cybersecurity & Quality Assurance, SNDGO</span></em><br><br>
 	“As we become a digital society, we must leave no one behind and ensure that our tech products and services are accessible to all. The challenge is to constantly be developing new policies in step with new tech development, while operationalising existing policies to meet intended outcomes.”<br><br></div>
 	
 <div class="column-testimonial">
