@@ -5,11 +5,4 @@ links:
   - title: Videos
     url: /videos/
   - title: Job Profiles
-    url: /job-profiles/tech-policy-officer
-    sublinks:
-      - title: Tech Policy Officer
-        url: /job-profiles/tech-policy-officer
-      - title: Sindhu Achudan
-        url: /job-profiles/sindhu-achudan
-      - title: Ho Jin Chong
-        url: /job-profiles/ho-jin-chong
+    collection: job-profiles
