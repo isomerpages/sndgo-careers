@@ -2,6 +2,7 @@ collections:
   job-profiles:
     output: true
     order:
+      - tech-policy-officer/.keep
       - tech-policy-officer.md
       - sindhu-achudan.md
       - ho-jin-chong.md
