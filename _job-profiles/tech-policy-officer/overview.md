@@ -1,8 +1,9 @@
 ---
 title: Overview
-permalink: /job-profiles/tech-policy-officer/overview
+permalink: /job-profiles/tech-policy/overview
 third_nav_title: Tech Policy Officer
 ---
+
 
 ### **Tech Policy Officer**
 
