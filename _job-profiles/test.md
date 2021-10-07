@@ -8,8 +8,8 @@ permalink: /job-profiles/permalinktest
 
 ## What can you expect to be doing
 	
-<div style=""><img src="images/job-profile-1.jpg"></div>
-
+<div style="width:65%;height:65%;"><img src="images/job-profile-1.jpg"></div>
+	
 * Research and study emerging technology trends and developments, key local and overseas developments and good practices/concerns relating to the area of work<br><br>
 
 * Develop strategies, policies, and frameworks to drive pervasive adoption of digital and smart technologies throughout Singapore and the government<br><br>
