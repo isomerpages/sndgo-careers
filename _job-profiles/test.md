@@ -8,15 +8,14 @@ permalink: /job-profiles/permalinktest
 
 ## What can you expect to be doing
 	
-<div style=""><img src="images/job-profile-1.jpg"></div><br><br>
+<div style=""><img src="images/job-profile-1.jpg"></div><br>
 
-* Research and study emerging technology trends and developments, key local and overseas developments and good practices/concerns relating to the area of work<br><br>
+* Research and study emerging technology trends and developments, key local and overseas developments and good practices/concerns relating to the area of work<br>
 
-* Develop strategies, policies, and frameworks to drive pervasive adoption of digital and smart technologies throughout Singapore and the government<br><br>
+* Develop strategies, policies, and frameworks to drive pervasive adoption of digital and smart technologies throughout Singapore and the government<br>
 
-* Create a consensus on action from a wide spectrum of external and internal stakeholders; including public, industry, and other government agencies<br><br>
+* Create a consensus on action from a wide spectrum of external and internal stakeholders; including public, industry, and other government agencies<br>
 
-* Determine trade-offs between security, usability, and costs on key ICT policies<br><br>
+* Determine trade-offs between security, usability, and costs on key ICT policies<br>
 
-* Execute strategies and policies to create nationwide impact<br><br>
-	
+* Execute strategies and policies to create nationwide impact<br>
