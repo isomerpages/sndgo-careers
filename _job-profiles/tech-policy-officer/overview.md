@@ -35,7 +35,7 @@ This is the domain where you transform what’s new to what’s to come. Dive in
 
 * Willing to challenge the status quo
 
-* Strong verbal and written communication skills to forge strong relationships with key stakeholders at all levels  
+* Strong verbal and written communication skills to forge relationships with key stakeholders at all levels  
 
 * Sharp policy development skills
 
