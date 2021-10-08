@@ -23,7 +23,7 @@ This is the domain where you transform what’s new to what’s to come. Dive in
 
 ## Join us if you have:
 
-<div style="width:75%;height:75%;"><img src="images/job-profile-2.jpg" ></div>
+<div style="width:75%;height:75%;"><img src="images/job-profile-2a.jpg" ></div>
 
 
 * Passion for tech and how it could be used to solve real-world problems
