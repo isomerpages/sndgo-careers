@@ -43,7 +43,7 @@ custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-resources_name: ""
+resources_name: Media-hub
 shareicon: /images/logo-shared.png
 homepage_resources: true
 staging: https://sndgo-careers-staging.netlify.app
