@@ -6,7 +6,7 @@ third_nav_title: Tech Policy Officer
 # Tech Policy Officer
 This is the domain where you transform what’s new to what’s to come. Dive into emerging technologies and formulate the new policies and strategies that empower innovation. Explore the myriad possibilities, with a vision for the future and a focus on how to effect it.
 
-## WHAT YOU CAN EXPECT TO BE DOING
+## What you can expect to be doing:
 
 <div style="width:75%;height:75%;"><img src="images/job-profile-1.jpg"></div>
 
@@ -21,23 +21,25 @@ This is the domain where you transform what’s new to what’s to come. Dive in
 
 * **Execute strategies and policies** to create nationwide impact
 
-## WHO WE ARE LOOKING FOR
+## Join us if you have:
 
 <div style="width:75%;height:75%;"><img src="images/job-profile-2.jpg" ></div>
 
-* Passion and keen appreciation for technology
+* Passion for tech and how it could be used to solve real-world problems
 
-* Curious, willing to build up ICT knowledge and keep up with technological trends
+* Curiosity in current tech trends and interest in building up ICT knowledge
 
-* Self-starter, entrepreneurial spirit
+* Entrepreneurial spirit and are a self-starter
 
-* Hunger to learn and continuously seek improvement, challenge status quo
+* Hunger to learn and continuously seek improvement
 
-* Interacts effectively, builds relationships and resolves conflicts to achieve desirable outcomes
+* Willing to challenge the status quo
 
-* Possesses sharp policy development skills
+* Strong verbal and written communication skills to forge strong relationships with key stakeholders at all levels  
 
-* Excellent analytical and problem-solving skills, and strong writing ability
+* Sharp policy development skills
+
+* Excellent analytical and problem-solving skills
 
 
 ​
