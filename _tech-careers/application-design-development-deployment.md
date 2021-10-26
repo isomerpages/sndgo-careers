@@ -1,5 +1,5 @@
 ---
-title: 'Application Design, Development & Deployment'
+title: Application Design, Development & Deployment
 permalink: /tech-careers/application-design-development-and-deployment/
 ---
 ![](/images/hero-in-app-design.jpg)
@@ -23,7 +23,25 @@ Be empowered to create next-generation digital experiences and provide solutions
 <div class="column-testimonial">
 <img src="/images/charis-anne-lim.png" alt="Charis Anne Lim" title="Tech Talent" /><br><em><strong>Charis Anne Lim</strong><br><span style="font-size:13px; line-height:14px">UX Designer, Government Digital Services, GovTech </span></em><br><br>
 	“As a UX Designer, I enjoy co-creating digital products with and for citizens. I like the challenge of conceptualising service journeys that span across different agencies and transforming the gathered insights into accessible, human-centred digital services.”<br><br></div>
-<div class="column-testimonial"></div>
+	
+<div class="column-testimonial">
+	<img src="/images/apple-chan.png" alt="Apple Chan" title="Tech Talent" /><br><em><strong>Apple Chan</strong><br><span style="font-size:13px; line-height:14px">Lead Consultant (Application), CPFB</span></em><br><br>
+	“I started off as a Consultant and was tasked to assist and support the end users operationally on government agency projects. Subsequently, I moved on to a greater role in managing and delivering new projects that arose from the Singapore Budget Announcement, specifically on Covid-19 relief package. I also had the opportunity to work on an interesting customer relationship management (CRM) project which involved multiple stakeholders and interlinking requirements between CPF systems. These projects were mostly time sensitive and often had to be delivered within short time frames. But a successful roll out of each project gives me immense satisfaction.”<br><br>
+</div>
+</div>
+
+<div class="row-testimonial">
+<div class="column-testimonial">
+<img src="/images/shane-soh.png" alt="Shane Soh" title="Tech Talent" /><br><em><strong>Shane Soh</strong><br><span style="font-size:13px; line-height:14px">Engineering Manager, Analytics and Systems, CSIT</span></em><br><br>
+	“I lead a team which builds platforms and infrastructure that improves developer experience and software delivery performance in complex and highly regulated environments. I derive immense satisfaction knowing that our work enables mission-critical systems that safeguard Singapore's national security interests.”<br><br></div>
+	
+<div class="column-testimonial">
+<img src="/images/ng-yun-chi.png" alt="Ng Yun Chi" title="Tech Talent" /><br><em><strong>Ng Yun Chi</strong><br><span style="font-size:13px; line-height:14px">Principal UX Architect, C3 Development, DSTA</span></em><br><br>
+	“I work closely with the Singapore Army to create the best possible user experience for defence software systems. Through user research, system design, prototyping and more, we ensure that the systems we design are not only functional and tailored to their requirements, but also intuitive and easy to use.”<br><br></div>
+	
+<div class="column-testimonial">
+	<img src="/images/daniel-ong.png" alt="Daniel Ong" title="Tech Talent" /><br><em><strong>Daniel Ong</strong><br><span style="font-size:13px; line-height:14px">Front End Developer, IHiS</span></em><br><br>
+	“About a year ago, I couldn’t write a line of code. This year, in the span of 4 months, and with a lot of support from my colleagues, I’ve been privileged to contribute to two COVID-19-related applications: iConnect.COVID and MW Health, that have bolstered Singapore’s efforts in tackling the ‘crisis of a generation’.”<br><br></div>
 </div>
 
 ### **Get set for Smart Moves Ahead**
