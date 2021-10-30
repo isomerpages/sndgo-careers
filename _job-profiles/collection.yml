@@ -2,9 +2,9 @@ collections:
   job-profiles:
     output: true
     order:
-      - Software Engineer/Ang Chin Chuen.md
-      - Software Engineer/Overview.md
       - Software Engineer/.keep
+      - Software Engineer/Overview.md
+      - Software Engineer/Ang Chin Chuen.md
       - tech-policy-officer/.keep
       - tech-policy-officer/overview.md
       - tech-policy-officer/sindhu-achudan.md
