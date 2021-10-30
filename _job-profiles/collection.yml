@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Overview.md
-      - Software Engineer.md
       - tech-policy-officer/.keep
       - tech-policy-officer/overview.md
       - tech-policy-officer/sindhu-achudan.md
