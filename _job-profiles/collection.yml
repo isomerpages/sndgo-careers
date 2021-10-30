@@ -2,8 +2,6 @@ collections:
   job-profiles:
     output: true
     order:
-      - Systems Analyst/Overview.md
-      - Systems Analyst/.keep
       - Software Engineer/Overview.md
       - Software Engineer/.keep
       - tech-policy-officer/.keep
