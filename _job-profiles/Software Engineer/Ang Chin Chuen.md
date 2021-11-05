@@ -10,11 +10,9 @@ third_nav_title: Software Engineer
 Software Engineer<br>
 GovTech – currently attached to Ministry of Manpower (MOM)
 
-
 <h2 style="color:#ed1a3b;">Coding for Change</h2>
 
-
-<p>“My true passion is in writing code.”</p>
+<h3 style="color:#212121;">“MY TRUE PASSION IS IN WRITING CODE.”</h3>
 
 <p>For Ang Chin Chuen, his love for coding was a belated discovery. While working as a business analyst, he was involved with Robotics Process Automation (RPA) and scripting various bots for different tasks. Over time, something changed.</p>
 
