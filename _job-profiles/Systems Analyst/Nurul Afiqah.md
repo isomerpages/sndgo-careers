@@ -4,7 +4,6 @@ permalink: /job-profiles/systems-analyst/nurul-afiqah
 description: ""
 third_nav_title: Systems Analyst
 ---
-
 <div class="content">
 <p><img src="/images/nurul-afiqah-l.jpg" alt="Nurul Afiqah" style="width:400px;" align="left">
 <br clear="left"><br>
@@ -16,7 +15,7 @@ Housing and Development Board (HDB)
 <h2 style="color:#ed1a3b;">Homing in on Services Made Smarter & Simpler</h2>
 
 
-<h3 style="color:#212121;">PUTTING USERS FIRST AT HDB</h2>
+<h3 style="color:#212121;">PUTTING USERS FIRST AT HDB</h3>
 
 <p>Impressed and inspired by how the Housing & Development Board (HDB) goes about delivering on its promise to provide affordable housing to Singaporeans all these years, Afiqah didn’t hesitate to join the agency after graduating from university in 2020.</p>
 
