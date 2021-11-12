@@ -24,7 +24,7 @@ Be empowered to create next-generation digital experiences and provide solutions
 <img src="/images/charis-anne-lim.png" alt="Charis Anne Lim" title="Tech Talent" /><br><em><strong>Charis Anne Lim</strong><br><span style="font-size:13px; line-height:14px">UX Designer, Government Digital Services, GovTech </span></em><br><br>
 	“As a UX Designer, I enjoy co-creating digital products with and for citizens. I like the challenge of conceptualising service journeys that span across different agencies and transforming the gathered insights into accessible, human-centred digital services.”<br><br></div>
 	
-	<div class="column-testimonial">
+<div class="column-testimonial">
 <img src="/images/shane-soh.png" alt="Shane Soh" title="Tech Talent" /><br><em><strong>Shane Soh</strong><br><span style="font-size:13px; line-height:14px">Engineering Manager, Analytics and Systems, CSIT</span></em><br><br>
 	“I lead a team which builds platforms and infrastructure that improves developer experience and software delivery performance in complex and highly regulated environments. I derive immense satisfaction knowing that our work enables mission-critical systems that safeguard Singapore's national security interests.”<br><br></div>
 </div>
@@ -49,7 +49,7 @@ Discover application design, development & deployment career opportunities in th
 
 <div class="row-agencies">
 <div class="column-agencies"><a href="https://careers.a-star.edu.sg/" target="new"><img src="/images/logo-astar.png" alt="ASTAR" title="ASTAR"/></a></div>
-<div class="column-agencies"><a href="https://www.cpf.gov.sg/members/careers" target="new"><img src="/images/logo-cpf.png" alt="CPFB" title="CPFB"/></a></div>
+<div class="column-agencies"><a href="https://www.cpf.gov.sg/member/who-we-are/careers/careers" target="new"><img src="/images/logo-cpf.png" alt="CPFB" title="CPFB"/></a></div>
 <div class="column-agencies"><a href="https://www.csa.gov.sg/careers/overview" target="new"><img src="/images/logo-csa.png" alt="CSA" title="CSA"/></a></div>
 <div class="column-agencies"><a href="https://www.csit.gov.sg/" target="new"><img src="/images/logo-csit.png" alt="CSIT" title="CSIT"/></a></div>
 <div class="column-agencies"><a href="https://careers.pageuppeople.com/845/cw/en/listing/" target="new"><img src="/images/logo-dsta.png" alt="DSTA" title="DSTA"/></a></div>
