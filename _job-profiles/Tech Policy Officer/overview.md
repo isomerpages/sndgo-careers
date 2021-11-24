@@ -9,7 +9,7 @@ This is the domain where you transform what’s new to what’s to come. Dive in
 <br>
 <div style="width:60%;height:60%;"><img src="images/job-profile-1.jpg"></div>
 
-## What you can expect to be doing:
+### What you can expect to be doing:
 
 * **Research and study emerging technology trends** and developments, key local and overseas developments and good practices/concerns relating to the area of work
 
@@ -24,7 +24,7 @@ This is the domain where you transform what’s new to what’s to come. Dive in
 <br>
 <div style="width:60%;height:60%;"><img src="images/job-profile-2a.jpg"></div>
 
-## Join us if you have:
+### Join us if you have:
 
 * Passion for tech and how it could be used to solve real-world problems
 
