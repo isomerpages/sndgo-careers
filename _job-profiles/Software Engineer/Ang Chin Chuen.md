@@ -10,7 +10,6 @@ Software Engineer<br>
 GovTech – currently attached to Ministry of Manpower (MOM)
 
 # Coding for Change
-<br>
 
 > "My true passion is writing code." 
 
