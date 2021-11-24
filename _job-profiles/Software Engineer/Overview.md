@@ -6,9 +6,12 @@ third_nav_title: Software Engineer
 # Software Engineer
 Build Singapore’s next-generation digital products and services to solve real-life problems and make a lasting impact as you transform the way citizens live, work and play. 
 
-## What you can expect to be doing:
 
-<div style="width:75%;height:75%;"><img src="images/job-profile-se1.jpg"></div>
+
+<br><div style="width:60%;height:60%;"><img src="images/job-profile-se1.jpg"></div>
+
+## What you can expect to be doing:
+<br>
 
 * **Design, build, integrate, test,** and **maintain** complex software components
 * **Build prototypes and design system architectures** to demonstrate technology opportunities
@@ -17,9 +20,11 @@ Build Singapore’s next-generation digital products and services to solve real-
 * **Work with other UX designers, developers and engineers** to deliver enterprise engineering products in an exciting and fast-paced environment
 * **Deliver technical consultancy and expertise** in the systems development process, contributing to defining technical specifications, configuring and testing solutions
 
+<br><div style="width:60%;height:60%;"><img src="images/job-profile-se2.jpg" ></div>
+
 ## Join us if you have:
 
-<div style="width:75%;height:75%;"><img src="images/job-profile-se2.jpg" ></div>
+<br>
 
 * Relevant qualifications in Computer Science, Information Systems, Computer Engineering, or related fields
 * Good knowledge of agile development, DevOps and cloud technologies
