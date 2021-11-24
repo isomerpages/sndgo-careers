@@ -11,7 +11,6 @@ Drive digital transformation across a wide spectrum of business domains. As part
 <div style="width:60%;height:60%;"><img src="images/job-profile-sa1.jpg"></div>
 
 ## What you can expect to be doing:
-<br>
 
 * **Analyse business processes** to identify opportunities for tighter ops-tech integration  
 * **Advise and provide** assistance to users on the effective use of application systems and information technology
@@ -20,12 +19,10 @@ Drive digital transformation across a wide spectrum of business domains. As part
 * **Manage development of application system(s)** and ensure the project is implemented within budget and schedule
 * **Monitor application performance** and work with stakeholders to troubleshoot any issues surfaced in the production environment
 
-
 <br>
 <div style="width:60%;height:60%;"><img src="images/job-profile-sa2.jpg"></div>
 
 ## Join us if you have:
-<br>
 
 * Relevant qualifications in Computing, Computer Science, Computer Engineering, Information Systems, or related fields
 * Passion for tech and interest in programming, and system designs
