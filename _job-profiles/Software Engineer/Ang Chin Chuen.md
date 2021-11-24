@@ -11,8 +11,6 @@ GovTech – currently attached to Ministry of Manpower (MOM)
 
 # Coding for Change
 
-<br>
-
 > "My true passion is writing code." 
 
 <p>For Ang Chin Chuen, his love for coding was a belated discovery. While working as a business analyst, he was involved with Robotics Process Automation (RPA) and scripting various bots for different tasks. Over time, something changed.</p>
