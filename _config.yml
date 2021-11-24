@@ -44,7 +44,7 @@ paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 resources_name: Media-hub
-shareicon: /images/logo-shared.png
+shareicon: /images/hero-banner.jpg
 homepage_resources: true
 staging: https://sndgo-careers-staging.netlify.app
 prod: https://sndgo-careers-prod.netlify.app
