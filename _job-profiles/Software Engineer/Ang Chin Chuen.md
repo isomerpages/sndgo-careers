@@ -5,10 +5,11 @@ third_nav_title: Software Engineer
 ---
 <div class="content">
 <p><img src="/images/ang-chin-chuen-l.jpg" alt="Ang Chin Chuen" style="width:400px;" align="left">
-<br clear="left"><br>
-<strong>Ang Chin Chuen</strong><br>
+<br clear="left"></div>
+
+**Ang Chin Chuen**<br>
 Software Engineer<br>
-GovTech – currently attached to Ministry of Manpower (MOM)</div></div>
+GovTech – currently attached to Ministry of Manpower (MOM)
 
 # Coding for Change
 
