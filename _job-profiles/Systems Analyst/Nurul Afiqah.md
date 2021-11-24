@@ -9,7 +9,7 @@ third_nav_title: Systems Analyst
 <br clear="left"><br>
 <strong>Nurul Afiqah</strong><br>
 Systems Analyst (UX)<br>
-Housing and Development Board (HDB)
+Housing and Development Board (HDB)</div>
 
 
 # Homing in on Services Made Smarter & Simpler
