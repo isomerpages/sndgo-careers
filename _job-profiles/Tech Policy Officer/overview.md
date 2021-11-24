@@ -3,13 +3,14 @@ title: Overview
 permalink: /job-profiles/tech-policy/overview
 third_nav_title: Tech Policy Officer
 ---
-
 # Tech Policy Officer
 This is the domain where you transform what’s new to what’s to come. Dive into emerging technologies and formulate the new policies and strategies that empower innovation. Explore the myriad possibilities, with a vision for the future and a focus on how to effect it.
 
+<br><div style="width:60%;height:60%;"><img src="images/job-profile-1.jpg"></div>
+
 ## What you can expect to be doing:
 
-<div style="width:75%;height:75%;"><img src="images/job-profile-1.jpg"></div>
+<br>
 
 
 * **Research and study emerging technology trends** and developments, key local and overseas developments and good practices/concerns relating to the area of work
@@ -22,9 +23,11 @@ This is the domain where you transform what’s new to what’s to come. Dive in
 
 * **Execute strategies and policies** to create nationwide impact
 
+<br> <div style="width:60%;height:60%;"><img src="images/job-profile-2a.jpg" ></div>
+
 ## Join us if you have:
 
-<div style="width:75%;height:75%;"><img src="images/job-profile-2a.jpg" ></div>
+<br>
 
 
 * Passion for tech and how it could be used to solve real-world problems
