@@ -12,10 +12,11 @@ Systems Analyst (UX)<br>
 Housing and Development Board (HDB)
 
 
-<h2 style="color:#ed1a3b;">Homing in on Services Made Smarter & Simpler</h2>
+# Homing in on Services Made Smarter & Simpler
 
+<br>
 
-<h3 style="color:#212121;">PUTTING USERS FIRST AT HDB</h3>
+> Putting users first at HDB
 
 <p>Impressed and inspired by how the Housing & Development Board (HDB) goes about delivering on its promise to provide affordable housing to Singaporeans all these years, Afiqah didn’t hesitate to join the agency after graduating from university in 2020.</p>
 
@@ -31,9 +32,7 @@ Housing and Development Board (HDB)
 
 <p>Afiqah says it is satisfying to see how the team has grown and brought into focus the importance of UX in the delivery process of HDB’s digital services. As the UXD team is very new to HDB, she says it can be challenging to get internal stakeholders to be familiar with UX and how it works. The team has been putting in the effort to share UX knowledge and resources with their colleagues though, and it can be “truly satisfying” when they apply UX research methods and development assets from the design system which her team created in their work subsequently.</p>
 
-
-
-<h3 style="color:#212121;">BIG IMPACT WITH SMALL DESIGN TWEAKS</h3>
+## Big Impact with Small Design Tweaks
 
 <p>Another memorable moment was when she witnessed customers’ frustration with an application’s usability during a live review session with a group of participants. Afiqah recalls how participants were frustrated as they couldn’t find what they needed and had to go through multiple steps just to complete a task.</p>
 
