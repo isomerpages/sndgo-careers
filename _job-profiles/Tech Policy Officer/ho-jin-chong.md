@@ -3,8 +3,6 @@ title: Ho Jin Chong
 permalink: /job-profiles/tech-policy/ho-jin-chong
 third_nav_title: Tech Policy Officer
 ---
-
-
 <div class="content">
 <p><img src="/images/ho-jin-chong-l.jpg" alt="Ho Jin Chong" style="width:400px;" align="left">
 <br clear="left"><br>
@@ -12,7 +10,7 @@ third_nav_title: Tech Policy Officer
 Assistant Manager, Policy & Technology<br>
 	Infocomm Media Development Authority (IMDA)
 
-<h2 style="color:#ed1a3b;">Shaping Singapore’s Tech Landscape, One Policy at a Time</h2>
+# Shaping Singapore’s Tech Landscape, One Policy at a Time
 
 <p>Digital trust is becoming increasingly valuable as more Singaporeans and businesses here move online. With this trend, new norms of security and trust are emerging and evolving.</p> 
 
@@ -22,7 +20,7 @@ Assistant Manager, Policy & Technology<br>
 
 <p>“In IMDA, I get to experience that by being part of the governance team looking to strengthen Singapore as a trusted digital innovation hub,” he adds.</p>
 
-<h3 style="color:#212121;">FOSTERING INNOVATION</h3>
+## Fostering Innovation
 
 <p>It’s not all about policies either. Rather, it’s about seizing the opportunities thrown up by tech changes through a more agile, enabling approach to regulation. For instance, he and his colleagues would inform and guide organisations looking into tech such as biometrics on using and protecting data responsibly. </p>
 
@@ -38,7 +36,7 @@ Assistant Manager, Policy & Technology<br>
 
 <p>“I look forward to these meetings because they are intellectually stimulating and provide new perspectives,” he adds.  </p>
 
-<h3 style="color:#212121;">MORE THAN JUST A JOB</h3>
+## More Than Just A Job
 
 <p>Ultimately, a career in tech policy is more than a job; it’s about helping Singapore achieve its Smart Nation ambitions and leveraging growth opportunities in today’s digital economy, he says.</p>
 
