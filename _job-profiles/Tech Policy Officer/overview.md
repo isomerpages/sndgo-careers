@@ -21,7 +21,8 @@ This is the domain where you transform what’s new to what’s to come. Dive in
 
 * **Execute strategies and policies** to create nationwide impact
 
-<br> <div style="width:60%;height:60%;"><img src="images/job-profile-2a.jpg" ></div>
+<br>
+<div style="width:60%;height:60%;"><img src="images/job-profile-2a.jpg"></div>
 
 ## Join us if you have:
 
