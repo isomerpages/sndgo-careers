@@ -8,7 +8,7 @@ third_nav_title: Software Engineer
 <br clear="left"><br>
 <strong>Ang Chin Chuen</strong><br>
 Software Engineer<br>
-GovTech – currently attached to Ministry of Manpower (MOM)
+GovTech – currently attached to Ministry of Manpower (MOM)</div>
 
 # Coding for Change
 
