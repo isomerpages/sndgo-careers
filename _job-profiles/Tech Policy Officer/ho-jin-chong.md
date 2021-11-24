@@ -8,7 +8,7 @@ third_nav_title: Tech Policy Officer
 <br clear="left"><br>
 <strong>	Ho Jin Chong</strong><br>
 Assistant Manager, Policy & Technology<br>
-	Infocomm Media Development Authority (IMDA)
+	Infocomm Media Development Authority (IMDA)</div>
 
 # Shaping Singapore’s Tech Landscape, One Policy at a Time
 
