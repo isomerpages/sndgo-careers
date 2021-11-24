@@ -5,12 +5,12 @@ description: ""
 ---
 # Meet Our Experts
 
-<br><div class="row" >
-	
-<div class="col"> 
+<br>
+<div class="row" >
+	<div class="col"> 
 <a href="/job-profiles/software-engineer/ang-chin-chuen"><img src="images/ang-chin-chuen.jpg" alt="Ang Chin Chuen"></a><br>
 		<div class="header"><b>Ang Chin Chuen</b></div><br>
-		<div class="para">Software Engineer, GovTech – currently attached to Ministry of Manpower (MOM)</span>
+		<div class="para">Software Engineer, GovTech – currently attached to Ministry of Manpower (MOM)
 </div>
 <br>
 
@@ -45,7 +45,7 @@ description: ""
 </div>
 	<div class="col"> 
 </div>
-<br></div>
+<br></div></div>
 
 
 <br>
