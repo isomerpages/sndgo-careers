@@ -7,7 +7,7 @@ third_nav_title: Tech Policy Officer
 
 **Sindhu Achudan**	<br>
 Senior Manager, Strategy and Masterplanning,<br>
-Smart Nation and Digital Government Office (SNDGO)</div>
+Smart Nation and Digital Government Office (SNDGO)
 
 # Stepping Up for Public Good
 
