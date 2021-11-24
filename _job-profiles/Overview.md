@@ -55,8 +55,7 @@ description: ""
 <div class="row" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">
 
 <div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> Find out more about the different job profiles</div>
-
-<div class="col"> 
+	<div class="col"> 
 <a href="/job-profiles/software-engineer/overview"><img src="/images/job-profile-se1.jpg" alt="Ang Chin Chuen"></a><br>
 		<div class="header"><b>Software Engineer</b></div>
 
