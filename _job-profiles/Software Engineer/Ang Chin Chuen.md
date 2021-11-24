@@ -3,9 +3,7 @@ title: Ang Chin Chuen
 permalink: /job-profiles/software-engineer/ang-chin-chuen
 third_nav_title: Software Engineer
 ---
-<div class="content">
-<p><img src="/images/ang-chin-chuen-l.jpg" alt="Ang Chin Chuen" style="width:400px;" align="left">
-<br clear="left"></div>
+<div style="width:60%;height:60%;"><img src="/images/ang-chin-chuen-l.jpg" alt="Ang Chin Chuen"></div>
 
 **Ang Chin Chuen**<br>
 Software Engineer<br>
