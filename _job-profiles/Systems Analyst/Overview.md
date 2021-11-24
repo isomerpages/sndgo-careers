@@ -41,6 +41,6 @@ Proficiency in agile methodologies and practices, such as Scrum, Continuous Inte
        <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Nurul Afiqah</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Systems Analyst (UX), Housing and Development Board (HDB)</span><br><br>
     <span style="font-size: 16px; line-height: 23px;">
 Impressed and inspired by how the Housing & Development Board (HDB) goes about delivering on its promise to provide affordable housing to Singaporeans all these years, Afiqah didn’t hesitate to join the agency after graduating from university in 2020.
-<br><br> [Find out more about <a href="/job-profiles/systems-analyst/nurul-afiqah">Nurul Afiqah</a></span>]
+<br><br> [Find out more about <a href="/job-profiles/systems-analyst/nurul-afiqah">Nurul Afiqah</a>]</span>
       </div>
 </div>
