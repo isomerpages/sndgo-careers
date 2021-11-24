@@ -3,12 +3,11 @@ title: Sindhu Achudan
 permalink: /job-profiles/tech-policy/sindhu
 third_nav_title: Tech Policy Officer
 ---
-<div class="content">
-<p><img src="/images/sindhu-achudan-l.jpg" alt="Sindhu Achudan" style="width:400px;" align="left">
-<br clear="left"><br>
-<strong>Sindhu Achudan	</strong><br>
-	Senior Manager, Strategy and Masterplanning,<br>
-	Smart Nation and Digital Government Office (SNDGO)</div>
+<div style="width:60%;height:60%;"><img src="/images/sindhu-achudan-l.jpg" alt="Sindhu Achudan"></div>
+
+**Sindhu Achudan**	<br>
+Senior Manager, Strategy and Masterplanning,<br>
+Smart Nation and Digital Government Office (SNDGO)</div>
 
 # Stepping Up for Public Good
 
@@ -20,7 +19,7 @@ third_nav_title: Tech Policy Officer
 
 <p>She says SNDGO was no different from her previous start-up environment as it has the same dynamism and change-the-world vibe – but with an added sense of purpose of realising Singapore’s Smart Nation dream. </p>
 	
-## Making a Difference
+### Making a Difference
 
 
 <p>Asked why she joined public service as a Tech Policy Officer, Sindhu shares she was inspired to make a difference in people’s lives through tech. </p>
