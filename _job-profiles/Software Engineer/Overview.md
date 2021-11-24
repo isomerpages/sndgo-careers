@@ -10,7 +10,7 @@ Build Singapore’s next-generation digital products and services to solve real-
 <div style="width:60%;height:60%;"><img src="images/job-profile-se1.jpg"></div>
 
 ## What you can expect to be doing:
-<br>
+
 
 * **Design, build, integrate, test,** and **maintain** complex software components
 * **Build prototypes and design system architectures** to demonstrate technology opportunities
@@ -23,7 +23,6 @@ Build Singapore’s next-generation digital products and services to solve real-
 <div style="width:60%;height:60%;"><img src="images/job-profile-se2.jpg"></div>
 
 ## Join us if you have:
-<br>
 
 * Relevant qualifications in Computer Science, Information Systems, Computer Engineering, or related fields
 * Good knowledge of agile development, DevOps and cloud technologies
