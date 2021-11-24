@@ -3,9 +3,6 @@ title: Sindhu Achudan
 permalink: /job-profiles/tech-policy/sindhu
 third_nav_title: Tech Policy Officer
 ---
-
-
-
 <div class="content">
 <p><img src="/images/sindhu-achudan-l.jpg" alt="Sindhu Achudan" style="width:400px;" align="left">
 <br clear="left"><br>
@@ -13,7 +10,7 @@ third_nav_title: Tech Policy Officer
 	Senior Manager, Strategy and Masterplanning,<br>
 	Smart Nation and Digital Government Office (SNDGO)
 
-<h2 style="color:#ed1a3b;">Stepping Up for Public Good</h2>
+# Stepping Up for Public Good
 
 <p>Sindhu took a somewhat unconventional route joining the public service.</p>
 
@@ -22,8 +19,9 @@ third_nav_title: Tech Policy Officer
 <p>And there’s not been a boring day since as she strategises how to harness and govern the use of tech for the benefit of Singaporeans and others living here. </p>
 
 <p>She says SNDGO was no different from her previous start-up environment as it has the same dynamism and change-the-world vibe – but with an added sense of purpose of realising Singapore’s Smart Nation dream. </p>
+	
+## Making a Difference
 
-<h3 style="color:#212121;">MAKING A DIFFERENCE</h3>
 
 <p>Asked why she joined public service as a Tech Policy Officer, Sindhu shares she was inspired to make a difference in people’s lives through tech. </p>
 
@@ -35,7 +33,7 @@ third_nav_title: Tech Policy Officer
 
 <p>“Stakeholder management and adaptability are two important qualities of a Tech Policy Officer. Depending on the situation, I often find myself playing the role of a consultant, sometimes a coordinator, and at times, even a mediator,” she says.</p>
 
-<h3 style="color:#212121;">CLOSE COLLABORATIONS</h3>
+## Close Collaborations
 
 <p>Her work as part of SNDGO’s COVID-19 working group is a case in point. During the ongoing pandemic, SNDGO acts as the tech agency and is often pulled into various discussions on how tech can be used to resolve data issues or to automate processes.</p>
 
