@@ -4,7 +4,7 @@ permalink: /job-profiles/overview
 description: ""
 ---
 # Meet Our Experts
-XXX
+YYY
 <br>
 <div class="row" >
 	<div class="col"> 
@@ -45,11 +45,10 @@ XXX
 </div>
 	<div class="col"> 
 </div>
-<br></div></div>
+<br></div>
 
 
 <br>
-<div class="row" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px;">
 
 <div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 20px 20px 20px;"> Find out more about the different job profiles</div>
 	
