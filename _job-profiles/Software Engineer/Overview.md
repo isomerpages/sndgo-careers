@@ -37,7 +37,7 @@ Build Singapore’s next-generation digital products and services to solve real-
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
        <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Ang Chin Chuen</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Software Engineer, GovTech – currently attached to Ministry of Manpower (MOM)</span><br><br>
     <span style="font-size: 16px; line-height: 23px;">'My true passion is in writing code.'
-For Ang Chin Chuen, his love for coding was a belated discovery. While working as a business analyst, he was involved with Robotics Process Automation (RPA) and scripting various bots for different tasks. Over time, something changed.
- [<a href="/job-profiles/software-engineer/ang-chin-chuen">Read more</a>]</span>
+For Ang Chin Chuen, his love for coding was a belated discovery. While working as a business analyst, he was involved with Robotics Process Automation (RPA) and scripting various bots for different tasks. Over time, something changed.<br><br>[Find out more about
+ <a href="/job-profiles/software-engineer/ang-chin-chuen">Ang Chin Chuen</a>]</span>
       </div>
 </div>

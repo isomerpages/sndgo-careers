@@ -4,7 +4,6 @@ permalink: /job-profiles/systems-analyst/overview
 description: ""
 third_nav_title: Systems Analyst
 ---
-
 # Systems Analyst
 Drive digital transformation across a wide spectrum of business domains. As part of an application development team, you will leverage innovation and technology to enable business excellence, work closely with various stakeholders to manage, design and develop systems.
 
@@ -42,7 +41,6 @@ Proficiency in agile methodologies and practices, such as Scrum, Continuous Inte
        <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Nurul Afiqah</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Systems Analyst (UX), Housing and Development Board (HDB)</span><br><br>
     <span style="font-size: 16px; line-height: 23px;">
 Impressed and inspired by how the Housing & Development Board (HDB) goes about delivering on its promise to provide affordable housing to Singaporeans all these years, Afiqah didn’t hesitate to join the agency after graduating from university in 2020.
-
- [<a href="/job-profiles/systems-analyst/nurul-afiqah">Read more</a>]</span>
+<br><br> [Find out more about <a href="/job-profiles/systems-analyst/nurul-afiqah">Nurul Afiqah</a>]</span>
       </div>
 </div>
