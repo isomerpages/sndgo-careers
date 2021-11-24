@@ -9,32 +9,32 @@ description: ""
 	
 <div class="col"> 
 <a href="/job-profiles/software-engineer/ang-chin-chuen"><img src="images/ang-chin-chuen.jpg" alt="Ang Chin Chuen"></a><br>
-		<div class="header"><b>Ang Chin Chuen</b></div>
-		<div class="para"><span style="font-size: 14px; font-style: italic; line-height: 16px;">Software Engineer, <br>GovTech – currently attached to Ministry of Manpower (MOM)</span>
+		<div class="header"><b>Ang Chin Chuen</b></div><br>
+		<div class="para">Software Engineer, GovTech – currently attached to Ministry of Manpower (MOM)</span>
 </div>
 <br>
 
 </div>
 	<div class="col"> 
 <a href="/job-profiles/systems-analyst/nurul-afiqah"><img src="images/nurul-afiqah.jpg" alt="Nurul Afiqah"></a><br>
-	<div class="header"><b>Nurul Afiqah</b></div>
-	<div class="para"><span style="font-size: 14px; font-style: italic; line-height: 16px;">Systems Analyst (UX), <br> Housing and Development Board (HDB)</span>
+	<div class="header"><b>Nurul Afiqah</b></div><br>
+	<div class="para">Systems Analyst (UX), Housing and Development Board (HDB)
 </div>
 <br>
 
 </div>
 	<div class="col"> 
 <a href="/job-profiles/tech-policy/sindhu"><img src="images/sindhu-achudan.jpg" alt="Sindhu Achudan"></a><br>
-	<div class="header"><b>Sindhu Achudan</b></div>
-	<div class="para"><span style="font-size: 14px; font-style: italic; line-height: 16px;">Senior Manager, <br>Strategy and Masterplanning, <br>SNDGO</span>
+	<div class="header"><b>Sindhu Achudan</b></div><br>
+	<div class="para">Senior Manager, Strategy and Masterplanning, SNDGO
 </div>
 <br></div></div>
 
 <div class="row">
 <div class="col"> 
 <a href="/job-profiles/tech-policy/ho-jin-chong"><img src="images/ho-jin-chong.jpg" alt="Ho Jin Chong"></a><br>
-		<div class="header"><b>Ho Jin Chong</b></div>
-		<div class="para"><span style="font-size: 14px; font-style: italic; line-height: 16px;">Assistant Manager, <br>Policy & Technology,<br> IMDA</span>
+		<div class="header"><b>Ho Jin Chong</b></div><br>
+		<div class="para">Assistant Manager, Policy & Technology, IMDA
 </div>
 <br>
 
