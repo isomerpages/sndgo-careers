@@ -7,9 +7,11 @@ third_nav_title: Systems Analyst
 # Systems Analyst
 Drive digital transformation across a wide spectrum of business domains. As part of an application development team, you will leverage innovation and technology to enable business excellence, work closely with various stakeholders to manage, design and develop systems.
 
+<br><div style="width:60%;height:60%;"><img src="images/job-profile-sa1.jpg"></div>
+
 ## What you can expect to be doing:
 
-<div style="width:75%;height:75%;"><img src="images/job-profile-sa1.jpg"></div>
+<br>
 
 * **Analyse business processes** to identify opportunities for tighter ops-tech integration  
 * **Advise and provide** assistance to users on the effective use of application systems and information technology
@@ -19,9 +21,11 @@ Drive digital transformation across a wide spectrum of business domains. As part
 * **Monitor application performance** and work with stakeholders to troubleshoot any issues surfaced in the production environment
 
 
+<br><div style="width:60%;height:60%;"><img src="images/job-profile-sa2.jpg" ></div>
+
 ## Join us if you have:
 
-<div style="width:75%;height:75%;"><img src="images/job-profile-sa2.jpg" ></div>
+<br>
 
 * Relevant qualifications in Computing, Computer Science, Computer Engineering, Information Systems, or related fields
 * Passion for tech and interest in programming, and system designs
