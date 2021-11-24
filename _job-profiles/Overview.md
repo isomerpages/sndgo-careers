@@ -5,7 +5,6 @@ description: ""
 ---
 # Meet Our Experts
 
-<br>
 <div class="row" >
 	
 <div class="col"> 
@@ -31,8 +30,6 @@ description: ""
 </div>
 <br></div></div>
 
-
-<br>
 <div class="row">
 <div class="col"> 
 <a href="/job-profiles/tech-policy/ho-jin-chong"><img src="images/ho-jin-chong.jpg" alt="Ho Jin Chong"></a><br>
@@ -48,7 +45,7 @@ description: ""
 </div>
 	<div class="col"> 
 </div>
-<br></div></div>
+<br></div>
 
 
 <br>
