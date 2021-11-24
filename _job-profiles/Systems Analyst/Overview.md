@@ -10,7 +10,7 @@ Drive digital transformation across a wide spectrum of business domains. As part
 <br>
 <div style="width:60%;height:60%;"><img src="images/job-profile-sa1.jpg"></div>
 
-## What you can expect to be doing:
+### What you can expect to be doing:
 
 * **Analyse business processes** to identify opportunities for tighter ops-tech integration  
 * **Advise and provide** assistance to users on the effective use of application systems and information technology
@@ -22,7 +22,7 @@ Drive digital transformation across a wide spectrum of business domains. As part
 <br>
 <div style="width:60%;height:60%;"><img src="images/job-profile-sa2.jpg"></div>
 
-## Join us if you have:
+### Join us if you have:
 
 * Relevant qualifications in Computing, Computer Science, Computer Engineering, Information Systems, or related fields
 * Passion for tech and interest in programming, and system designs
