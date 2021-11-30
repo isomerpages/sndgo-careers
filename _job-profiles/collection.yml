@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Cybersecurity Engineer/.keep
-      - Heng Tian Hao.md
       - Overview.md
       - Software Engineer/.keep
       - Software Engineer/Overview.md
