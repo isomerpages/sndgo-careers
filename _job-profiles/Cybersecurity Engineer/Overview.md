@@ -12,6 +12,14 @@ Text goes here...
 
 ### What you can expect to be doing:
 
+* **Text** ... 
+
+<br>
+<div style="width:60%;height:60%;"><img src="images/job-profile-ce2.jpg"></div>
+
+### Join us if you have:
+
+* Text...
 
 
 
