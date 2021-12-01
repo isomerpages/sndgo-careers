@@ -40,7 +40,7 @@ Be our next generation of cybersecurity leaders. Join us to shape, transform and
 <img src="/images/tan-suan-zhi.png" alt="ME4 Tan Suan Zhi " title="Tech Talent" /><br><em><strong>ME4 Tan Suan Zhi </strong><br><span style="font-size:13px; line-height:14px">Commanding Officer, Cyber Defence Group, SAF C4I, MINDEF</span></em><br><br>
 	“A good cyber defence is proactive: it requires getting the right intelligence to stay one step ahead of the threat actors, to keep up with the fast-evolving cyber landscape. Leading a Security Operations Centre, I supervise multiple teams in looking actively for cyber threats within the SAF’s warfighting network. The challenging and dynamic nature of my work means that there is never a dull moment.”<br><br></div></div>
 
-
+**Click on the link to [read more testimonials](/testimonials).**
 
 ### **Get set for Smart Moves Ahead**
 Discover cybersecurity career opportunities in these agencies.
