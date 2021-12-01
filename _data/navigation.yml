@@ -5,6 +5,6 @@ links:
   - title: Job Profiles
     collection: job-profiles
   - title: Testimonials
-    collection: testimonials
+    url: /testimonials
   - title: Videos
     url: /videos/
