@@ -90,8 +90,8 @@ Select a job profile below:
 	
 <div class="row-testimonial" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px">
 <div class="column-testimonial">
-<img src="/images/ishita-mittal.png" alt="Mohamed Riduan Ahmad" title="Tech Talent" /><br><em><strong>Mohamed Riduan Ahmad</strong><br><span style="font-size:13px; line-height:14px">Principal Engineer (Security), Cybersecurity & Technology Group, Security & Network Operations (SNO) Department, CPFB</span></em><br><br>
-  “My work in cybersecurity contribute to providing CPF members the peace of mind that there is a team of us working 24/7 behind the scenes, to ensure that the digital assets in CPFB are safe and secure against the many cybersecurity threats we see today.”<br><br></div>
+<img src="/images/ishita-mittal.jpg" alt="Ishita Mittal" title="Tech Talent" /><br><em><strong>Ishita Mittal</strong><br><span style="font-size:13px; line-height:14px">Senior Systems Engineer, Cyber Defence Group, IHiS</span></em><br><br>
+“Working at IHiS made me realise how big a role IT and my team play in the healthcare industry. Cybersecurity is a big challenge. We are entrusted with a critical task - to protect our organisation, public healthcare institutes (PHIs) and patient data from getting compromised by hackers who are getting smarter with each passing day.”<br><br></div>
 
 <div class="column-testimonial"><br><br></div>
 	
