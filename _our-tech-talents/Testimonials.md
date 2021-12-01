@@ -16,7 +16,7 @@ description: ""
 
 ## Application Design, Development & Deployment
 
-<div class="row-testimonial">
+<div class="row-testimonial" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px">
 <div class="column-testimonial">
 <img src="/images/muhammad-hafidzuddin.png" alt="Muhammad Hafidzuddin" title="Tech Talent" /><br><em><strong>Muhammad Hafidzuddin  </strong><br><span style="font-size:13px; line-height:14px">Software Engineer, Government Digital Services, GovTech </span></em><br><br>
 	“I continuously get excited about the apps I can build to benefit people. Ultimately, we hope to positively impact every Singaporean by improving their digital experience and relationship with government services.”<br><br></div>
@@ -30,7 +30,7 @@ description: ""
 	“I lead a team which builds platforms and infrastructure that improves developer experience and software delivery performance in complex and highly regulated environments. I derive immense satisfaction knowing that our work enables mission-critical systems that safeguard Singapore's national security interests.”<br><br></div>
 </div>
 
-<div class="row-testimonial">
+<div class="row-testimonial" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px">
 <div class="column-testimonial">
 <img src="/images/ng-yun-chi.png" alt="Ng Yun Chi" title="Tech Talent" /><br><em><strong>Ng Yun Chi</strong><br><span style="font-size:13px; line-height:14px">Principal UX Architect, C3 Development, DSTA</span></em><br><br>
 	“I work closely with the Singapore Army to create the best possible user experience for defence software systems. Through user research, system design, prototyping and more, we ensure that the systems we design are not only functional and tailored to their requirements, but also intuitive and easy to use.”<br><br></div>
@@ -49,7 +49,7 @@ description: ""
 
 ## Cybersecurity
 
-<div class="row-testimonial">
+<div class="row-testimonial" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px">
 <div class="column-testimonial">
 <img src="/images/mohamed-riduan-ahmad.png" alt="Mohamed Riduan Ahmad" title="Tech Talent" /><br><em><strong>Mohamed Riduan Ahmad</strong><br><span style="font-size:13px; line-height:14px">Principal Engineer (Security), Cybersecurity & Technology Group, Security & Network Operations (SNO) Department, CPFB</span></em><br><br>
   “My work in cybersecurity contribute to providing CPF members the peace of mind that there is a team of us working 24/7 behind the scenes, to ensure that the digital assets in CPFB are safe and secure against the many cybersecurity threats we see today.”<br><br></div>
@@ -64,7 +64,7 @@ description: ""
 
 ## Data Science & AI
 
-<div class="row-testimonial">
+<div class="row-testimonial" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px">
 <div class="column-testimonial">
 <img src="/images/elizabeth-lim.png" alt="Elizabeth Lim" title="Tech Talent" /><br><em><strong>Elizabeth Lim</strong><br><span style="font-size:13px; line-height:14px">Data Scientist, Data Science & Artificial Intelligence Division, GovTech</span></em><br><br>
 “Data science and Analytics have a great potential to change and transform the way we live, work, as well as how we interact with our citizens. I aim to bridge the gap between the technical aspects of data science and the contextualised needs of the end-user, to build machine learning solutions that add value and convenience to citizens, businesses, and public service agencies.”<br><br></div>
@@ -79,7 +79,7 @@ description: ""
 
 ## Geospatial
 
-<div class="row-testimonial">
+<div class="row-testimonial" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px">
 <div class="column-testimonial">
 <img src="/images/lee-mou-jian.png" alt="Lee Mou Jian" title="Tech Talent" /><br><em><strong>Lee Mou Jian</strong><br><span style="font-size:13px; line-height:14px">Assistant Manager, Geospatial & Data Division, SLA
 </span></em><br><br>“My interest in the geospatial sector is driven by its position at the forefront of Singapore’s Smart Nation efforts. I drive strategy and implement policies for government officers to manage and share location data effectively. This helps agencies make better decisions and carry out operations with better precision, in areas such as land use, transportation, and healthcare.”<br><br></div>
@@ -97,7 +97,7 @@ description: ""
 
 ## ICT Infrastructure
 
-<div class="row-testimonial">
+<div class="row-testimonial" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px">
 <div class="column-testimonial">
 <img src="/images/reuben-wong.png" alt="Reuben Wong" title="Tech Talent" /><br><em><strong>Reuben Wong</strong><br><span style="font-size:13px; line-height:14px">Senior Manager, Infrastructure Planning & Facilitation, IMDA</span></em><br><br>
 	“The digital infrastructure work we do provides the foundation for enabling Smart Nation related initiatives. Whether in data centres, 5G, or connectivity, these will remain critical pillars to enable all sorts of Smart Nation related applications.”<br><br></div> 
@@ -115,7 +115,7 @@ description: ""
 
 ## Sensors & Internet of Things
 
-<div class="row-testimonial">
+<div class="row-testimonial" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px">
 <div class="column-testimonial">
 <img src="/images/brandon-chua.png" alt="Brandon Chua" title="Tech Talent" /><br><em><strong>Brandon Chua</strong><br><span style="font-size:13px; line-height:14px">Engineer, Sense-making & Surveillance Centre of Expertise, HTX</span></em><br><br>
 	“We specialise in R&D for the computer vision field, where we harness new technology such as AI. Best of all, I can see the fruits of my labour being implemented to enhance the safety of our citizens, which includes my family and loved ones.”<br><br></div>	
@@ -126,7 +126,7 @@ description: ""
 <img src="/images/ong-ling-ling.png" alt="Ong Ling Ling" title="Tech Talent" /><br><em><strong>Ong Ling Ling</strong><br><span style="font-size:13px; line-height:14px">Senior Manager, National Infocomm Infrastructure, IMDA</span></em><br><br>
 	“Work hard, play hard! That's what I do! In my role, I constantly pursue new knowledge to understand how rapidly evolving technologies can be leveraged on. Our aim is to make use of advanced applications such as AR, VR, MR and ER to solve challenges faced today for a better tomorrow!”<br><br></div> 
 </div>
-<div class="row-testimonial">
+<div class="row-testimonial" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px">
 <div class="column-testimonial">
 <img src="/images/chandrasehar.png" alt="Chandrasehar S/O Rajaseharan" title="Tech Talent" /><br><em><strong>Chandrasehar S/O Rajaseharan</strong><br><span style="font-size:13px; line-height:14px">Engineer, Sense-making & Surveillance Centre of Expertise, HTX</span></em><br><br>
 “The challenges in designing the best video analytics solutions and the need to always keep track of new trends in technology, motivates me to push on in my work, knowing that what we design will lead to a more secure environment for our nation, including my loved ones.”<br><br></div>
@@ -142,7 +142,7 @@ description: ""
 
 ## Tech Policy & Governance
 
-<div class="row-testimonial">
+<div class="row-testimonial" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px">
 <div class="column-testimonial">
 <img src="/images/annabelle-ng.png" alt="Annabelle Ng" title="Tech Talent" /><br><em><strong>Annabelle Ng</strong><br><span style="font-size:13px; line-height:14px">Senior Manager, Standards, Cybersecurity & Quality Assurance, SNDGO</span></em><br><br>
 	“As we become a digital society, we must leave no one behind and ensure that our tech products and services are accessible to all. The challenge is to constantly be developing new policies in step with new tech development, while operationalising existing policies to meet intended outcomes.”<br><br></div>
@@ -157,7 +157,7 @@ description: ""
 </div>
 </div>
 
-<div class="row-testimonial">
+<div class="row-testimonial" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px">
 <div class="column-testimonial">
 <img src="/images/wong-de-ming.png" alt="Wong De Ming" title="Tech Talent" /><br><em><strong>Wong De Ming</strong><br><span style="font-size:13px; line-height:14px">Senior Infocomm Specialist, Infocomm Division/ Infocomm Technology & Planning Branch, IRAS</span></em><br><br>
 “As part of the Programme Management Office team working on the next generation of IRIN, the main ICT system underpinning Singapore’s tax administration and revenue collection service, my work involves extensive planning and close collaboration with various stakeholders to ensure that the system can be delivered on time and within budget.”<br><br></div>
