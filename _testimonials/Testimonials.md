@@ -4,7 +4,7 @@ permalink: /testimonials
 description: ""
 ---
 # Hear from our tech talents
-
+<br>
 * [Application Design, Development & Deployment](#application-design-development-deployment) 
 * [Cybersecurity](#cybersecurity)
 * [Data Science & AI](#data-science-ai)
@@ -13,7 +13,7 @@ description: ""
 * [Sensors & Internet of Things](#sensors-internet-of-things)
 * [Tech Policy & Governance](#tech-policy-governance)
 
-### Application Design, Development & Deployment
+## Application Design, Development & Deployment
 
 <div class="row-testimonial">
 <div class="column-testimonial">
@@ -46,7 +46,7 @@ description: ""
 
 [Return to top](#hear-from-our-tech-talents)
 
-### Cybersecurity
+## Cybersecurity
 
 <div class="row-testimonial">
 <div class="column-testimonial">
@@ -61,7 +61,7 @@ description: ""
 
 [Return to top](#hear-from-our-tech-talents)
 
-### Data Science & AI
+## Data Science & AI
 
 <div class="row-testimonial">
 <div class="column-testimonial">
@@ -76,7 +76,7 @@ description: ""
 
 [Return to top](#hear-from-our-tech-talents)
 
-### Geospatial
+## Geospatial
 
 <div class="row-testimonial">
 <div class="column-testimonial">
@@ -94,7 +94,7 @@ description: ""
 
 [Return to top](#hear-from-our-tech-talents)
 
-### ICT Infrastructure
+## ICT Infrastructure
 
 <div class="row-testimonial">
 <div class="column-testimonial">
@@ -112,7 +112,7 @@ description: ""
 
 [Return to top](#hear-from-our-tech-talents)
 
-### Sensors & Internet of Things
+## Sensors & Internet of Things
 
 <div class="row-testimonial">
 <div class="column-testimonial">
@@ -139,7 +139,7 @@ description: ""
 
 [Return to top](#hear-from-our-tech-talents)
 
-### Tech Policy & Governance
+## Tech Policy & Governance
 
 <div class="row-testimonial">
 <div class="column-testimonial">
