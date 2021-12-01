@@ -4,7 +4,6 @@ permalink: /testimonials
 description: ""
 ---
 # Hear from our tech talents
-<br>
 
 * [Application Design, Development & Deployment](#application-design-development-deployment) 
 * [Cybersecurity](#cybersecurity)
