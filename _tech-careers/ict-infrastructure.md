@@ -28,7 +28,7 @@ You will discover ICT infrastructure building blocks like the Singapore Governme
 	“My work cuts across multiple ICT&SS domain areas that include app infrastructure and cybersecurity. I’m constantly provided with challenging tech problems to resolve and I enjoy every moment of it. Each challenge is a learning opportunity.”<br><br></div>   
 </div>
 	
-	
+**Click on the link to [read more testimonials](/testimonials).**	
 
 ### **Get set for Smart Moves Ahead**
 Discover ICT infrastructure career opportunities in these agencies.
