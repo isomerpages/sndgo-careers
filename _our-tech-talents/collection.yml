@@ -1,5 +1,5 @@
 collections:
-  testimonials:
+  our-tech-talents:
     output: true
     order:
       - Testimonials.md
