@@ -46,6 +46,8 @@ Lead our Defence, Smart Nation and Digital Government transformation. You will b
 </div>
 </div>
 
+**Click on the link to [read more testimonials](/testimonials).**
+
 ### **Get set for Smart Moves Ahead**
 Discover tech policy & governance career opportunities in these agencies.
 
