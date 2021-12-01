@@ -2,7 +2,9 @@ logo: /images/logo.png
 links:
   - title: Tech Careers
     collection: tech-careers
-  - title: Videos
-    url: /videos/
   - title: Job Profiles
     collection: job-profiles
+  - title: Testimonials
+    collection: testimonials
+  - title: Videos
+    url: /videos/
