@@ -6,13 +6,13 @@ description: ""
 # Hear from our tech talents
 Select a job profile below:
 
-* [Application Design, Development & Deployment](#application-design-development-deployment) 
+* [Application Design, Development & Deployment](#application-design-development-&-deployment) 
 * [Cybersecurity](#cybersecurity)
-* [Data Science & AI](#data-science-ai)
-* [Geospatial ](###geospatial)
+* [Data Science & AI](#data-science-&-ai)
+* [Geospatial](###geospatial)
 * [ICT Infrastructure](#ict-infrastructure)
-* [Sensors & Internet of Things](#sensors-internet-of-things)
-* [Tech Policy & Governance](#tech-policy-governance)
+* [Sensors & Internet of Things](#sensors-&-internet-of-things)
+* [Tech Policy & Governance](#tech-policy-&-governance)
 
 ## Application Design, Development & Deployment
 
