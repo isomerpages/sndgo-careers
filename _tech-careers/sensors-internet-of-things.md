@@ -37,6 +37,8 @@ Join one of our many teams to implement meaningful projects that impact the nati
 “I lead a team of engineers to digitise our national parks and gardens. What excites me is, from the products we build and deploy, we get to constantly redefine what a Smart Nation really is!”<br><br></div>
 </div>
 
+**Click on the link to [read more testimonials](/testimonials).**
+
 ### **Get set for Smart Moves Ahead**
 Discover sensors & IoT career opportunities in these agencies.
 
