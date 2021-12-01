@@ -52,28 +52,29 @@ description: ""
 ### Find out more about the different job profiles
 <br>	
 <div class="row">	
-	<div class="col"> 
+<div class="col"> 
+<a href="/job-profiles/cybersecurity-engineer/overview"><img src="/images/job-profile-ce1.jpg" alt="Heng Tian Hao"></a><br>
+<div class="header"><b>Cybersecurity Engineer</b></div>
+</div>
+	
+<div class="col"> 
 <a href="/job-profiles/software-engineer/overview"><img src="/images/job-profile-se1.jpg" alt="Ang Chin Chuen"></a><br>
-		<div class="header"><b>Software Engineer</b></div>
-
+<div class="header"><b>Software Engineer</b></div>
 </div>
-	<div class="col"> 
+	
+<div class="col"> 
 <a href="/job-profiles/systems-analyst/overview"><img src="/images/job-profile-sa1.jpg" alt="Nurul Afiqah"></a><br>
-	<div class="header"><b>System Analyst</b></div>
-
+<div class="header"><b>System Analyst</b></div>
 </div>
-	<div class="col"> 
-<a href="/job-profiles/tech-policy/overview"><img src="/images/job-profile-1.jpg" alt="Sindhu Achudan"></a><br>
-	<div class="header"><b>Tech Policy Officer</b></div>
-</div></div>
+</div>
 
 
 <div class="row">	
-	<div class="col"> 
-<a href="/job-profiles/cybersecurity-engineer/overview"><img src="/images/job-profile-ce1.jpg" alt="Heng Tian Hao"></a><br>
-		<div class="header"><b>Cybersecurity Engineer</b></div>
+<div class="col"> 
+<a href="/job-profiles/tech-policy/overview"><img src="/images/job-profile-1.jpg" alt="Sindhu Achudan"></a><br>
+	<div class="header"><b>Tech Policy Officer</b></div>
 </div>
-	
+
 <div class="col"> 
 <a href=""></a><br>
 <div class="header"><b></b></div>
