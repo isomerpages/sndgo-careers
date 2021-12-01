@@ -30,6 +30,6 @@ Text goes here...
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
        <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Heng Tian Hao</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Senior Engineer, Cybersecurity Programme Centre, DSTA</span><br><br>
     <span style="font-size: 16px; line-height: 23px;">[Find out more about
- <a href="/job-profiles/software-engineer/heng-tian-hao">Heng Tian Hao</a>]</span>
+ <a href="/job-profiles/cybersecurity-engineer/heng-tian-hao">Heng Tian Hao</a>]</span>
       </div>
 </div>
