@@ -2,4 +2,4 @@ collections:
   testimonials:
     output: true
     order:
-      - Our Tech Talents.md
+      - Testimonials.md
