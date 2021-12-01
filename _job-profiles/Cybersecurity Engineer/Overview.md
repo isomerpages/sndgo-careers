@@ -23,7 +23,7 @@ Text goes here...
 
 
 
-<div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 20px 20px;">MEET OUR EXPERTS</div>
+<div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 20px 20px;">Meet our experts</div>
 
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column" style="padding: 10px 0px 30px 20px;"><img src="images/heng-tian-hao.jpg" alt="Heng Tian Hao"></div>
