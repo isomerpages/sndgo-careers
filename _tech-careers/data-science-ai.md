@@ -25,6 +25,8 @@ Discover endless possibilities with data science and AI, from informing policy a
 <div class="column-testimonial"></div>
 </div>
 
+**Click on the link to [read more testimonials](/testimonials).**
+
 ### **Get set for Smart Moves Ahead**
 Discover data science & AI career opportunities in these agencies.
 
