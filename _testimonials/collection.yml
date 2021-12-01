@@ -1,4 +1,5 @@
 collections:
   testimonials:
     output: true
-    order: []
+    order:
+      - Testimonials.md
