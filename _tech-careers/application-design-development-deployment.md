@@ -44,6 +44,8 @@ Be empowered to create next-generation digital experiences and provide solutions
 </div>
 </div>
 
+**Click on the link to [read more testimonials](/testimonials).**
+
 ### **Get set for Smart Moves Ahead**
 Discover application design, development & deployment career opportunities in these agencies.
 
