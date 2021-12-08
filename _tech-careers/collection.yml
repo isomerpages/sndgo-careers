@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - application-design-development-deployment.md
-      - cybersecurity.md
+      - Cybersecurity.md
       - data-science-ai.md
       - geospatial.md
       - ict-infrastructure.md
