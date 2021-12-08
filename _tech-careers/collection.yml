@@ -4,7 +4,7 @@ collections:
     order:
       - application-design-development-deployment.md
       - Cybersecurity.md
-      - data-science-ai.md
+      - Data Science & AI.md
       - geospatial.md
       - ict-infrastructure.md
       - sensors-internet-of-things.md
