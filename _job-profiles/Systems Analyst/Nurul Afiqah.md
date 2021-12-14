@@ -5,12 +5,12 @@ description: ""
 third_nav_title: Systems Analyst
 image: /images/nurul-afiqah.jpg
 ---
-
-<div style="width:60%;height:60%;"><img src="/images/nurul-afiqah-l.jpg" alt="Nurul Afiqah"></div>
-
-**Nurul Afiqah**<br>
+<p><img src="/images/nurul-afiqah-l.jpg" alt="Nurul Afiqah" style="width:400px;" align="left">
+<br clear="left">
+<br>
+<strong>Nurul Afiqah</strong><br>
 Systems Analyst (UX)<br>
-Housing and Development Board (HDB)
+	Housing and Development Board (HDB)</p>
 
 
 # Homing in on Services Made Smarter & Simpler
