@@ -5,11 +5,12 @@ description: ""
 third_nav_title: Cybersecurity Engineer
 image: /images/heng-tian-hao.png
 ---
-<div style="width:60%;height:60%;"><img src="/images/heng-tian-hao-l.jpg" alt="Heng Tian Hao"></div>
-
-**Heng Tian Hao**<br>
+<p><img src="/images/heng-tian-hao-l.jpg" alt="Heng Tian Hao" style="width:400px;" align="left">
+<br clear="left">
+<br>
+	<strong>Heng Tian Hao</strong><br>
 Cybersecurity Engineer<br>
-Senior Engineer, Cybersecurity Programme Centre, DSTA
+Senior Engineer, Cybersecurity Programme Centre, DSTA</p>
 
 # Fighting Cyber Threats A Never-Ending Battle
 
