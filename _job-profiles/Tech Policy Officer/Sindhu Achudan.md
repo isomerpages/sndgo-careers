@@ -5,12 +5,12 @@ third_nav_title: Tech Policy Officer
 description: ""
 image: /images/sindhu-achudan.jpg
 ---
-
-<div style="width:60%;height:60%;"><img src="/images/sindhu-achudan-l.jpg" alt="Sindhu Achudan"></div>
-
-**Sindhu Achudan**	<br>
+<p><img src="/images/sindhu-achudan-l.jpg" alt="Sindhu Achudan" style="width:400px;" align="left">
+<br clear="left">
+<br>
+<strong>Sindhu Achudan</strong><br>
 Senior Manager, Strategy and Masterplanning,<br>
-Smart Nation and Digital Government Office (SNDGO)
+Smart Nation and Digital Government Office (SNDGO)</p>
 
 # Stepping Up for Public Good
 
