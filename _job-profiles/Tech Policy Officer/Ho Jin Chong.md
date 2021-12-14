@@ -5,12 +5,12 @@ third_nav_title: Tech Policy Officer
 description: ""
 image: /images/ho-jin-chong.jpg
 ---
-
-<div style="width:60%;height:60%;"><img src="/images/ho-jin-chong-l.jpg" alt="Ho Jin Chong"></div>
-
-**Ho Jin Chong**<br>
+<p><img src="/images/ho-jin-chong-l.jpg" alt="Ho Jin Chong" style="width:400px;" align="left">
+<br clear="left">
+<br>
+<strong>Ho Jin Chong</strong><br>
 Assistant Manager, Policy & Technology<br>
-Infocomm Media Development Authority (IMDA)
+Infocomm Media Development Authority (IMDA)</p>
 
 # Shaping Singapore’s Tech Landscape, One Policy at a Time
 
