@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Cybersecurity Engineer
 image: /images/heng-tian-hao.png
 ---
-
 <div style="width:60%;height:60%;"><img src="/images/heng-tian-hao-l.jpg" alt="Heng Tian Hao"></div>
 
 **Heng Tian Hao**<br>
@@ -20,7 +19,7 @@ Senior Engineer, Cybersecurity Programme Centre, DSTA
 
 <p>Today, the Senior Engineer at DSTA’s Cybersecurity Programme Centre is tasked with seeking out new tech to enhance the Ministry of Defence’s (MINDEF) cybersecurity operations. His team leads the implementation and finetuning of endpoint detection and to improve the detection and response to advanced cyber threats.</p>
 
-<p>“Working in cybersecurity is a never-ending battle with new vulnerabilities and exploits discovered every day,” Tian Hao says. “This gets me fired up as I’m always looking for fresh challenges to overcome.”</p>
+<p>“Protecting our cyberspace is a never-ending battle with new vulnerabilities and exploits discovered every day,” Tian Hao says. “This gets me fired up as I’m always looking for fresh challenges to overcome.”</p>
 
 <p>Testament to his dedication to his craft, the 31-year-old equipped himself with the foundational basics in cybersecurity during his years studying for his Bachelor of Engineering (Computer Engineering) at Nanyang Technological University and Master of Computing (Infocomm Security) at the National University of Singapore.</p>
 
