@@ -2,7 +2,7 @@ collections:
   tech-careers:
     output: true
     order:
-      - application-design-development-deployment.md
+      - Application Design, Development & Deployment.md
       - Cybersecurity.md
       - Data Science & AI.md
       - Geospatial.md
