@@ -20,27 +20,31 @@ Be our next generation of cybersecurity leaders. Join us to shape, transform and
 
 <div class="row-testimonial">
 <div class="column-testimonial">
-<img src="/images/kok-kiat-han.png" alt="Kok Kiat Han" title="Tech Talent" /><br>
-<em><strong>Kok Kiat Han</strong><br><span style="font-size:13px; line-height:14px">Cyber Threat Intelligence Analyst, National Cyber Threat Monitoring Centre, CSA</span></em><br><br>
-“Knowing I am part of the team that helps Singapore stay safe in cyberspace motivates me to give my very best. I want our Smart Nation to become even smarter, and cybersecurity plays a big part in ensuring what is built is safe and secure.”<br><br></div>
-<div class="column-testimonial">
-<img src="/images/lee-min-yi.png" alt="Lee Min Yi" title="Tech Talent" /><br><em><strong>Lee Min Yi</strong><br><span style="font-size:13px; line-height:14px">Senior Engineer, Cybersecurity Programme Centre, DSTA</span></em><br><br>
-“I fuse smart technologies into the digital solutions we design, develop and implement for Singapore’s defence, such as the Cyber Security Operations Centre 2.0 which enhances MINDEF/SAF’s ability to monitor, detect, analyse and respond to cyber incidents. The team integrated AI and machine learning techniques that allow it to learn and adapt constantly to evolving threats.”<br><br></div>	
-<div class="column-testimonial">
-<img src="/images/kee-hock.png" alt="Tan Kee Hock" title="Tech Talent" /><br><em><strong>Tan Kee Hock</strong><br><span style="font-size:13px; line-height:14px">Cybersecurity Specialist, Cyber Security Group, GovTech</span></em><br><br>
-	“As a Red Team member, I conduct security assessments on Government products to identify vulnerabilities before an attacker does. These security assessments help to keep our digital services safe from the ever-changing cybersecurity landscape.”<br><br></div>
-</div>
-
-<div class="row-testimonial">
-<div class="column-testimonial">
 <img src="/images/mohamed-riduan-ahmad.png" alt="Mohamed Riduan Ahmad" title="Tech Talent" /><br><em><strong>Mohamed Riduan Ahmad</strong><br><span style="font-size:13px; line-height:14px">Principal Engineer (Security), Cybersecurity & Technology Group, Security & Network Operations (SNO) Department, CPFB</span></em><br><br>
 	“My work in cybersecurity contribute to providing CPF members the peace of mind that there is a team of us working 24/7 behind the scenes, to ensure that the digital assets in CPFB are safe and secure against the many cybersecurity threats we see today.”<br><br></div>
+
 <div class="column-testimonial">
 <img src="/images/ishita-mittal.jpg" alt="Ishita Mittal" title="Tech Talent" /><br><em><strong>Ishita Mittal</strong><br><span style="font-size:13px; line-height:14px">Senior Systems Engineer, Cyber Defence Group, IHiS</span></em><br><br>
 “Working at IHiS made me realise how big a role IT and my team play in the healthcare industry. Cybersecurity is a big challenge. We are entrusted with a critical task - to protect our organisation, public healthcare institutes (PHIs) and patient data from getting compromised by hackers who are getting smarter with each passing day.”<br><br></div>
+
 <div class="column-testimonial">
 <img src="/images/tan-suan-zhi.png" alt="ME4 Tan Suan Zhi " title="Tech Talent" /><br><em><strong>ME4 Tan Suan Zhi </strong><br><span style="font-size:13px; line-height:14px">Commanding Officer, Cyber Defence Group, SAF C4I, MINDEF</span></em><br><br>
 	“A good cyber defence is proactive: it requires getting the right intelligence to stay one step ahead of the threat actors, to keep up with the fast-evolving cyber landscape. Leading a Security Operations Centre, I supervise multiple teams in looking actively for cyber threats within the SAF’s warfighting network. The challenging and dynamic nature of my work means that there is never a dull moment.”<br><br></div></div>
+
+
+<div class="row-testimonial">
+<div class="column-testimonial">
+<img src="/images/Juliana-Seng.png" alt="Juliana Seng" title="Tech Talent" /><br><em><strong>Juliana Seng</strong><br><span style="font-size:13px; line-height:14px">Tech Specialist, Information Security</span></em><br><br>
+“At CSIT, we contribute to Singapore's national security by protecting our nation's cyberspace. Through exploration of cutting-edge and emerging technologies in cybersecurity, we seek to research, develop and deploy tools to uncover system vulnerabilities, hence preventing and deterring advanced cyber threats.”<br><br></div>
+
+<div class="column-testimonial">
+<img src="/images/kok-kiat-han.png" alt="Kok Kiat Han" title="Tech Talent" /><br>
+<em><strong>Kok Kiat Han</strong><br><span style="font-size:13px; line-height:14px">Cyber Threat Intelligence Analyst, National Cyber Threat Monitoring Centre, CSA</span></em><br><br>
+“Knowing I am part of the team that helps Singapore stay safe in cyberspace motivates me to give my very best. I want our Smart Nation to become even smarter, and cybersecurity plays a big part in ensuring what is built is safe and secure.”<br><br></div>
+	
+<div class="column-testimonial">
+<img src="/images/lee-min-yi.png" alt="Lee Min Yi" title="Tech Talent" /><br><em><strong>Lee Min Yi</strong><br><span style="font-size:13px; line-height:14px">Senior Engineer, Cybersecurity Programme Centre, DSTA</span></em><br><br>
+“I fuse smart technologies into the digital solutions we design, develop and implement for Singapore’s defence, such as the Cyber Security Operations Centre 2.0 which enhances MINDEF/SAF’s ability to monitor, detect, analyse and respond to cyber incidents. The team integrated AI and machine learning techniques that allow it to learn and adapt constantly to evolving threats.”<br><br></div></div>
 
 **Click on the link to [read more testimonials](/testimonials).**
 
