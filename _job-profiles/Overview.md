@@ -4,7 +4,6 @@ permalink: /job-profiles/overview
 description: ""
 image: /images/hero-banner.jpg
 ---
-
 # Meet our experts
 
 <br>
@@ -55,17 +54,17 @@ image: /images/hero-banner.jpg
 <br>	
 <div class="row">	
 <div class="col"> 
-<a href="/job-profiles/cybersecurity-engineer/overview"><img src="/images/job-profile-ce1.jpg" alt="Heng Tian Hao"></a><br>
+<a href="/job-profiles/cybersecurity-engineer/overview"><img src="/images/job-profile-ce1.jpg" alt="Cybersecurity Engineer"></a><br>
 <div class="header"><b>Cybersecurity Engineer</b></div>
 </div>
 	
 <div class="col"> 
-<a href="/job-profiles/software-engineer/overview"><img src="/images/job-profile-se1.jpg" alt="Ang Chin Chuen"></a><br>
+<a href="/job-profiles/software-engineer/overview"><img src="/images/job-profile-se1.jpg" alt="Software Engineer"></a><br>
 <div class="header"><b>Software Engineer</b></div>
 </div>
 	
 <div class="col"> 
-<a href="/job-profiles/systems-analyst/overview"><img src="/images/job-profile-sa1.jpg" alt="Nurul Afiqah"></a><br>
+<a href="/job-profiles/systems-analyst/overview"><img src="/images/job-profile-sa1.jpg" alt="System Analyst"></a><br>
 <div class="header"><b>System Analyst</b></div>
 </div>
 </div>
@@ -73,7 +72,7 @@ image: /images/hero-banner.jpg
 
 <div class="row">	
 <div class="col"> 
-<a href="/job-profiles/tech-policy/overview"><img src="/images/job-profile-1.jpg" alt="Sindhu Achudan"></a><br>
+<a href="/job-profiles/tech-policy/overview"><img src="/images/job-profile-1.jpg" alt="Tech Policy Officer"></a><br>
 	<div class="header"><b>Tech Policy Officer</b></div>
 </div>
 
