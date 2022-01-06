@@ -46,7 +46,7 @@ As more of our lives are spent online, there is even more importance attached to
 <div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
         
 <div class="row" style="background-color: #f3f3f3;">
-      <div class="column" style="padding: 10px 10px 30px 20px;"><img src="images/heng-tian-hao.jpg" alt="Heng Tian Hao"></div>
+      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="images/heng-tian-hao.jpg" alt="Heng Tian Hao"></div>
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
        <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Heng Tian Hao</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Senior Engineer, Cybersecurity Programme Centre, DSTA</span><br><br>
     <span style="font-size: 16px; line-height: 23px;">“Protecting our cyberspace is a never-ending battle with new vulnerabilities and exploits discovered every day. This gets me fired up as I’m always looking for fresh challenges to overcome.”<br><br> [Find out more about <a href="/job-profiles/tech-policy/sindhu">Heng Tian Hao</a>]</span>
@@ -54,7 +54,7 @@ As more of our lives are spent online, there is even more importance attached to
 </div>
 
 <div class="row" style="background-color: #f3f3f3;">
-      <div class="column" style="padding: 10px 20px 30px 20px;"><img src="images/Xavier-Yeo.jpg" alt="Xavier Yeo"></div>
+      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="images/Xavier-Yeo-2.jpg" alt="Xavier Yeo"></div>
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px; ">
        <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Xavier Yeo</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Consultant (Attack Simulation Group),
 Cyber Security Engineering Centre, CSA
@@ -64,14 +64,10 @@ Cyber Security Engineering Centre, CSA
 </div>
 
 <div class="row" style="background-color: #f3f3f3;">
-      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="images/Loke-Hui-Yi.jpg" alt="Loke Hui Yi"></div>
+      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="images/Loke-Hui-Yi-2.jpg" alt="Loke Hui Yi"></div>
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px; ">
        <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Loke Hui Yi</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Senior Cybersecurity Specialist, GovTech
 </span><br><br>
     <span style="font-size: 16px; line-height: 23px;">“I love the burst of excitement when I manage to spot some vulnerable code and develop it into a working exploit!” <br><br>[Find out more about <a href="/job-profiles/tech-policy/ho-jin-chong">Loke Hui Yi</a>]</span>
       </div>
 </div>
-
-
-
-
