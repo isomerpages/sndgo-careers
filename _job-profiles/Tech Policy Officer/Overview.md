@@ -5,12 +5,11 @@ third_nav_title: Tech Policy Officer
 description: ""
 image: /images/hero-banner.jpg
 ---
-
 # Tech Policy Officer
 This is the domain where you transform what’s new to what’s to come. Dive into emerging technologies and formulate the new policies and strategies that empower innovation. Explore the myriad possibilities, with a vision for the future and a focus on how to effect it.
 
 <br>
-<div style="width:60%;height:60%;"><img src="images/job-profile-1.jpg"></div>
+<div style="width:60%;height:60%;"><img src="images/job-profile-1.jpg" alt="Tech Policy Officer"></div>
 
 ### What you can expect to be doing:
 
@@ -25,7 +24,7 @@ This is the domain where you transform what’s new to what’s to come. Dive in
 * **Execute strategies and policies** to create nationwide impact
 
 <br>
-<div style="width:60%;height:60%;"><img src="images/job-profile-2a.jpg"></div>
+<div style="width:60%;height:60%;"><img src="images/job-profile-2a.jpg" alt="Tech Policy Officer"></div>
 
 ### Join us if you have:
 
