@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Overview.md
-      - Cybersecurity Engineer/Loke Hui Yi.md
       - Cybersecurity Engineer/.keep
       - Cybersecurity Engineer/Overview.md
       - Cybersecurity Engineer/Heng Tian Hao.md
       - Cybersecurity Engineer/Xavier Yeo.md
+      - Cybersecurity Engineer/Loke Hui Yi.md
       - Software Engineer/.keep
       - Software Engineer/Overview.md
       - Software Engineer/Ang Chin Chuen.md
