@@ -5,12 +5,11 @@ description: ""
 third_nav_title: Systems Analyst
 image: /images/hero-banner.jpg
 ---
-
 # Systems Analyst
 Drive digital transformation across a wide spectrum of business domains. As part of an application development team, you will leverage innovation and technology to enable business excellence, work closely with various stakeholders to manage, design and develop systems.
 
 <br>
-<div style="width:60%;height:60%;"><img src="images/job-profile-sa1.jpg"></div>
+<div style="width:60%;height:60%;"><img src="images/job-profile-sa1.jpg" alt="Systems Analyst"></div>
 
 ### What you can expect to be doing:
 
@@ -22,7 +21,7 @@ Drive digital transformation across a wide spectrum of business domains. As part
 * **Monitor application performance** and work with stakeholders to troubleshoot any issues surfaced in the production environment
 
 <br>
-<div style="width:60%;height:60%;"><img src="images/job-profile-sa2.jpg"></div>
+<div style="width:60%;height:60%;"><img src="images/job-profile-sa2.jpg" alt="Systems Analyst"></div>
 
 ### Join us if you have:
 
