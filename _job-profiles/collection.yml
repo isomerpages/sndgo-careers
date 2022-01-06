@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Cybersecurity Engineer/Xavier Yeo.md
       - Cybersecurity Engineer/.keep
       - Cybersecurity Engineer/Overview.md
       - Cybersecurity Engineer/Heng Tian Hao.md
