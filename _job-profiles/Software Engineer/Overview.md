@@ -5,12 +5,11 @@ third_nav_title: Software Engineer
 description: ""
 image: /images/hero-banner.jpg
 ---
-
 # Software Engineer
 Build Singapore’s next-generation digital products and services to solve real-life problems and make a lasting impact as you transform the way citizens live, work and play. 
 
 <br>
-<div style="width:60%;height:60%;"><img src="images/job-profile-se1.jpg"></div>
+<div style="width:60%;height:60%;"><img src="images/job-profile-se1.jpg" alt="Software Engineer"></div>
 
 ### What you can expect to be doing:
 
@@ -22,7 +21,7 @@ Build Singapore’s next-generation digital products and services to solve real-
 * **Deliver technical consultancy and expertise** in the systems development process, contributing to defining technical specifications, configuring and testing solutions
 
 <br>
-<div style="width:60%;height:60%;"><img src="images/job-profile-se2.jpg"></div>
+<div style="width:60%;height:60%;"><img src="images/job-profile-se2.jpg" alt="Software Engineer"></div>
 
 ### Join us if you have:
 
