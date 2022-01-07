@@ -7,7 +7,7 @@ links:
   - title: Testimonials
     url: /testimonials
   - title: Agencies
-    url: /permalink
+    url: /agencies
     sublinks:
       - title: A*STAR
         url: https://www.a-star.edu.sg/career
@@ -27,10 +27,10 @@ links:
         url: https://www.htx.gov.sg/join-us/careers
       - title: IHiS
         url: https://www.ihis.com.sg/Careers
-      - title: IRAS
-        url: https://www.iras.gov.sg/careers
       - title: IMDA
         url: https://www.imda.gov.sg/Who-We-Are/careers
+      - title: IRAS
+        url: https://www.iras.gov.sg/careers
       - title: LTA
         url: https://www.lta.gov.sg/content/ltagov/en/who_we_are.html/#careers
       - title: SLA
