@@ -49,7 +49,7 @@ You will play a unique role challenging the status quo to strengthen the resilie
        <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Xavier Yeo</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Consultant (Attack Simulation Group),
 Cyber Security Engineering Centre, CSA
 </span><br><br>
-    <span style="font-size: 16px; line-height: 23px;">"Knowing that my contribution in CSA helps society move forward in this new digital age motivates me to put my best foot forward.” <br><br>[Find out more about <a href="/job-profiles/cybersecurity-engineer/Xavier-Yeo">Xavier Yeo</a>]</span>
+    <span style="font-size: 16px; line-height: 23px;">"Knowing that my contribution in CSA helps society move forward in this new digital age motivates me to put my best foot forward.” <br><br>[Find out more about <a href="/job-profiles/Simulated-Attack-Specialist/Xavier-Yeo">Xavier Yeo</a>]</span>
       </div>
 </div>
 
@@ -58,6 +58,6 @@ Cyber Security Engineering Centre, CSA
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px; ">
        <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Loke Hui Yi</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Senior Cybersecurity Specialist, GovTech
 </span><br><br>
-    <span style="font-size: 16px; line-height: 23px;">“I love the burst of excitement when I manage to spot some vulnerable code and develop it into a working exploit!” <br><br>[Find out more about <a href="/job-profiles/cybersecurity-engineer/Loke-Hui-Yi">Loke Hui Yi</a>]</span>
+    <span style="font-size: 16px; line-height: 23px;">“I love the burst of excitement when I manage to spot some vulnerable code and develop it into a working exploit!” <br><br>[Find out more about <a href="/job-profiles/Simulated-Attack-Specialist/Loke-Hui-Yi">Loke Hui Yi</a>]</span>
       </div>
 </div>
