@@ -5,8 +5,7 @@ third_nav_title: Software Engineer
 description: ""
 image: /images/ang-chin-chuen.jpg
 ---
-
-<p><img src="/images/ang-chin-chuen-l.jpg" alt="Ang Chin Chuen" style="width:400px;" align="left">
+<img src="/images/ang-chin-chuen-l.jpg" alt="Ang Chin Chuen" style="width:400px;" align="left">
 <br clear="left">
 
 **Ang Chin Chuen**<br>
@@ -41,4 +40,4 @@ It’s no easy feat. With millions of records to manage during the migration, th
 
 And he’s making a call for like-minded professionals to join him in the public sector.
 
-“There is no better time than now. It’s very rewarding to see what you’ve built fulfill its purpose and serve a greater good,” Chin Chuen says. 
+“There is no better time than now. It’s very rewarding to see what you’ve built fulfill its purpose and serve a greater good,” Chin Chuen says.
