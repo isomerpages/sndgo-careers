@@ -8,3 +8,34 @@ links:
     url: /testimonials
   - title: Videos
     url: /videos/
+  - title: Agencies
+    url: /permalink
+    sublinks:
+      - title: A*STAR
+        url: https://www.a-star.edu.sg/career
+      - title: CPF Board
+        url: https://www.cpf.gov.sg/member/who-we-are/careers/careers
+      - title: CSA
+        url: https://www.csa.gov.sg/Careers/Overview
+      - title: CSIT
+        url: https://www.csit.gov.sg/join-us/career-at-csit
+      - title: DSTA
+        url: https://www.dsta.gov.sg/join-us/job-seeker/dsta-careers
+      - title: GovTech
+        url: https://www.tech.gov.sg/careers/overview/
+      - title: HDB
+        url: https://www.hdb.gov.sg/about-us/careers/career-opportunities
+      - title: HTX
+        url: https://www.htx.gov.sg/join-us/careers
+      - title: IHiS
+        url: https://www.ihis.com.sg/Careers
+      - title: IRAS
+        url: https://www.iras.gov.sg/careers
+      - title: IMDA
+        url: https://www.imda.gov.sg/Who-We-Are/careers
+      - title: LTA
+        url: https://www.lta.gov.sg/content/ltagov/en/who_we_are.html/#careers
+      - title: SLA
+        url: https://www.sla.gov.sg/join-us/our-work-at-sla
+      - title: SNDGO
+        url: https://www.smartnation.gov.sg/careers/join-sndgo
