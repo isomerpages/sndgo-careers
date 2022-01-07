@@ -48,22 +48,3 @@ As more of our lives are spent online, there is even more importance attached to
     <span style="font-size: 16px; line-height: 23px;">“Protecting our cyberspace is a never-ending battle with new vulnerabilities and exploits discovered every day. This gets me fired up as I’m always looking for fresh challenges to overcome.”<br><br> [Find out more about <a href="/job-profiles/cybersecurity-engineer/heng-tian-hao">Heng Tian Hao</a>]</span>
       </div>
 </div>
-
-<div class="row" style="background-color: #f3f3f3;">
-      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="images/Xavier-Yeo-2.jpg" alt="Xavier Yeo"></div>
-      <div class="column" style="width: 100%; padding: 10px 20px 30px 20px; ">
-       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Xavier Yeo</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Consultant (Attack Simulation Group),
-Cyber Security Engineering Centre, CSA
-</span><br><br>
-    <span style="font-size: 16px; line-height: 23px;">"Knowing that my contribution in CSA helps society move forward in this new digital age motivates me to put my best foot forward.” <br><br>[Find out more about <a href="/job-profiles/cybersecurity-engineer/Xavier-Yeo">Xavier Yeo</a>]</span>
-      </div>
-</div>
-
-<div class="row" style="background-color: #f3f3f3;">
-      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="images/Loke-Hui-Yi-2.jpg" alt="Loke Hui Yi"></div>
-      <div class="column" style="width: 100%; padding: 10px 20px 30px 20px; ">
-       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Loke Hui Yi</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Senior Cybersecurity Specialist, GovTech
-</span><br><br>
-    <span style="font-size: 16px; line-height: 23px;">“I love the burst of excitement when I manage to spot some vulnerable code and develop it into a working exploit!” <br><br>[Find out more about <a href="/job-profiles/cybersecurity-engineer/Loke-Hui-Yi">Loke Hui Yi</a>]</span>
-      </div>
-</div>
