@@ -24,7 +24,7 @@ These experiments opened Xavier’s eyes to security issues that plagued compute
 
 Today, the 29-year-old is working in the Attack Simulation Group (ASG) in Cyber Security Agency of Singapore’s (CSA) Cyber Security Engineering Centre (CSEC).
 
-### Red teamer, alert
+### Red Teamer, alert
 
 His day-to-day activities include conducting security assessments on Government and Critical Information Infrastructure (CII) systems. This means trying to gain access by exploiting security vulnerabilities using tactics and tools that real threat actors may use - otherwise known as “red-teaming”. 
 
@@ -45,4 +45,4 @@ Xavier says it was reported that in 2020, there was an average of 50 new securit
 The work doesn’t end during the ongoing COVID-19 pandemic either. His team worked with GovTech to help secure the then newly developed SafeEntry and TraceTogether digital contact-tracing tools, work that was “tough but gratifying” as they knew the work impacted the lives of Singaporeans. 
 
 > “Knowing that my contribution in CSA helps society move forward in this new digital age motivates me to put my best foot forward,” Xavier says. 
-> 
+>
