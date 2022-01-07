@@ -6,9 +6,6 @@ date: 2022-01-07
 layout: post
 image: /images/hero-banner.jpg
 ---
-
-
-
 # Discover cybersecurity career opportunities in these agencies.
 
 <div class="row-agencies">
@@ -26,4 +23,3 @@ image: /images/hero-banner.jpg
 <div class="column-agencies"><a href="https://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=singapore%20land%20authority&job-mail-subscribe-privacy=agree" target="new"><img src="/images/logo-sla.png" alt="SLA" title="SLA"/></a></div>
 </div>
 <div class="column-agencies"><a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=Smart%20Nation%20and%20Digital%20Government%20Office" target="new"><img src="/images/logo-sndgo.png" alt="SNDGO" title="SNDGO"/></a></div> 
-</div>
