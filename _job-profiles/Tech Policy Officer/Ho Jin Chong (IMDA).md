@@ -5,8 +5,7 @@ third_nav_title: Tech Policy Officer
 description: ""
 image: /images/ho-jin-chong.jpg
 ---
-
-<p><img src="/images/ho-jin-chong-l.jpg" alt="Ho Jin Chong" style="width:400px;" align="left">
+<img src="/images/ho-jin-chong-l.jpg" alt="Ho Jin Chong" style="width:400px;" align="left">
 <br clear="left">
 
 **Ho Jin Chong**<br>
