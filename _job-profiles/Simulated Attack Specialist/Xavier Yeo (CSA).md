@@ -5,10 +5,7 @@ description: ""
 image: /images/Xavier-Yeo.jpg
 third_nav_title: Simulated Attack Specialist
 ---
-
-
-
-<p><img src="/images/Xavier-Yeo.jpg" alt="Xavier Yeo" style="width:400px;" align="left">
+<img src="/images/Xavier-Yeo.jpg" alt="Xavier Yeo" style="width:400px;" align="left">
 <br clear="left">
 
 **Xavier Yeo**<br>
