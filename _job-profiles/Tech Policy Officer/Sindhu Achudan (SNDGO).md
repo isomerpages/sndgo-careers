@@ -5,8 +5,7 @@ third_nav_title: Tech Policy Officer
 description: ""
 image: /images/sindhu-achudan.jpg
 ---
-
-<p><img src="/images/sindhu-achudan-l.jpg" alt="Sindhu Achudan" style="width:400px;" align="left">
+<img src="/images/sindhu-achudan-l.jpg" alt="Sindhu Achudan" style="width:400px;" align="left">
 <br clear="left">
 
 **Sindhu Achudan**<br>
