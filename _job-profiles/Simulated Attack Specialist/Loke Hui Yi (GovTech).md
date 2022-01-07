@@ -5,10 +5,7 @@ description: ""
 image: /images/Loke-Hui-Yi.jpg
 third_nav_title: Simulated Attack Specialist
 ---
-
-
-
-<p><img src="/images/Loke-Hui-Yi.jpg" alt="Loke Hui Yi" style="width:400px;" align="left">
+<img src="/images/Loke-Hui-Yi.jpg" alt="Loke Hui Yi" style="width:400px;" align="left">
 <br clear="left">
 
 **Loke Hui Yi**<br>
