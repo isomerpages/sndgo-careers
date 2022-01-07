@@ -8,8 +8,6 @@ image: /images/hero-banner.jpg
 # Cybersecurity Engineer
 As more of our lives are spent online, there is even more importance attached to keeping our IT systems safe from cyber threats such as malware, phishing and ransomware. Join our multi-disciplinary team that’s dedicated to keeping national and whole-of-Government projects, systems and digital services safe – and be on the frontlines of Singapore’s digital transformation. 
 
-<br>
-<div style="width:60%;height:60%;"><img src="images/job-profile-ce1.jpg" alt="Cybersecurity Engineer"></div>
 
 ### What you can expect to be doing:
 
@@ -27,8 +25,6 @@ As more of our lives are spent online, there is even more importance attached to
 
 * **Provide security consultancy** in areas of threat and risk assessment throughout the system lifecycle from implementation to maintenance
 
-<br>
-<div style="width:60%;height:60%;"><img src="images/job-profile-ce2.jpg" alt="Cybersecurity Engineer"></div>
 
 ### Join us if you have:
 
