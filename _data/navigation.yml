@@ -6,8 +6,6 @@ links:
     collection: job-profiles
   - title: Testimonials
     url: /testimonials
-  - title: Videos
-    url: /videos/
   - title: Agencies
     url: /permalink
     sublinks:
@@ -39,3 +37,5 @@ links:
         url: https://www.sla.gov.sg/join-us/our-work-at-sla
       - title: SNDGO
         url: https://www.smartnation.gov.sg/careers/join-sndgo
+  - title: Videos
+    url: /videos/
