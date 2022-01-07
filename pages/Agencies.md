@@ -6,7 +6,7 @@ date: 2022-01-07
 layout: post
 image: /images/hero-banner.jpg
 ---
-# Discover cybersecurity career opportunities in these agencies.
+# Discover cybersecurity career opportunities in these agencies...
 
 <div class="row-agencies">
 <div class="column-agencies"><a href="https://careers.a-star.edu.sg/" target="new"><img src="/images/logo-astar.png" alt="ASTAR" title="ASTAR"/></a></div>
