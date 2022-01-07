@@ -25,7 +25,6 @@ Today, the Senior Engineer at DSTA’s Cybersecurity Programme Centre is tasked 
 
 Testament to his dedication to his craft, the 31-year-old equipped himself with the foundational basics in cybersecurity during his years studying for his Bachelor of Engineering (Computer Engineering) at Nanyang Technological University and Master of Computing (Infocomm Security) at the National University of Singapore.
 
-
 His decision to join DSTA six years ago is aligned with his passion to overcoming challenges. 
 
 He said the organisation’s mission resonates with his desire to play a key role in Singapore’s cyber defence. Furthermore, he was impressed by the technical knowledge of fellow engineers he had met there during the recruitment talks and knew there was a trove of knowledge he could tap on for his continued growth. 
