@@ -2,4 +2,4 @@ collections:
   agencies:
     output: true
     order:
-      - Example Title.md
+      - List of Agencies.md
