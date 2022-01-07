@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Systems Analyst
 image: /images/nurul-afiqah.jpg
 ---
-
-<p><img src="/images/nurul-afiqah-l.jpg" alt="Nurul Afiqah" style="width:400px;" align="left">
+<img src="/images/nurul-afiqah-l.jpg" alt="Nurul Afiqah" style="width:400px;" align="left">
 <br clear="left">
 
 **Nurul Afiqah**<br>
