@@ -1,7 +1,10 @@
 ---
 title: Tech Policy & Governance
 permalink: /tech-careers/tech-policy-and-governance/
+description: ""
+image: /images/tech-governance.png
 ---
+
 ![](/images/hero-tech-policy-governance.jpg)
 
 ### **Tech Policy & Governance**
@@ -45,6 +48,8 @@ Lead our Defence, Smart Nation and Digital Government transformation. You will b
 “Our roles and contributions here can power the next bound of Singapore’s Smart Nation transformation. Public or private, the tech sector is buzzing with entrepreneurial energy – fast-paced, with innovative, disruptive new ideas. Laying the foundations of digital infrastructure, we seek to provide simpler, faster, better experiences and e-services, so that lives are enriched and future generations can seize new opportunities.”<br><br>
 </div>
 </div>
+
+**Click on the link to [read more testimonials](/testimonials).**
 
 ### **Get set for Smart Moves Ahead**
 Discover tech policy & governance career opportunities in these agencies.

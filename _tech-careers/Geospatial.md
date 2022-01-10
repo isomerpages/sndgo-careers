@@ -1,7 +1,10 @@
 ---
 title: Geospatial
 permalink: /tech-careers/geospatial
+description: ""
+image: /images/geospatial.png
 ---
+
 ![](/images/hero-geospatial.jpg)
 
 ### **Geospatial**
@@ -29,6 +32,8 @@ The deep expertise you develop will drive Singapore’s digital transformation i
 <img src="/images/roy-yuen.png" alt="Roy Yuen Ze Min" title="Tech Talent" /><br><em><strong>Roy Yuen Ze Min</strong><br><span style="font-size:13px; line-height:14px">Assistant Manager, Geospatial & Data Division, SLA</span></em><br>
 <br>“I plan and devise strategies to drive the growing adoption of geospatial technology by the Government, industries, and citizens. I also promote Singapore’s geospatial efforts for new collaboration opportunities by building strong network alliances with local and foreign stakeholders.”<br><br></div>
 </div>
+
+**Click on the link to [read more testimonials](/testimonials).**
 
 ### **Get set for Smart Moves Ahead**
 Discover geospatial career opportunities in these agencies.

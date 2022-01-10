@@ -14,12 +14,11 @@ sections:
       description: Champion tech for public good via a multifaceted career in the
         Singapore Government’s Information and Communications Technology & Smart
         Systems (ICT&SS) sector.
-      url: /faq/
   - infopic:
       title: App Design & Development
       description: Harness the power of tech to build applications we use to work,
         live, play, learn and more.
-      button: Find out more
+      button: FIND OUT MORE
       url: /tech-careers/application-design-development-and-deployment/
       alt: App Design & Development
       image: /images/app-development.png
@@ -68,5 +67,9 @@ sections:
       image: /images/tech-governance.png
       alt: "Tech Policy & Governance "
   - infobar:
-      url: https://www.youtube.com/watch?v=FzegM1m4_GI
+      url: /job-profiles/overview
+      title: Meet Our Experts
+      description: Discover how our officers are creating new solutions to transform
+        the way we live, work and play.
+      button: Find out more
 ---

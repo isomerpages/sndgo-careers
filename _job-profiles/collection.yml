@@ -2,13 +2,20 @@ collections:
   job-profiles:
     output: true
     order:
+      - Cybersecurity Engineer/.keep
+      - Cybersecurity Engineer/Overview.md
+      - Cybersecurity Engineer/Heng Tian Hao (DSTA).md
+      - Simulated Attack Specialist/.keep
+      - Simulated Attack Specialist/Overview.md
+      - Simulated Attack Specialist/Loke Hui Yi (GovTech).md
+      - Simulated Attack Specialist/Xavier Yeo (CSA).md
       - Software Engineer/.keep
       - Software Engineer/Overview.md
-      - Software Engineer/Ang Chin Chuen.md
+      - Software Engineer/Ang Chin Chuen (GovTech).md
       - Systems Analyst/.keep
       - Systems Analyst/Overview.md
-      - Systems Analyst/Nurul Afiqah.md
-      - tech-policy-officer/.keep
-      - tech-policy-officer/overview.md
-      - tech-policy-officer/sindhu-achudan.md
-      - tech-policy-officer/ho-jin-chong.md
+      - Systems Analyst/Nurul Afiqah (HDB).md
+      - Tech Policy Officer/.keep
+      - Tech Policy Officer/Overview.md
+      - Tech Policy Officer/Sindhu Achudan (SNDGO).md
+      - Tech Policy Officer/Ho Jin Chong (IMDA).md

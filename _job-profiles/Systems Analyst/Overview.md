@@ -3,13 +3,15 @@ title: Overview
 permalink: /job-profiles/systems-analyst/overview
 description: ""
 third_nav_title: Systems Analyst
+image: /images/hero-banner.jpg
 ---
 # Systems Analyst
 Drive digital transformation across a wide spectrum of business domains. As part of an application development team, you will leverage innovation and technology to enable business excellence, work closely with various stakeholders to manage, design and develop systems.
 
-## What you can expect to be doing:
+<br>
+<div style="width:60%;height:60%;"><img src="images/job-profile-sa1.jpg" alt="Systems Analyst"></div>
 
-<div style="width:75%;height:75%;"><img src="images/job-profile-sa1.jpg"></div>
+### What you can expect to be doing:
 
 * **Analyse business processes** to identify opportunities for tighter ops-tech integration  
 * **Advise and provide** assistance to users on the effective use of application systems and information technology
@@ -18,10 +20,10 @@ Drive digital transformation across a wide spectrum of business domains. As part
 * **Manage development of application system(s)** and ensure the project is implemented within budget and schedule
 * **Monitor application performance** and work with stakeholders to troubleshoot any issues surfaced in the production environment
 
+<br>
+<div style="width:60%;height:60%;"><img src="images/job-profile-sa2.jpg" alt="Systems Analyst"></div>
 
-## Join us if you have:
-
-<div style="width:75%;height:75%;"><img src="images/job-profile-sa2.jpg" ></div>
+### Join us if you have:
 
 * Relevant qualifications in Computing, Computer Science, Computer Engineering, Information Systems, or related fields
 * Passion for tech and interest in programming, and system designs
@@ -33,14 +35,14 @@ Proficiency in agile methodologies and practices, such as Scrum, Continuous Inte
 
 
 ​
-<div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> MEET OUR EXPERTS</div>
+<div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
 
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column" style="padding: 10px 0px 30px 20px;"><img src="images/nurul-afiqah.jpg" alt="Nurul Afiqah"></div>
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
        <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Nurul Afiqah</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Systems Analyst (UX), Housing and Development Board (HDB)</span><br><br>
     <span style="font-size: 16px; line-height: 23px;">
-Impressed and inspired by how the Housing & Development Board (HDB) goes about delivering on its promise to provide affordable housing to Singaporeans all these years, Afiqah didn’t hesitate to join the agency after graduating from university in 2020.
+“Seeing how small design tweaks can have a huge impact in delivering better quality digital services was very satisfying!”
 <br><br> [Find out more about <a href="/job-profiles/systems-analyst/nurul-afiqah">Nurul Afiqah</a>]</span>
       </div>
 </div>

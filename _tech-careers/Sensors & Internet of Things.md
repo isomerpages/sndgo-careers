@@ -1,7 +1,10 @@
 ---
 title: Sensors & Internet of Things
 permalink: /tech-careers/sensors-and-internet-of-things/
+description: ""
+image: /images/sensors-iot.png
 ---
+
 ![](/images/hero-sensors-internet-things.jpg)
 
 ### **Sensors & Internet of Things**
@@ -36,6 +39,8 @@ Join one of our many teams to implement meaningful projects that impact the nati
 <img src="/images/lau-lee-hong.png" alt="Lau Lee Hong" title="Tech Talent" /><br><em><strong>Lau Lee Hong</strong><br><span style="font-size:13px; line-height:14px">Associate Embedded Engineer, Sensors & Internet of Things, GovTech</span></em><br><br>
 “I lead a team of engineers to digitise our national parks and gardens. What excites me is, from the products we build and deploy, we get to constantly redefine what a Smart Nation really is!”<br><br></div>
 </div>
+
+**Click on the link to [read more testimonials](/testimonials).**
 
 ### **Get set for Smart Moves Ahead**
 Discover sensors & IoT career opportunities in these agencies.

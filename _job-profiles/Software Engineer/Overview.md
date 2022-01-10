@@ -2,13 +2,16 @@
 title: Overview
 permalink: /job-profiles/software-engineer/overview
 third_nav_title: Software Engineer
+description: ""
+image: /images/hero-banner.jpg
 ---
 # Software Engineer
 Build Singapore’s next-generation digital products and services to solve real-life problems and make a lasting impact as you transform the way citizens live, work and play. 
 
-## What you can expect to be doing:
+<br>
+<div style="width:60%;height:60%;"><img src="images/job-profile-se1.jpg" alt="Software Engineer"></div>
 
-<div style="width:75%;height:75%;"><img src="images/job-profile-se1.jpg"></div>
+### What you can expect to be doing:
 
 * **Design, build, integrate, test,** and **maintain** complex software components
 * **Build prototypes and design system architectures** to demonstrate technology opportunities
@@ -17,9 +20,10 @@ Build Singapore’s next-generation digital products and services to solve real-
 * **Work with other UX designers, developers and engineers** to deliver enterprise engineering products in an exciting and fast-paced environment
 * **Deliver technical consultancy and expertise** in the systems development process, contributing to defining technical specifications, configuring and testing solutions
 
-## Join us if you have:
+<br>
+<div style="width:60%;height:60%;"><img src="images/job-profile-se2.jpg" alt="Software Engineer"></div>
 
-<div style="width:75%;height:75%;"><img src="images/job-profile-se2.jpg" ></div>
+### Join us if you have:
 
 * Relevant qualifications in Computer Science, Information Systems, Computer Engineering, or related fields
 * Good knowledge of agile development, DevOps and cloud technologies
@@ -30,13 +34,13 @@ Build Singapore’s next-generation digital products and services to solve real-
 * Strong communication and interpersonal skills to collaborate with key stakeholders at all levels
 
 ​
-<div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> MEET OUR EXPERTS</div>
+<div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
 
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column" style="padding: 10px 0px 30px 20px;"><img src="images/ang-chin-chuen.jpg" alt="Ang Chin Chuen"></div>
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
        <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Ang Chin Chuen</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Software Engineer, GovTech – currently attached to Ministry of Manpower (MOM)</span><br><br>
-    <span style="font-size: 16px; line-height: 23px;">'My true passion is in writing code.'
+    <span style="font-size: 16px; line-height: 23px;">"My true passion is in writing code."
 For Ang Chin Chuen, his love for coding was a belated discovery. While working as a business analyst, he was involved with Robotics Process Automation (RPA) and scripting various bots for different tasks. Over time, something changed.<br><br>[Find out more about
  <a href="/job-profiles/software-engineer/ang-chin-chuen">Ang Chin Chuen</a>]</span>
       </div>
