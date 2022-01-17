@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Cybersecurity Engineer/.keep
-      - Cybersecurity Engineer/Overview.md
+      - "Cybersecurity Engineer/Job Profile: Cybersecurity Engineer.md"
       - Cybersecurity Engineer/Heng Tian Hao (DSTA).md
       - Simulated Attack Specialist/.keep
       - Simulated Attack Specialist/Overview.md
