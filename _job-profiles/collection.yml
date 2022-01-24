@@ -3,19 +3,19 @@ collections:
     output: true
     order:
       - Cybersecurity Engineer/.keep
-      - Cybersecurity Engineer/Overview.md
+      - "Cybersecurity Engineer/Job Profile: Cybersecurity Engineer.md"
       - Cybersecurity Engineer/Heng Tian Hao (DSTA).md
       - Simulated Attack Specialist/.keep
-      - Simulated Attack Specialist/Overview.md
+      - "Simulated Attack Specialist/Job Profile: Simulated Attack Specialist.md"
       - Simulated Attack Specialist/Loke Hui Yi (GovTech).md
       - Simulated Attack Specialist/Xavier Yeo (CSA).md
       - Software Engineer/.keep
-      - Software Engineer/Overview.md
+      - "Software Engineer/Job Profile: Software Engineer.md"
       - Software Engineer/Ang Chin Chuen (GovTech).md
       - Systems Analyst/.keep
-      - Systems Analyst/Overview.md
+      - "Systems Analyst/Job Profile: Systems Analyst.md"
       - Systems Analyst/Nurul Afiqah (HDB).md
       - Tech Policy Officer/.keep
-      - Tech Policy Officer/Overview.md
+      - "Tech Policy Officer/Job Profile: Tech Policy Officer .md"
       - Tech Policy Officer/Sindhu Achudan (SNDGO).md
       - Tech Policy Officer/Ho Jin Chong (IMDA).md
