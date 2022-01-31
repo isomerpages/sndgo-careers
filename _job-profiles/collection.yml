@@ -2,10 +2,10 @@ collections:
   job-profiles:
     output: true
     order:
-      - Data Scientist/.keep
       - Cybersecurity Engineer/.keep
       - "Cybersecurity Engineer/Job Profile: Cybersecurity Engineer.md"
       - Cybersecurity Engineer/Heng Tian Hao (DSTA).md
+      - Data Scientist/.keep
       - Simulated Attack Specialist/.keep
       - "Simulated Attack Specialist/Job Profile: Simulated Attack Specialist.md"
       - Simulated Attack Specialist/Loke Hui Yi (GovTech).md
