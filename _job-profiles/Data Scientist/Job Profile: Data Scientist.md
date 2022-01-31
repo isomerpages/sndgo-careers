@@ -56,3 +56,12 @@ Digital insights and better discovery – driven by big data. Join us as a Data 
 <br><br> [Find out more about <a href="/job-profiles/cybersecurity-engineer/heng-tian-hao">Eric Tan</a>]</span>
       </div>
 </div>
+
+<div class="row" style="background-color: #f3f3f3;">
+      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="images/heng-tian-hao.jpg" alt="Heng Tian Hao"></div>
+      <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
+       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Eric Tan</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">AI Scientist / Team Lead, AI Data – Engineering, IMDA</span><br><br>
+    <span style="font-size: 16px; line-height: 23px;">Eric is an AI Scientist and Team Lead of the AI Data - Engineering (AIDE) Division at the Infocomm Media Development Authority (IMDA). His team delivers AI models that are useful for various industry players, particularly in bridging the gap among small and mid-sized enterprises (SMEs) with the use of data analytics and implementing AI solutions. The work allows him to shift away from just theories to real world practical applications like working out the kinks when implementing AI tools. 
+<br><br> [Find out more about <a href="/job-profiles/cybersecurity-engineer/heng-tian-hao">Eric Tan</a>]</span>
+      </div>
+</div>
