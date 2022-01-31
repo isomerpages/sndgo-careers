@@ -49,19 +49,20 @@ Digital insights and better discovery – driven by big data. Join us as a Data 
 <div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
         
 <div class="row" style="background-color: #f3f3f3;">
-      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="images/heng-tian-hao.jpg" alt="Heng Tian Hao"></div>
+      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="images/eric-tan.jpg" alt="Eric Tan"></div>
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
        <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Eric Tan</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">AI Scientist / Team Lead, AI Data – Engineering, IMDA</span><br><br>
-    <span style="font-size: 16px; line-height: 23px;">Eric is an AI Scientist and Team Lead of the AI Data - Engineering (AIDE) Division at the Infocomm Media Development Authority (IMDA). His team delivers AI models that are useful for various industry players, particularly in bridging the gap among small and mid-sized enterprises (SMEs) with the use of data analytics and implementing AI solutions. The work allows him to shift away from just theories to real world practical applications like working out the kinks when implementing AI tools. 
-<br><br> [Find out more about <a href="/job-profiles/cybersecurity-engineer/heng-tian-hao">Eric Tan</a>]</span>
+    <span style="font-size: 16px; line-height: 23px;">“I was fortunate that I had followed my heart in pursuing the career that I had an affinity with.”
+<br><br> [Find out more about <a href="/job-profiles/data-scientist/eric-tan">Eric Tan</a>]</span>
       </div>
 </div>
 
 <div class="row" style="background-color: #f3f3f3;">
-      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="images/heng-tian-hao.jpg" alt="Heng Tian Hao"></div>
+      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="images/jenny-zou.jpg" alt="Jenny Zou"></div>
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
-       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Eric Tan</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">AI Scientist / Team Lead, AI Data – Engineering, IMDA</span><br><br>
-    <span style="font-size: 16px; line-height: 23px;">Eric is an AI Scientist and Team Lead of the AI Data - Engineering (AIDE) Division at the Infocomm Media Development Authority (IMDA). His team delivers AI models that are useful for various industry players, particularly in bridging the gap among small and mid-sized enterprises (SMEs) with the use of data analytics and implementing AI solutions. The work allows him to shift away from just theories to real world practical applications like working out the kinks when implementing AI tools. 
-<br><br> [Find out more about <a href="/job-profiles/cybersecurity-engineer/heng-tian-hao">Eric Tan</a>]</span>
+       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Jenny Zou</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Data Scientist, IHiS</span><br><br>
+    <span style="font-size: 16px; line-height: 23px;">“I take pride that my work plays a part in making HealthTech better for all of us and helps
+Singapore strengthen its position as a Smart Nation.”
+<br><br> [Find out more about <a href="/job-profiles/data-scientist/jenny-zou">Jenny Zou</a>]</span>
       </div>
 </div>
