@@ -134,8 +134,10 @@ Select a job profile below:
 “I've always been interested in understanding the underlying numbers and relations between entities. The opportunity to lead a team that looks at data-related problems in the area of risk profiling and management within the safety and security domain of Singapore is a big pull factor for me.”<br><br></div>
 	
 <div class="column-testimonial"></div>
-</div>
+
 <div class="column-testimonial"></div>
+
+</div>
 
 [Return to top](#hear-from-our-tech-talents)
 
