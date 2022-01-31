@@ -121,7 +121,6 @@ Select a job profile below:
 <div class="column-testimonial">
 <img src="/images/leow-gin-ee.jpg" alt="Leow Gin Ee" title="Tech Talent" /><br><em><strong>Leow Gin Ee</strong><br><span style="font-size:13px; line-height:14px">Tech Specialist, Data Analytics, CSIT</span></em><br><br>“I was fortunate to have the opportunity to build data analytics products in CSIT. It was an exciting journey for me to witness the transformation of an initial idea into products that enable users to derive actionable insights. During this journey, I was challenged to adapt solutions to new requirements and develop multiple skillsets such as administration and maintenance.” <br><br></div>
 	
-<div class="row-testimonial" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px">
 <div class="column-testimonial">
 <img src="/images/stanley-yin-yu-sheng.jpg" alt="Stanley Yin Yu-Sheng" title="Tech Talent" /><br><em><strong>Stanley Yin Yu-Sheng</strong><br><span style="font-size:13px; line-height:14px">Senior Systems Analyst, Business Information Systems Department 2 / Data Management & Development Support Section, HDB</span></em><br><br>“I use my expertise in data science to bring clarity to the complex challenges that HDB faces in designing policies and building citizen-centric solutions. My work has ranged from utilising Geographic Information System (GIS) network algorithms for coordinating island-wide flat inspections to performing predictive analytics for Car-Lite initiatives.” <br><br></div>
 	
@@ -137,7 +136,6 @@ Select a job profile below:
 <div class="column-testimonial"></div>
 </div>
 <div class="column-testimonial"></div>
-</div>
 
 [Return to top](#hear-from-our-tech-talents)
 
