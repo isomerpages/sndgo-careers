@@ -38,8 +38,8 @@ The interns are deeply involved in their projects. This gives them invaluable op
 
 “IMDA IMmersion internship programme is very important to us,” he says. “One scientist would coach at most two interns at any given time, and we’re fully responsible for their learning journey with us. 
 
-> “Our interns grow into talents of the tech industry and have a strong hand in in shaping the digital future of Singapore.”
+> “Our interns grow into talents of the tech industry and have a strong hand in shaping the digital future of Singapore.”
 
 With the work being done, Eric says industry players should have higher acceptance and adoption in digitalisation and AI. This, in turn, would create more business opportunities and better productivity among enterprises.
 
-“That would bring Singapore to be a Smart Nation,” he says.  
+“That would bring Singapore to be a Smart Nation,” he says.
