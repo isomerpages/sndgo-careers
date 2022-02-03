@@ -10,7 +10,7 @@ third_nav_title: Data Scientist
 
 **Jenny Zou**<br>
 Data Scientist<br>
-[iHiS](https://www.ihis.com.sg/)
+[IHiS](https://www.ihis.com.sg/)
 
 # Using Data for Good
 
