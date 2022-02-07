@@ -17,6 +17,10 @@ Discover endless possibilities with data science and AI, from informing policy a
 ### **Hear from our tech talents**
 
 <div class="row-testimonial">
+	
+<div class="column-testimonial">
+<img src="/images/aaron-chew.jpg" alt="Aaron Chew" title="Tech Talent" /><br><em><strong>Aaron Chew</strong><br><span style="font-size:13px; line-height:14px">Aaron Chew, Engineer, Digital Hub, DSTA</span></em><br><br>“As an AI engineer in DSTA’s Digital Hub, I explore opportunities in emerging technologies that can be harnessed for defence. In particular, my interest is in finding new ways for machines to understand the human language so that they can be used to help the SAF in their operations.”<br><br></div>	
+	
 <div class="column-testimonial">
 <img src="/images/elizabeth-lim.png" alt="Elizabeth Lim" title="Tech Talent" /><br><em><strong>Elizabeth Lim</strong><br><span style="font-size:13px; line-height:14px">Data Scientist, Data Science & Artificial Intelligence Division, GovTech</span></em><br><br>
 “Data science and Analytics have a great potential to change and transform the way we live, work, as well as how we interact with our citizens. I aim to bridge the gap between the technical aspects of data science and the contextualised needs of the end-user, to build machine learning solutions that add value and convenience to citizens, businesses, and public service agencies.”<br><br></div>
@@ -24,7 +28,7 @@ Discover endless possibilities with data science and AI, from informing policy a
 <div class="column-testimonial">
 <img src="/images/huang-shisheng.png" alt="Huang Shisheng" title="Tech Talent" /><br><em><strong>Huang Shisheng </strong><br><span style="font-size:13px; line-height:14px">Head, Risk Profiling Analytics, Data Science & AI Centre of Expertise, HTX</span></em><br><br>
 “I've always been interested in understanding the underlying numbers and relations between entities. The opportunity to lead a team that looks at data-related problems in the area of risk profiling and management within the safety and security domain of Singapore is a big pull factor for me.”<br><br></div>
-<div class="column-testimonial"></div>
+
 </div>
 
 **Click on the link to [read more testimonials](/testimonials).**

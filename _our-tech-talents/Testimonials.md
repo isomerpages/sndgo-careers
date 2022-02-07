@@ -106,13 +106,37 @@ Select a job profile below:
 
 <div class="row-testimonial" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px">
 <div class="column-testimonial">
+<img src="/images/aaron-chew.jpg" alt="Aaron Chew" title="Tech Talent" /><br><em><strong>Aaron Chew  </strong><br><span style="font-size:13px; line-height:14px">Engineer, Digital Hub, DSTA
+</span></em><br><br>“As an AI engineer in DSTA’s Digital Hub, I explore opportunities in emerging technologies that can be harnessed for defence. In particular, my interest is in finding new ways for machines to understand the human language so that they can be used to help the SAF in their operations.”<br><br></div>
+	
+<div class="column-testimonial">
+<img src="/images/ryan-loo.jpg" alt="Ryan Loo" title="Tech Talent" /><br><em><strong>Ryan Loo</strong><br><span style="font-size:13px; line-height:14px">Senior Engineer, Information, DSTA
+</span></em><br><br>“I use data analytics and AI to strengthen the SAF's ability to identify potential threats and piece together insights for better awareness and coordination. Seeing a project deployed and becoming an integral part of our defence capabilities is really satisfying. There is no doubt that our efforts go a long way in maintaining our peace and stability.”<br><br></div>
+	
+<div class="column-testimonial">
+<img src="/images/ng-jie-ning.jpg" alt="Ng Jie Ning" title="Tech Talent" /><br><em><strong>Ng Jie Ning</strong><br><span style="font-size:13px; line-height:14px">Senior Analyst, Data Science Accelerator Department, CPFB</span></em><br><br>“As a data analyst, I partner CPFB departments to identify business problems and deliver end-to-end data science solutions to help them in their decision making, service delivery and operational efficiency. I’m motivated to help our business users harness the power of data science to drive more informed policy decisions for the benefit of all CPF members.”<br><br></div>
+</div>
+
+<div class="row-testimonial" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px">
+<div class="column-testimonial">
+<img src="/images/leow-gin-ee.jpg" alt="Leow Gin Ee" title="Tech Talent" /><br><em><strong>Leow Gin Ee</strong><br><span style="font-size:13px; line-height:14px">Tech Specialist, Data Analytics, CSIT</span></em><br><br>“I was fortunate to have the opportunity to build data analytics products in CSIT. It was an exciting journey for me to witness the transformation of an initial idea into products that enable users to derive actionable insights. During this journey, I was challenged to adapt solutions to new requirements and develop multiple skillsets such as administration and maintenance.” <br><br></div>
+	
+<div class="column-testimonial">
+<img src="/images/stanley-yin-yu-sheng.jpg" alt="Stanley Yin Yu-Sheng" title="Tech Talent" /><br><em><strong>Stanley Yin Yu-Sheng</strong><br><span style="font-size:13px; line-height:14px">Senior Systems Analyst, Business Information Systems Department 2 / Data Management & Development Support Section, HDB</span></em><br><br>“I use my expertise in data science to bring clarity to the complex challenges that HDB faces in designing policies and building citizen-centric solutions. My work has ranged from utilising Geographic Information System (GIS) network algorithms for coordinating island-wide flat inspections to performing predictive analytics for Car-Lite initiatives.” <br><br></div>
+	
+<div class="column-testimonial">
 <img src="/images/elizabeth-lim.png" alt="Elizabeth Lim" title="Tech Talent" /><br><em><strong>Elizabeth Lim</strong><br><span style="font-size:13px; line-height:14px">Data Scientist, Data Science & Artificial Intelligence Division, GovTech</span></em><br><br>
 “Data science and Analytics have a great potential to change and transform the way we live, work, as well as how we interact with our citizens. I aim to bridge the gap between the technical aspects of data science and the contextualised needs of the end-user, to build machine learning solutions that add value and convenience to citizens, businesses, and public service agencies.”<br><br></div>
-	
+</div>
+
 <div class="column-testimonial">
 <img src="/images/huang-shisheng.png" alt="Huang Shisheng" title="Tech Talent" /><br><em><strong>Huang Shisheng </strong><br><span style="font-size:13px; line-height:14px">Head, Risk Profiling Analytics, Data Science & AI Centre of Expertise, HTX</span></em><br><br>
 “I've always been interested in understanding the underlying numbers and relations between entities. The opportunity to lead a team that looks at data-related problems in the area of risk profiling and management within the safety and security domain of Singapore is a big pull factor for me.”<br><br></div>
+	
 <div class="column-testimonial"></div>
+
+<div class="column-testimonial"></div>
+
 </div>
 
 [Return to top](#hear-from-our-tech-talents)
