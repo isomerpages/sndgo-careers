@@ -56,7 +56,7 @@ Select a job profile below:
 “At CSIT, we contribute to Singapore's national security by protecting our nation's cyberspace. Through exploration of cutting-edge and emerging technologies in cybersecurity, we seek to research, develop and deploy tools to uncover system vulnerabilities, hence preventing and deterring advanced cyber threats.”<br><br></div>
 	
 <div class="column-testimonial">
-<img src="/images/tan-suan-zhi.png" alt="ME4 Tan Suan Zhi " title="Tech Talent" /><br><em><strong>ME4 Tan Suan Zhi </strong><br><span style="font-size:13px; line-height:14px">Commanding Officer, Cyber Defence Group, SAF C4I, MINDEF</span></em><br><br>
+<img src="/images/tan-suan-zhi.png" alt="ME4 Tan Suan Zhi " title="Tech Talent" /><br><em><strong>ME4 Tan Suan Zhi </strong><br><span style="font-size:13px; line-height:14px">Officer Commanding, Cyber Defence Group, SAF C4I, MINDEF</span></em><br><br>
   “A good cyber defence is proactive: it requires getting the right intelligence to stay one step ahead of the threat actors, to keep up with the fast-evolving cyber landscape. Leading a Security Operations Centre, I supervise multiple teams in looking actively for cyber threats within the SAF’s warfighting network. The challenging and dynamic nature of my work means that there is never a dull moment.”<br><br></div>	
 
 <div class="column-testimonial">
