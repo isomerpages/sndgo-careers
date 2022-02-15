@@ -29,7 +29,6 @@ Discover endless possibilities with data science and AI, from informing policy a
 <img src="/images/huang-shisheng.png" alt="Huang Shisheng" title="Tech Talent" /><br><em><strong>Huang Shisheng </strong><br><span style="font-size:13px; line-height:14px">Head, Risk Profiling Analytics, Data Science & AI Centre of Expertise, HTX</span></em><br><br>
 “I've always been interested in understanding the underlying numbers and relations between entities. The opportunity to lead a team that looks at data-related problems in the area of risk profiling and management within the safety and security domain of Singapore is a big pull factor for me.”<br><br></div>
 
-</div>
 
 **Click on the link to [read more testimonials](/testimonials).**
 
