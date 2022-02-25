@@ -4,7 +4,6 @@ permalink: /tech-careers/application-design-development-and-deployment/
 description: ""
 image: /images/app-development.png
 ---
-
 ![](/images/hero-in-app-design.jpg)
 
 ### **Application Design, Development & Deployment**
@@ -62,5 +61,5 @@ Discover application design, development & deployment career opportunities in th
 <div class="column-agencies"><a href="https://www.hdb.gov.sg/cs/infoweb/about-us/careers/career-opportunities" target="new"><img src="/images/logo-hdb.png" alt="HDB" title="HDB"/></a></div>
 <div class="column-agencies"><a href="https://www.ihis.com.sg/careers" target="new"><img src="/images/logo-ihis.png" alt="iHIS" title="iHIS"/></a></div>
 <div class="column-agencies"><a href="https://www.iras.gov.sg/irashome/Careers/" target="new"><img src="/images/logo-iras.png" alt="IRAS" title="IRAS"/></a></div>
-<div class="column-agencies"><a href="https://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=singapore%20land%20authority&job-mail-subscribe-privacy=agree" target="new"><img src="/images/logo-sla.png" alt="SLA" title="SLA"/></a></div>
+<div class="column-agencies"><a href="https://www.sla.gov.sg/join-us/our-work-at-sla" target="new"><img src="/images/logo-sla.png" alt="SLA" title="SLA"/></a></div>
 </div>

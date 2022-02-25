@@ -4,7 +4,6 @@ permalink: /tech-careers/sensors-and-internet-of-things/
 description: ""
 image: /images/sensors-iot.png
 ---
-
 ![](/images/hero-sensors-internet-things.jpg)
 
 ### **Sensors & Internet of Things**
@@ -53,6 +52,6 @@ Discover sensors & IoT career opportunities in these agencies.
 <div class="column-agencies"><a href="https://www.hdb.gov.sg/cs/infoweb/about-us/careers/career-opportunities" target="new"><img src="/images/logo-hdb.png" alt="HDB" title="HDB"/></a></div>
 <div class="column-agencies"><a href="https://www.htx.gov.sg/join-us/careers" target="new"><img src="/images/logo-htx.png" alt="HTX" title="HTX"/></a></div>
 <div class="column-agencies"><a href="https://www.imda.gov.sg/Who-We-Are/careers" target="new"><img src="/images/logo-imda.png" alt="IMDA" title="IMDA"/></a></div>
-<div class="column-agencies"><a href="https://careers.pageuppeople.com/688/cwlive/en/listing/" target="new"><img src="/images/logo-lta.png" alt="LTA" title="LTA"/></a></div>
-<div class="column-agencies"><a href="https://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=singapore%20land%20authority&job-mail-subscribe-privacy=agree" target="new"><img src="/images/logo-sla.png" alt="SLA" title="SLA"/></a></div>
+<div class="column-agencies"><a href="https://www.lta.gov.sg/content/ltagov/en/who_we_are/careers/join_lta.html" target="new"><img src="/images/logo-lta.png" alt="LTA" title="LTA"/></a></div>
+<div class="column-agencies"><a href="https://www.sla.gov.sg/join-us/our-work-at-sla" target="new"><img src="/images/logo-sla.png" alt="SLA" title="SLA"/></a></div>
 </div>

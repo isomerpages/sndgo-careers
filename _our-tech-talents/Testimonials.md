@@ -129,7 +129,7 @@ Select a job profile below:
 “Data science and Analytics have a great potential to change and transform the way we live, work, as well as how we interact with our citizens. I aim to bridge the gap between the technical aspects of data science and the contextualised needs of the end-user, to build machine learning solutions that add value and convenience to citizens, businesses, and public service agencies.”<br><br></div>
 </div>
 
-<div class="column-testimonial">
+<div class="row-testimonial" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px"><div class="column-testimonial">
 <img src="/images/huang-shisheng.png" alt="Huang Shisheng" title="Tech Talent" /><br><em><strong>Huang Shisheng </strong><br><span style="font-size:13px; line-height:14px">Head, Risk Profiling Analytics, Data Science & AI Centre of Expertise, HTX</span></em><br><br>
 “I've always been interested in understanding the underlying numbers and relations between entities. The opportunity to lead a team that looks at data-related problems in the area of risk profiling and management within the safety and security domain of Singapore is a big pull factor for me.”<br><br></div>
 	
