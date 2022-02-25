@@ -137,8 +137,6 @@ Select a job profile below:
 
 <div class="column-testimonial"></div>
 
-</div>
-
 [Return to top](#hear-from-our-tech-talents)
 
 ## Geospatial
