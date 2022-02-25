@@ -4,7 +4,6 @@ permalink: /tech-careers/tech-policy-and-governance/
 description: ""
 image: /images/tech-governance.png
 ---
-
 ![](/images/hero-tech-policy-governance.jpg)
 
 ### **Tech Policy & Governance**
@@ -59,6 +58,6 @@ Discover tech policy & governance career opportunities in these agencies.
 <div class="column-agencies"><a href="https://careers.pageuppeople.com/845/cw/en/listing/" target="new"><img src="/images/logo-dsta.png" alt="DSTA" title="DSTA"/></a></div>
 <div class="column-agencies"><a href="https://www.imda.gov.sg/Who-We-Are/careers" target="new"><img src="/images/logo-imda.png" alt="IMDA" title="IMDA"/></a></div>
 <div class="column-agencies"><a href="https://www.iras.gov.sg/irashome/Careers/" target="new"><img src="/images/logo-iras.png" alt="IRAS" title="IRAS"/></a></div>
-<div class="column-agencies"><a href="https://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=singapore%20land%20authority&job-mail-subscribe-privacy=agree" target="new"><img src="/images/logo-sla.png" alt="SLA" title="SLA"/></a></div>
+<div class="column-agencies"><a href="https://www.sla.gov.sg/join-us/our-work-at-sla" target="new"><img src="/images/logo-sla.png" alt="SLA" title="SLA"/></a></div>
 <div class="column-agencies"><a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=Smart%20Nation%20and%20Digital%20Government%20Office" target="new"><img src="/images/logo-sndgo.png" alt="SNDGO" title="SNDGO"/></a></div> 
 </div>
