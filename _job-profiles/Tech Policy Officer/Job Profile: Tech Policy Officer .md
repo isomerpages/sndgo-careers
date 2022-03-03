@@ -8,7 +8,7 @@ image: /images/hero-banner.jpg
 ![Tech Policy Officer](/images/Header/Header%20Tech%20Policy%20&%20Governance.jpeg)
 
 # Tech Policy Officer
-> This is the domain where you transform what’s new to what’s to come. Dive into emerging technologies and formulate the new policies and strategies that empower innovation. Explore the myriad possibilities, with a vision for the future and a focus on how to effect it.
+This is the domain where you transform what’s new to what’s to come. Dive into emerging technologies and formulate the new policies and strategies that empower innovation. Explore the myriad possibilities, with a vision for the future and a focus on how to effect it.
 
 
 ## What you can expect to be doing:
