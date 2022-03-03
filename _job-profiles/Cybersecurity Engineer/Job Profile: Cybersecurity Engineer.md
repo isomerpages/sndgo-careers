@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Cybersecurity Engineer
 image: /images/hero-banner.jpg
 ---
-![](/images/Header/Test01.jpeg)
-
 # **Cybersecurity Engineer**
 
 As more of our lives are spent online, there is even more importance attached to keeping our IT systems safe from cyber threats such as malware, phishing and ransomware. Join our multi-disciplinary team that’s dedicated to keeping national and whole-of-Government projects, systems and digital services safe – and be on the frontlines of Singapore’s digital transformation. 
@@ -29,7 +27,7 @@ As more of our lives are spent online, there is even more importance attached to
 * **Provide security consultancy** in areas of threat and risk assessment throughout the system lifecycle from implementation to maintenance
 
 
-### Join us if you have:
+### **Join us if you have:**
 
 * Relevant qualification in Infocomm Security, Computer Science, Computer/Electrical Engineering, Information Technology, Mathematics or related fields; or have security certifications (e.g. CISA, GSEC, CISSP, Security+, SANS, GIAC)
 
