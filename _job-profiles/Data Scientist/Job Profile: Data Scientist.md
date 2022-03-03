@@ -5,10 +5,12 @@ description: ""
 third_nav_title: Data Scientist
 image: /images/hero-banner.jpg
 ---
+![Data Scientist](/images/Header/Header%20Data%20Science%20&%20AI.jpeg)
+
 # Data Scientist
 Digital insights and better discovery – driven by big data. Join us as a Data Scientist and play a key role defining Singapore’s next steps to be a Smart Nation. 
 
-### **What you can expect to be doing:**
+## What you can expect to be doing:
 
 * **Retrieve and analyse diverse datasets**, assess data quality, and prepare for deeper, more advanced analysis
 
@@ -28,7 +30,7 @@ Digital insights and better discovery – driven by big data. Join us as a Data 
 
 
 
-### **Join us if you have:**
+## Join us if you have:
 
 * Relevant qualification in Business Analytics, Data Analytics, Information Technology, Information Systems or IT equivalent OR have a postgraduate or PhD background in engineering, computer engineering, computer science, mathematics, statistics or equivalent
 
