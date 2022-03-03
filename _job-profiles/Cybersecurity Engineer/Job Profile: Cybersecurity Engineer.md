@@ -7,12 +7,12 @@ image: /images/hero-banner.jpg
 ---
 ![](/images/Header/Test01.jpeg)
 
-# Cybersecurity Engineer
+# **Cybersecurity Engineer**
 
 As more of our lives are spent online, there is even more importance attached to keeping our IT systems safe from cyber threats such as malware, phishing and ransomware. Join our multi-disciplinary team that’s dedicated to keeping national and whole-of-Government projects, systems and digital services safe – and be on the frontlines of Singapore’s digital transformation. 
 
 
-### What you can expect to be doing:
+### **What you can expect to be doing:**
 
 * **Design, implement and manage** digital security solutions and infrastructure to mitigate sophisticated cyber threats 
 
