@@ -1,9 +1,10 @@
 ---
 title: List of Agencies
 permalink: /agencies
-description: ""
+description: Discover cybersecurity career opportunities in these agencies.
 image: /images/hero-banner.jpg
 ---
+
 # Discover cybersecurity career opportunities in these agencies...
 
 <div class="row-agencies">

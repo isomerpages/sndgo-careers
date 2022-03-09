@@ -1,9 +1,11 @@
 ---
 title: Tech Policy & Governance
 permalink: /tech-careers/tech-policy-and-governance/
-description: ""
+description: Design and drive forward-thinking tech policies that shape our
+  Defence, Smart Nation and Digital Government agenda.
 image: /images/tech-governance.png
 ---
+
 ![](/images/hero-tech-policy-governance.jpg)
 
 ### **Tech Policy & Governance**

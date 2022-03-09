@@ -28,7 +28,7 @@ sections:
       button: Find out more
       url: /tech-careers/cybersecurity/
       image: /images/cybersecurity.png
-      alt: Image alt text
+      alt: Cybersecurity
   - infopic:
       title: Data Science & AI
       description: Create tech marvels. Discover endless possibilities with Data and AI.
@@ -41,7 +41,7 @@ sections:
       description: Tap into Geospatial’s potential. Redefine Singapore’s landscape.
       button: Find out more
       url: tech-careers/geospatial/
-      alt: Image alt text
+      alt: Geospatial
       image: /images/geospatial.png
   - infopic:
       title: "ICT Infrastructure "
@@ -57,7 +57,7 @@ sections:
       button: Find out more
       url: /tech-careers/sensors-and-internet-of-things/
       image: /images/sensors-iot.png
-      alt: Image alt text
+      alt: "Sensors & Internet of Things "
   - infopic:
       title: "Tech Policy & Governance "
       description: Set the stage. A Smart Nation calls for tech, talent and thought

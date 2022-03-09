@@ -2,9 +2,12 @@
 title: Sindhu Achudan (SNDGO)
 permalink: /job-profiles/tech-policy/sindhu
 third_nav_title: Tech Policy Officer
-description: ""
+description: “As I was interested in joining the public service and setting
+  tech-related policies that will benefit our citizens, SNDGO‘s mission of
+  ‘transforming Singapore through technology’ was very appealing to me.”
 image: /images/sindhu-achudan.jpg
 ---
+
 <img src="/images/sindhu-achudan-l.jpg" alt="Sindhu Achudan" style="width:400px;" align="left">
 <br clear="left">
 

@@ -1,16 +1,19 @@
 ---
 title: "Job Profile: Simulated Attack Specialist"
 permalink: /job-profiles/Simulated-Attack-Specialist/overview
-description: ""
+description: Play a unique role challenging the status quo to strengthen the
+  resilience of our digital infrastructures.
 image: /images/hero-banner.jpg
 third_nav_title: Simulated Attack Specialist
 ---
+
+![Simulated Attack Specialist](/images/Header/Header%20Cybersecurity.jpeg)
 
 # Simulated Attack Specialist
 You will play a unique role challenging the status quo to strengthen the resilience of our digital infrastructures. You will provide assurance for whole-of-Government, Critical Information Infrastructure (CII) and beyond through simulating the threat of advanced attackers.
 
 
-### What you can expect to be doing:
+## What you can expect to be doing:
 
 * **Design, implement and manage** digital security solutions and infrastructure to mitigate sophisticated cyber threats 
 
@@ -24,7 +27,7 @@ You will play a unique role challenging the status quo to strengthen the resilie
 
 
 
-### Join us if you have:
+## Join us if you have:
 
 * Experience in Enterprise IT/Cloud, Industrial Control Systems or Telco technologies. This includes their underlying operations, architectures, networks, products, and security standards
 

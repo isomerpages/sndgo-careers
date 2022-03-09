@@ -1,9 +1,11 @@
 ---
 title: Geospatial
 permalink: /tech-careers/geospatial
-description: ""
+description: Model, simulate and analyse the urban environment. Plan and manage
+  city operations effectively. Visualise and experiment with assets digitally.
 image: /images/geospatial.png
 ---
+
 ![](/images/hero-geospatial.jpg)
 
 ### **Geospatial**

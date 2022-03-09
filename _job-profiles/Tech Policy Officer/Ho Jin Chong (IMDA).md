@@ -2,9 +2,13 @@
 title: Ho Jin Chong (IMDA)
 permalink: /job-profiles/tech-policy/ho-jin-chong
 third_nav_title: Tech Policy Officer
-description: ""
+description: “There is a role for everyone to contribute to the growth and
+  development of Singapore’s digital economy. I chose to do policy work because
+  I find it most fulfilling to work on solutions that benefit consumers and
+  organisations alike,” says Jin Chong.
 image: /images/ho-jin-chong.jpg
 ---
+
 <img src="/images/ho-jin-chong-l.jpg" alt="Ho Jin Chong" style="width:400px;" align="left">
 <br clear="left">
 

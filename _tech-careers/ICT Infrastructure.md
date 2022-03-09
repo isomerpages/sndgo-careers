@@ -1,9 +1,12 @@
 ---
 title: ICT Infrastructure
 permalink: /tech-careers/ict-infrastructure/
-description: ""
+description: Be part of the team to lay the foundation for the future and enable
+  the delivery of critical digital services that is used by citizens, businesses
+  and Government.
 image: /images/ict.png
 ---
+
 ![](/images/hero-ict-infrastructure.jpg)
 
 ### **ICT Infrastructure**

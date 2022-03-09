@@ -1,10 +1,12 @@
 ---
 title: Jenny Zou (IHiS)
 permalink: /job-profiles/Data-Scientist/jenny-zou
-description: ""
+description: “I take pride that my work plays a part in making HealthTech better
+  for all of us and helps Singapore strengthen its position as a Smart Nation.”
 image: /images/jenny-zou-l.jpg
 third_nav_title: Data Scientist
 ---
+
 
 <img src="/images/jenny-zou-l.jpg" alt="Jenny Zou" style="width:400px;" align="left">
 <br clear="left">

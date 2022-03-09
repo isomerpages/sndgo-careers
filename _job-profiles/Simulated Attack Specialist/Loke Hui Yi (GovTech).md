@@ -1,10 +1,12 @@
 ---
 title: Loke Hui Yi (GovTech)
 permalink: /job-profiles/Simulated-Attack-Specialist/Loke-Hui-Yi
-description: ""
+description: “I love the burst of excitement when I manage to spot some
+  vulnerable code and develop it into a working exploit!”
 image: /images/Loke-Hui-Yi.jpg
 third_nav_title: Simulated Attack Specialist
 ---
+
 <img src="/images/Loke-Hui-Yi.jpg" alt="Loke Hui Yi" style="width:400px;" align="left">
 <br clear="left">
 

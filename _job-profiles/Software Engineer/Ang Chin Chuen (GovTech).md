@@ -2,9 +2,13 @@
 title: Ang Chin Chuen (GovTech)
 permalink: /job-profiles/software-engineer/ang-chin-chuen
 third_nav_title: Software Engineer
-description: ""
+description: “One of the things I find fascinating is pair-programming as the
+  opportunity to work with many like-minded engineers in an agile setting really
+  entices me,” Chin Chuen says, adding that this is because two engineers
+  working together can quickly unblock any mental impediments.
 image: /images/ang-chin-chuen.jpg
 ---
+
 <img src="/images/ang-chin-chuen-l.jpg" alt="Ang Chin Chuen" style="width:400px;" align="left">
 <br clear="left">
 

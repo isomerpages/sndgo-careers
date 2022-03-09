@@ -1,10 +1,12 @@
 ---
 title: Nurul Afiqah (HDB)
 permalink: /job-profiles/systems-analyst/nurul-afiqah
-description: ""
+description: '"Seeing how small design tweaks can have a huge impact in
+  delivering better quality digital services was very satisfying!”'
 third_nav_title: Systems Analyst
 image: /images/nurul-afiqah.jpg
 ---
+
 <img src="/images/nurul-afiqah-l.jpg" alt="Nurul Afiqah" style="width:400px;" align="left">
 <br clear="left">
 

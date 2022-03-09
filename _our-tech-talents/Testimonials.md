@@ -1,9 +1,10 @@
 ---
 title: Testimonials
 permalink: /testimonials
-description: ""
+description: " Hear from our tech talents!"
 image: /images/hero-banner.jpg
 ---
+
 # Hear from our tech talents
 Select a job profile below:
 
