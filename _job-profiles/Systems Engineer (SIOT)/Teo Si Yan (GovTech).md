@@ -7,36 +7,40 @@ description: “Our projects either directly help citizens or businesses, or the
   run.”
 third_nav_title: Systems Engineer (SIOT)
 ---
-
-
 <img src="/images/eric-tan-l.jpg" alt="Eric Tan" style="width:400px;" align="left">
 <br clear="left">
 
-**Chandrasehar S/O Rajaseharan**<br>
-Computer Vision Engineer<br>
-[HTX](https://www.htx.gov.sg/)
+**Teo Si-Yan**<br>
+System Engineer<br>
+[GovTech](https://www.tech.gov.sg/)
 
-# Making sense from sensors
+# A worthwhile endeavour
 
-If you live in Singapore chances are you would have come across the police cameras, also known as PolCams, at public spaces or HDB void decks to deter or solve crimes.
+Teo Si-Yan, a System Engineer at GovTech, chose to embark on a career in software engineering because she likes how programming is a very logical activity.
 
-Collecting video data using these cameras is a key part of how the Singapore Police Force help enhance the country’s safety and security, but equally important is making sense of the data. And that’s where Chandrasehar S/O Rajaseharan is putting his expertise to work at HTX (Home Team Science & Technology Agency).
+“You’re writing out exactly what the computer should do, and if you write code that is correct, it will always run correctly,” she explains. “If it doesn’t (a bug!), it means there is something in the code that requires correction.”
 
-The 34-year-old lead engineer in HTX’s Sense-making and Surveillance Centre of Expertise shares that one of his most memorable career milestone was when PolCam 2.0 was launched. His role was to ensure optimal performance of the video analytics algorithm, and this involved testing it across various real-world environments, to assess and improve its performance such as under low light conditions. 
+At the same time, the Singapore University of Technology and Design (SUTD) graduate had a desire to do something that feels meaningful. This led her to join GovTech’s Sensors and Internet of Things (SIOT) team. 
 
-“When the day of commissioning PolCam 2.0 came in November 2019, it was a sweet moment with a great sense of achievement,” he says. 
+> She says: “Our projects either directly help citizens or businesses, or they enable other Government agencies to carry out their operations more effectively using technology, which helps citizens and businesses in the long run.”
 
-“It is even more gratifying that the PolCam 2.0 project was recently awarded the Home Team Achievement Award by Minister of Home Affairs K. Shanmugam!”
+One such project is the TraceTogether Token. Si-Yan explains that in 2020, in the early days of the COVID-19 pandemic, GovTech developed the TraceTogether mobile application for automated contact tracing. To cater to non-tech-savvy users, her team developed the keychain-sized device as an easy-to-use alternative to the mobile app. The Tokens were first distributed out to senior citizens, and subsequently offered to all Singapore residents.
+
+Si-Yan maintains the back-end software for the TraceTogether Token. Despite the busy periods and many challenges along the way, the project also had its highlights. In late 2020, the Singapore Tourism Board was studying the possibility of allowing cruises in Singapore amid the pandemic and a few engineers in Si-Yan’s team were invited to be on a pilot cruise.
+
+“We were tasked to carry out tests to determine if TraceTogether’s BlueTooth proximity sensing still worked effectively in a large metal ship,” she recounts. The team enjoyed the cruise, the tests showed that TraceTogether was still effective in a ship, and eventually cruises to nowhere were allowed to carry on in Singapore.
 
 
-### Embracing new experiences
+### Helping seniors stay independent
 
-Chandrasehar’s work on PolCam 2.0 has been a culmination of his experiences thus far. He specialised in text and data analytics while studying for his Computer Science degree from Nanyang Technological University, and this meant dealing a lot with extraction and identification techniques similar to video analytics.
+Another notable endeavour she worked on is the Personal Alert Button project. For this project, physical SOS buttons are installed in the homes of seniors who live in Housing and Development Board (HDB) rental flats.
 
-While on his first job at a local multinational company, he worked with video sensors that had been deployed in the field. This exposed him to a different aspect of the work away from backend text or data analytics, which he was more familiar with, he explains. 
+Si-Yan says that these elderly residents may not be tech savvy or have close family members living with them. In the event of medical or other emergencies, it may be difficult for them to get help. The Personal Alert Button addresses this challenge: Elderly residents just need to press the alert button and verbally explain the situation. An operator will provide the necessary assistance, such as calling for an ambulance.
 
-He also had to design solutions that could integrate with third-party algorithms, and he shares how exposure to these new experiences helped hone his expertise, as well as whet his appetite to learn more in this field.
+And it was during the user research phase when she picked up on a challenge these seniors face: Many of them do not speak or understand English well, and some use dialects as their main language. 
 
-Today, he recognises his work at HTX has a direct impact on the Home Team, by increasing his colleagues’ effectiveness at making sense of the information they have and reducing their workload. This, in turn, better equips them to protect our home. 
+To address this, her team made each button’s language customisable to the resident’s preferred language. Subsequently, when a senior presses the button for help, it will play instructions in that language.
 
-> “Knowing that what we design will lead to a safer and more secure environment for all residents in Singapore, including my loved ones, is a key factor that motivates me in my work,” Chandrasehar says. 
+“The whole system is not super fancy or high tech, but it is cost-effective and works well in helping ensure seniors living alone can remain safe and independent,” Si-Yan says.
+
+“Knowing this keeps me motivated to do my job well!”
