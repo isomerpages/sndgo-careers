@@ -184,7 +184,7 @@ Select a job profile below:
 <img src="/images/brandon-chua.png" alt="Brandon Chua" title="Tech Talent" /><br><em><strong>Brandon Chua</strong><br><span style="font-size:13px; line-height:14px">Engineer, Sense-making & Surveillance Centre of Expertise, HTX</span></em><br><br>
 	“We specialise in R&D for the computer vision field, where we harness new technology such as AI. Best of all, I can see the fruits of my labour being implemented to enhance the safety of our citizens, which includes my family and loved ones.”<br><br></div>	
 <div class="column-testimonial">
-<img src="/images/kok-boon.png" alt="Goh Kok Boon" title="Tech Talent" /><br><em><strong>Goh Kok Boon </strong><br><span style="font-size:13px; line-height:14px">Embedded Engineer, Sensors & Internet of Things, GovTech</span></em><br><br>
+<img src="/images/kok-boon.png" alt="Goh Kok Boon" title="Tech Talent" /><br><em><strong>Goh Kok Boon </strong><br><span style="font-size:13px; line-height:14px">Associate Embedded Engineer, Sensors & Internet of Things, GovTech</span></em><br><br>
 “I code for nation-wide projects that allows me to push the frontier of Singapore’s technological landscape in Sensors and Internet of Things. The work that I do gives me purpose when I witness how they can impact and improve the lives of my loved ones.”<br><br></div>
 <div class="column-testimonial">
 <img src="/images/ong-ling-ling.png" alt="Ong Ling Ling" title="Tech Talent" /><br><em><strong>Ong Ling Ling</strong><br><span style="font-size:13px; line-height:14px">Solutions Architect, IMDA</span></em><br><br>
