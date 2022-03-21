@@ -7,12 +7,11 @@ description: “Our projects either directly help citizens or businesses, or the
   run.”
 third_nav_title: Systems Engineer (SIOT)
 ---
-<img src="/images/eric-tan-l.jpg" alt="Eric Tan" style="width:400px;" align="left">
+<img src="/images/si-yan-l.jpg" alt="Teo Si-Yan" style="width:400px;" align="left">
 <br clear="left">
 
 **Teo Si-Yan**<br>
-System Engineer<br>
-[GovTech](https://www.tech.gov.sg/)
+System Engineer, [GovTech](https://www.tech.gov.sg/)
 
 # A worthwhile endeavour
 
