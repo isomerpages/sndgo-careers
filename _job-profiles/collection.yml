@@ -2,7 +2,7 @@ collections:
   job-profiles:
     output: true
     order:
-      - Computer Vision Engineer/Example Title.md
+      - Computer Vision Engineer/Chandrasehar (HTX).md
       - "Computer Vision Engineer/Job Profile: Computer Vision Engineer.md"
       - Computer Vision Engineer/.keep
       - Cybersecurity Engineer/.keep
