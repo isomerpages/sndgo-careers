@@ -10,8 +10,7 @@ third_nav_title: Computer Vision Engineer
 <br clear="left">
 
 **Chandrasehar S/O Rajaseharan**<br>
-Computer Vision Engineer<br>
-[HTX](https://www.htx.gov.sg/)
+Computer Vision Engineer, [HTX](https://www.htx.gov.sg/)
 
 # Making sense from sensors
 
