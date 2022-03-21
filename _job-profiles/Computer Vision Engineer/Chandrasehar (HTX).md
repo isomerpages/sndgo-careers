@@ -6,8 +6,7 @@ description: “Knowing that what we design will lead to a safer and more secure
   factor that motivates me in my work,” Chandrasehar says.
 third_nav_title: Computer Vision Engineer
 ---
-
-<img src="/images/eric-tan-l.jpg" alt="Eric Tan" style="width:400px;" align="left">
+<img src="/images/chandrasehar-l.jpg" alt="Chandrasehar S/O Rajaseharan" style="width:400px;" align="left">
 <br clear="left">
 
 **Chandrasehar S/O Rajaseharan**<br>
