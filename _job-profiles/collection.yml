@@ -2,9 +2,9 @@ collections:
   job-profiles:
     output: true
     order:
-      - Computer Vision Engineer/Chandrasehar (HTX).md
-      - "Computer Vision Engineer/Job Profile: Computer Vision Engineer.md"
       - Computer Vision Engineer/.keep
+      - "Computer Vision Engineer/Job Profile: Computer Vision Engineer.md"
+      - Computer Vision Engineer/Chandrasehar (HTX).md
       - Cybersecurity Engineer/.keep
       - "Cybersecurity Engineer/Job Profile: Cybersecurity Engineer.md"
       - Cybersecurity Engineer/Heng Tian Hao (DSTA).md
