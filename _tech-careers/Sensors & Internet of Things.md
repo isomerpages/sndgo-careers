@@ -5,7 +5,6 @@ description: Harness the many possibilities Sensors and the Internet of Things
   (SIOT) can bring about, across anything and everything.
 image: /images/sensors-iot.png
 ---
-
 ![](/images/hero-sensors-internet-things.jpg)
 
 ### **Sensors & Internet of Things**
@@ -37,8 +36,8 @@ Join one of our many teams to implement meaningful projects that impact the nati
 <img src="/images/christopher-tong.png" alt="Christopher Tong" title="Tech Talent" /><br><em><strong>Christopher Tong</strong><br><span style="font-size:13px; line-height:14px">Associate Product Manager, Sensors & Internet of Things, GovTech</span></em><br><br>
 	“I work with local partners and government agencies to scale applications in Infrastructure communication (V2X), lighting, energy management and IOT Sensing and computing. I’m proud to be part of the urban innovation team that digitally transforms Singapore to become a Smart Nation.”<br><br></div>	
 <div class="column-testimonial">
-<img src="/images/lau-lee-hong.png" alt="Lau Lee Hong" title="Tech Talent" /><br><em><strong>Lau Lee Hong</strong><br><span style="font-size:13px; line-height:14px">Associate Embedded Engineer, Sensors & Internet of Things, GovTech</span></em><br><br>
-“I lead a team of engineers to digitise our national parks and gardens. What excites me is, from the products we build and deploy, we get to constantly redefine what a Smart Nation really is!”<br><br></div>
+<img src="/images/ng-hon-wai.jpg" alt="Ng Hon Wai" title="Tech Talent" /><br><em><strong>Ng Hon Wai</strong><br><span style="font-size:13px; line-height:14px">Senior Network Specialist, Infrastructure Management Services Department, HDB</span></em><br><br>
+“I am fortunate to be part of the Network & Communications Section and participate in building a secure smart sensor infrastructure for HDB. I find this a very meaningful piece of work as the various types of sensors enable HDB to deliver smart towns that enhance living quality and environment sustainability.”<br><br></div>
 </div>
 
 **Click on the link to [read more testimonials](/testimonials).**
