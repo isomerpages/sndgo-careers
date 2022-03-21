@@ -12,7 +12,7 @@ image: /images/chandrasehar-l.jpg
 
 **Chandrasehar S/O Rajaseharan**<br>
 Lead Engineer, Sensors and Sense-making,<br>
-Sense-making & Surveillance Centre of Experitse, [HTX](https://www.htx.gov.sg/)
+Sense-making & Surveillance Centre of Expertise, [HTX](https://www.htx.gov.sg/)
 
 # Making sense from sensors
 
