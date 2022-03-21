@@ -4,7 +4,6 @@ permalink: /testimonials
 description: " Hear from our tech talents!"
 image: /images/hero-banner.jpg
 ---
-
 # Hear from our tech talents
 Select a job profile below:
 
@@ -201,6 +200,16 @@ Select a job profile below:
 <div class="column-testimonial">
 <img src="/images/lau-lee-hong.png" alt="Lau Lee Hong" title="Tech Talent" /><br><em><strong>Lau Lee Hong</strong><br><span style="font-size:13px; line-height:14px">Associate Embedded Engineer, Sensors & Internet of Things, GovTech</span></em><br><br>
 “I lead a team of engineers to digitise our national parks and gardens. What excites me is, from the products we build and deploy, we get to constantly redefine what a Smart Nation really is!”<br><br></div>
+</div>
+
+<div class="row-testimonial" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px"><div class="column-testimonial">
+<img src="/images/ng-hon-wai.jpg" alt="Ng Hon Wai" title="Tech Talent" /><br><em><strong>Ng Hon Wai</strong><br><span style="font-size:13px; line-height:14px">Senior Network Specialist, Infrastructure Management Services Department, HDB</span></em><br><br>
+“I am fortunate to be part of the Network & Communications Section and participate in building a secure smart sensor infrastructure for HDB. I find this a very meaningful piece of work as the various types of sensors enable HDB to deliver smart towns that enhance living quality and environment sustainability.”<br><br></div>
+	
+<div class="column-testimonial"></div>
+
+<div class="column-testimonial"></div>
+
 </div>
 
 [Return to top](#hear-from-our-tech-talents)
