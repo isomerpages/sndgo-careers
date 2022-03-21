@@ -7,12 +7,12 @@ description: “Knowing that what we design will lead to a safer and more secure
 third_nav_title: Computer Vision Engineer
 image: /images/chandrasehar-l.jpg
 ---
-
 <img src="/images/chandrasehar-l.jpg" alt="Chandrasehar S/O Rajaseharan" style="width:400px;" align="left">
 <br clear="left">
 
 **Chandrasehar S/O Rajaseharan**<br>
-Computer Vision Engineer, [HTX](https://www.htx.gov.sg/)
+Lead Engineer, Sensors and Sense-making,<br>
+Sense-making & Surveillance Centre of Experitse, [HTX](https://www.htx.gov.sg/)
 
 # Making sense from sensors
 
