@@ -192,7 +192,7 @@ Select a job profile below:
 </div>
 <div class="row-testimonial" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px">
 <div class="column-testimonial">
-<img src="/images/chandrasehar.png" alt="Chandrasehar S/O Rajaseharan" title="Tech Talent" /><br><em><strong>Chandrasehar S/O Rajaseharan</strong><br><span style="font-size:13px; line-height:14px">Lead Engineer, Sensors and Sense-making, Sense-making & Surveillance Centre of Experitse, HTX</span></em><br><br>
+<img src="/images/chandrasehar.png" alt="Chandrasehar S/O Rajaseharan" title="Tech Talent" /><br><em><strong>Chandrasehar S/O Rajaseharan</strong><br><span style="font-size:13px; line-height:14px">Lead Engineer, Sensors and Sense-making, Sense-making & Surveillance Centre of Expertise, HTX</span></em><br><br>
 “The challenges in designing the best video analytics solutions and the need to always keep track of new trends in technology, motivates me to push on in my work, knowing that what we design will lead to a more secure environment for our nation, including my loved ones.”<br><br></div>
 <div class="column-testimonial">
 <img src="/images/christopher-tong.png" alt="Christopher Tong" title="Tech Talent" /><br><em><strong>Christopher Tong</strong><br><span style="font-size:13px; line-height:14px">Associate Product Manager, Sensors & Internet of Things, GovTech</span></em><br><br>

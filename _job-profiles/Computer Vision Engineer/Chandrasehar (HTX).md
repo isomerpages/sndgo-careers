@@ -12,7 +12,7 @@ image: /images/chandrasehar-l.jpg
 
 **Chandrasehar S/O Rajaseharan**<br>
 Lead Engineer, Sensors and Sense-making,<br>
-Sense-making & Surveillance Centre of Experitse, [HTX](https://www.htx.gov.sg/)
+Sense-making & Surveillance Centre of Expertise, [HTX](https://www.htx.gov.sg/)
 
 # Making sense from sensors
 
@@ -20,7 +20,7 @@ If you live in Singapore chances are you would have come across the police camer
 
 Collecting video data using these cameras is a key part of how the Singapore Police Force help enhance the country’s safety and security, but equally important is making sense of the data. And that’s where Chandrasehar S/O Rajaseharan is putting his expertise to work at HTX (Home Team Science & Technology Agency).
 
-The 34-year-old lead engineer in HTX’s Sense-making and Surveillance Centre of Expertise shares that one of his most memorable career milestone was when PolCam 2.0 was launched. His role was to ensure optimal performance of the video analytics algorithm, and this involved testing it across various real-world environments, to assess and improve its performance such as under low light conditions. 
+The 34-year-old lead engineer in HTX’s Sense-making and Surveillance Centre of Expertise shares that one of his most memorable career milestones was when PolCam 2.0 was launched. His role was to ensure optimal performance of the video analytics algorithm, and this involved testing it across various real-world environments, to assess and improve its performance such as under low light conditions. 
 
 “When the day of commissioning PolCam 2.0 came in November 2019, it was a sweet moment with a great sense of achievement,” he says. 
 
