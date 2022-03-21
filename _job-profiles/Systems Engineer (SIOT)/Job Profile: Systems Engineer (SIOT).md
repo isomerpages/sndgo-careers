@@ -69,6 +69,6 @@ Depending on your expertise and preference, you will be doing one or more of the
       <div class="column" style="padding: 10px 0px 30px 20px;"><img src="images/heng-tian-hao.jpg" alt="Heng Tian Hao"></div>
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
        <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Heng Tian Hao</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Senior Engineer, Cybersecurity Programme Centre, DSTA</span><br><br>
-    <span style="font-size: 16px; line-height: 23px;">“Protecting our cyberspace is a never-ending battle with new vulnerabilities and exploits discovered every day. This gets me fired up as I’m always looking for fresh challenges to overcome.”<br><br> [Find out more about <a href="/job-profiles/cybersecurity-engineer/heng-tian-hao">Heng Tian Hao</a>]</span>
+    <span style="font-size: 16px; line-height: 23px;">“Protecting our cyberspace is a never-ending battle with new vulnerabilities and exploits discovered every day. This gets me fired up as I’m always looking for fresh challenges to overcome.”<br><br> [Find out more about <a href="/job-profiles/Systems-Engineer-SIOT/chandrasehar">Heng Tian Hao</a>]</span>
       </div>
 </div>
