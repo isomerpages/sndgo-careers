@@ -52,9 +52,9 @@ Harness the advances and possibilities of leading-edge technology with your insi
 <div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
         
 <div class="row" style="background-color: #f3f3f3;">
-      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="images/heng-tian-hao.jpg" alt="Heng Tian Hao"></div>
+      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="images/chandrasehar.jpg" alt="Chandrasehar S/O Rajaseharan"></div>
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
-       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Heng Tian Hao</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Senior Engineer, Cybersecurity Programme Centre, DSTA</span><br><br>
-    <span style="font-size: 16px; line-height: 23px;">“Protecting our cyberspace is a never-ending battle with new vulnerabilities and exploits discovered every day. This gets me fired up as I’m always looking for fresh challenges to overcome.”<br><br> [Find out more about <a href="/job-profiles/Computer-Vision-Engineer/Chandrasehar">Heng Tian Hao</a>]</span>
+       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Chandrasehar S/O Rajaseharan</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Computer Vision Engineer, HTX</span><br><br>
+    <span style="font-size: 16px; line-height: 23px;">“Knowing that what we design will lead to a safer and more secure environment for all residents in Singapore, including my loved ones, is a key factor that motivates me in my work.”<br><br> [Find out more about <a href="/job-profiles/Computer-Vision-Engineer/Chandrasehar">Chandrasehar S/O Rajaseharan</a>]</span>
       </div>
 </div>
