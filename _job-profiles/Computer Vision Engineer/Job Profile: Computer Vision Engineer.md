@@ -48,4 +48,13 @@ Harness the advances and possibilities of leading-edge technology with your insi
 	* Proficiency in programming languages such as Python, C++ as well as libraries such as Tensorflow, PyTorch and OpenCV are preferred
 
 
-
+​
+<div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
+        
+<div class="row" style="background-color: #f3f3f3;">
+      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="images/heng-tian-hao.jpg" alt="Heng Tian Hao"></div>
+      <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
+       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Heng Tian Hao</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Senior Engineer, Cybersecurity Programme Centre, DSTA</span><br><br>
+    <span style="font-size: 16px; line-height: 23px;">“Protecting our cyberspace is a never-ending battle with new vulnerabilities and exploits discovered every day. This gets me fired up as I’m always looking for fresh challenges to overcome.”<br><br> [Find out more about <a href="/job-profiles/cybersecurity-engineer/heng-tian-hao">Heng Tian Hao</a>]</span>
+      </div>
+</div>
