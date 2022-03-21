@@ -16,7 +16,7 @@ Systems Engineer, [GovTech](https://www.tech.gov.sg/)
 
 # A worthwhile endeavour
 
-Teo Si-Yan, a System Engineer at GovTech, chose to embark on a career in software engineering because she likes how programming is a very logical activity.
+Teo Si-Yan, a Systems Engineer at GovTech, chose to embark on a career in software engineering because she likes how programming is a very logical activity.
 
 “You’re writing out exactly what the computer should do, and if you write code that is correct, it will always run correctly,” she explains. “If it doesn’t (a bug!), it means there is something in the code that requires correction.”
 
