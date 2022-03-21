@@ -4,7 +4,6 @@ permalink: /testimonials
 description: " Hear from our tech talents!"
 image: /images/hero-banner.jpg
 ---
-
 # Hear from our tech talents
 Select a job profile below:
 
@@ -185,15 +184,15 @@ Select a job profile below:
 <img src="/images/brandon-chua.png" alt="Brandon Chua" title="Tech Talent" /><br><em><strong>Brandon Chua</strong><br><span style="font-size:13px; line-height:14px">Engineer, Sense-making & Surveillance Centre of Expertise, HTX</span></em><br><br>
 	“We specialise in R&D for the computer vision field, where we harness new technology such as AI. Best of all, I can see the fruits of my labour being implemented to enhance the safety of our citizens, which includes my family and loved ones.”<br><br></div>	
 <div class="column-testimonial">
-<img src="/images/kok-boon.png" alt="Goh Kok Boon" title="Tech Talent" /><br><em><strong>Goh Kok Boon </strong><br><span style="font-size:13px; line-height:14px">Embedded Engineer, Sensors & Internet of Things, GovTech</span></em><br><br>
+<img src="/images/kok-boon.png" alt="Goh Kok Boon" title="Tech Talent" /><br><em><strong>Goh Kok Boon </strong><br><span style="font-size:13px; line-height:14px">Associate Embedded Engineer, Sensors & Internet of Things, GovTech</span></em><br><br>
 “I code for nation-wide projects that allows me to push the frontier of Singapore’s technological landscape in Sensors and Internet of Things. The work that I do gives me purpose when I witness how they can impact and improve the lives of my loved ones.”<br><br></div>
 <div class="column-testimonial">
-<img src="/images/ong-ling-ling.png" alt="Ong Ling Ling" title="Tech Talent" /><br><em><strong>Ong Ling Ling</strong><br><span style="font-size:13px; line-height:14px">Senior Manager, National Infocomm Infrastructure, IMDA</span></em><br><br>
+<img src="/images/ong-ling-ling.png" alt="Ong Ling Ling" title="Tech Talent" /><br><em><strong>Ong Ling Ling</strong><br><span style="font-size:13px; line-height:14px">Solutions Architect, IMDA</span></em><br><br>
 	“Work hard, play hard! That's what I do! In my role, I constantly pursue new knowledge to understand how rapidly evolving technologies can be leveraged on. Our aim is to make use of advanced applications such as AR, VR, MR and ER to solve challenges faced today for a better tomorrow!”<br><br></div> 
 </div>
 <div class="row-testimonial" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px">
 <div class="column-testimonial">
-<img src="/images/chandrasehar.png" alt="Chandrasehar S/O Rajaseharan" title="Tech Talent" /><br><em><strong>Chandrasehar S/O Rajaseharan</strong><br><span style="font-size:13px; line-height:14px">Engineer, Sense-making & Surveillance Centre of Expertise, HTX</span></em><br><br>
+<img src="/images/chandrasehar.png" alt="Chandrasehar S/O Rajaseharan" title="Tech Talent" /><br><em><strong>Chandrasehar S/O Rajaseharan</strong><br><span style="font-size:13px; line-height:14px">Lead Engineer, Sensors and Sense-making, Sense-making & Surveillance Centre of Experitse, HTX</span></em><br><br>
 “The challenges in designing the best video analytics solutions and the need to always keep track of new trends in technology, motivates me to push on in my work, knowing that what we design will lead to a more secure environment for our nation, including my loved ones.”<br><br></div>
 <div class="column-testimonial">
 <img src="/images/christopher-tong.png" alt="Christopher Tong" title="Tech Talent" /><br><em><strong>Christopher Tong</strong><br><span style="font-size:13px; line-height:14px">Associate Product Manager, Sensors & Internet of Things, GovTech</span></em><br><br>
@@ -201,6 +200,16 @@ Select a job profile below:
 <div class="column-testimonial">
 <img src="/images/lau-lee-hong.png" alt="Lau Lee Hong" title="Tech Talent" /><br><em><strong>Lau Lee Hong</strong><br><span style="font-size:13px; line-height:14px">Associate Embedded Engineer, Sensors & Internet of Things, GovTech</span></em><br><br>
 “I lead a team of engineers to digitise our national parks and gardens. What excites me is, from the products we build and deploy, we get to constantly redefine what a Smart Nation really is!”<br><br></div>
+</div>
+
+<div class="row-testimonial" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px"><div class="column-testimonial">
+<img src="/images/ng-hon-wai.jpg" alt="Ng Hon Wai" title="Tech Talent" /><br><em><strong>Ng Hon Wai</strong><br><span style="font-size:13px; line-height:14px">Senior Network Specialist, Infrastructure Management Services Department, HDB</span></em><br><br>
+“I am fortunate to be part of the Network & Communications Section and participate in building a secure smart sensor infrastructure for HDB. I find this a very meaningful piece of work as the various types of sensors enable HDB to deliver smart towns that enhance living quality and environment sustainability.”<br><br></div>
+	
+<div class="column-testimonial"></div>
+
+<div class="column-testimonial"></div>
+
 </div>
 
 [Return to top](#hear-from-our-tech-talents)

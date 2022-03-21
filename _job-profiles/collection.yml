@@ -2,6 +2,9 @@ collections:
   job-profiles:
     output: true
     order:
+      - Computer Vision Engineer/.keep
+      - "Computer Vision Engineer/Job Profile: Computer Vision Engineer.md"
+      - Computer Vision Engineer/Chandrasehar (HTX).md
       - Cybersecurity Engineer/.keep
       - "Cybersecurity Engineer/Job Profile: Cybersecurity Engineer.md"
       - Cybersecurity Engineer/Heng Tian Hao (DSTA).md
@@ -19,6 +22,9 @@ collections:
       - Systems Analyst/.keep
       - "Systems Analyst/Job Profile: Systems Analyst.md"
       - Systems Analyst/Nurul Afiqah (HDB).md
+      - Systems Engineer (SIOT)/.keep
+      - "Systems Engineer (SIOT)/Job Profile: Systems Engineer (SIOT).md"
+      - Systems Engineer (SIOT)/Teo Si Yan (GovTech).md
       - Tech Policy Officer/.keep
       - "Tech Policy Officer/Job Profile: Tech Policy Officer .md"
       - Tech Policy Officer/Sindhu Achudan (SNDGO).md
