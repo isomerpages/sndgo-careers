@@ -4,11 +4,10 @@ permalink: /job-profiles/Data-Scientist/eric-tan
 description: “AI certainly wasn’t in great demand back in early 2000s,” Eric
   says. “I was fortunate that I had followed my heart in pursuing the career
   that I had an affinity with.”
-image: /images/eric-tan-l.jpg
+image: /images/People/eric-tan-l.jpg
 third_nav_title: Data Scientist
 ---
-
-<img src="/images/eric-tan-l.jpg" alt="Eric Tan" style="width:400px;" align="left">
+<img src="/images/People/eric-tan-l.jpg" alt="Eric Tan" style="width:400px;" align="left">
 <br clear="left">
 
 **Eric Tan**<br>

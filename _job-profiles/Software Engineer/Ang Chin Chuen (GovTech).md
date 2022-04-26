@@ -6,10 +6,10 @@ description: “One of the things I find fascinating is pair-programming as the
   opportunity to work with many like-minded engineers in an agile setting really
   entices me,” Chin Chuen says, adding that this is because two engineers
   working together can quickly unblock any mental impediments.
-image: /images/ang-chin-chuen.jpg
+image: /images/People/ang-chin-chuen-l.jpg
 ---
 
-<img src="/images/ang-chin-chuen-l.jpg" alt="Ang Chin Chuen" style="width:400px;" align="left">
+<img src="/images/People/ang-chin-chuen-l.jpg" alt="Ang Chin Chuen" style="width:400px;" align="left">
 <br clear="left">
 
 **Ang Chin Chuen**<br>

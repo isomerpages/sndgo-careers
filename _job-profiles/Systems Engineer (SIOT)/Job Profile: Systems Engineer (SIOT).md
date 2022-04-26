@@ -66,7 +66,7 @@ Depending on your expertise and preference, you will be doing one or more of the
 <div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
         
 <div class="row" style="background-color: #f3f3f3;">
-      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="images/si-yan.jpg" alt="Teo Si-Yan"></div>
+      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/People/si-yan.jpg" alt="Teo Si-Yan"></div>
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
        <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Teo Si-Yan</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Systems Engineer, GovTech</span><br><br>
     <span style="font-size: 16px; line-height: 23px;">“Our projects either directly help citizens or businesses, or they enable other Government agencies to carry out their operations more effectively using technology, which helps citizens and businesses in the long run.”<br><br> [Find out more about <a href="/job-profiles/Systems-Engineer-SIOT/Si-Yan">Teo Si-Yan</a>]</span>

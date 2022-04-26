@@ -5,9 +5,10 @@ description: “Knowing that what we design will lead to a safer and more secure
   environment for all residents in Singapore, including my loved ones, is a key
   factor that motivates me in my work,” Chandrasehar says.
 third_nav_title: Computer Vision Engineer
-image: /images/chandrasehar-l.jpg
+image: /images/People/chandrasehar-l.jpg
 ---
-<img src="/images/chandrasehar-l.jpg" alt="Chandrasehar S/O Rajaseharan" style="width:400px;" align="left">
+
+<img src="/images/People/chandrasehar-l.jpg" alt="Chandrasehar S/O Rajaseharan" style="width:400px;" align="left">
 <br clear="left">
 
 **Chandrasehar S/O Rajaseharan**<br>

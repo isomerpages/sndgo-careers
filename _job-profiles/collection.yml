@@ -2,6 +2,9 @@ collections:
   job-profiles:
     output: true
     order:
+      - Cloud Administrator/.keep
+      - "Cloud Administrator/Job Profile: Cloud Administrator.md"
+      - Cloud Administrator/Steven New (IRAS).md
       - Computer Vision Engineer/.keep
       - "Computer Vision Engineer/Job Profile: Computer Vision Engineer.md"
       - Computer Vision Engineer/Chandrasehar (HTX).md
@@ -12,6 +15,9 @@ collections:
       - "Data Scientist/Job Profile: Data Scientist.md"
       - Data Scientist/Eric Tan (IMDA).md
       - Data Scientist/Jenny Zou (IHiS).md
+      - Infrastructure Engineer/.keep
+      - "Infrastructure Engineer/Job Profile: Infrastructure Engineer.md"
+      - Infrastructure Engineer/Abdillah Ali (GovTech).md
       - Simulated Attack Specialist/.keep
       - "Simulated Attack Specialist/Job Profile: Simulated Attack Specialist.md"
       - Simulated Attack Specialist/Loke Hui Yi (GovTech).md
