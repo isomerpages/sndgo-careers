@@ -6,7 +6,7 @@ description: Abdillah says one of the key focus areas of his work is to
   Government agencies to function efficiently.
 third_nav_title: Infrastructure Engineer
 ---
-<img src="/images/People/chandrasehar-l.jpg" alt="Chandrasehar S/O Rajaseharan" style="width:400px;" align="left">
+<img src="/images/People/abdillah_ali-l.jpeg" alt="Chandrasehar S/O Rajaseharan" style="width:400px;" align="left">
 <br clear="left">
 
 **Abdillah Ali**<br>
@@ -36,4 +36,4 @@ Abdillah says while they were working on other infrastructure-related projects, 
 
 Despite having overcome many challenging situations in his role, Abdillah isn’t resting on his laurels.
 
-> “I want to continuously learn, unlearn and re-learn technologies that can achieve better user experience and enable all public officers to perform their roles and play their parts in serving public good,” he says. 
+> “I want to continuously learn, unlearn and re-learn technologies that can achieve better user experience and enable all public officers to perform their roles and play their parts in serving public good,” he says.
