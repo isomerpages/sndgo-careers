@@ -7,9 +7,7 @@ description: “AI certainly wasn’t in great demand back in early 2000s,” Er
 image: /images/People/eric-tan-l.jpg
 third_nav_title: Data Scientist
 ---
-
-
-<img src="/images/eric-tan-l.jpg" alt="Eric Tan" style="width:400px;" align="left">
+<img src="/images/People/eric-tan-l.jpg" alt="Eric Tan" style="width:400px;" align="left">
 <br clear="left">
 
 **Eric Tan**<br>
