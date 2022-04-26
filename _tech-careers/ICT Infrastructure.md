@@ -20,6 +20,19 @@ You will discover ICT infrastructure building blocks like the Singapore Governme
 
 <div class="row-testimonial">
 <div class="column-testimonial">
+<img src="/images/People/ong_chee_siang_l.jpeg" alt="Ong Chee Siang" title="Tech Talent" /><br><em><strong>Ong Chee Siang</strong><br><span style="font-size:13px; line-height:14px">Lead System Engineer (Cloud), CPFB</span></em><br><br>“My current role requires me to explore Government Commercial Cloud (GCC) and support the moving of our CPFB systems to GCC, as well as introduce new cloud initiatives for the Board. This is something my colleagues and I have not done before. Being the first team to move to GCC was a challenge as we had to figure out how to build and operate systems in a totally new environment, which took many rounds of iterations.”<br><br></div> 
+	
+<div class="column-testimonial">
+<img src="/images/People/lynn_choi_l.jpeg" alt="Lynn Choi" title="Tech Talent" /><br><em><strong>Lynn Choi</strong><br><span style="font-size:13px; line-height:14px">Infrastructure Engineer, Government Infrastructure Group, GovTech</span></em><br><br>
+	“My main responsibility is to configure and maintain a cloud environment that is secure to host applications. Knowing that my work contributes to the Smart Nation goal keeps me motivated to offer what I can to actualise the goals.”<br><br></div> 
+
+<div class="column-testimonial">
+<img src="/images/People/kenneth-yeo.png" alt="Kenneth Yeo" title="Tech Talent" /><br><em><strong>Kenneth Yeo, </strong><br><span style="font-size:13px; line-height:14px">Application Infrastructure, Government Infrastructure Group,  GovTech</span></em><br><br>
+	“My work cuts across multiple ICT&SS domain areas that include app infrastructure and cybersecurity. I’m constantly provided with challenging tech problems to resolve and I enjoy every moment of it. Each challenge is a learning opportunity.”<br><br></div>   
+</div>
+
+<div class="row-testimonial">
+<div class="column-testimonial">
 <img src="/images/People/reuben-wong.png" alt="Reuben Wong" title="Tech Talent" /><br><em><strong>Reuben Wong</strong><br><span style="font-size:13px; line-height:14px">Senior Manager, Infrastructure Planning & Facilitation, IMDA</span></em><br><br>
 	“The digital infrastructure work we do provides the foundation for enabling Smart Nation related initiatives. Whether in data centres, 5G, or connectivity, these will remain critical pillars to enable all sorts of Smart Nation related applications.”<br><br></div> 
 	
