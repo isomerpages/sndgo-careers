@@ -46,10 +46,9 @@ Bring our Smart Nation projects to a new level by harnessing the vast potential 
 <div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
         
 <div class="row" style="background-color: #f3f3f3;">
-      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="https://techcareers.smartnation.gov.sg/images/chandrasehar.jpg" alt="Chandrasehar S/O Rajaseharan"></div>
+      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/People/chandrasehar.jpg" alt="Chandrasehar S/O Rajaseharan"></div>
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
        <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Chandrasehar S/O Rajaseharan</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Lead Engineer, Sensors and Sense-making,<br>Sense-making & Surveillance Centre of Expertise, HTX</span><br><br>
     <span style="font-size: 16px; line-height: 23px;">“Knowing that what we design will lead to a safer and more secure environment for all residents in Singapore, including my loved ones, is a key factor that motivates me in my work.”<br><br> [Find out more about <a href="/job-profiles/Computer-Vision-Engineer/Chandrasehar">Chandrasehar S/O Rajaseharan</a>]</span>
       </div>
 </div>
-
