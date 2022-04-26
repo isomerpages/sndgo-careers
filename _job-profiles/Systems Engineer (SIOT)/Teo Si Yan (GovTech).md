@@ -8,8 +8,7 @@ description: “Our projects either directly help citizens or businesses, or the
 third_nav_title: Systems Engineer (SIOT)
 image: /images/People/si-yan-l.jpg
 ---
-
-<img src="/images/si-yan-l.jpg" alt="Teo Si-Yan" style="width:400px;" align="left">
+<img src="/images/People/si-yan-l.jpg" alt="Teo Si-Yan" style="width:400px;" align="left">
 <br clear="left">
 
 **Teo Si-Yan**<br>
