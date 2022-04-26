@@ -8,9 +8,7 @@ description: “There is a role for everyone to contribute to the growth and
   organisations alike,” says Jin Chong.
 image: /images/People/ho-jin-chong-l.jpg
 ---
-
-
-<img src="/images/ho-jin-chong-l.jpg" alt="Ho Jin Chong" style="width:400px;" align="left">
+<img src="/images/People/ho-jin-chong-l.jpg" alt="Ho Jin Chong" style="width:400px;" align="left">
 <br clear="left">
 
 **Ho Jin Chong**<br>
