@@ -2,9 +2,9 @@ collections:
   job-profiles:
     output: true
     order:
-      - Cloud Administrator/Steven New (IRAS).md
       - Cloud Administrator/.keep
       - "Cloud Administrator/Job Profile: Cloud Administrator.md"
+      - Cloud Administrator/Steven New (IRAS).md
       - Computer Vision Engineer/.keep
       - "Computer Vision Engineer/Job Profile: Computer Vision Engineer.md"
       - Computer Vision Engineer/Chandrasehar (HTX).md
