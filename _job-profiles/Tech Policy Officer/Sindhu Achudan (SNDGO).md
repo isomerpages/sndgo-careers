@@ -7,9 +7,7 @@ description: “As I was interested in joining the public service and setting
   ‘transforming Singapore through technology’ was very appealing to me.”
 image: /images/People/sindhu-achudan-l.jpg
 ---
-
-
-<img src="/images/sindhu-achudan-l.jpg" alt="Sindhu Achudan" style="width:400px;" align="left">
+<img src="/images/People/sindhu-achudan-l.jpg" alt="Sindhu Achudan" style="width:400px;" align="left">
 <br clear="left">
 
 **Sindhu Achudan**<br>
