@@ -168,7 +168,7 @@ Select a job profile below:
 <img src="/images/People/ong_chee_siang_t.jpeg" alt="Ong Chee Siang" title="Tech Talent" /><br><em><strong>Ong Chee Siang</strong><br><span style="font-size:13px; line-height:14px">Lead System Engineer (Cloud), CPFB</span></em><br><br>“My current role requires me to explore Government Commercial Cloud (GCC) and support the moving of our CPFB systems to GCC, as well as introduce new cloud initiatives for the Board. This is something my colleagues and I have not done before. Being the first team to move to GCC was a challenge as we had to figure out how to build and operate systems in a totally new environment, which took many rounds of iterations.”<br><br></div> 
 	
 <div class="column-testimonial">
-<img src="/images/People/lynn_choi_t.jpeg" alt="Lynn Choi" title="Tech Talent" /><br><em><strong>Lynn Choi</strong><br><span style="font-size:13px; line-height:14px">Deputy Director, Cloud Infrastructure and Services,CSIT</span></em><br><br>
+<img src="/images/People/lynn_choi_t.jpeg" alt="Lynn Choi" title="Tech Talent" /><br><em><strong>Lynn Choi</strong><br><span style="font-size:13px; line-height:14px">Deputy Director, Cloud Infrastructure and Services, CSIT</span></em><br><br>
 “I have worked in several domains looking at Software Engineering, Big Data Platform and Cloud Infrastructure. The strong culture of providing regular job rotations broadened my technical knowledge and allowed me to better understand the challenges encountered in each domain. Because of this, I have built rapport and friendship with colleagues across these different domains. The close working dynamics and common mission creates a highly motivated environment that I enjoy working in.”<br><br></div> 
 
 <div class="column-testimonial">
@@ -197,7 +197,7 @@ Select a job profile below:
 	“My main responsibility is to configure and maintain a cloud environment that is secure to host applications. Knowing that my work contributes to the Smart Nation goal keeps me motivated to offer what I can to actualise the goals.”<br><br></div> 
 
 <div class="column-testimonial">
-<img src="/images/People/kenneth-yeo.png" alt="Kenneth Yeo" title="Tech Talent" /><br><em><strong>Kenneth Yeo, </strong><br><span style="font-size:13px; line-height:14px">Application Infrastructure, Government Infrastructure Group,  GovTech</span></em><br><br>
+<img src="/images/People/kenneth-yeo.png" alt="Kenneth Yeo" title="Tech Talent" /><br><em><strong>Kenneth Yeo</strong><br><span style="font-size:13px; line-height:14px">Application Infrastructure, Government Infrastructure Group,  GovTech</span></em><br><br>
 	“My work cuts across multiple ICT&SS domain areas that include app infrastructure and cybersecurity. I’m constantly provided with challenging tech problems to resolve and I enjoy every moment of it. Each challenge is a learning opportunity.”<br><br></div>   
 </div>
 
