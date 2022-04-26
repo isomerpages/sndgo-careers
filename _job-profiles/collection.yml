@@ -2,6 +2,7 @@ collections:
   job-profiles:
     output: true
     order:
+      - Infrastructure Engineer/.keep
       - "Cloud Administrator/Job Profile: Cloud Administrator.md"
       - Cloud Administrator/.keep
       - Computer Vision Engineer/.keep
