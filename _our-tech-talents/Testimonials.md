@@ -191,14 +191,13 @@ Select a job profile below:
 <div class="column-testimonial">
 <img src="/images/People/reuben-wong.png" alt="Reuben Wong" title="Tech Talent" /><br><em><strong>Reuben Wong</strong><br><span style="font-size:13px; line-height:14px">Senior Manager, Infrastructure Planning & Facilitation, IMDA</span></em><br><br>
 	“The digital infrastructure work we do provides the foundation for enabling Smart Nation related initiatives. Whether in data centres, 5G, or connectivity, these will remain critical pillars to enable all sorts of Smart Nation related applications.”<br><br></div> 
-	
-<div class="column-testimonial">
-<img src="/images/People/foo-zi-hui.png" alt="Foo Zi Hui" title="Tech Talent" /><br><em><strong>Foo Zi Hui</strong><br><span style="font-size:13px; line-height:14px">Infrastructure Engineer, Government Infrastructure Group, GovTech</span></em><br><br>
-	“My main responsibility is to configure and maintain a cloud environment that is secure to host applications. Knowing that my work contributes to the Smart Nation goal keeps me motivated to offer what I can to actualise the goals.”<br><br></div> 
-
+ 
 <div class="column-testimonial">
 <img src="/images/People/kenneth-yeo.png" alt="Kenneth Yeo" title="Tech Talent" /><br><em><strong>Kenneth Yeo</strong><br><span style="font-size:13px; line-height:14px">Application Infrastructure, Government Infrastructure Group,  GovTech</span></em><br><br>
 	“My work cuts across multiple ICT&SS domain areas that include app infrastructure and cybersecurity. I’m constantly provided with challenging tech problems to resolve and I enjoy every moment of it. Each challenge is a learning opportunity.”<br><br></div>   
+
+<div class="column-testimonial"></div>
+
 </div>
 
 [Return to top](#hear-from-our-tech-talents)
