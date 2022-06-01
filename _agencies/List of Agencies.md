@@ -17,6 +17,7 @@ image: /images/hero-banner.jpg
 <div class="column-agencies"><a href="https://www.ihis.com.sg/careers" target="new"><img src="/images/Logos/logo-ihis.png" alt="iHIS" title="iHIS"/></a></div>
 <div class="column-agencies"><a href="https://www.iras.gov.sg/irashome/Careers/" target="new"><img src="/images/Logos/logo-iras.png" alt="IRAS" title="IRAS"/></a></div>
 <div class="column-agencies"><a href="https://www.imda.gov.sg/Who-We-Are/careers" target="new"><img src="/images/Logos/logo-imda.png" alt="IMDA" title="IMDA"/></a></div>
+<div class="column-agencies"><a href="https://www.iras.gov.sg/irashome/Careers/" target="new"><img src="/images/Logos/logo-iras.png" alt="IRAS" title="IRAS"/></a></div>
 <div class="column-agencies"><a href="https://www.jtc.gov.sg/about-jtc/careers/join-us" target="new"><img src="/images/Logos/logo-jtc.png" alt="JTC" title="JTC"/></a></div>
 <div class="column-agencies"><a href="https://www.lta.gov.sg/content/ltagov/en/who_we_are/careers/join_lta.html" target="new"><img src="/images/Logos/logo-lta.png" alt="LTA" title="LTA"/></a></div>	
 <div class="column-agencies"><a href="https://www.sla.gov.sg/join-us/our-work-at-sla" target="new"><img src="/images/Logos/logo-sla.png" alt="SLA" title="SLA"/></a></div>
