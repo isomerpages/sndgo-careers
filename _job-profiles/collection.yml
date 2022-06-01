@@ -2,6 +2,7 @@ collections:
   job-profiles:
     output: true
     order:
+      - Geospatial & Systems Analyst/.keep
       - Cloud Administrator/.keep
       - "Cloud Administrator/Job Profile: Cloud Administrator.md"
       - Cloud Administrator/Steven New (IRAS).md
