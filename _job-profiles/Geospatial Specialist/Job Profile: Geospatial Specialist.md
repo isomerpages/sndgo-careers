@@ -58,6 +58,6 @@ Have ideas on how Singapore’s built environment should look like, and want to 
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
        <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Stephanie Khoo
 </span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Principal GeoSpatial Specialist, SLA</span><br><br>
-    <span style="font-size: 16px; line-height: 23px;">“Geospatial technologies have the ability to give a holistic view of the factors impacting liveability, allowing us to plan better for the public.”<br><br> [Find out more about <a href="/job-profiles/Cloud-Administrator/Steven-New">Stephanie Khoo</a>]</span>
+    <span style="font-size: 16px; line-height: 23px;">“Geospatial technologies have the ability to give a holistic view of the factors impacting liveability, allowing us to plan better for the public.”<br><br> [Find out more about <a href="/job-profiles/Geospatial-Specialist/Stephanie-Khoo">Stephanie Khoo</a>]</span>
       </div>
 </div>
