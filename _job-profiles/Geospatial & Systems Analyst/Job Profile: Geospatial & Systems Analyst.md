@@ -6,7 +6,6 @@ description: Shape Singapore’s urban environment through data-driven insights
 image: /images/hero-banner.jpg
 third_nav_title: Geospatial & Systems Analyst
 ---
-
 ![Geospatial & Systems Analyst](/images/Header/Header%20Geospatial.jpeg)
 
 # Geospatial & Systems Analyst
@@ -33,14 +32,23 @@ Map new advancements in geospatial analyses as you harness a wide range of techn
 * Experience with the following:
 
 	* Web standards and protocol including JavaScript, HTML and CSS
+	
 	* C#, Python or similar programming languages
+	
 	* Server-side Web frameworks – ASP.Net MVC, ASP.NET Core
+	
 	* Web 3D GIS frameworks – Esri Javascript, CesiumJS
+	
 	* 3D JavaScript frameworks – Three.js, Babylon.js
+	
 	* Database technologies – Postgresql
+	
 	* JavaScript frameworks - React, Redux
+	
 	* Web Application Programming Interface (API) development
+	
 	* Web Mapping frameworks & Geospatial libraries – Leaflet, Esri-Leaflet, Google Maps APIs, OneMap v2.0 APIs, TurfJS
+	
 	* OGC standards – WMS, WFS, WMTS
 
 
@@ -49,10 +57,9 @@ Map new advancements in geospatial analyses as you harness a wide range of techn
 <div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
         
 <div class="row" style="background-color: #f3f3f3;">
-      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="https://techcareers.smartnation.gov.sg/images/People/Stephanie-Khoo-S.jpeg" alt="Steven New"></div>
+      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/People/Angelia-Lau-S.jpeg" alt="Angelia Lau"></div>
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
-       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Stephanie Khoo
-</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Principal GeoSpatial Specialist, SLA</span><br><br>
-    <span style="font-size: 16px; line-height: 23px;">“Geospatial technologies have the ability to give a holistic view of the factors impacting liveability, allowing us to plan better for the public.”<br><br> [Find out more about <a href="/job-profiles/Cloud-Administrator/Steven-New">Stephanie Khoo</a>]</span>
+       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Angelia Lau</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Systems Analysts, URA</span><br><br>
+    <span style="font-size: 16px; line-height: 23px;">“The complex, multidimensional nature of urban analytics empowers us to impactfully take action and set directions to plan and shape Singapore."<br><br> [Find out more about <a href="/job-profiles/Cloud-Administrator/Steven-New">Angelia Lau</a>]</span>
       </div>
 </div>
