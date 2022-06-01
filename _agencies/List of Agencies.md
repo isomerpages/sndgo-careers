@@ -4,7 +4,7 @@ permalink: /agencies
 description: Discover cybersecurity career opportunities in these agencies.
 image: /images/hero-banner.jpg
 ---
-# Discover cybersecurity career opportunities in these agencies...
+# Discover tech career opportunities in these agencies...
 
 <div class="row-agencies">
 <div class="column-agencies"><a href="https://careers.a-star.edu.sg/" target="new"><img src="/images/Logos/logo-astar.png" alt="ASTAR" title="ASTAR"/></a></div>
