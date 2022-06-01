@@ -157,7 +157,7 @@ Select a job profile below:
 <br>“I plan and devise strategies to drive the growing adoption of geospatial technology by the Government, industries, and citizens. I also promote Singapore’s geospatial efforts for new collaboration opportunities by building strong network alliances with local and foreign stakeholders.”<br><br></div>
 </div>
 
-<div class="row-testimonial">
+<div class="row-testimonial" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px">
 <div class="column-testimonial">
 <img src="/images/People/Grace-Xue-T.jpeg" alt="Grace Xue" title="Tech Talent" /><br><em><strong>Grace Xue</strong><br><span style="font-size:13px; line-height:14px">Executive Manager, Geological and Geospatial Development Department, BCA 
 	</span></em><br><br>“My job revolves around the use of Geographic Information Systems (GIS) to process building data and presenting them on a map. In response to government’s move towards a smart nation, BCA uses GIS to create an internal web-based platform, Building Geospatial Information System (BGIS), to support BCA’s functions. I am proud to be part of a team involved in preparing the user design requirements and overseeing the development of BGIS.” <br><br></div>
@@ -172,7 +172,7 @@ Select a job profile below:
 <br>“As a geospatial specialist, I fuse GIS and data analytics to provide data-driven insights for industrial land-use planning. It enabled better decision-making, higher productivity with automation and improved engagement. These motivated me to conceptualise more innovative geospatial solutions that will further impact, streamline and transform JTC’s urban planning process.”<br><br></div>
 </div>
 
-<div class="row-testimonial">
+<div class="row-testimonial" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px">
 <div class="column-testimonial">
 <img src="/images/People/Hazel-Ang-T.jpeg" alt="Hazel Ang" title="Tech Talent" /><br><em><strong>Hazel Ang</strong><br><span style="font-size:13px; line-height:14px">Manager, Imagery Support Group, SAF C4I, SAF
 </span></em><br><br>“If you do what you love, you’ll never work a day in your life. My SAF career combines both my passions - geospatial technologies and the defence of Singapore. I leverage my problem-solving skills and contribute to national security by conducting geoanalysis using state-of-the-art technologies. This includes using Artificial Intelligence and Machine Learning to do light detection and ranging (LiDAR), geospatial and spectral studies. My work supports the SAF’s full spectrum of operations and the Whole-of-Government in keeping Singapore safe.”<br><br></div>
