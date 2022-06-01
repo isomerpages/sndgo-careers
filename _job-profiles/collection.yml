@@ -2,7 +2,6 @@ collections:
   job-profiles:
     output: true
     order:
-      - Geospatial & Systems Analyst/.keep
       - Cloud Administrator/.keep
       - "Cloud Administrator/Job Profile: Cloud Administrator.md"
       - Cloud Administrator/Steven New (IRAS).md
@@ -19,6 +18,7 @@ collections:
       - Infrastructure Engineer/.keep
       - "Infrastructure Engineer/Job Profile: Infrastructure Engineer.md"
       - Infrastructure Engineer/Abdillah Ali (GovTech).md
+      - Geospatial & Systems Analyst/.keep
       - Simulated Attack Specialist/.keep
       - "Simulated Attack Specialist/Job Profile: Simulated Attack Specialist.md"
       - Simulated Attack Specialist/Loke Hui Yi (GovTech).md
