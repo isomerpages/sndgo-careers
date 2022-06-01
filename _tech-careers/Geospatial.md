@@ -44,6 +44,8 @@ Discover geospatial career opportunities in these agencies.
 	<div class="column-agencies"><a href="https://go.gov.sg/GovTechCareers" target="new"><img src="/images/Logos/logo-govtech.png" alt="GovTech" title="GovTech"/></a></div>
 <div class="column-agencies"><a href="https://www.hdb.gov.sg/cs/infoweb/about-us/careers/career-opportunities" target="new"><img src="/images/Logos/logo-hdb.png" alt="HDB" title="HDB"/></a></div>
 <div class="column-agencies"><a href="https://www.htx.gov.sg/join-us/careers" target="new"><img src="/images/Logos/logo-htx.png" alt="HTX" title="HTX"/></a></div>
+<div class="column-agencies"><a href="https://www.jtc.gov.sg/about-jtc/careers/join-us" target="new"><img src="/images/Logos/logo-jtc.png" alt="JTC" title="JTC"/></a></div>
 <div class="column-agencies"><a href="https://www.lta.gov.sg/content/ltagov/en/who_we_are/careers/join_lta.html" target="new"><img src="/images/Logos/logo-lta.png" alt="LTA" title="LTA"/></a></div>
 <div class="column-agencies"><a href="https://www.sla.gov.sg/join-us/our-work-at-sla" target="new"><img src="/images/Logos/logo-sla.png" alt="SLA" title="SLA"/></a></div>
+<div class="column-agencies"><a href="https://www.ura.gov.sg/Corporate/Careers/Career-with-URA" target="new"><img src="/images/Logos/logo-ura.png" alt="URA" title="URA"/></a></div>
 </div>
