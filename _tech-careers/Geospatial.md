@@ -21,16 +21,28 @@ The deep expertise you develop will drive Singapore’s digital transformation i
 
 <div class="row-testimonial">
 <div class="column-testimonial">
-<img src="/images/People/lee-mou-jian.png" alt="Lee Mou Jian" title="Tech Talent" /><br><em><strong>Lee Mou Jian</strong><br><span style="font-size:13px; line-height:14px">Assistant Manager, Geospatial & Data Division, SLA
-</span></em><br><br>“My interest in the geospatial sector is driven by its position at the forefront of Singapore’s Smart Nation efforts. I drive strategy and implement policies for government officers to manage and share location data effectively. This helps agencies make better decisions and carry out operations with better precision, in areas such as land use, transportation, and healthcare.”<br><br></div>
+<img src="/images/People/Grace-Xue-T.jpeg" alt="Grace Xue" title="Tech Talent" /><br><em><strong>Grace Xue</strong><br><span style="font-size:13px; line-height:14px">Executive Manager, Geological and Geospatial Development Department, BCA 
+	</span></em><br><br>“My job revolves around the use of Geographic Information Systems (GIS) to process building data and presenting them on a map. In response to government’s move towards a smart nation, BCA uses GIS to create an internal web-based platform, Building Geospatial Information System (BGIS), to support BCA’s functions. I am proud to be part of a team involved in preparing the user design requirements and overseeing the development of BGIS.” <br><br></div>
 	
 <div class="column-testimonial">
-<img src="/images/People/abhishek-tandon.png" alt="Abhishek Tandon" title="Tech Talent" /><br><em><strong>Abhishek Tandon</strong><br><span style="font-size:13px; line-height:14px">Deputy Director, Geospatial Development, National Parks Board (NParks)</span></em><br>
-<br>“As lead Geospatial specialist, I conceptualise & develop innovative geo applications using machine learning & deep learning algorithms, LiDAR point cloud, satellite images, 2D and 3D data to manage our diverse urban greenery which helps to improve citizen’s quality of life. I am proud to be part of futuristic Modelling and Simulation (M&S) practice which is transforming decision making processes using evidence-based systems and helping to achieve our Smart Nation goal.”<br><br></div>
+<img src="/images/People/Ishpal-Singh-Gill-T.jpeg" alt="Ishpal Singh Gill" title="Tech Talent" /><br><em><strong>Ishpal Singh Gill</strong><br><span style="font-size:13px; line-height:14px">Senior Systems Analyst, Business Information Systems Department, HDB</span></em><br>
+<br>“Leading the Corporate & Geospatial Data Team, we drive HDB’s digitalisation of corporate and geospatial data and initiatives as we move towards being an organization that is “Digital to the Core”. We support the planning and management of HDB towns, with the aim of providing affordable, quality housing and a great living environment where communities thrive.”<br><br></div>
 	
 <div class="column-testimonial">
-<img src="/images/People/roy-yuen.png" alt="Roy Yuen Ze Min" title="Tech Talent" /><br><em><strong>Roy Yuen Ze Min</strong><br><span style="font-size:13px; line-height:14px">Assistant Manager, Geospatial & Data Division, SLA</span></em><br>
-<br>“I plan and devise strategies to drive the growing adoption of geospatial technology by the Government, industries, and citizens. I also promote Singapore’s geospatial efforts for new collaboration opportunities by building strong network alliances with local and foreign stakeholders.”<br><br></div>
+<img src="/images/People/See-Shan-Yi-T.jpeg" alt="See Shan Yi" title="Tech Talent" /><br><em><strong>See Shan Yi</strong><br><span style="font-size:13px; line-height:14px">Geospatial Analyst, Land Planning and Redevelopment Group, JTC
+</span></em><br>
+<br>“As a geospatial specialist, I fuse GIS and data analytics to provide data-driven insights for industrial land-use planning. It enabled better decision-making, higher productivity with automation and improved engagement. These motivated me to conceptualise more innovative geospatial solutions that will further impact, streamline and transform JTC’s urban planning process.”<br><br></div>
+</div>
+
+<div class="row-testimonial">
+<div class="column-testimonial">
+<img src="/images/People/Hazel-Ang-T.jpeg" alt="Hazel Ang" title="Tech Talent" /><br><em><strong>Hazel Ang</strong><br><span style="font-size:13px; line-height:14px">Manager, Imagery Support Group, SAF C4I, SAF
+</span></em><br><br>“If you do what you love, you’ll never work a day in your life. My SAF career combines both my passions - geospatial technologies and the defence of Singapore. I leverage my problem-solving skills and contribute to national security by conducting geoanalysis using state-of-the-art technologies. This includes using Artificial Intelligence and Machine Learning to do light detection and ranging (LiDAR), geospatial and spectral studies. My work supports the SAF’s full spectrum of operations and the Whole-of-Government in keeping Singapore safe.”<br><br></div>
+	
+<div class="column-testimonial"></div>
+
+<div class="column-testimonial"></div>
+
 </div>
 
 **Click on the link to [read more testimonials](/testimonials).**
@@ -44,6 +56,8 @@ Discover geospatial career opportunities in these agencies.
 	<div class="column-agencies"><a href="https://go.gov.sg/GovTechCareers" target="new"><img src="/images/Logos/logo-govtech.png" alt="GovTech" title="GovTech"/></a></div>
 <div class="column-agencies"><a href="https://www.hdb.gov.sg/cs/infoweb/about-us/careers/career-opportunities" target="new"><img src="/images/Logos/logo-hdb.png" alt="HDB" title="HDB"/></a></div>
 <div class="column-agencies"><a href="https://www.htx.gov.sg/join-us/careers" target="new"><img src="/images/Logos/logo-htx.png" alt="HTX" title="HTX"/></a></div>
+<div class="column-agencies"><a href="https://www.jtc.gov.sg/about-jtc/careers/join-us" target="new"><img src="/images/Logos/logo-jtc.png" alt="JTC" title="JTC"/></a></div>
 <div class="column-agencies"><a href="https://www.lta.gov.sg/content/ltagov/en/who_we_are/careers/join_lta.html" target="new"><img src="/images/Logos/logo-lta.png" alt="LTA" title="LTA"/></a></div>
 <div class="column-agencies"><a href="https://www.sla.gov.sg/join-us/our-work-at-sla" target="new"><img src="/images/Logos/logo-sla.png" alt="SLA" title="SLA"/></a></div>
+<div class="column-agencies"><a href="https://www.ura.gov.sg/Corporate/Careers/Career-with-URA" target="new"><img src="/images/Logos/logo-ura.png" alt="URA" title="URA"/></a></div>
 </div>
