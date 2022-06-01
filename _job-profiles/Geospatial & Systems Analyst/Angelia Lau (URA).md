@@ -30,7 +30,7 @@ Angelia’s interest in geospatial analytics stemmed from her curiosity in how p
 
 “I read about a reported incident overseas where many children allegedly fell sick or passed away from playing near and falling into a river contaminated with toxic chemical waste from neighbouring factories, some of which may even have been producing everyday goods for the global market,” she elaborates.
 
-> “It struck me how interconnected the world is. The complex, multidimensional nature of our actions within society drew me into the realm of urban analytics,” she added. 
+It struck me how interconnected the world is. The complex, multidimensional nature of our actions within society drew me into the realm of urban analytics,” she added. 
 
 Today, she works on enhancing ePlanner, a geospatial Web application that empowers Singapore’s urban planners with the tools and data needed to better shape our urban environment. Some of the questions it could potentially help answer include whether a resident has a clinic or library within 20 minutes of public transport commute, or if there’s a park within a 10-minute cycle away.  
 
