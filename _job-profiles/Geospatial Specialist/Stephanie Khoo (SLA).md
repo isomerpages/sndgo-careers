@@ -41,4 +41,4 @@ On a personal level, Stephanie hopes the work she does would go towards making S
 
 Ultimately, she is appreciative of being in a field that challenges her daily to pick up new skills and break new ground. 
 
-“There is never a dull moment,” says Stephanie. 
+“There is never a dull moment,” says Stephanie.
