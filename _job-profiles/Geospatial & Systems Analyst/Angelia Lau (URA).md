@@ -10,7 +10,7 @@ third_nav_title: Geospatial & Systems Analyst
 <br clear="left">
 
 **Angelia Lau**<br>
-Systems Analysts, [URA](https://www.ura.gov.sg/)
+Systems Analyst, [URA](https://www.ura.gov.sg/)
 
 # Reshaping Urban Singapore, With Data
 
