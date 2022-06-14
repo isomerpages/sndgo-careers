@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Government of Singapore
-description: Careers at Smart Nation Singapore
+description: Career opportunities in the Government’s ICT&SS sector.
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -73,3 +73,4 @@ sections:
         the way we live, work and play.
       button: Find out more
 ---
+
