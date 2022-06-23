@@ -2,7 +2,7 @@
 layout: homepage
 title: Government of Singapore
 description: Career opportunities in the Government’s ICT&SS sector.
-image: /images/isomer-logo.svg
+image: /images/hero-banner.jpg
 permalink: /
 notification: ""
 sections:
