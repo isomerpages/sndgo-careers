@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Government of Singapore
-description: Career opportunities in the Government’s ICT&SS sector.
+title: Careers in the Government’s ICT&SS sector
+description: Champion tech for public good.
 image: /images/hero-banner.jpg
 permalink: /
 notification: ""
@@ -73,4 +73,6 @@ sections:
         the way we live, work and play.
       button: Find out more
 ---
+
+
 
