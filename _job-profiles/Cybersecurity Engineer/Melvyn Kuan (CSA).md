@@ -15,4 +15,3 @@ Cybersecurity Engineering Centre, [CSA](https://www.csa.gov.sg/)
 
 
 # Setting the Baseline through Standards
-
