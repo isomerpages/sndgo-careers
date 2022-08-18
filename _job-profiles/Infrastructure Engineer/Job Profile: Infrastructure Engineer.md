@@ -45,7 +45,7 @@ Be part of a team scaling bold new heights of digital transformation. As an Infr
 <div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
         
 <div class="row" style="background-color: #f3f3f3;">
-      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/People/abdillah_ali.jpeg" alt="Abdillah Ali"></div>
+      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="https://techcareers.smartnation.gov.sg/images/people/abdillah_ali.jpeg" alt="Abdillah Ali"></div>
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
        <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Abdillah Ali</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Infrastructure Engineer, GovTech</span><br><br>
     <span style="font-size: 16px; line-height: 23px;">“I want to continuously learn, unlearn and re-learn technologies that can achieve better user experience and enable all public officers to perform their roles and play their parts in serving public good."<br><br> [Find out more about <a href="/job-profiles/Infrastructure-Engineer/Abdillah-Ali">Abdillah Ali</a>]</span>
