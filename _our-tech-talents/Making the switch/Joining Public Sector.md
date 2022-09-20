@@ -43,4 +43,4 @@ HDB’s Senior Software Engineer, Joe Tan Chin Chong, and URA’s Senior Data Sc
 
 Christopher Kim, Lead Architect of IT Infrastructure in CSIT, shares his experience on [taking the leap](/making-the-switch-from-private-sector-christopher-kim).
 
-<div style="width:33%"> <img src="/images/People/christopher-kim.jpeg"></div>
+<div style="width:50%"> <img src="/images/People/christopher-kim-l.jpeg"></div>
