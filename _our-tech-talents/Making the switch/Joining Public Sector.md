@@ -6,7 +6,7 @@ third_nav_title: Making the switch
 ---
 # Why a tech career in the public sector may surprise you
 
-What makes an engineer and a data scientist in the public sector tick? HDB’s Senior Software Engineer, Joe Tan Chin Chong, and URA’s Senior Data Scientist, Dr Xie Litian, tell us what they find fulfilling about their roles.
+HDB’s Senior Software Engineer, Joe Tan Chin Chong, and URA’s Senior Data Scientist, Dr Xie Litian, tell us what they find fulfilling about their roles.
 
 <div style="max-width: 1280px">
     <div
@@ -44,6 +44,3 @@ What makes an engineer and a data scientist in the public sector tick? HDB’s S
 Christopher Kim, Lead Architect of IT Infrastructure in CSIT, shares his experience on [taking the leap](/making-the-switch-from-private-sector-christopher-kim).
 
 <div style="width:50%"> <img src="/images/People/christopher-kim.jpeg"></div>
-
-
-
