@@ -12,29 +12,16 @@ Lead Architect, IT Infrastructure, [CSIT](https://www.csit.gov.sg/)
 
 # Making the switch from private sector to government
 
-From young, Steven was fascinated with how things worked. Whenever he got his hands on things like toys and electronic devices, he would take these apart and reassemble them – just to understand how the parts were put together to create something new. 
+What are my career prospects as a tech professional in a government organisation? Is the working culture very different? Will I be able to develop my technical skills? These are common questions that come to mind for those who are considering switching from the private sector to join the Government Information and Communications Technology & Smart Systems (ICT&SS) sector. Christopher Kim is one of many that made the switch, and he has not regretted taking that leap of faith to join the Centre for Strategic Infocomm Technologies (CSIT).   
+   
+After working in private tech companies for 14 years, Christopher sought opportunities where he could apply his expertise in more meaningful ways. So, when CSIT offered him the chance to work on strategic projects that will enhance our nation’s cybersecurity, he made the switch.   
+   
+To his surprise, switching to the government sector was not as daunting as he had thought as long as he approached the changes with a positive mindset. The open culture in CSIT also helped ease Christopher into his role. He was quickly entrusted to make decisions, and his past experience was deeply valued by his team.    
+   
+> “Having trust in each individual’s ability and being open to new ideas are the essence of a strong team, and I am glad to be in an organisation that supports this mindset.” Christopher shared.
 
-Steven’s curiosity didn’t abate, even when he embarked in his tertiary studies in Computer Engineering. As he witnessed how the Information Age was taking shape and the emergence of the Internet in school, Steven’s interest grew into an excitement for all things IT. “Pursuing a tech-related career   was thus a natural choice.”, says the 40-year-old. 
+Today, Christopher is living his dream as the Lead Architect of IT Infrastructure in CSIT. He is at the forefront of technology and innovation, always on the lookout for new ways of doing things that were previously unthinkable. He guides technical operations and has a key role in supporting CSIT’s missions such as cyber defence, counter-terrorism, and counter hostile information operations.   
 
-Today, the Senior Infocomm Specialist at the Inland Revenue Authority of Singapore (IRAS) works as a Cloud Administrator, ensuring the smooth delivery of cloud infrastructure components for IRAS’ property tax e-stamping feature on the Inland Revenue Interactive Network (IRIN) – the main infocomm technology (ICT) system underpinning Singapore’s tax administration and revenue collection service. 
+Christopher enjoys working with the latest technologies and challenges that CSIT offers. The best part of his job, though, is the smiles of gratitude he receives from satisfied system users.  
 
-In his day-to-day role, he manages the costs and resources needed to build a resilient cloud infrastructure on IRIN, supporting functionalities crucial for the agency’s work. 
-
-> “I would like to think that our work would greatly aid IRAS’ business users such as frontline tax officers in providing a safe, reliable and convenient experience when accessing sensitive tax information,” Steven says. 
-
-### Embracing new experiences
-
-Beyond an exciting job that allows him to challenge himself and explore new areas in his field, Steven also appreciates the family-friendly environment on offer at IRAS. In fact, it was one of the key factors that attracted the father-of-one to join the agency. 
-
-“I appreciated that IRAS had a family-friendly culture which provided great work-life balance and flexibility, enabling me to work and spend quality time with my 9-year-old kid,” he says. 
-Furthermore, there were many opportunities to broaden his work experience beyond his role. Ever the passionate learner, Steven stepped up to volunteer to as a case officer for the Rental Support Scheme disbursement efforts in 2021, assisting taxpayers and having to pick up property-related lingo quickly.
-
-When asked if there was a memorable moment while volunteering, Steven recounts an elderly taxpayer who had trouble navigating the application process.
-
-“As she was not computer literate, she had faced numerous issues with her application and had to seek the help of her son to raise an enquiry,” he says. “I was able to guide her through the process in Mandarin, following up with her regularly through the document submission steps and claims process.” 
-
-In the end, Steven says he was heartened to successfully assist in helping this lady claim her rental support payouts. 
-
-Ultimately, he recognises that his work at IRAS goes beyond the technical aspects of digital transformation. It is also about working with others – including taxpayers – to develop and refine solutions that benefit the greater community. 
-
-> “I believe the notion of a Smart Nation is a team, rather than individual, effort.”
+As online threats become increasingly sophisticated, Christopher’s role in protecting Singapore from the highly advanced and malicious threat actors has become increasingly important. He is convinced, now more than ever, that he had made the right decision to switch and join the government ICT&SS sector to be part of this important mission.
