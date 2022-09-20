@@ -2,4 +2,5 @@ collections:
   our-tech-talents:
     output: true
     order:
+      - Making the switch from private sector to government.md
       - Testimonials.md
