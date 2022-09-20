@@ -2,5 +2,6 @@ collections:
   our-tech-talents:
     output: true
     order:
+      - Making the switch/.keep
       - Christopher Kim (CSIT).md
       - Testimonials.md
