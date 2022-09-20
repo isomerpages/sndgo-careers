@@ -2,5 +2,5 @@ collections:
   our-tech-talents:
     output: true
     order:
-      - Christopher Kim.md
+      - Christopher Kim (CSIT).md
       - Testimonials.md
