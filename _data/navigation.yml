@@ -5,7 +5,7 @@ links:
   - title: Job Profiles
     collection: job-profiles
   - title: Testimonials
-    url: /testimonials
+    collection: our-tech-talents
   - title: Agencies
     url: /agencies
     sublinks:

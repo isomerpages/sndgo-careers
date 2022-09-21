@@ -2,4 +2,7 @@ collections:
   our-tech-talents:
     output: true
     order:
-      - Testimonials.md
+      - Making the switch/Joining Public Sector.md
+      - Making the switch/Christopher Kim (CSIT).md
+      - Making the switch/.keep
+      - Life in public service.md
