@@ -1,6 +1,6 @@
 ---
 title: List of Agencies
-permalink: /agencies
+permalink: /agencies/
 description: Discover cybersecurity career opportunities in these agencies.
 image: /images/hero-banner.jpg
 ---
@@ -22,4 +22,5 @@ image: /images/hero-banner.jpg
 <div class="column-agencies"><a href="https://www.lta.gov.sg/content/ltagov/en/who_we_are/careers/join_lta.html" target="new"><img src="/images/Logos/logo-lta.png" alt="LTA" title="LTA"/></a></div>	
 <div class="column-agencies"><a href="https://www.sla.gov.sg/join-us/our-work-at-sla" target="new"><img src="/images/Logos/logo-sla.png" alt="SLA" title="SLA"/></a></div>
 <div class="column-agencies"><a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=Smart%20Nation%20and%20Digital%20Government%20Office" target="new"><img src="/images/Logos/logo-sndgo.png" alt="SNDGO" title="SNDGO"/></a></div>
+<div class="column-agencies"><a href="https://www.stb.gov.sg/content/stb/en/careers/overview.html" target="new"><img src="/images/Logos/logo-stb.png" alt="STB" title="STB"/></a></div>
 <div class="column-agencies"><a href="https://www.ura.gov.sg/Corporate/Careers/Career-with-URA" target="new"><img src="/images/Logos/logo-ura.png" alt="URA" title="URA"/></a></div>
