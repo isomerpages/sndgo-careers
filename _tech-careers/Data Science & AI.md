@@ -31,6 +31,8 @@ Discover endless possibilities with data science and AI, from informing policy a
 <img src="/images/People/huang-shisheng.png" alt="Huang Shisheng" title="Tech Talent" /><br><em><strong>Huang Shisheng </strong><br><span style="font-size:13px; line-height:14px">Head, Risk Profiling Analytics, Data Science & AI Centre of Expertise, HTX</span></em><br><br>
 “I've always been interested in understanding the underlying numbers and relations between entities. The opportunity to lead a team that looks at data-related problems in the area of risk profiling and management within the safety and security domain of Singapore is a big pull factor for me.”<br><br></div>
 
+</div>
+
 <div class="row-testimonial">
 	
 <div class="column-testimonial">
@@ -43,6 +45,8 @@ Discover endless possibilities with data science and AI, from informing policy a
 <div class="column-testimonial">
 <img src="/images/People/Yifei-Zheng-T.jpeg" alt="Zheng Yifei" title="Tech Talent" /><br><em><strong>Zheng Yifei</strong><br><span style="font-size:13px; line-height:14px">Manager, Data Science, STB</span></em><br><br>
 “As a Data Scientist, I harness data from diverse sources, transforming them into accessible and invaluable reports and dashboards. Adopting a bevy of machine learning and data visualisation techniques, allows me to uncover meaningful insights behind visitors’ behaviour and develop data-driven products crucial in shaping the ever-changing landscape of Singapore’s tourism sector.<br><br></div>
+
+</div>
 
 **Click on the link to [read more testimonials](/testimonials).**
 
