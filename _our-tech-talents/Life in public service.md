@@ -4,8 +4,6 @@ permalink: /testimonials/
 description: " Hear from our tech talents!"
 image: /images/hero-banner.jpg
 ---
-
-
 # Hear from our tech talents
 Select a job profile below:
 
@@ -135,11 +133,30 @@ Select a job profile below:
 <img src="/images/People/huang-shisheng.png" alt="Huang Shisheng" title="Tech Talent" /><br><em><strong>Huang Shisheng </strong><br><span style="font-size:13px; line-height:14px">Head, Risk Profiling Analytics, Data Science & AI Centre of Expertise, HTX</span></em><br><br>
 “I've always been interested in understanding the underlying numbers and relations between entities. The opportunity to lead a team that looks at data-related problems in the area of risk profiling and management within the safety and security domain of Singapore is a big pull factor for me.”<br><br></div>
 	
-<div class="column-testimonial"></div>
+<div class="column-testimonial">
+<img src="/images/People/Abigail-Soh-T.jpeg" alt="Abigail Soh" title="Tech Talent" /><br><em><strong>Abigail Soh</strong><br><span style="font-size:13px; line-height:14px">Senior Manager, Analytics & Insights, STB</span></em><br><br>“My work leverages on data analytics and visualisation to generate fresh insights on visitor expenditure, which in turn enables data-driven decisions by STB and Industry. It has been a rewarding journey being able to drive and witness several key shifts including pioneering a new statistical software, and enhancing the Tourism Receipts computation framework following the onset of the global pandemic in 2020.”<br><br></div>	
 
-<div class="column-testimonial"></div>
+<div class="column-testimonial">
+<img src="/images/People/Jason-Koh-T.jpeg" alt="Jason Koh" title="Tech Talent" /><br><em><strong>Jason Koh</strong><br><span style="font-size:13px; line-height:14px">Lead Product Manager, Visitor Experience Technology, STB</span></em><br><br>
+“At STB, we are Passion Made Possible! I enjoy working on various digital initiatives for tourism. I develop innovative and compelling digital tourism products and services to empower tourism businesses to enhance their offerings, and expand their global reach, and deliver quality visitor experiences.”<br><br></div>
 
 </div>
+
+<div class="row-testimonial" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px">
+
+<div class="column-testimonial">
+<img src="/images/People/Yifei-Zheng-T.jpeg" alt="Zheng Yifei" title="Tech Talent" /><br><em><strong>Zheng Yifei</strong><br><span style="font-size:13px; line-height:14px">Manager, Data Science, STB</span></em><br><br>
+“As a Data Scientist, I harness data from diverse sources, transforming them into accessible and invaluable reports and dashboards. Adopting a bevy of machine learning and data visualisation techniques, allows me to uncover meaningful insights behind visitors’ behaviour and develop data-driven products crucial in shaping the ever-changing landscape of Singapore’s tourism sector.<br><br></div>
+	
+<div class="column-testimonial"></div>
+	
+<div class="column-testimonial"></div>
+	
+</div>
+	
+
+	
+
 
 [Return to top](#hear-from-our-tech-talents)
 
