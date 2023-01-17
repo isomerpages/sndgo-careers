@@ -1,6 +1,6 @@
 ---
 title: Steven New (IRAS)
-permalink: /job-profiles/Cloud-Administrator/Steven-New
+permalink: /job-profiles/Cloud-Administrator/Steven-New/
 description: “I would like to think that our work would greatly aid IRAS’
   business users such as frontline tax officers in providing a safe, reliable
   and convenient experience when accessing sensitive tax information.”
@@ -17,7 +17,7 @@ Senior Infocomm Specialist, [IRAS](https://www.iras.gov.sg/)
 
 From young, Steven was fascinated with how things worked. Whenever he got his hands on things like toys and electronic devices, he would take these apart and reassemble them – just to understand how the parts were put together to create something new. 
 
-Steven’s curiosity didn’t abate, even when he embarked in his tertiary studies in Computer Engineering. As he witnessed how the Information Age was taking shape and the emergence of the Internet in school, Steven’s interest grew into an excitement for all things IT. “Pursuing a tech-related career   was thus a natural choice.”, says the 40-year-old. 
+Steven’s curiosity didn’t abate, even when he embarked in his tertiary studies in Computer Engineering. As he witnessed how the Information Age was taking shape and the emergence of the Internet in school, Steven’s interest grew into an excitement for all things IT. “Pursuing a tech-related career was thus a natural choice”, says the 40-year-old. 
 
 Today, the Senior Infocomm Specialist at the Inland Revenue Authority of Singapore (IRAS) works as a Cloud Administrator, ensuring the smooth delivery of cloud infrastructure components for IRAS’ property tax e-stamping feature on the Inland Revenue Interactive Network (IRIN) – the main infocomm technology (ICT) system underpinning Singapore’s tax administration and revenue collection service. 
 
