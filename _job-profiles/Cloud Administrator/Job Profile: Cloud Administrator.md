@@ -1,6 +1,6 @@
 ---
 title: "Job Profile: Cloud Administrator"
-permalink: /job-profiles/Cloud-Administrator/overview
+permalink: /job-profiles/Cloud-Administrator/overview/
 description: Join us as a Cloud Administrator to explore new frontiers of tech
   as you architect, plan, and manage our cloud environments.
 image: /images/hero-banner.jpg
@@ -49,6 +49,6 @@ Bring our Smart Nation projects to a new level by harnessing the vast potential 
       <div class="column" style="padding: 10px 0px 30px 20px;"><img src="https://techcareers.smartnation.gov.sg/images/People/steven_new.jpeg" alt="Steven New"></div>
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
        <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Steven New</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Senior Infocomm Specialist, IRAS</span><br><br>
-    <span style="font-size: 16px; line-height: 23px;">“Knowing that what we design will lead to a safer and more secure environment for all residents in Singapore, including my loved ones, is a key factor that motivates me in my work.”<br><br> [Find out more about <a href="/job-profiles/Cloud-Administrator/Steven-New">Steven New</a>]</span>
+    <span style="font-size: 16px; line-height: 23px;">“I would like to think that our work would greatly aid IRAS’ business users such as frontline tax officers in providing a safe, reliable and convenient experience when accessing sensitive tax information.”<br><br> [Find out more about <a href="/job-profiles/Cloud-Administrator/Steven-New">Steven New</a>]</span>
       </div>
 </div>
