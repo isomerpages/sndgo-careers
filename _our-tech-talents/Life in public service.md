@@ -102,6 +102,8 @@ Select a job profile below:
 <img src="/images/People/ishita-mittal.jpg" alt="Ishita Mittal" title="Tech Talent" /><br><em><strong>Ishita Mittal</strong><br><span style="font-size:13px; line-height:14px">Senior Systems Engineer, Cyber Defence Group, IHiS</span></em><br><br>
 “Working at IHiS made me realise how big a role IT and my team play in the healthcare industry. Cybersecurity is a big challenge. We are entrusted with a critical task - to protect our organisation, public healthcare institutes (PHIs) and patient data from getting compromised by hackers who are getting smarter with each passing day.”<br><br></div>
 
+</div>
+
 [Return to top](#hear-from-our-tech-talents)
 
 ## Data Science & AI
@@ -156,9 +158,6 @@ Select a job profile below:
 	
 </div>
 	
-
-	
-
 
 [Return to top](#hear-from-our-tech-talents)
 
