@@ -65,8 +65,8 @@ Select a job profile below:
 
 <div class="row-testimonial" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px">
 <div class="column-testimonial">
-<img src="/images/People/ishita-mittal.jpg" alt="Ishita Mittal" title="Tech Talent" /><br><em><strong>Ishita Mittal</strong><br><span style="font-size:13px; line-height:14px">Senior Systems Engineer, Cyber Defence Group, IHiS</span></em><br><br>
-“Working at IHiS made me realise how big a role IT and my team play in the healthcare industry. Cybersecurity is a big challenge. We are entrusted with a critical task - to protect our organisation, public healthcare institutes (PHIs) and patient data from getting compromised by hackers who are getting smarter with each passing day.”<br><br></div>
+<img src="/images/People/Thomas_Wong_T.jpg" alt="Thomas Wong" title="Tech Talent" /><br><em><strong>Thomas Wong</strong><br><span style="font-size:13px; line-height:14px">Senior Systems Cybersecurity Analyst, Cyber Defence Group, IHiS</span></em><br><br>
+“My team and I are very much motivated by the fact that we are helping to ensure the common systems under our mandate, especially Critical Information Infrastructure (CII) Systems, are well protected. I can say that at IHiS, we stay true to our mission of making HealthTech better by integrating intelligent, highly-resilient and cost-effective technologies with process and people. IHiS is the place to be for HealthTech.”<br><br></div>
 
 <div class="column-testimonial">
 <img src="/images/People/jonathan-samraj.png" alt="Jonathan Samraj" title="Tech Talent" /><br><em><strong>Jonathan Samraj</strong><br><span style="font-size:13px; line-height:14px">Senior Manager, Telecom Cybersecurity Engineer & Specialist Office, IMDA</span></em><br><br>
@@ -98,7 +98,9 @@ Select a job profile below:
 <img src="/images/People/kok-kiat-han.png" alt="Kok Kiat Han" title="Tech Talent" /><br><em><strong>Kok Kiat Han</strong><br><span style="font-size:13px; line-height:14px">Cyber Threat Intelligence Analyst, National Cyber Threat Monitoring Centre, CSA</span></em><br><br>
  “Knowing I am part of the team that helps Singapore stay safe in cyberspace motivates me to give my very best. I want our Smart Nation to become even smarter, and cybersecurity plays a big part in ensuring what is built is safe and secure.”<br><br></div>
 	
-<div class="column-testimonial"></div></div>
+<div class="column-testimonial">
+<img src="/images/People/ishita-mittal.jpg" alt="Ishita Mittal" title="Tech Talent" /><br><em><strong>Ishita Mittal</strong><br><span style="font-size:13px; line-height:14px">Senior Systems Engineer, Cyber Defence Group, IHiS</span></em><br><br>
+“Working at IHiS made me realise how big a role IT and my team play in the healthcare industry. Cybersecurity is a big challenge. We are entrusted with a critical task - to protect our organisation, public healthcare institutes (PHIs) and patient data from getting compromised by hackers who are getting smarter with each passing day.”<br><br></div>
 
 [Return to top](#hear-from-our-tech-talents)
 
