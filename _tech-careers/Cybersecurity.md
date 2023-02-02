@@ -25,7 +25,7 @@ Be our next generation of cybersecurity leaders. Join us to shape, transform and
 	“My work in cybersecurity contribute to providing CPF members the peace of mind that there is a team of us working 24/7 behind the scenes, to ensure that the digital assets in CPFB are safe and secure against the many cybersecurity threats we see today.”<br><br></div>
 
 <div class="column-testimonial">
-<img src="/images/People/Thomas_Wong_T.jpeg" alt="Thomas Wong" title="Tech Talent" /><br><em><strong>Thomas Wong</strong><br><span style="font-size:13px; line-height:14px">Senior Systems Cybersecurity Analyst, Cyber Defence Group, IHiS</span></em><br><br>
+<img src="/images/People/Thomas_Wong_T.jpeg" alt="Thomas Wong" title="Tech Talent" /><br><em><strong>Thomas Wong</strong><br><span style="font-size:13px; line-height:14px">Cybersecurity Analyst, Cyber Defence Group, IHiS</span></em><br><br>
 “My team and I are very much motivated by the fact that we are helping to ensure the common systems under our mandate, especially Critical Information Infrastructure (CII) Systems, are well protected. I can say that at IHiS, we stay true to our mission of making HealthTech better by integrating intelligent, highly-resilient and cost-effective technologies with process and people. IHiS is the place to be for HealthTech.”<br><br></div>
 
 <div class="column-testimonial">
