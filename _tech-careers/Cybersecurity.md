@@ -35,7 +35,7 @@ Be our next generation of cybersecurity leaders. Join us to shape, transform and
 
 <div class="row-testimonial">
 <div class="column-testimonial">
-<img src="/images/People/Juliana-Seng.png" alt="Juliana Seng" title="Tech Talent"><br><em><strong>Juliana Seng</strong><br><span style="font-size:13px; line-height:14px">Tech Specialist, Information Security</span></em><br><br>
+<img src="/images/People/Juliana-Seng.png" alt="Juliana Seng" title="Tech Talent"><br><em><strong>Juliana Seng</strong><br><span style="font-size:13px; line-height:14px">Tech Specialist, Information Security, CSIT<br>2018-2022</span></em><br><br>
 “At CSIT, we contribute to Singapore's national security by protecting our nation's cyberspace. Through exploration of cutting-edge and emerging technologies in cybersecurity, we seek to research, develop and deploy tools to uncover system vulnerabilities, hence preventing and deterring advanced cyber threats.”<br><br></div>
 
 <div class="column-testimonial">
