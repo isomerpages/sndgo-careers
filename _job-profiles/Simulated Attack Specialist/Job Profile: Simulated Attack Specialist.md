@@ -1,6 +1,6 @@
 ---
 title: "Job Profile: Simulated Attack Specialist"
-permalink: /job-profiles/Simulated-Attack-Specialist/overview
+permalink: /job-profiles/Simulated-Attack-Specialist/overview/
 description: Play a unique role challenging the status quo to strengthen the
   resilience of our digital infrastructures.
 image: /images/hero-banner.jpg
@@ -48,19 +48,18 @@ You will play a unique role challenging the status quo to strengthen the resilie
         
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/People/Xavier-Yeo-2.jpg" alt="Xavier Yeo"></div>
-      <div class="column" style="width: 100%; padding: 10px 20px 30px 20px; ">
+      <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
        <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Xavier Yeo</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Consultant (Attack Simulation Group),
-Cyber Security Engineering Centre, CSA
-</span><br><br>
+Cyber Security Engineering Centre, CSA<br>Joined in 2018</span><br><br>
     <span style="font-size: 16px; line-height: 23px;">"Knowing that my contribution in CSA helps society move forward in this new digital age motivates me to put my best foot forward.” <br><br>[Find out more about <a href="/job-profiles/Simulated-Attack-Specialist/Xavier-Yeo">Xavier Yeo</a>]</span>
       </div>
 </div>
 
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/People/Loke-Hui-Yi-2.jpg" alt="Loke Hui Yi"></div>
-      <div class="column" style="width: 100%; padding: 10px 20px 30px 20px; ">
+      <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
        <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Loke Hui Yi</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Senior Cybersecurity Specialist, GovTech
-</span><br><br>
+<br>2019-2022</span><br><br>
     <span style="font-size: 16px; line-height: 23px;">“I love the burst of excitement when I manage to spot some vulnerable code and develop it into a working exploit!” <br><br>[Find out more about <a href="/job-profiles/Simulated-Attack-Specialist/Loke-Hui-Yi">Loke Hui Yi</a>]</span>
       </div>
 </div>
