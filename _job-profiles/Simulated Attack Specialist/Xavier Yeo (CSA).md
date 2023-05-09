@@ -1,6 +1,6 @@
 ---
 title: Xavier Yeo (CSA)
-permalink: /job-profiles/Simulated-Attack-Specialist/Xavier-Yeo
+permalink: /job-profiles/Simulated-Attack-Specialist/Xavier-Yeo/
 description: '"Knowing that my contribution in CSA helps society move forward in
   this new digital age motivates me to put my best foot forward.”'
 image: /images/People/Xavier-Yeo.jpg
@@ -45,5 +45,4 @@ Xavier says it was reported that in 2020, there was an average of 50 new securit
 
 The work doesn’t end during the ongoing COVID-19 pandemic either. His team worked with GovTech to help secure the then newly developed SafeEntry and TraceTogether digital contact-tracing tools, work that was “tough but gratifying” as they knew the work impacted the lives of Singaporeans. 
 
-> “Knowing that my contribution in CSA helps society move forward in this new digital age motivates me to put my best foot forward,” Xavier says. 
->
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #FF0000; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid red">“Knowing that my contribution in CSA helps society move forward in this new digital age motivates me to put my best foot forward,” Xavier says.</div>
