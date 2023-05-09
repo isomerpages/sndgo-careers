@@ -21,15 +21,15 @@ Be our next generation of cybersecurity leaders. Join us to shape, transform and
 
 <div class="row-testimonial">
 <div class="column-testimonial">
-<img src="/images/People/mohamed-riduan-ahmad.png" alt="Mohamed Riduan Ahmad" title="Tech Talent"><br><em><strong>Mohamed Riduan Ahmad</strong><br><span style="font-size:13px; line-height:14px">Principal Engineer (Security), Cybersecurity &amp; Technology Group, Security &amp; Network Operations (SNO) Department, CPFB</span></em><br><br>
+<img src="/images/People/mohamed-riduan-ahmad.png" alt="Mohamed Riduan Ahmad" title="Tech Talent"><br><em><strong>Mohamed Riduan Ahmad</strong><br><span style="font-size:13px; line-height:14px">Principal Engineer (Security), Cybersecurity &amp; Technology Group, Security &amp; Network Operations (SNO) Department, CPFB<br>Joined in 2012</span></em><br><br>
 	“My work in cybersecurity contribute to providing CPF members the peace of mind that there is a team of us working 24/7 behind the scenes, to ensure that the digital assets in CPFB are safe and secure against the many cybersecurity threats we see today.”<br><br></div>
 
 <div class="column-testimonial">
-<img src="/images/People/Thomas_Wong_T.jpeg" alt="Thomas Wong" title="Tech Talent"><br><em><strong>Thomas Wong</strong><br><span style="font-size:13px; line-height:14px">Cybersecurity Analyst, Cyber Defence Group, IHiS</span></em><br><br>
+<img src="/images/People/Thomas_Wong_T.jpeg" alt="Thomas Wong" title="Tech Talent"><br><em><strong>Thomas Wong</strong><br><span style="font-size:13px; line-height:14px">Cybersecurity Analyst, Cyber Defence Group, IHiS<br>Joined in 2019</span></em><br><br>
 “My team and I are very much motivated by the fact that we are helping to ensure the common systems under our mandate, especially Critical Information Infrastructure (CII) Systems, are well protected. I can say that at IHiS, we stay true to our mission of making HealthTech better by integrating intelligent, highly-resilient and cost-effective technologies with process and people. IHiS is the place to be for HealthTech.”<br><br></div>
 
 <div class="column-testimonial">
-<img src="/images/People/tan-suan-zhi.png" alt="ME4 Tan Suan Zhi" title="Tech Talent"><br><em><strong>ME4 Tan Suan Zhi </strong><br><span style="font-size:13px; line-height:14px">Officer Commanding, Cyber Defence Group, SAF C4I, MINDEF</span></em><br><br>
+<img src="/images/People/tan-suan-zhi.png" alt="ME4 Tan Suan Zhi" title="Tech Talent"><br><em><strong>ME4 Tan Suan Zhi </strong><br><span style="font-size:13px; line-height:14px">Officer Commanding, Cyber Defence Group, SAF C4I, MINDEF<br>Joined in 2013</span></em><br><br>
 	“A good cyber defence is proactive: it requires getting the right intelligence to stay one step ahead of the threat actors, to keep up with the fast-evolving cyber landscape. Leading a Security Operations Centre, I supervise multiple teams in looking actively for cyber threats within the SAF’s warfighting network. The challenging and dynamic nature of my work means that there is never a dull moment.”<br><br></div></div>
 
 
