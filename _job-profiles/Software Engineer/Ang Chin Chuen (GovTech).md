@@ -13,7 +13,8 @@ image: /images/People/ang-chin-chuen-l.jpg
 
 **Ang Chin Chuen**<br>
 Software Engineer<br>
-[GovTech ](https://www.tech.gov.sg/) - Currently attached to [Ministry of Manpower (MOM)](https://www.mom.gov.sg/)
+[GovTech ](https://www.tech.gov.sg/)<br>
+Joined in 2018
 
 # Coding for Change
 
