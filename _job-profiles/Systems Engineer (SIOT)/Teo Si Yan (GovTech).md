@@ -12,7 +12,8 @@ image: /images/People/si-yan-l.jpg
 <br clear="left">
 
 **Teo Si-Yan**<br>
-Systems Engineer, [GovTech](https://www.tech.gov.sg/)
+Systems Engineer, [GovTech](https://www.tech.gov.sg/)<br>
+Joined in 2018
 
 # A worthwhile endeavour
 
