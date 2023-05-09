@@ -1,9 +1,9 @@
 ---
 title: Stephanie Khoo (SLA)
-permalink: /job-profiles/Geospatial-Specialist/Stephanie-Khoo
-description: "“I believe that geospatial technologies have the ability to give
-  us a holistic view of the various factors impacting the complex problems we
-  face today, from climate change to sustainability and livability.” "
+permalink: /job-profiles/Geospatial-Specialist/Stephanie-Khoo/
+description: “I believe that geospatial technologies have the ability to give us
+  a holistic view of the various factors impacting the complex problems we face
+  today, from climate change to sustainability and livability.”
 image: /images/People/Stephanie-Khoo-L.jpeg
 third_nav_title: Geospatial Specialist
 ---
@@ -17,7 +17,7 @@ Principal GeoSpatial Specialist, [SLA](https://www.sla.gov.sg/)
 
 “I believe that geospatial technologies have the ability to give us a holistic view of the various factors impacting the complex problems we face today, from climate change to sustainability and livability,” says Stephanie Khoo.
 
-Stephanie, a Principal GeoSpatial Specialist under Singapore Land Authority’s (SLA) GeoSpatial & Data Division, is a strong proponent of using geospatial technologies to solve multifaceted challenges. 
+Stephanie, a Principal GeoSpatial Specialist under Singapore Land Authority’s (SLA) GeoSpatial &amp; Data Division, is a strong proponent of using geospatial technologies to solve multifaceted challenges. 
 
 In fact, this was one of the key reasons why she joined SLA as she wanted to be part of the agency creating geospatial tech that are both innovative and useful to the public. 
 
@@ -37,7 +37,7 @@ On a personal level, Stephanie hopes the work she does would go towards making S
 
 “Location analysis of demographic data and existing infrastructure can help us identify what facilities may be missing in a particular community, whether these are green spaces, community facilities or even accessibility features,” she explains. 
 
-> “Addressing these needs and using geospatial technologies to identify the best placement of such features can help improve the liveability of our urban environment in an inclusive and sustainable way,” she adds. 
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #FF0000; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid red">“Addressing these needs and using geospatial technologies to identify the best placement of such features can help improve the liveability of our urban environment in an inclusive and sustainable way,” she adds.</div> 
 
 Ultimately, she is appreciative of being in a field that challenges her daily to pick up new skills and break new ground. 
 
