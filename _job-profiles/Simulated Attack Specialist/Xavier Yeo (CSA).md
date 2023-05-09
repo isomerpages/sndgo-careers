@@ -11,7 +11,8 @@ third_nav_title: Simulated Attack Specialist
 
 **Xavier Yeo**<br>
 Consultant (Attack Simulation Group)<br>
-Cyber Security Engineering Centre, [CSA](https://www.csa.gov.sg/)
+Cyber Security Engineering Centre, [CSA](https://www.csa.gov.sg/)<br>
+Joined in 2018
 
 # Hacking for good
 
