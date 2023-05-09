@@ -170,29 +170,26 @@ Select a job profile below:
 <br>“As lead Geospatial specialist, I conceptualise &amp; develop innovative geo applications using machine learning &amp; deep learning algorithms, LiDAR point cloud, satellite images, 2D and 3D data to manage our diverse urban greenery which helps to improve citizen’s quality of life. I am proud to be part of futuristic Modelling and Simulation (M&amp;S) practice which is transforming decision making processes using evidence-based systems and helping to achieve our Smart Nation goal.”<br><br></div>
 	
 <div class="column-testimonial">
-<img src="/images/People/roy-yuen.png" alt="Roy Yuen Ze Min" title="Tech Talent"><br><em><strong>Roy Yuen Ze Min</strong><br><span style="font-size:13px; line-height:14px">Assistant Manager, Geospatial &amp; Data Division, SLA</span></em><br>
+<img src="/images/People/roy-yuen.png" alt="Roy Yuen Ze Min" title="Tech Talent"><br><em><strong>Roy Yuen Ze Min</strong><br><span style="font-size:13px; line-height:14px">Assistant Manager, Geospatial &amp; Data Division, SLA<br>Joined in 2017</span></em><br>
 <br>“I plan and devise strategies to drive the growing adoption of geospatial technology by the Government, industries, and citizens. I also promote Singapore’s geospatial efforts for new collaboration opportunities by building strong network alliances with local and foreign stakeholders.”<br><br></div>
 </div>
 
 <div class="row-testimonial" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px">
 <div class="column-testimonial">
-<img src="/images/People/Grace-Xue-T.jpeg" alt="Grace Xue" title="Tech Talent"><br><em><strong>Grace Xue</strong><br><span style="font-size:13px; line-height:14px">Executive Manager, Geological and Geospatial Development Department, BCA 
-	</span></em><br><br>“My job revolves around the use of Geographic Information Systems (GIS) to process building data and presenting them on a map. In response to government’s move towards a smart nation, BCA uses GIS to create an internal web-based platform, Building Geospatial Information System (BGIS), to support BCA’s functions. I am proud to be part of a team involved in preparing the user design requirements and overseeing the development of BGIS.” <br><br></div>
+<img src="/images/People/Grace-Xue-T.jpeg" alt="Grace Xue" title="Tech Talent"><br><em><strong>Grace Xue</strong><br><span style="font-size:13px; line-height:14px">Executive Manager, Geological and Geospatial Development Department, BCA<br>Joined in 2010</span></em><br><br>“My job revolves around the use of Geographic Information Systems (GIS) to process building data and presenting them on a map. In response to government’s move towards a smart nation, BCA uses GIS to create an internal web-based platform, Building Geospatial Information System (BGIS), to support BCA’s functions. I am proud to be part of a team involved in preparing the user design requirements and overseeing the development of BGIS.” <br><br></div>
 	
 <div class="column-testimonial">
-<img src="/images/People/Ishpal-Singh-Gill-T.jpeg" alt="Ishpal Singh Gill" title="Tech Talent"><br><em><strong>Ishpal Singh Gill</strong><br><span style="font-size:13px; line-height:14px">Senior Systems Analyst, Business Information Systems Department, HDB</span></em><br>
+<img src="/images/People/Ishpal-Singh-Gill-T.jpeg" alt="Ishpal Singh Gill" title="Tech Talent"><br><em><strong>Ishpal Singh Gill</strong><br><span style="font-size:13px; line-height:14px">Senior Systems Analyst, Business Information Systems Department, HDB<br>Joined in 2018</span></em><br>
 <br>“Leading the Corporate &amp; Geospatial Data Team, we drive HDB’s digitalisation of corporate and geospatial data and initiatives as we move towards being an organization that is “Digital to the Core”. We support the planning and management of HDB towns, with the aim of providing affordable, quality housing and a great living environment where communities thrive.”<br><br></div>
 	
 <div class="column-testimonial">
-<img src="/images/People/See-Shan-Yi-T.jpeg" alt="See Shan Yi" title="Tech Talent"><br><em><strong>See Shan Yi</strong><br><span style="font-size:13px; line-height:14px">Geospatial Analyst, Land Planning and Redevelopment Group, JTC
-</span></em><br>
+<img src="/images/People/See-Shan-Yi-T.jpeg" alt="See Shan Yi" title="Tech Talent"><br><em><strong>See Shan Yi</strong><br><span style="font-size:13px; line-height:14px">Geospatial Analyst, Land Planning and Redevelopment Group, JTC<br>Joined in 2018</span></em><br>
 <br>“As a geospatial specialist, I fuse GIS and data analytics to provide data-driven insights for industrial land-use planning. It enabled better decision-making, higher productivity with automation and improved engagement. These motivated me to conceptualise more innovative geospatial solutions that will further impact, streamline and transform JTC’s urban planning process.”<br><br></div>
 </div>
 
 <div class="row-testimonial" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px">
 <div class="column-testimonial">
-<img src="/images/People/Hazel-Ang-T.jpeg" alt="Hazel Ang" title="Tech Talent"><br><em><strong>Hazel Ang</strong><br><span style="font-size:13px; line-height:14px">Manager, Imagery Support Group, SAF C4I, SAF
-</span></em><br><br>“If you do what you love, you’ll never work a day in your life. My SAF career combines both my passions - geospatial technologies and the defence of Singapore. I leverage my problem-solving skills and contribute to national security by conducting geoanalysis using state-of-the-art technologies. This includes using Artificial Intelligence and Machine Learning to do light detection and ranging (LiDAR), geospatial and spectral studies. My work supports the SAF’s full spectrum of operations and the Whole-of-Government in keeping Singapore safe.”<br><br></div>
+<img src="/images/People/Hazel-Ang-T.jpeg" alt="Hazel Ang" title="Tech Talent"><br><em><strong>Hazel Ang</strong><br><span style="font-size:13px; line-height:14px">Manager, Imagery Support Group, SAF C4I, SAF<br>Joined in 2018</span></em><br><br>“If you do what you love, you’ll never work a day in your life. My SAF career combines both my passions - geospatial technologies and the defence of Singapore. I leverage my problem-solving skills and contribute to national security by conducting geoanalysis using state-of-the-art technologies. This includes using Artificial Intelligence and Machine Learning to do light detection and ranging (LiDAR), geospatial and spectral studies. My work supports the SAF’s full spectrum of operations and the Whole-of-Government in keeping Singapore safe.”<br><br></div>
 	
 <div class="column-testimonial"></div>
 
@@ -208,35 +205,35 @@ Select a job profile below:
 
 <div class="row-testimonial">
 <div class="column-testimonial">
-<img src="/images/People/ong_chee_siang_t.jpeg" alt="Ong Chee Siang" title="Tech Talent"><br><em><strong>Ong Chee Siang</strong><br><span style="font-size:13px; line-height:14px">Lead System Engineer (Cloud), CPFB</span></em><br><br>“My current role requires me to explore Government Commercial Cloud (GCC) and support the moving of our CPFB systems to GCC, as well as introduce new cloud initiatives for the Board. This is something my colleagues and I have not done before. Being the first team to move to GCC was a challenge as we had to figure out how to build and operate systems in a totally new environment, which took many rounds of iterations.”<br><br></div> 
+<img src="/images/People/ong_chee_siang_t.jpeg" alt="Ong Chee Siang" title="Tech Talent"><br><em><strong>Ong Chee Siang</strong><br><span style="font-size:13px; line-height:14px">Lead System Engineer (Cloud), CPFB<br>Joined in 2016</span></em><br><br>“My current role requires me to explore Government Commercial Cloud (GCC) and support the moving of our CPFB systems to GCC, as well as introduce new cloud initiatives for the Board. This is something my colleagues and I have not done before. Being the first team to move to GCC was a challenge as we had to figure out how to build and operate systems in a totally new environment, which took many rounds of iterations.”<br><br></div> 
 	
 <div class="column-testimonial">
-<img src="/images/People/lynn_choi_t.jpeg" alt="Lynn Choi" title="Tech Talent"><br><em><strong>Lynn Choi</strong><br><span style="font-size:13px; line-height:14px">Deputy Director, Cloud Infrastructure and Services, CSIT</span></em><br><br>
+<img src="/images/People/lynn_choi_t.jpeg" alt="Lynn Choi" title="Tech Talent"><br><em><strong>Lynn Choi</strong><br><span style="font-size:13px; line-height:14px">Deputy Director, Cloud Infrastructure and Services, CSIT<br>Joined in 2005</span></em><br><br>
 “I have worked in several domains looking at Software Engineering, Big Data Platform and Cloud Infrastructure. The strong culture of providing regular job rotations broadened my technical knowledge and allowed me to better understand the challenges encountered in each domain. Because of this, I have built rapport and friendship with colleagues across these different domains. The close working dynamics and common mission creates a highly motivated environment that I enjoy working in.”<br><br></div> 
 
 <div class="column-testimonial">
-<img src="/images/People/samuel_lim_t.jpeg" alt="Samuel Lim" title="Tech Talent"><br><em><strong>Samuel Lim</strong><br><span style="font-size:13px; line-height:14px">Senior Engineer, Enterprise IT, DSTA</span></em><br><br>
+<img src="/images/People/samuel_lim_t.jpeg" alt="Samuel Lim" title="Tech Talent"><br><em><strong>Samuel Lim</strong><br><span style="font-size:13px; line-height:14px">Senior Engineer, Enterprise IT, DSTA<br>Joined in 2017</span></em><br><br>
 “I work on the Digital Factory, which brings together skills, processes and resources to enable secure and fast deployment of digital solutions for Singapore’s defence. We embrace Agile development and design thinking to provision services and tools that enable development teams to work in “sprints”, moving quickly from prototyping, pilot implementation to full-scale development.”<br><br></div>   
 </div>
 
 <div class="row-testimonial">
 <div class="column-testimonial">
-<img src="/images/People/seow_caixiang_t.jpeg" alt="Seow Caixiang" title="Tech Talent"><br><em><strong>Seow Caixiang</strong><br><span style="font-size:13px; line-height:14px">Senior Systems Specialist, Infrastructure Management Services Department / Systems Management Section, HDB</span></em><br><br>
+<img src="/images/People/seow_caixiang_t.jpeg" alt="Seow Caixiang" title="Tech Talent"><br><em><strong>Seow Caixiang</strong><br><span style="font-size:13px; line-height:14px">Senior Systems Specialist, Infrastructure Management Services Department / Systems Management Section, HDB<br>Joined in 2017</span></em><br><br>
 “I strive to provide sustainable infrastructure to support HDB’s IT services. In the digital transformation journey, I continuously reach out for opportunities to make a difference. I adopt a positive mindset and see every challenge as a learning opportunity.”<br><br></div> 
 	
 <div class="column-testimonial">
-<img src="/images/People/tan_wei_chong_t.jpeg" alt="Tan Wei Chong" title="Tech Talent"><br><em><strong>Tan Wei Chong</strong><br><span style="font-size:13px; line-height:14px">Manager, Digital Infrastructure Planning, Regulation &amp; Competition Development Group, IMDA</span></em><br><br>“My role exposes me to the different elements of developing Singapore’s Digital Infrastructure – from planning (up to 50 years) and delivering future-ready digital infrastructures to supporting Singapore’s Digital Economy growth; from the pricing of regulated services to promoting competitive downstream pricing and achieve high quality connectivity and penetration.”<br><br></div> 
+<img src="/images/People/tan_wei_chong_t.jpeg" alt="Tan Wei Chong" title="Tech Talent"><br><em><strong>Tan Wei Chong</strong><br><span style="font-size:13px; line-height:14px">Manager, Digital Infrastructure Planning, Regulation &amp; Competition Development Group, IMDA<br>Joined in 2016</span></em><br><br>“My role exposes me to the different elements of developing Singapore’s Digital Infrastructure – from planning (up to 50 years) and delivering future-ready digital infrastructures to supporting Singapore’s Digital Economy growth; from the pricing of regulated services to promoting competitive downstream pricing and achieve high quality connectivity and penetration.”<br><br></div> 
 
 <div class="column-testimonial">
-<img src="/images/People/terence_wong_t.jpeg" alt="Terence Wong" title="Tech Talent"><br><em><strong>Terence Wong</strong><br><span style="font-size:13px; line-height:14px">Infocomm Specialist, Infocomm Division, IRAS</span></em><br><br>“My responsibilities include planning, designing, and implementing technical architecture activities to ensure the seamless integration of solutions with IRAS’ tax administration system, IRIN. Knowing that my work plays a part in delivering a simpler, smoother and more reliable taxpaying experience for citizens is what pushes me forward.” <br><br></div>   
+<img src="/images/People/terence_wong_t.jpeg" alt="Terence Wong" title="Tech Talent"><br><em><strong>Terence Wong</strong><br><span style="font-size:13px; line-height:14px">Infocomm Specialist, Infocomm Division, IRAS<br>Joined in 2020</span></em><br><br>“My responsibilities include planning, designing, and implementing technical architecture activities to ensure the seamless integration of solutions with IRAS’ tax administration system, IRIN. Knowing that my work plays a part in delivering a simpler, smoother and more reliable taxpaying experience for citizens is what pushes me forward.” <br><br></div>   
 </div>
 
 <div class="column-testimonial">
-<img src="/images/People/reuben-wong.png" alt="Reuben Wong" title="Tech Talent"><br><em><strong>Reuben Wong</strong><br><span style="font-size:13px; line-height:14px">Senior Manager, Infrastructure Planning &amp; Facilitation, IMDA</span></em><br><br>
+<img src="/images/People/reuben-wong.png" alt="Reuben Wong" title="Tech Talent"><br><em><strong>Reuben Wong</strong><br><span style="font-size:13px; line-height:14px">Senior Manager, Infrastructure Planning &amp; Facilitation, IMDA<br>Joined in 2011</span></em><br><br>
 	“The digital infrastructure work we do provides the foundation for enabling Smart Nation related initiatives. Whether in data centres, 5G, or connectivity, these will remain critical pillars to enable all sorts of Smart Nation related applications.”<br><br></div> 
  
 <div class="column-testimonial">
-<img src="/images/People/kenneth-yeo.png" alt="Kenneth Yeo" title="Tech Talent"><br><em><strong>Kenneth Yeo</strong><br><span style="font-size:13px; line-height:14px">Application Infrastructure, Government Infrastructure Group,  GovTech</span></em><br><br>
+<img src="/images/People/kenneth-yeo.png" alt="Kenneth Yeo" title="Tech Talent"><br><em><strong>Kenneth Yeo</strong><br><span style="font-size:13px; line-height:14px">Application Infrastructure, Government Infrastructure Group,  GovTech<br>Joined in 2020</span></em><br><br>
 	“My work cuts across multiple ICT&amp;SS domain areas that include app infrastructure and cybersecurity. I’m constantly provided with challenging tech problems to resolve and I enjoy every moment of it. Each challenge is a learning opportunity.”<br><br></div>   
 
 <div class="column-testimonial"></div>
