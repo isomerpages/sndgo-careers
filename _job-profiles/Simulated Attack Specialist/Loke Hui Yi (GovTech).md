@@ -11,7 +11,8 @@ third_nav_title: Simulated Attack Specialist
 
 **Loke Hui Yi**<br>
 Senior Cybersecurity Specialist<br>
-[GovTech](https://www.tech.gov.sg/)
+[GovTech](https://www.tech.gov.sg/)<br>
+2019-2022
 
 # Bug Hunter on the Prowl
 
