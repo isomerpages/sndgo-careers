@@ -24,7 +24,9 @@ Today, the Senior Infocomm Specialist at the Inland Revenue Authority of Singapo
 
 In his day-to-day role, he manages the costs and resources needed to build a resilient cloud infrastructure on IRIN, supporting functionalities crucial for the agency’s work. 
 
-##### “I would like to think that our work would greatly aid IRAS’ business users such as frontline tax officers in providing a safe, reliable and convenient experience when accessing sensitive tax information,” Steven says. 
+<div class="row" style="font-size:24px; font-weight: 500; color: #a6221c; background-color: #f3f3f3; padding: 30px 30px 30px 30px;"> “I would like to think that our work would greatly aid IRAS’ business users such as frontline tax officers in providing a safe, reliable and convenient experience when accessing sensitive tax information,” Steven says.</div>
+
+#####  
 
 ### Embracing new experiences
 
