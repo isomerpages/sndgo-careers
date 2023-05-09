@@ -44,7 +44,7 @@ Be our next generation of cybersecurity leaders. Join us to shape, transform and
 “Knowing I am part of the team that helps Singapore stay safe in cyberspace motivates me to give my very best. I want our Smart Nation to become even smarter, and cybersecurity plays a big part in ensuring what is built is safe and secure.”<br><br></div>
 	
 <div class="column-testimonial">
-<img src="/images/People/lee-min-yi.png" alt="Lee Min Yi" title="Tech Talent"><br><em><strong>Lee Min Yi</strong><br><span style="font-size:13px; line-height:14px">Senior Engineer, Cybersecurity Programme Centre, DSTA</span></em><br><br>
+<img src="/images/People/lee-min-yi.png" alt="Lee Min Yi" title="Tech Talent"><br><em><strong>Lee Min Yi</strong><br><span style="font-size:13px; line-height:14px">Senior Engineer, Cybersecurity Programme Centre, DSTA<br>Joined in 2015</span></em><br><br>
 “I fuse smart technologies into the digital solutions we design, develop and implement for Singapore’s defence, such as the Cyber Security Operations Centre 2.0 which enhances MINDEF/SAF’s ability to monitor, detect, analyse and respond to cyber incidents. The team integrated AI and machine learning techniques that allow it to learn and adapt constantly to evolving threats.”<br><br></div></div>
 
 **Click on the link to [read more testimonials](/testimonials).**
