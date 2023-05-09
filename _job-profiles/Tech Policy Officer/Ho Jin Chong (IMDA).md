@@ -1,6 +1,6 @@
 ---
 title: Ho Jin Chong (IMDA)
-permalink: /job-profiles/tech-policy/ho-jin-chong
+permalink: /job-profiles/tech-policy/ho-jin-chong/
 third_nav_title: Tech Policy Officer
 description: “There is a role for everyone to contribute to the growth and
   development of Singapore’s digital economy. I chose to do policy work because
@@ -12,7 +12,7 @@ image: /images/People/ho-jin-chong-l.jpg
 <br clear="left">
 
 **Ho Jin Chong**<br>
-Assistant Manager, Policy & Technology<br>
+Assistant Manager, Policy &amp; Technology<br>
 [Infocomm Media Development Authority (IMDA)](https://www.imda.gov.sg/)
 
 # Shaping Singapore’s Tech Landscape, One Policy at a Time
@@ -21,7 +21,7 @@ Digital trust is becoming increasingly valuable as more Singaporeans and busines
 
 And it is in this space that Jin Chong, who works in the Policy and Technology department of the Infocomm Media Development Authority, operates in. His role involves formulating and reviewing policies to make sure businesses who use citizens’ data do so responsibly.
 
-> “There is a role for everyone to contribute to the growth and development of Singapore’s digital economy. I chose to do policy work because I find it most fulfilling to work on solutions that benefit consumers and organisations alike,” says Jin Chong.
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #FF0000; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid red">“There is a role for everyone to contribute to the growth and development of Singapore’s digital economy. I chose to do policy work because I find it most fulfilling to work on solutions that benefit consumers and organisations alike,” says Jin Chong.</div>
 
 “In IMDA, I get to experience that by being part of the governance team looking to strengthen Singapore as a trusted digital innovation hub,” he adds.
 
