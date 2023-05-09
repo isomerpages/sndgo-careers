@@ -24,7 +24,7 @@ Today, the Senior Infocomm Specialist at the Inland Revenue Authority of Singapo
 
 In his day-to-day role, he manages the costs and resources needed to build a resilient cloud infrastructure on IRIN, supporting functionalities crucial for the agency’s work. 
 
-&gt; “I would like to think that our work would greatly aid IRAS’ business users such as frontline tax officers in providing a safe, reliable and convenient experience when accessing sensitive tax information,” Steven says. 
+##### “I would like to think that our work would greatly aid IRAS’ business users such as frontline tax officers in providing a safe, reliable and convenient experience when accessing sensitive tax information,” Steven says. 
 
 ### Embracing new experiences
 
@@ -41,4 +41,4 @@ In the end, Steven says he was heartened to successfully assist in helping this 
 
 Ultimately, he recognises that his work at IRAS goes beyond the technical aspects of digital transformation. It is also about working with others – including taxpayers – to develop and refine solutions that benefit the greater community. 
 
-&gt; “I believe the notion of a Smart Nation is a team, rather than individual, effort.”
+##### “I believe the notion of a Smart Nation is a team, rather than individual, effort.”
