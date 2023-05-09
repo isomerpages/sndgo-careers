@@ -1,12 +1,12 @@
 ---
 title: "Job Profile: Computer Vision Engineer"
-permalink: /job-profiles/Computer-Vision-Engineer/overview
+permalink: /job-profiles/Computer-Vision-Engineer/overview/
 description: Harness the advances and possibilities of leading-edge technology
   with your insights and vision.
 image: /images/hero-banner.jpg
 third_nav_title: Computer Vision Engineer
 ---
-![Computer Vision Engineer](/images/Header/Header%20Sensors%20&%20IOT.jpeg)
+![Computer Vision Engineer](/images/Header/Header%20Sensors%20&amp;%20IOT.jpeg)
 
 # Computer Vision Engineer
 Harness the advances and possibilities of leading-edge technology with your insights and vision. As a Computer Vision Engineer, you will play a key role in using technology to analyse video and audio to empower surveillance to work more intelligently across numerous public service applications. 
@@ -53,7 +53,7 @@ Harness the advances and possibilities of leading-edge technology with your insi
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/People/chandrasehar.jpg" alt="Chandrasehar S/O Rajaseharan"></div>
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
-       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Chandrasehar S/O Rajaseharan</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Lead Engineer, Sensors and Sense-making,<br>Sense-making & Surveillance Centre of Expertise, HTX</span><br><br>
+       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Chandrasehar S/O Rajaseharan</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Lead Engineer, Sensors and Sense-making,<br>Sense-making &amp; Surveillance Centre of Expertise, HTX<br>Joined in 2019</span><br><br>
     <span style="font-size: 16px; line-height: 23px;">“Knowing that what we design will lead to a safer and more secure environment for all residents in Singapore, including my loved ones, is a key factor that motivates me in my work.”<br><br> [Find out more about <a href="/job-profiles/Computer-Vision-Engineer/Chandrasehar">Chandrasehar S/O Rajaseharan</a>]</span>
       </div>
 </div>

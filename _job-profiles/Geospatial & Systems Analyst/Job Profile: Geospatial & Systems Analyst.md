@@ -1,14 +1,14 @@
 ---
 title: "Job Profile: Geospatial & Systems Analyst"
-permalink: /job-profiles/Geospatial-and-Systems-Analyst/overview
+permalink: /job-profiles/Geospatial-and-Systems-Analyst/overview/
 description: Shape Singapore’s urban environment through data-driven insights
   and set the direction for new plans moving forward.
 image: /images/hero-banner.jpg
 third_nav_title: Geospatial & Systems Analyst
 ---
-![Geospatial & Systems Analyst](/images/Header/Header%20Geospatial.jpeg)
+![Geospatial &amp; Systems Analyst](/images/Header/Header%20Geospatial.jpeg)
 
-# Geospatial & Systems Analyst
+# Geospatial &amp; Systems Analyst
 Map new advancements in geospatial analyses as you harness a wide range of technologies to enhance how people go about their lives. Shape Singapore’s urban environment through data-driven insights and set the direction for new plans moving forward.
 
 ## What you can expect to be doing:
@@ -47,7 +47,7 @@ Map new advancements in geospatial analyses as you harness a wide range of techn
 	
 	* Web Application Programming Interface (API) development
 	
-	* Web Mapping frameworks & Geospatial libraries – Leaflet, Esri-Leaflet, Google Maps APIs, OneMap v2.0 APIs, TurfJS
+	* Web Mapping frameworks &amp; Geospatial libraries – Leaflet, Esri-Leaflet, Google Maps APIs, OneMap v2.0 APIs, TurfJS
 	
 	* OGC standards – WMS, WFS, WMTS
 
@@ -59,7 +59,7 @@ Map new advancements in geospatial analyses as you harness a wide range of techn
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/People/Angelia-Lau-S.jpeg" alt="Angelia Lau"></div>
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
-       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Angelia Lau</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Systems Analyst, URA</span><br><br>
+       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Angelia Lau</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Systems Analyst, URA<br>Joined in 2020</span><br><br>
     <span style="font-size: 16px; line-height: 23px;">“The complex, multidimensional nature of urban analytics empowers us to impactfully take action and set directions to plan and shape Singapore."<br><br> [Find out more about <a href="/job-profiles/Geospatial-and-Systems-Analyst/Angelia-Lau">Angelia Lau</a>]</span>
       </div>
 </div>

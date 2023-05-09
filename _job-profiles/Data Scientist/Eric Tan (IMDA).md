@@ -1,6 +1,6 @@
 ---
 title: Eric Tan (IMDA)
-permalink: /job-profiles/Data-Scientist/eric-tan
+permalink: /job-profiles/Data-Scientist/eric-tan/
 description: “AI certainly wasn’t in great demand back in early 2000s,” Eric
   says. “I was fortunate that I had followed my heart in pursuing the career
   that I had an affinity with.”
@@ -12,7 +12,8 @@ third_nav_title: Data Scientist
 
 **Eric Tan**<br>
 AI Scientist / Team Lead<br>
-AI Data – Engineering, [IMDA](https://www.imda.gov.sg/)
+AI Data – Engineering, [IMDA](https://www.imda.gov.sg/)<br>
+Joined in 2020
 
 # Breaking New Ground In AI
 
@@ -20,7 +21,7 @@ Eric Tan has always been interested in artificial intelligence (AI) and its pote
 
 After all, he had pursued studying AI when he was an undergraduate when most of his other classmates opted other specialties such as software engineering; he was just one of 16 in his cohort of 800+ that chose to be in the field.
 
-> “AI certainly wasn’t in great demand back in early 2000s,” Eric says. “I was fortunate that I had followed my heart in pursuing the career that I had an affinity with.”
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #FF0000; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid red">“AI certainly wasn’t in great demand back in early 2000s,” Eric says. “I was fortunate that I had followed my heart in pursuing the career that I had an affinity with.”</div>
 
 He wasn’t just a pioneer during his undergraduate days; Eric was also one of the earliest batch of employees at a start-up in the AI industry after he completed his PhD. As a Research Engineer, he gained invaluable experience in the development and deployment of AI models. He later broadened his skillset by moving in to the AdTech sector and worked with big data applications. 
 
@@ -40,7 +41,7 @@ The interns are deeply involved in their projects. This gives them invaluable op
 
 “IMDA IMmersion internship programme is very important to us,” he says. “One scientist would coach at most two interns at any given time, and we’re fully responsible for their learning journey with us. 
 
-> “Our interns grow into talents of the tech industry and have a strong hand in shaping the digital future of Singapore.”
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #FF0000; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid red">“Our interns grow into talents of the tech industry and have a strong hand in shaping the digital future of Singapore.”</div>
 
 With the work being done, Eric says industry players should have higher acceptance and adoption in digitalisation and AI. This, in turn, would create more business opportunities and better productivity among enterprises.
 

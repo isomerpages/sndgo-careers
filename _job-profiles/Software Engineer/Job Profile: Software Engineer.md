@@ -1,12 +1,12 @@
 ---
 title: "Job Profile: Software Engineer"
-permalink: /job-profiles/software-engineer/overview
+permalink: /job-profiles/software-engineer/overview/
 third_nav_title: Software Engineer
 description: Build Singapore’s next-generation digital products and services to
   solve real-life problems.
 image: /images/hero-banner.jpg
 ---
-![Software Engineer](/images/Header/Header%20App%20Design%20&%20Development.jpeg)
+![Software Engineer](/images/Header/Header%20App%20Design%20&amp;%20Development.jpeg)
 
 # Software Engineer
 Build Singapore’s next-generation digital products and services to solve real-life problems and make a lasting impact as you transform the way citizens live, work and play. 
@@ -36,7 +36,7 @@ Build Singapore’s next-generation digital products and services to solve real-
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/People/ang-chin-chuen.jpg" alt="Ang Chin Chuen"></div>
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
-       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Ang Chin Chuen</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Software Engineer, GovTech – currently attached to Ministry of Manpower (MOM)</span><br><br>
+       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Ang Chin Chuen</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Software Engineer, GovTech<br>Joined in 2018</span><br><br>
     <span style="font-size: 16px; line-height: 23px;">"My true passion is in writing code."
 For Ang Chin Chuen, his love for coding was a belated discovery. While working as a business analyst, he was involved with Robotics Process Automation (RPA) and scripting various bots for different tasks. Over time, something changed.<br><br>[Find out more about
  <a href="/job-profiles/software-engineer/ang-chin-chuen">Ang Chin Chuen</a>]</span>

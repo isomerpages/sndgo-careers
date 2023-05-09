@@ -1,26 +1,26 @@
 ---
 title: Nurul Afiqah (HDB)
-permalink: /job-profiles/systems-analyst/nurul-afiqah
+permalink: /job-profiles/systems-analyst/nurul-afiqah/
 description: '"Seeing how small design tweaks can have a huge impact in
   delivering better quality digital services was very satisfying!”'
 third_nav_title: Systems Analyst
 image: /images/People/nurul-afiqah-l.jpg
 ---
-
 <img src="/images/People/nurul-afiqah-l.jpg" alt="Nurul Afiqah" style="width:400px;" align="left">
 <br clear="left">
 
 **Nurul Afiqah**<br>
 Systems Analyst (UX)<br>
-[Housing and Development Board (HDB)](https://www.hdb.gov.sg/cs/infoweb/about-us)
+[Housing and Development Board (HDB)](https://www.hdb.gov.sg/cs/infoweb/about-us)<br>
+Joined in 2020
 
 
-# Homing in on Services Made Smarter & Simpler
+# Homing in on Services Made Smarter &amp; Simpler
 
 
 ### Putting users first at HDB
 
-Impressed and inspired by how the Housing & Development Board (HDB) goes about delivering on its promise to provide affordable housing to Singaporeans all these years, Afiqah didn’t hesitate to join the agency after graduating from university in 2020.
+Impressed and inspired by how the Housing &amp; Development Board (HDB) goes about delivering on its promise to provide affordable housing to Singaporeans all these years, Afiqah didn’t hesitate to join the agency after graduating from university in 2020.
 
 “I was an architecture student back in my polytechnic days and through my studies, I learnt about the challenges public housing face when it comes to planning spaces, homes and living environments,” she recounts.
 
@@ -40,7 +40,7 @@ Another memorable moment was when she witnessed customers’ frustration with an
 
 After the session, her team went through multiple design sprints and many late nights to refine the app, and eventually developed a simpler, more elegant prototype within a month that was well received by participants in the second review session.
 
-> She says: “Seeing how small design tweaks can have a huge impact in delivering better quality digital services was very satisfying!”
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #FF0000; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid red">She says: “Seeing how small design tweaks can have a huge impact in delivering better quality digital services was very satisfying!”</div>
 
 Ultimately, Afiqah hopes to use her understanding of automation tools and systems to provide innovative solutions to Singapore’s nation-building challenges.
 

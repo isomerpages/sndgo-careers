@@ -1,13 +1,13 @@
 ---
 title: "Job Profile: Geospatial Specialist"
-permalink: /job-profiles/Geospatial-Specialist/overview
+permalink: /job-profiles/Geospatial-Specialist/overview/
 description: Join us as a Geospatial Specialist, where you will map out new ways
   forward in studying and shaping the city to be an even more liveable, dynamic
   and vibrant space for work, life and play.
 image: /images/hero-banner.jpg
 third_nav_title: Geospatial Specialist
 ---
-![Geospatial & Systems Analyst](/images/Header/Header%20Geospatial.jpeg)
+![Geospatial &amp; Systems Analyst](/images/Header/Header%20Geospatial.jpeg)
 
 # Geospatial Specialist
 Have ideas on how Singapore’s built environment should look like, and want to turn these into reality? Join us as a Geospatial Specialist, where you will map out new ways forward in studying and shaping the city to be an even more liveable, dynamic and vibrant space for work, life and play.
@@ -57,7 +57,7 @@ Have ideas on how Singapore’s built environment should look like, and want to 
       <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/People/Stephanie-Khoo-S.jpeg" alt="Stephanie Khoo"></div>
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
        <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Stephanie Khoo
-</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Principal GeoSpatial Specialist, SLA</span><br><br>
+</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Principal GeoSpatial Specialist, SLA<br>Joined in 2020</span><br><br>
     <span style="font-size: 16px; line-height: 23px;">“Geospatial technologies have the ability to give a holistic view of the factors impacting liveability, allowing us to plan better for the public.”<br><br> [Find out more about <a href="/job-profiles/Geospatial-Specialist/Stephanie-Khoo">Stephanie Khoo</a>]</span>
       </div>
 </div>

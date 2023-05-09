@@ -1,6 +1,6 @@
 ---
 title: Jenny Zou (IHiS)
-permalink: /job-profiles/Data-Scientist/jenny-zou
+permalink: /job-profiles/Data-Scientist/jenny-zou/
 description: “I take pride that my work plays a part in making HealthTech better
   for all of us and helps Singapore strengthen its position as a Smart Nation.”
 image: /images/People/jenny-zou-l.jpg
@@ -11,7 +11,8 @@ third_nav_title: Data Scientist
 
 **Jenny Zou**<br>
 Data Scientist<br>
-[IHiS](https://www.ihis.com.sg/)
+[IHiS](https://www.ihis.com.sg/)<br>
+Joined in 2017
 
 # Using Data for Good
 
@@ -39,8 +40,8 @@ Patients who have registered for medical appointments yet not show up is a longs
 
 With this challenge in mind, Jenny and her team got to work.
 
-At NDCS and KKH, they deployed an AI-powered No-Show Predictive Model that identified patients who were likely no-shows based on their risk scores. This was to better optimise the centre’s resources, and reallocate appointments to other patients who needed to see the doctor earlier.
+At NDCS and KKH,&nbsp;they deployed an AI-powered No-Show Predictive Model that identified patients who were likely no-shows based on their risk scores. This was to better optimise the centre’s resources, and reallocate appointments to other patients who needed to see the doctor earlier.
 
 About one year’s worth of data, consisting about 3 million records, was used to develop the prediction model. Another year’s data was used to validate the model, which had a prediction accuracy of 77 per cent.
 
-> She says: “I take pride that my work plays a part in making HealthTech better for all of us and helps Singapore strengthen its position as a Smart Nation.”
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #FF0000; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid red">She says: “I take pride that my work plays a part in making HealthTech better for all of us and helps Singapore strengthen its position as a Smart Nation.”</div>
