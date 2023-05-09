@@ -1,20 +1,20 @@
 ---
 title: Heng Tian Hao (DSTA)
-permalink: /job-profiles/cybersecurity-engineer/heng-tian-hao
+permalink: /job-profiles/cybersecurity-engineer/heng-tian-hao/
 description: '"Protecting our cyberspace is a never-ending battle with new
   vulnerabilities and exploits discovered every day,” Tian Hao says. “This gets
   me fired up as I’m always looking for fresh challenges to overcome.”'
 third_nav_title: Cybersecurity Engineer
 image: /images/People/heng-tian-hao-l.jpg
 ---
-
 <img src="/images/People/heng-tian-hao-l.jpg" alt="Heng Tian Hao" style="width:400px;" align="left">
 <br clear="left">
 
 **Heng Tian Hao**<br>
 Senior Engineer<br>
 Cybersecurity Programme Centre,
-[DSTA](https://www.dsta.gov.sg/)
+[DSTA](https://www.dsta.gov.sg/)"<br>
+Joined in 2014
 
 # Fighting Cyber Threats A Never-Ending Battle
 
@@ -24,7 +24,7 @@ This opened his eyes to the tangible effects of malware and sparked his interest
 
 Today, the Senior Engineer at DSTA’s Cybersecurity Programme Centre is tasked with seeking out new tech to enhance the Ministry of Defence’s (MINDEF) cybersecurity operations. His team leads the implementation and finetuning of endpoint detection and to improve the detection and response to advanced cyber threats.
 
-> “Protecting our cyberspace is a never-ending battle with new vulnerabilities and exploits discovered every day,” Tian Hao says. “This gets me fired up as I’m always looking for fresh challenges to overcome.”
+&gt; “Protecting our cyberspace is a never-ending battle with new vulnerabilities and exploits discovered every day,” Tian Hao says. “This gets me fired up as I’m always looking for fresh challenges to overcome.”
 
 Testament to his dedication to his craft, the 31-year-old equipped himself with the foundational basics in cybersecurity during his years studying for his Bachelor of Engineering (Computer Engineering) at Nanyang Technological University and Master of Computing (Infocomm Security) at the National University of Singapore.
 
