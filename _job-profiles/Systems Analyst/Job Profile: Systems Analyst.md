@@ -1,6 +1,6 @@
 ---
 title: "Job Profile: Systems Analyst"
-permalink: /job-profiles/systems-analyst/overview
+permalink: /job-profiles/systems-analyst/overview/
 description: Drive digital transformation across a wide spectrum of business
   domains. As part of an application development team, you will leverage
   innovation and technology to enable business excellence, work closely with
@@ -27,7 +27,7 @@ Drive digital transformation across a wide spectrum of business domains. As part
 * Relevant qualifications in Computing, Computer Science, Computer Engineering, Information Systems, or related fields
 * Passion for tech and interest in programming, and system designs
 * Proficiency in modern web application technology stack (e.g. Python, Java, JavaScript) and relational databases (Oracle, SQL)
-Proficiency in agile methodologies and practices, such as Scrum, Continuous Integration & Continuous Delivery (CI/CD) 
+Proficiency in agile methodologies and practices, such as Scrum, Continuous Integration &amp; Continuous Delivery (CI/CD) 
 * Knowledge of cloud services and technologies offered by major cloud providers (e.g. AWS, Microsoft Azure or Google Cloud)
 * Excellent analytical and problem-solving skills 
 * Strong communication and interpersonal skills to collaborate with key stakeholders at all levels
@@ -39,7 +39,7 @@ Proficiency in agile methodologies and practices, such as Scrum, Continuous Inte
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/People/nurul-afiqah.jpg" alt="Nurul Afiqah"></div>
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
-       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Nurul Afiqah</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Systems Analyst (UX), Housing and Development Board (HDB)</span><br><br>
+       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Nurul Afiqah</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Systems Analyst (UX), Housing and Development Board (HDB)<br>Joined in 2020</span><br><br>
     <span style="font-size: 16px; line-height: 23px;">
 “Seeing how small design tweaks can have a huge impact in delivering better quality digital services was very satisfying!”
 <br><br> [Find out more about <a href="/job-profiles/systems-analyst/nurul-afiqah">Nurul Afiqah</a>]</span>
