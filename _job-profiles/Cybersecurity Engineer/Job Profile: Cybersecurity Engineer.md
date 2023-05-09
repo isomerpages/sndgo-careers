@@ -1,6 +1,6 @@
 ---
 title: "Job Profile: Cybersecurity Engineer"
-permalink: /job-profiles/cybersecurity-engineer/overview
+permalink: /job-profiles/cybersecurity-engineer/overview/
 description: Join our multi-disciplinary team that’s dedicated to keeping
   national and whole-of-Government projects, systems and digital services safe.
 third_nav_title: Cybersecurity Engineer
@@ -47,7 +47,7 @@ As more of our lives are spent online, there is even more importance attached to
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/People/heng-tian-hao.jpg" alt="Heng Tian Hao"></div>
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
-       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Heng Tian Hao</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Senior Engineer, Cybersecurity Programme Centre, DSTA</span><br><br>
+       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Heng Tian Hao</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Senior Engineer, Cybersecurity Programme Centre, DSTA?<br>Joined in 2014</span><br><br>
     <span style="font-size: 16px; line-height: 23px;">“Protecting our cyberspace is a never-ending battle with new vulnerabilities and exploits discovered every day. This gets me fired up as I’m always looking for fresh challenges to overcome.”<br><br> [Find out more about <a href="/job-profiles/cybersecurity-engineer/heng-tian-hao">Heng Tian Hao</a>]</span>
       </div>
 </div>
@@ -55,7 +55,7 @@ As more of our lives are spent online, there is even more importance attached to
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/People/Melvyn-Kuan-S.png" alt="Dr Melvyn Kuan"></div>
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
-       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Dr Melvyn Kuan</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Senior Assistant Director, Cybersecurity Engineering Centre, CSA</span><br><br>
+       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Dr Melvyn Kuan</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Senior Assistant Director, Cybersecurity Engineering Centre, CSA<br>Joined in 2015</span><br><br>
     <span style="font-size: 16px; line-height: 23px;">“At the end of the day, it is a fulfilling experience as we are galvanising a global effort towards a more secure IoT ecosystem.”<br><br> [Find out more about <a href="/job-profiles/cybersecurity-engineer/dr-melvyn-kuan">Dr Melvyn Kuan</a>]</span>
       </div>
 </div>
