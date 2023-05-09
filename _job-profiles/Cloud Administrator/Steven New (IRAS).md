@@ -12,7 +12,7 @@ image: /images/People/steven_new_l.jpeg
 
 **Steven New**<br>
 Senior Infocomm Specialist, [IRAS](https://www.iras.gov.sg/)<br>
-Joined the team in 2017
+Joined in 2017
 
 # Head in the (Tech) Clouds
 
