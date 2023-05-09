@@ -11,7 +11,8 @@ third_nav_title: Geospatial Specialist
 <br clear="left">
 
 **Stephanie Khoo**<br>
-Principal GeoSpatial Specialist, [SLA](https://www.sla.gov.sg/)
+Principal GeoSpatial Specialist, [SLA](https://www.sla.gov.sg/)<br>
+Joined in 2020
 
 # Creating a Roadmap to Inclusive Living
 
