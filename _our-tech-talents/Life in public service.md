@@ -163,11 +163,10 @@ Select a job profile below:
 
 <div class="row-testimonial" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px">
 <div class="column-testimonial">
-<img src="/images/People/lee-mou-jian.png" alt="Lee Mou Jian" title="Tech Talent"><br><em><strong>Lee Mou Jian</strong><br><span style="font-size:13px; line-height:14px">Assistant Manager, Geospatial &amp; Data Division, SLA
-</span></em><br><br>“My interest in the geospatial sector is driven by its position at the forefront of Singapore’s Smart Nation efforts. I drive strategy and implement policies for government officers to manage and share location data effectively. This helps agencies make better decisions and carry out operations with better precision, in areas such as land use, transportation, and healthcare.”<br><br></div>
+<img src="/images/People/lee-mou-jian.png" alt="Lee Mou Jian" title="Tech Talent"><br><em><strong>Lee Mou Jian</strong><br><span style="font-size:13px; line-height:14px">Assistant Manager, Geospatial &amp; Data Division, SLA<br>Joined in 2018</span></em><br><br>“My interest in the geospatial sector is driven by its position at the forefront of Singapore’s Smart Nation efforts. I drive strategy and implement policies for government officers to manage and share location data effectively. This helps agencies make better decisions and carry out operations with better precision, in areas such as land use, transportation, and healthcare.”<br><br></div>
 	
 <div class="column-testimonial">
-<img src="/images/People/abhishek-tandon.png" alt="Abhishek Tandon" title="Tech Talent"><br><em><strong>Abhishek Tandon</strong><br><span style="font-size:13px; line-height:14px">Deputy Director, Geospatial Development, National Parks Board (NParks)</span></em><br>
+<img src="/images/People/abhishek-tandon.png" alt="Abhishek Tandon" title="Tech Talent"><br><em><strong>Abhishek Tandon</strong><br><span style="font-size:13px; line-height:14px">Deputy Director, Geospatial Development, National Parks Board (NParks)<br>Joined in 2015</span></em><br>
 <br>“As lead Geospatial specialist, I conceptualise &amp; develop innovative geo applications using machine learning &amp; deep learning algorithms, LiDAR point cloud, satellite images, 2D and 3D data to manage our diverse urban greenery which helps to improve citizen’s quality of life. I am proud to be part of futuristic Modelling and Simulation (M&amp;S) practice which is transforming decision making processes using evidence-based systems and helping to achieve our Smart Nation goal.”<br><br></div>
 	
 <div class="column-testimonial">
