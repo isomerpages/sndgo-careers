@@ -11,7 +11,8 @@ image: /images/People/abdillah_ali_l.jpeg
 <br clear="left">
 
 **Abdillah Ali**<br>
-Infrastructure Engineer, [GovTech](https://www.tech.gov.sg/)
+Infrastructure Engineer, [GovTech](https://www.tech.gov.sg/)<br>
+Joined in 2015
 
 # Tech Troubleshooter
 
