@@ -1,6 +1,6 @@
 ---
 title: Angelia Lau (URA)
-permalink: /job-profiles/Geospatial-and-Systems-Analyst/Angelia-Lau
+permalink: /job-profiles/Geospatial-and-Systems-Analyst/Angelia-Lau/
 description: “The complex, multidimensional nature of urban analytics empowers
   us to impactfully take action and set directions to plan and shape Singapore."
 image: /images/People/Angelia-Lau-L.jpeg
@@ -16,7 +16,7 @@ Systems Analyst, [URA](https://www.ura.gov.sg/corporate)
 
 Have you ever wondered why the distance to your nearest Mass Rapid Transit (MRT) station is as far as it is, and what improvements can be made to get to your destination faster? Angelia Lau has. 
 
-In fact, thinking of and solving such problems is part of her job as a Systems Analyst at the Urban Redevelopment Authority’s Design & Planning Lab (DPL). Angelia recounts that when she had to analyse how transport nodes were accessible to people by foot, it was “eye-opening” for her to realise how traditional methods of analyses may not always be an accurate representation of the distance and time taken for a pedestrian to reach an MRT station via existing footpaths. 
+In fact, thinking of and solving such problems is part of her job as a Systems Analyst at the Urban Redevelopment Authority’s Design &amp; Planning Lab (DPL). Angelia recounts that when she had to analyse how transport nodes were accessible to people by foot, it was “eye-opening” for her to realise how traditional methods of analyses may not always be an accurate representation of the distance and time taken for a pedestrian to reach an MRT station via existing footpaths. 
 
 For example, pedestrians here can often reduce walking time to the station by cutting through Housing Development Board (HDB) blocks and carparks, she explains. Therefore with geospatial data, urban planners like herself can more accurately capture the richness of Singapore’s urban landscape and analyse how people are using the transport systems.
 
@@ -34,6 +34,6 @@ It struck me how interconnected the world is. The complex, multidimensional natu
 
 Today, she works on enhancing ePlanner, a geospatial Web application that empowers Singapore’s urban planners with the tools and data needed to better shape our urban environment. Some of the questions it could potentially help answer include whether a resident has a clinic or library within 20 minutes of public transport commute, or if there’s a park within a 10-minute cycle away.  
 
-> “It is gratifying when we develop tools that allow us to critically assess the present built environment and lived experience, and to look into the future,” Angelia says.
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #FF0000; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid red">“It is gratifying when we develop tools that allow us to critically assess the present built environment and lived experience, and to look into the future,” Angelia says.</div>
 
 “Being able to see this information spatially and model various scenarios puts me in a role where I can impactfully take action and set direction, and advance URA’s ability to plan and shape Singapore.”
