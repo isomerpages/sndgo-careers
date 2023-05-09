@@ -1,12 +1,12 @@
 ---
 title: "Job Profile: Data Scientist"
-permalink: /job-profiles/Data-Scientist/overview
+permalink: /job-profiles/Data-Scientist/overview/
 description: Join us as a Data Scientist and play a key role defining
   Singapore’s next steps to be a Smart Nation.
 third_nav_title: Data Scientist
 image: /images/hero-banner.jpg
 ---
-![Data Scientist](/images/Header/Header%20Data%20Science%20&%20AI.jpeg)
+![Data Scientist](/images/Header/Header%20Data%20Science%20&amp;%20AI.jpeg)
 
 # Data Scientist
 Digital insights and better discovery – driven by big data. Join us as a Data Scientist and play a key role defining Singapore’s next steps to be a Smart Nation. 
@@ -54,7 +54,7 @@ Digital insights and better discovery – driven by big data. Join us as a Data 
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column" style="padding: 10px 0px 30px 20px;"><img src="https://techcareers.smartnation.gov.sg/images/People/eric-tan.jpg" alt="Eric Tan"></div>
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
-       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Eric Tan</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">AI Scientist / Team Lead, AI Data – Engineering, IMDA</span><br><br>
+       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Eric Tan</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">AI Scientist / Team Lead, AI Data – Engineering, IMDA<br>Joined in 2020</span><br><br>
     <span style="font-size: 16px; line-height: 23px;">“I was fortunate that I had followed my heart in pursuing the career that I had an affinity with.”
 <br><br> [Find out more about <a href="/job-profiles/data-scientist/eric-tan">Eric Tan</a>]</span>
       </div>
@@ -63,7 +63,7 @@ Digital insights and better discovery – driven by big data. Join us as a Data 
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/People/jenny-zou.jpg" alt="Jenny Zou"></div>
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
-       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Jenny Zou</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Data Scientist, IHiS</span><br><br>
+       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Jenny Zou</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Data Scientist, IHiS<br>Joined in 2017</span><br><br>
     <span style="font-size: 16px; line-height: 23px;">“I take pride that my work plays a part in making HealthTech better for all of us and helps
 Singapore strengthen its position as a Smart Nation.”
 <br><br> [Find out more about <a href="/job-profiles/data-scientist/jenny-zou">Jenny Zou</a>]</span>
