@@ -21,22 +21,20 @@ The deep expertise you develop will drive Singapore’s digital transformation i
 
 <div class="row-testimonial">
 <div class="column-testimonial">
-<img src="/images/People/Grace-Xue-T.jpeg" alt="Grace Xue" title="Tech Talent"><br><em><strong>Grace Xue</strong><br><span style="font-size:13px; line-height:14px">Executive Manager, Geological and Geospatial Development Department, BCA 
-	</span></em><br><br>“My job revolves around the use of Geographic Information Systems (GIS) to process building data and presenting them on a map. In response to government’s move towards a smart nation, BCA uses GIS to create an internal web-based platform, Building Geospatial Information System (BGIS), to support BCA’s functions. I am proud to be part of a team involved in preparing the user design requirements and overseeing the development of BGIS.” <br><br></div>
+<img src="/images/People/Grace-Xue-T.jpeg" alt="Grace Xue" title="Tech Talent"><br><em><strong>Grace Xue</strong><br><span style="font-size:13px; line-height:14px">Executive Manager, Geological and Geospatial Development Department, BCA<br>Joined in 2010</span></em><br><br>“My job revolves around the use of Geographic Information Systems (GIS) to process building data and presenting them on a map. In response to government’s move towards a smart nation, BCA uses GIS to create an internal web-based platform, Building Geospatial Information System (BGIS), to support BCA’s functions. I am proud to be part of a team involved in preparing the user design requirements and overseeing the development of BGIS.” <br><br></div>
 	
 <div class="column-testimonial">
-<img src="/images/People/Ishpal-Singh-Gill-T.jpeg" alt="Ishpal Singh Gill" title="Tech Talent"><br><em><strong>Ishpal Singh Gill</strong><br><span style="font-size:13px; line-height:14px">Senior Systems Analyst, Business Information Systems Department, HDB</span></em><br>
+<img src="/images/People/Ishpal-Singh-Gill-T.jpeg" alt="Ishpal Singh Gill" title="Tech Talent"><br><em><strong>Ishpal Singh Gill</strong><br><span style="font-size:13px; line-height:14px">Senior Systems Analyst, Business Information Systems Department, HDB<br>Joined in 2018</span></em><br>
 <br>“Leading the Corporate &amp; Geospatial Data Team, we drive HDB’s digitalisation of corporate and geospatial data and initiatives as we move towards being an organization that is “Digital to the Core”. We support the planning and management of HDB towns, with the aim of providing affordable, quality housing and a great living environment where communities thrive.”<br><br></div>
 	
 <div class="column-testimonial">
-<img src="/images/People/See-Shan-Yi-T.jpeg" alt="See Shan Yi" title="Tech Talent"><br><em><strong>See Shan Yi</strong><br><span style="font-size:13px; line-height:14px">Geospatial Analyst, Land Planning and Redevelopment Group, JTC
-</span></em><br>
+<img src="/images/People/See-Shan-Yi-T.jpeg" alt="See Shan Yi" title="Tech Talent"><br><em><strong>See Shan Yi</strong><br><span style="font-size:13px; line-height:14px">Geospatial Analyst, Land Planning and Redevelopment Group, JTC<br>Joined in 2018</span></em><br>
 <br>“As a geospatial specialist, I fuse GIS and data analytics to provide data-driven insights for industrial land-use planning. It enabled better decision-making, higher productivity with automation and improved engagement. These motivated me to conceptualise more innovative geospatial solutions that will further impact, streamline and transform JTC’s urban planning process.”<br><br></div>
 </div>
 
 <div class="row-testimonial">
 <div class="column-testimonial">
-<img src="/images/People/Hazel-Ang-T.jpeg" alt="Hazel Ang" title="Tech Talent"><br><em><strong>Hazel Ang</strong><br><span style="font-size:13px; line-height:14px">Manager, Imagery Support Group, SAF C4I, SAF
+<img src="/images/People/Hazel-Ang-T.jpeg" alt="Hazel Ang" title="Tech Talent"><br><em><strong>Hazel Ang</strong><br><span style="font-size:13px; line-height:14px">Manager, Imagery Support Group, SAF C4I, SAF<br>Joined in 2018
 </span></em><br><br>“If you do what you love, you’ll never work a day in your life. My SAF career combines both my passions - geospatial technologies and the defence of Singapore. I leverage my problem-solving skills and contribute to national security by conducting geoanalysis using state-of-the-art technologies. This includes using Artificial Intelligence and Machine Learning to do light detection and ranging (LiDAR), geospatial and spectral studies. My work supports the SAF’s full spectrum of operations and the Whole-of-Government in keeping Singapore safe.”<br><br></div>
 	
 <div class="column-testimonial"></div>
