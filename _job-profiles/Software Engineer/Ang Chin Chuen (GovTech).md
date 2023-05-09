@@ -1,6 +1,6 @@
 ---
 title: Ang Chin Chuen (GovTech)
-permalink: /job-profiles/software-engineer/ang-chin-chuen
+permalink: /job-profiles/software-engineer/ang-chin-chuen/
 third_nav_title: Software Engineer
 description: “One of the things I find fascinating is pair-programming as the
   opportunity to work with many like-minded engineers in an agile setting really
@@ -8,7 +8,6 @@ description: “One of the things I find fascinating is pair-programming as the
   working together can quickly unblock any mental impediments.
 image: /images/People/ang-chin-chuen-l.jpg
 ---
-
 <img src="/images/People/ang-chin-chuen-l.jpg" alt="Ang Chin Chuen" style="width:400px;" align="left">
 <br clear="left">
 
@@ -30,7 +29,7 @@ Chin Chuen says: “When the opportunity for a conversion course and career swit
 
 The 42-year-old signed up for a three-month software engineering conversion course that was both intensive and enriching. He particularly valued the “pair-programming” approach used during the course.
 	
-> “One of the things I find fascinating is pair-programming as the opportunity to work with many like-minded engineers in an agile setting really entices me,” Chin Chuen says, adding that this is because two engineers working together can quickly unblock any mental impediments.
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #FF0000; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid red">“One of the things I find fascinating is pair-programming as the opportunity to work with many like-minded engineers in an agile setting really entices me,” Chin Chuen says, adding that this is because two engineers working together can quickly unblock any mental impediments.</div>
 
 “We can optimise code to complete our coding tasks fast with fewer errors. We can complement each other as well as learn through our different styles of coding,” he says.
 
