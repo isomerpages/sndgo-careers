@@ -1,6 +1,6 @@
 ---
 title: Teo Si Yan (GovTech)
-permalink: /job-profiles/Systems-Engineer-SIOT/Si-Yan
+permalink: /job-profiles/Systems-Engineer-SIOT/Si-Yan/
 description: “Our projects either directly help citizens or businesses, or they
   enable other Government agencies to carry out their operations more
   effectively using technology, which helps citizens and businesses in the long
@@ -22,7 +22,7 @@ Teo Si-Yan, a Systems Engineer at GovTech, chose to embark on a career in softwa
 
 At the same time, the Singapore University of Technology and Design (SUTD) graduate had a desire to do something that feels meaningful. This led her to join GovTech’s Sensors and Internet of Things (SIOT) team. 
 
-> She says: “Our projects either directly help citizens or businesses, or they enable other Government agencies to carry out their operations more effectively using technology, which helps citizens and businesses in the long run.”
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #FF0000; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid red">She says: “Our projects either directly help citizens or businesses, or they enable other Government agencies to carry out their operations more effectively using technology, which helps citizens and businesses in the long run.”</div>
 
 One such project is the TraceTogether Token. Si-Yan explains that in 2020, in the early days of the COVID-19 pandemic, GovTech developed the TraceTogether mobile application for automated contact tracing. To cater to non-tech-savvy users, her team developed the keychain-sized device as an easy-to-use alternative to the mobile app. The Tokens were first distributed out to senior citizens, and subsequently offered to all Singapore residents.
 
