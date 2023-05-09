@@ -11,7 +11,8 @@ image: /images/People/nurul-afiqah-l.jpg
 
 **Nurul Afiqah**<br>
 Systems Analyst (UX)<br>
-[Housing and Development Board (HDB)](https://www.hdb.gov.sg/cs/infoweb/about-us)
+[Housing and Development Board (HDB)](https://www.hdb.gov.sg/cs/infoweb/about-us)<br>
+Joined in 2020
 
 
 # Homing in on Services Made Smarter &amp; Simpler
