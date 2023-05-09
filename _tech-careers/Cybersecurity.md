@@ -40,7 +40,7 @@ Be our next generation of cybersecurity leaders. Join us to shape, transform and
 
 <div class="column-testimonial">
 <img src="/images/People/kok-kiat-han.png" alt="Kok Kiat Han" title="Tech Talent"><br>
-<em><strong>Kok Kiat Han</strong><br><span style="font-size:13px; line-height:14px">Cyber Threat Intelligence Analyst, National Cyber Threat Monitoring Centre, CSA</span></em><br><br>
+<em><strong>Kok Kiat Han</strong><br><span style="font-size:13px; line-height:14px">Cyber Threat Intelligence Analyst, National Cyber Threat Monitoring Centre, CSA<br>Joined in 2019</span></em><br><br>
 “Knowing I am part of the team that helps Singapore stay safe in cyberspace motivates me to give my very best. I want our Smart Nation to become even smarter, and cybersecurity plays a big part in ensuring what is built is safe and secure.”<br><br></div>
 	
 <div class="column-testimonial">
