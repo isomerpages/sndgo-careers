@@ -1,6 +1,6 @@
 ---
 title: Loke Hui Yi (GovTech)
-permalink: /job-profiles/Simulated-Attack-Specialist/Loke-Hui-Yi
+permalink: /job-profiles/Simulated-Attack-Specialist/Loke-Hui-Yi/
 description: “I love the burst of excitement when I manage to spot some
   vulnerable code and develop it into a working exploit!”
 image: /images/People/Loke-Hui-Yi.jpg
@@ -33,7 +33,7 @@ Besides helping to equip her team with technical skills, Hui Yi serves as “aun
 
 “I see leadership as not just being a boss to someone but as a technical mentor and a sounding board for life’s questions,” she explains. 
 
-> “As we mainly conduct research, we’re mostly trudging in the dark which can lead to a lot of griping at times. Being able to guide my team technically and listen to their grouses is important to me.”
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #FF0000; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid red">“As we mainly conduct research, we’re mostly trudging in the dark which can lead to a lot of griping at times. Being able to guide my team technically and listen to their grouses is important to me.”</div>
 
 Beyond the day-to-day tasks, Hui Yi finds her work and its impact to improving the security of Singapore’s cyber ecosystem meaningful. For instance, she was once testing some commercial software that was to be deployed across the whole of Government and managed to find a way to almost completely circumvent its protection. 
 
