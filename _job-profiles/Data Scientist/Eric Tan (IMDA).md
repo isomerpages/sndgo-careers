@@ -12,7 +12,8 @@ third_nav_title: Data Scientist
 
 **Eric Tan**<br>
 AI Scientist / Team Lead<br>
-AI Data – Engineering, [IMDA](https://www.imda.gov.sg/)
+AI Data – Engineering, [IMDA](https://www.imda.gov.sg/)<br>
+Joined in 2020
 
 # Breaking New Ground In AI
 
