@@ -13,7 +13,8 @@ image: /images/People/ho-jin-chong-l.jpg
 
 **Ho Jin Chong**<br>
 Assistant Manager, Policy &amp; Technology<br>
-[Infocomm Media Development Authority (IMDA)](https://www.imda.gov.sg/)
+[Infocomm Media Development Authority (IMDA)](https://www.imda.gov.sg/)<br>
+Joined in 2018
 
 # Shaping Singapore’s Tech Landscape, One Policy at a Time
 
