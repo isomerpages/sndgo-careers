@@ -12,7 +12,8 @@ image: /images/People/sindhu-achudan-l.jpg
 
 **Sindhu Achudan**<br>
 Senior Manager, Strategy and Masterplanning,<br>
-[Smart Nation and Digital Government Office (SNDGO)](https://www.smartnation.gov.sg/about-smart-nation/sndgg)
+[Smart Nation and Digital Government Office (SNDGO)](https://www.smartnation.gov.sg/about-smart-nation/sndgg)<br>
+2019-2022
 
 # Stepping Up for Public Good
 
