@@ -63,7 +63,7 @@ Digital insights and better discovery – driven by big data. Join us as a Data 
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/People/jenny-zou.jpg" alt="Jenny Zou"></div>
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
-       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Jenny Zou</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Data Scientist, IHiS<br>Joined in 2017</span><br><br>
+       <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Jenny Zou</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Data Scientist, Synapxe (Formerly IHiS)<br>Joined in 2017</span><br><br>
     <span style="font-size: 16px; line-height: 23px;">“I take pride that my work plays a part in making HealthTech better for all of us and helps
 Singapore strengthen its position as a Smart Nation.”
 <br><br> [Find out more about <a href="/job-profiles/data-scientist/jenny-zou">Jenny Zou</a>]</span>
