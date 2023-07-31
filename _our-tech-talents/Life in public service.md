@@ -37,7 +37,7 @@ Select a job profile below:
 	“I work closely with the Singapore Army to create the best possible user experience for defence software systems. Through user research, system design, prototyping and more, we ensure that the systems we design are not only functional and tailored to their requirements, but also intuitive and easy to use.”<br><br></div>
 	
 <div class="column-testimonial">
-	<img src="/images/People/daniel-ong.png" alt="Daniel Ong" title="Tech Talent"><br><em><strong>Daniel Ong</strong><br><span style="font-size:13px; line-height:14px">Front End Developer, IHiS<br>2020-2021</span></em><br><br>
+	<img src="/images/People/daniel-ong.png" alt="Daniel Ong" title="Tech Talent"><br><em><strong>Daniel Ong</strong><br><span style="font-size:13px; line-height:14px">Front End Developer, Synapxe (Formerly IHiS)<br>2020-2021</span></em><br><br>
 	“About a year ago, I couldn’t write a line of code. This year, in the span of 4 months, and with a lot of support from my colleagues, I’ve been privileged to contribute to two COVID-19-related applications: iConnect.COVID and MW Health, that have bolstered Singapore’s efforts in tackling the ‘crisis of a generation’.”<br><br></div>
 	
 <div class="column-testimonial">
@@ -65,7 +65,7 @@ Select a job profile below:
 
 <div class="row-testimonial" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px">
 <div class="column-testimonial">
-<img src="/images/People/Thomas_Wong_T.jpeg" alt="Thomas Wong" title="Tech Talent"><br><em><strong>Thomas Wong</strong><br><span style="font-size:13px; line-height:14px">Cybersecurity Analyst, Cyber Defence Group, IHiS<br>Joined in 2019</span></em><br><br>
+<img src="/images/People/Thomas_Wong_T.jpeg" alt="Thomas Wong" title="Tech Talent"><br><em><strong>Thomas Wong</strong><br><span style="font-size:13px; line-height:14px">Cybersecurity Analyst, Cyber Defence Group, Synapxe (Formerly IHiS)<br>Joined in 2019</span></em><br><br>
 “My team and I are very much motivated by the fact that we are helping to ensure the common systems under our mandate, especially Critical Information Infrastructure (CII) Systems, are well protected. I can say that at IHiS, we stay true to our mission of making HealthTech better by integrating intelligent, highly-resilient and cost-effective technologies with process and people. IHiS is the place to be for HealthTech.”<br><br></div>
 
 <div class="column-testimonial">
@@ -99,7 +99,7 @@ Select a job profile below:
  “Knowing I am part of the team that helps Singapore stay safe in cyberspace motivates me to give my very best. I want our Smart Nation to become even smarter, and cybersecurity plays a big part in ensuring what is built is safe and secure.”<br><br></div>
 	
 <div class="column-testimonial">
-<img src="/images/People/ishita-mittal.jpg" alt="Ishita Mittal" title="Tech Talent"><br><em><strong>Ishita Mittal</strong><br><span style="font-size:13px; line-height:14px">Senior Systems Engineer, Cyber Defence Group, IHiS<br>Joined in 2005</span></em><br><br>
+<img src="/images/People/ishita-mittal.jpg" alt="Ishita Mittal" title="Tech Talent"><br><em><strong>Ishita Mittal</strong><br><span style="font-size:13px; line-height:14px">Senior Systems Engineer, Cyber Defence Group, Synapxe (Formerly IHiS)<br>Joined in 2005</span></em><br><br>
 “Working at IHiS made me realise how big a role IT and my team play in the healthcare industry. Cybersecurity is a big challenge. We are entrusted with a critical task - to protect our organisation, public healthcare institutes (PHIs) and patient data from getting compromised by hackers who are getting smarter with each passing day.”<br><br></div>
 
 </div>
@@ -245,17 +245,22 @@ Select a job profile below:
 ## Sensors &amp; Internet of Things
 
 <div class="row-testimonial" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px">
+
 <div class="column-testimonial">
 <img src="/images/People/brandon-chua.png" alt="Brandon Chua" title="Tech Talent"><br><em><strong>Brandon Chua</strong><br><span style="font-size:13px; line-height:14px">Engineer, Sense-making &amp; Surveillance Centre of Expertise, HTX<br>Joined in 2020</span></em><br><br>
 	“We specialise in R&amp;D for the computer vision field, where we harness new technology such as AI. Best of all, I can see the fruits of my labour being implemented to enhance the safety of our citizens, which includes my family and loved ones.”<br><br></div>	
+
+
 <div class="column-testimonial">
 <img src="/images/People/kok-boon.png" alt="Goh Kok Boon" title="Tech Talent"><br><em><strong>Goh Kok Boon </strong><br><span style="font-size:13px; line-height:14px">Associate Embedded Engineer, Sensors &amp; Internet of Things, GovTech<br>Joined in 2019</span></em><br><br>
 “I code for nation-wide projects that allows me to push the frontier of Singapore’s technological landscape in Sensors and Internet of Things. The work that I do gives me purpose when I witness how they can impact and improve the lives of my loved ones.”<br><br></div>
+
 <div class="column-testimonial">
 <img src="/images/People/ong-ling-ling.png" alt="Ong Ling Ling" title="Tech Talent"><br><em><strong>Ong Ling Ling</strong><br><span style="font-size:13px; line-height:14px">Solutions Architect, IMDA<br>Joined in 2018</span></em><br><br>
 	“Work hard, play hard! That's what I do! In my role, I constantly pursue new knowledge to understand how rapidly evolving technologies can be leveraged on. Our aim is to make use of advanced applications such as AR, VR, MR and ER to solve challenges faced today for a better tomorrow!”<br><br></div> 
 </div>
 <div class="row-testimonial" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px">
+
 <div class="column-testimonial">
 <img src="/images/People/chandrasehar_t.jpeg" alt="Chandrasehar S/O Rajaseharan" title="Tech Talent"><br><em><strong>Chandrasehar S/O Rajaseharan</strong><br><span style="font-size:13px; line-height:14px">Lead Engineer, Sensors and Sense-making, Sense-making &amp; Surveillance Centre of Expertise, HTX<br>Joined in 2019</span></em><br><br>
 “The challenges in designing the best video analytics solutions and the need to always keep track of new trends in technology, motivates me to push on in my work, knowing that what we design will lead to a more secure environment for our nation, including my loved ones.”<br><br></div>
