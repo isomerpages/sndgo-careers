@@ -38,7 +38,7 @@ Be empowered to create next-generation digital experiences and provide solutions
 	“I work closely with the Singapore Army to create the best possible user experience for defence software systems. Through user research, system design, prototyping and more, we ensure that the systems we design are not only functional and tailored to their requirements, but also intuitive and easy to use.”<br><br></div>
 	
 <div class="column-testimonial">
-	<img src="/images/People/daniel-ong.png" alt="Daniel Ong" title="Tech Talent"><br><em><strong>Daniel Ong</strong><br><span style="font-size:13px; line-height:14px">Front End Developer, IHiS<br>2020-2021</span></em><br><br>
+	<img src="/images/People/daniel-ong.png" alt="Daniel Ong" title="Tech Talent"><br><em><strong>Daniel Ong</strong><br><span style="font-size:13px; line-height:14px">Front End Developer, Synapxe (Formerly IHiS)<br>2020-2021</span></em><br><br>
 	“About a year ago, I couldn’t write a line of code. This year, in the span of 4 months, and with a lot of support from my colleagues, I’ve been privileged to contribute to two COVID-19-related applications: iConnect.COVID and MW Health, that have bolstered Singapore’s efforts in tackling the ‘crisis of a generation’.”<br><br></div>
 	
 <div class="column-testimonial">
