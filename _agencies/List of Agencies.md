@@ -28,15 +28,14 @@ image: /images/hero-banner.jpg
 
 <div class="column-agencies"><a href="https://www.htx.gov.sg/join-us/careers" target="new"><img src="/images/Logos/logo-htx.png" alt="HTX" title="HTX"></a></div>
 
-<div class="column-agencies"><a href="https://www.ihis.com.sg/careers" target="new"><img src="/images/Logos/logo-ihis.png" alt="iHIS" title="iHIS"></a></div>
 
 <div class="column-agencies"><a href="https://www.iras.gov.sg/irashome/Careers/" target="new"><img src="/images/Logos/logo-iras.png" alt="IRAS" title="IRAS"></a></div>
 
+<div class="column-agencies"><a href="https://www.imda.gov.sg/Who-We-Are/careers" target="new"><img src="/images/Logos/logo-imda.png" alt="IMDA" title="IMDA"></a></div>	
+	
 </div>
 
 <div class="row-agencies">
-
-<div class="column-agencies"><a href="https://www.imda.gov.sg/Who-We-Are/careers" target="new"><img src="/images/Logos/logo-imda.png" alt="IMDA" title="IMDA"></a></div>
 
 <div class="column-agencies"><a href="https://www.iras.gov.sg/irashome/Careers/" target="new"><img src="/images/Logos/logo-iras.png" alt="IRAS" title="IRAS"></a></div>
 
@@ -46,13 +45,15 @@ image: /images/hero-banner.jpg
 
 <div class="column-agencies"><a href="https://www.sla.gov.sg/join-us/our-work-at-sla" target="new"><img src="/images/Logos/logo-sla.png" alt="SLA" title="SLA"></a></div>
 
+<div class="column-agencies"><a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=Smart%20Nation%20and%20Digital%20Government%20Office" target="new"><img src="/images/Logos/logo-sndgo.png" alt="SNDGO" title="SNDGO"></a></div>	
+	
 </div>
 
 <div class="row-agencies">
 
-<div class="column-agencies"><a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=Smart%20Nation%20and%20Digital%20Government%20Office" target="new"><img src="/images/Logos/logo-sndgo.png" alt="SNDGO" title="SNDGO"></a></div>
-
 <div class="column-agencies"><a href="https://www.stb.gov.sg/content/stb/en/careers/overview.html" target="new"><img src="/images/Logos/logo-stb.png" alt="STB" title="STB"></a></div>
+	
+<div class="column-agencies"><a href="https://www.ihis.com.sg/careers" target="new"><img src="/images/Logos/logo-ihis.png" alt="iHIS" title="iHIS"></a></div>	
 
 <div class="column-agencies"><a href="https://www.ura.gov.sg/Corporate/Careers/Career-with-URA" target="new"><img src="/images/Logos/logo-ura.png" alt="URA" title="URA"></a></div>
 
