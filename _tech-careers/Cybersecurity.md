@@ -85,7 +85,6 @@ Discover cybersecurity career opportunities in these agencies.
 <div class="column-agencies"><a href="https://www.lta.gov.sg/content/ltagov/en/who_we_are/careers/join_lta.html" target="new"><img src="/images/Logos/logo-lta.png" alt="LTA" title="LTA"></a></div>
 
 <div class="column-agencies"><a href="https://www.sla.gov.sg/join-us/our-work-at-sla" target="new"><img src="/images/Logos/logo-sla.png" alt="SLA" title="SLA"></a></div>
-</div>
 
 <div class="column-agencies"><a href="https://careers-public-healthtech-jobs.synapxe.sg" target="new"><img src="/images/Logos/logo-synapxe.jpg" alt="Synapxe" title="Synapxe"></a></div>
 
@@ -93,4 +92,4 @@ Discover cybersecurity career opportunities in these agencies.
 
 <div class="column-agencies"></div>
 
-<div></div>
+<div></div></div>
