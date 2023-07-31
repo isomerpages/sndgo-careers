@@ -1,6 +1,6 @@
 ---
-title: Jenny Zou (IHiS)
-permalink: /job-profiles/Data-Scientist/jenny-zou/
+title: Jenny Zou (Synapxe)
+permalink: /job-profiles/data-scientist/jenny-zou/
 description: “I take pride that my work plays a part in making HealthTech better
   for all of us and helps Singapore strengthen its position as a Smart Nation.”
 image: /images/People/jenny-zou-l.jpg
@@ -11,7 +11,7 @@ third_nav_title: Data Scientist
 
 **Jenny Zou**<br>
 Data Scientist<br>
-[IHiS](https://www.ihis.com.sg/)<br>
+[Synapxe (Formerly IHiS)](https://www.synapxe.sg/)<br>
 Joined in 2017
 
 # Using Data for Good

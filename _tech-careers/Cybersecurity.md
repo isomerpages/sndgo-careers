@@ -25,7 +25,7 @@ Be our next generation of cybersecurity leaders. Join us to shape, transform and
 	“My work in cybersecurity contribute to providing CPF members the peace of mind that there is a team of us working 24/7 behind the scenes, to ensure that the digital assets in CPFB are safe and secure against the many cybersecurity threats we see today.”<br><br></div>
 
 <div class="column-testimonial">
-<img src="/images/People/Thomas_Wong_T.jpeg" alt="Thomas Wong" title="Tech Talent"><br><em><strong>Thomas Wong</strong><br><span style="font-size:13px; line-height:14px">Cybersecurity Analyst, Cyber Defence Group, IHiS<br>Joined in 2019</span></em><br><br>
+<img src="/images/People/Thomas_Wong_T.jpeg" alt="Thomas Wong" title="Tech Talent"><br><em><strong>Thomas Wong</strong><br><span style="font-size:13px; line-height:14px">Cybersecurity Analyst, Cyber Defence Group, Synapxe (Formerly IHiS)<br>Joined in 2019</span></em><br><br>
 “My team and I are very much motivated by the fact that we are helping to ensure the common systems under our mandate, especially Critical Information Infrastructure (CII) Systems, are well protected. I can say that at IHiS, we stay true to our mission of making HealthTech better by integrating intelligent, highly-resilient and cost-effective technologies with process and people. IHiS is the place to be for HealthTech.”<br><br></div>
 
 <div class="column-testimonial">
@@ -53,17 +53,43 @@ Be our next generation of cybersecurity leaders. Join us to shape, transform and
 Discover cybersecurity career opportunities in these agencies.
 
 <div class="row-agencies">
+
 <div class="column-agencies"><a href="https://careers.a-star.edu.sg/" target="new"><img src="/images/Logos/logo-astar.png" alt="ASTAR" title="ASTAR"></a></div>
+
 <div class="column-agencies"><a href="https://www.cpf.gov.sg/member/who-we-are/careers" target="new"><img src="/images/Logos/logo-cpf.png" alt="CPFB" title="CPFB"></a></div>
+
 <div class="column-agencies"><a href="https://www.csa.gov.sg/Explore/careers" target="new"><img src="/images/Logos/logo-csa.png" alt="CSA" title="CSA"></a></div>
+
 <div class="column-agencies"><a href="https://www.csit.gov.sg/join-us/careers" target="new"><img src="/images/Logos/logo-csit-2021.jpg" alt="CSIT" title="CSIT"></a></div>
+
 <div class="column-agencies"><a href="https://careers.pageuppeople.com/845/cw/en/listing/" target="new"><img src="/images/Logos/logo-dsta.png" alt="DSTA" title="DSTA"></a></div>
-<div class="column-agencies"><a href="https://go.gov.sg/GovTechCareers" target="new"><img src="/images/Logos/logo-govtech.png" alt="GovTech" title="GovTech"></a></div>
-<div class="column-agencies"><a href="https://www.hdb.gov.sg/cs/infoweb/about-us/careers/career-opportunities" target="new"><img src="/images/Logos/logo-hdb.png" alt="HDB" title="HDB"></a></div>
-<div class="column-agencies"><a href="https://www.htx.gov.sg/join-us/careers" target="new"><img src="/images/Logos/logo-htx.png" alt="HTX" title="HTX"></a></div>
-<div class="column-agencies"><a href="https://www.ihis.com.sg/careers" target="new"><img src="/images/Logos/logo-ihis.png" alt="iHIS" title="iHIS"></a></div>
-<div class="column-agencies"><a href="https://www.imda.gov.sg/Who-We-Are/careers" target="new"><img src="/images/Logos/logo-imda.png" alt="IMDA" title="IMDA"></a></div>
-<div class="column-agencies"><a href="https://www.iras.gov.sg/irashome/Careers/" target="new"><img src="/images/Logos/logo-iras.png" alt="IRAS" title="IRAS"></a></div>
-<div class="column-agencies"><a href="https://www.lta.gov.sg/content/ltagov/en/who_we_are/careers/join_lta.html" target="new"><img src="/images/Logos/logo-lta.png" alt="LTA" title="LTA"></a></div>
-<div class="column-agencies"><a href="https://www.sla.gov.sg/join-us/our-work-at-sla" target="new"><img src="/images/Logos/logo-sla.png" alt="SLA" title="SLA"></a></div>
+
 </div>
+
+<div class="row-agencies">
+
+<div class="column-agencies"><a href="https://go.gov.sg/GovTechCareers" target="new"><img src="/images/Logos/logo-govtech.png" alt="GovTech" title="GovTech"></a></div>
+
+<div class="column-agencies"><a href="https://www.hdb.gov.sg/cs/infoweb/about-us/careers/career-opportunities" target="new"><img src="/images/Logos/logo-hdb.png" alt="HDB" title="HDB"></a></div>
+
+<div class="column-agencies"><a href="https://www.htx.gov.sg/join-us/careers" target="new"><img src="/images/Logos/logo-htx.png" alt="HTX" title="HTX"></a></div>
+
+<div class="column-agencies"><a href="https://www.imda.gov.sg/Who-We-Are/careers" target="new"><img src="/images/Logos/logo-imda.png" alt="IMDA" title="IMDA"></a></div>
+
+<div class="column-agencies"><a href="https://www.iras.gov.sg/irashome/Careers/" target="new"><img src="/images/Logos/logo-iras.png" alt="IRAS" title="IRAS"></a></div>
+
+</div>
+
+<div class="row-agencies">
+
+<div class="column-agencies"><a href="https://www.lta.gov.sg/content/ltagov/en/who_we_are/careers/join_lta.html" target="new"><img src="/images/Logos/logo-lta.png" alt="LTA" title="LTA"></a></div>
+
+<div class="column-agencies"><a href="https://www.sla.gov.sg/join-us/our-work-at-sla" target="new"><img src="/images/Logos/logo-sla.png" alt="SLA" title="SLA"></a></div>
+
+<div class="column-agencies"><a href="https://careers-public-healthtech-jobs.synapxe.sg" target="new"><img src="/images/Logos/logo-synapxe.jpg" alt="Synapxe" title="Synapxe"></a></div>
+
+<div class="column-agencies"></div>
+
+<div class="column-agencies"></div>
+
+<div></div></div>
