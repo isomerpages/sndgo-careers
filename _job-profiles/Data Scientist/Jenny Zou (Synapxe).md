@@ -16,7 +16,7 @@ Joined in 2017
 
 # Using Data for Good
 
-In the thick of the COVID-19 pandemic, Jenny Zou and her Data Analytics and Artificial Intelligence (DnA) team at IHiS worked with Changi General Hospital (CGH) to build an AI predictive model.
+In the thick of the COVID-19 pandemic, Jenny Zou and her Data Analytics and Artificial Intelligence (DnA) team at Synapxe (formerly IHiS) worked with Changi General Hospital (CGH) to build an AI predictive model.
 
 Known as the Community Acquired Pneumonia and COVID-19 AI Predictive Engine (CAPE), it can help doctors quickly detect whether patients have mild or severe pneumonia.
 
@@ -26,7 +26,7 @@ The Emergency Department and ward doctors at CGH can be given early warning shou
 
 Most recently, Jenny and her team enhanced CAPE by developing an “image explainability” algorithm named Ensemble XAI to help clinicians make more accurate X-ray image interpretations and diagnosis. The Ensemble XAI benchmarked well against industry standards and has gained the endorsement of a panel of expert radiologists.
 
-The work done here is one of Jenny’s proudest moments at IHiS to date, particularly for someone who graduated with a Mathematics degree and didn’t expect to embark on a HealthTech career.
+The work done here is one of Jenny’s proudest moments at Synapxe to date, particularly for someone who graduated with a Mathematics degree and didn’t expect to embark on a HealthTech career.
 
 To cap it off, she collaborated with her colleagues to write two papers about CAPE, which were published in the Association for Computing Machinery (ACM) Special Interest Group on Knowledge Discovery and Data Mining (SIGKDD) - a leading publication on data mining and analysis as well as leading medical research journal BMJ.
 

@@ -66,7 +66,7 @@ Select a job profile below:
 <div class="row-testimonial" style="background-color: #f3f3f3; padding: 20px 20px 20px 20px">
 <div class="column-testimonial">
 <img src="/images/People/Thomas_Wong_T.jpeg" alt="Thomas Wong" title="Tech Talent"><br><em><strong>Thomas Wong</strong><br><span style="font-size:13px; line-height:14px">Cybersecurity Analyst, Cyber Defence Group, Synapxe (Formerly IHiS)<br>Joined in 2019</span></em><br><br>
-“My team and I are very much motivated by the fact that we are helping to ensure the common systems under our mandate, especially Critical Information Infrastructure (CII) Systems, are well protected. I can say that at IHiS, we stay true to our mission of making HealthTech better by integrating intelligent, highly-resilient and cost-effective technologies with process and people. IHiS is the place to be for HealthTech.”<br><br></div>
+“My team and I are very much motivated by the fact that we are helping to ensure the common systems under our mandate, especially Critical Information Infrastructure (CII) Systems, are well protected. I can say that at Synapxe, we stay true to our mission of making HealthTech better by integrating intelligent, highly-resilient and cost-effective technologies with process and people. Synapxe is the place to be for HealthTech.”<br><br></div>
 
 <div class="column-testimonial">
 <img src="/images/People/jonathan-samraj.png" alt="Jonathan Samraj" title="Tech Talent"><br><em><strong>Jonathan Samraj</strong><br><span style="font-size:13px; line-height:14px">Senior Manager, Telecom Cybersecurity Engineer &amp; Specialist Office, IMDA<br>Joined in 2014</span></em><br><br>
@@ -100,7 +100,7 @@ Select a job profile below:
 	
 <div class="column-testimonial">
 <img src="/images/People/ishita-mittal.jpg" alt="Ishita Mittal" title="Tech Talent"><br><em><strong>Ishita Mittal</strong><br><span style="font-size:13px; line-height:14px">Senior Systems Engineer, Cyber Defence Group, Synapxe (Formerly IHiS)<br>Joined in 2005</span></em><br><br>
-“Working at IHiS made me realise how big a role IT and my team play in the healthcare industry. Cybersecurity is a big challenge. We are entrusted with a critical task - to protect our organisation, public healthcare institutes (PHIs) and patient data from getting compromised by hackers who are getting smarter with each passing day.”<br><br></div>
+“Working at Synapxe made me realise how big a role IT and my team play in the healthcare industry. Cybersecurity is a big challenge. We are entrusted with a critical task - to protect our organisation, public healthcare institutes (PHIs) and patient data from getting compromised by hackers who are getting smarter with each passing day.”<br><br></div>
 
 </div>
 
