@@ -53,7 +53,7 @@ image: /images/hero-banner.jpg
 
 <div class="column-agencies"><a href="https://www.stb.gov.sg/content/stb/en/careers/overview.html" target="new"><img src="/images/Logos/logo-stb.png" alt="STB" title="STB"></a></div>
 	
-<div class="column-agencies"><a href="https://careers-public-healthtech-jobs.synapxe.sg" target="new"><img src="/images/Logos/logo-synapxe.jpg" alt="Synapxe" title="Synapxe"></a></div>	
+<div class="column-agencies"><a href="https://careers-public-healthtech-jobs.synapxe.sg" target="new"><img src="/images/Logos/logo-synapxe.png" alt="Synapxe" title="Synapxe"></a></div>	
 
 <div class="column-agencies"><a href="https://www.ura.gov.sg/Corporate/Careers/Career-with-URA" target="new"><img src="/images/Logos/logo-ura.png" alt="URA" title="URA"></a></div>
 
