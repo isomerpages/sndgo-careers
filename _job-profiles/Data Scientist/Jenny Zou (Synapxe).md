@@ -26,7 +26,7 @@ The Emergency Department and ward doctors at CGH can be given early warning shou
 
 Most recently, Jenny and her team enhanced CAPE by developing an “image explainability” algorithm named Ensemble XAI to help clinicians make more accurate X-ray image interpretations and diagnosis. The Ensemble XAI benchmarked well against industry standards and has gained the endorsement of a panel of expert radiologists.
 
-The work done here is one of Jenny’s proudest moments at Synapxe (formerly IHiS) to date, particularly for someone who graduated with a Mathematics degree and didn’t expect to embark on a HealthTech career.
+The work done here is one of Jenny’s proudest moments at Synapxe to date, particularly for someone who graduated with a Mathematics degree and didn’t expect to embark on a HealthTech career.
 
 To cap it off, she collaborated with her colleagues to write two papers about CAPE, which were published in the Association for Computing Machinery (ACM) Special Interest Group on Knowledge Discovery and Data Mining (SIGKDD) - a leading publication on data mining and analysis as well as leading medical research journal BMJ.
 
