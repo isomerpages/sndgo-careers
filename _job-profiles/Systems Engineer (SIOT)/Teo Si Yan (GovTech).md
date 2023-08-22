@@ -6,7 +6,7 @@ description: “Our projects either directly help citizens or businesses, or the
   effectively using technology, which helps citizens and businesses in the long
   run.”
 third_nav_title: Systems Engineer (SIOT)
-image: /images/People/si-yan-l.jpg
+image: /images/people/si-yan-l.jpg
 ---
 <img src="/images/People/si-yan-l.jpg" alt="Teo Si-Yan" style="width:400px;" align="left">
 <br clear="left">

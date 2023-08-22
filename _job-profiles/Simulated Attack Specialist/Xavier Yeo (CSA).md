@@ -3,7 +3,7 @@ title: Xavier Yeo (CSA)
 permalink: /job-profiles/simulated-attack-specialist/xavier-yeo/
 description: '"Knowing that my contribution in CSA helps society move forward in
   this new digital age motivates me to put my best foot forward.”'
-image: /images/People/Xavier-Yeo.jpg
+image: /images/people/xavier-yeo.jpg
 third_nav_title: Simulated Attack Specialist
 ---
 <img src="/images/People/Xavier-Yeo.jpg" alt="Xavier Yeo" style="width:400px;" align="left">

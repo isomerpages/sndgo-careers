@@ -37,7 +37,7 @@ Proficiency in agile methodologies and practices, such as Scrum, Continuous Inte
 <div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
 
 <div class="row" style="background-color: #f3f3f3;">
-      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/People/nurul-afiqah.jpg" alt="Nurul Afiqah"></div>
+      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/people/nurul-afiqah.jpg" alt="Nurul Afiqah"></div>
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
        <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Nurul Afiqah</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Systems Analyst (UX), Housing and Development Board (HDB)<br>Joined in 2020</span><br><br>
     <span style="font-size: 16px; line-height: 23px;">

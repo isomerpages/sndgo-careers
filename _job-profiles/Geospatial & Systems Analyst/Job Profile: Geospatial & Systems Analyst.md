@@ -60,6 +60,6 @@ Map new advancements in geospatial analyses as you harness a wide range of techn
       <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/People/Angelia-Lau-S.jpeg" alt="Angelia Lau"></div>
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
        <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Angelia Lau</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Systems Analyst, URA<br>Joined in 2020</span><br><br>
-    <span style="font-size: 16px; line-height: 23px;">“The complex, multidimensional nature of urban analytics empowers us to impactfully take action and set directions to plan and shape Singapore."<br><br> [Find out more about <a href="/job-profiles/Geospatial-and-Systems-Analyst/Angelia-Lau">Angelia Lau</a>]</span>
+    <span style="font-size: 16px; line-height: 23px;">“The complex, multidimensional nature of urban analytics empowers us to impactfully take action and set directions to plan and shape Singapore."<br><br> [Find out more about <a href="/job-profiles/geospatial-and-systems-analyst/angelia-lau">Angelia Lau</a>]</span>
       </div>
 </div>

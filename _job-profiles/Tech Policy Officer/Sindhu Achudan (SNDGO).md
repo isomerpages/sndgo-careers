@@ -5,7 +5,7 @@ third_nav_title: Tech Policy Officer
 description: “As I was interested in joining the public service and setting
   tech-related policies that will benefit our citizens, SNDGO‘s mission of
   ‘transforming Singapore through technology’ was very appealing to me.”
-image: /images/People/sindhu-achudan-l.jpg
+image: /images/people/sindhu-achudan-l.jpg
 ---
 <img src="/images/People/sindhu-achudan-l.jpg" alt="Sindhu Achudan" style="width:400px;" align="left">
 <br clear="left">
