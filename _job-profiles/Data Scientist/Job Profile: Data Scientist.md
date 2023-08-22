@@ -1,6 +1,6 @@
 ---
 title: "Job Profile: Data Scientist"
-permalink: /job-profiles/Data-Scientist/overview/
+permalink: /job-profiles/data-scientist/overview/
 description: Join us as a Data Scientist and play a key role defining
   Singapore’s next steps to be a Smart Nation.
 third_nav_title: Data Scientist

@@ -1,6 +1,6 @@
 ---
 title: Eric Tan (IMDA)
-permalink: /job-profiles/Data-Scientist/eric-tan/
+permalink: /job-profiles/data-scientist/eric-tan/
 description: “AI certainly wasn’t in great demand back in early 2000s,” Eric
   says. “I was fortunate that I had followed my heart in pursuing the career
   that I had an affinity with.”

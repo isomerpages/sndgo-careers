@@ -1,6 +1,6 @@
 ---
 title: "Job Profile: Infrastructure Engineer"
-permalink: /job-profiles/Infrastructure-Engineer/overview/
+permalink: /job-profiles/infrastructure-engineer/overview/
 description: Be part of a team scaling bold new heights of digital
   transformation. As an Infrastructure Engineer, you have a pivotal role in
   areas ranging from data systems to hosting environments and services.

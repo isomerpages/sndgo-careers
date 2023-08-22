@@ -1,6 +1,6 @@
 ---
 title: Loke Hui Yi (GovTech)
-permalink: /job-profiles/Simulated-Attack-Specialist/Loke-Hui-Yi/
+permalink: /job-profiles/simulated-attack-specialist/loke-hui-yi/
 description: “I love the burst of excitement when I manage to spot some
   vulnerable code and develop it into a working exploit!”
 image: /images/People/Loke-Hui-Yi.jpg

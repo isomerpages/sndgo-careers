@@ -1,6 +1,6 @@
 ---
 title: Videos
-permalink: /videos
+permalink: /videos/
 ---
 ## **One Career, Infinite Opportunities**
 

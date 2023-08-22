@@ -1,6 +1,6 @@
 ---
 title: Privacy Statement
-permalink: /privacy
+permalink: /privacy/
 ---
 <ol style="text-align: justify;">
     <li>This is a Government of Singapore website. Thank you for examining our privacy statement. If you are only browsing this website, we do not capture data that allows us to identify you individually.</li>

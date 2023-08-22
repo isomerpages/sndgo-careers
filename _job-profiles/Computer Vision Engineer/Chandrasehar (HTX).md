@@ -1,6 +1,6 @@
 ---
 title: Chandrasehar (HTX)
-permalink: /job-profiles/Computer-Vision-Engineer/Chandrasehar/
+permalink: /job-profiles/computer-vision-engineer/chandrasehar/
 description: “Knowing that what we design will lead to a safer and more secure
   environment for all residents in Singapore, including my loved ones, is a key
   factor that motivates me in my work,” Chandrasehar says.

@@ -1,6 +1,6 @@
 ---
 title: "Job Profile: Geospatial & Systems Analyst"
-permalink: /job-profiles/Geospatial-and-Systems-Analyst/overview/
+permalink: /job-profiles/geospatial-and-systems-analyst/overview/
 description: Shape Singapore’s urban environment through data-driven insights
   and set the direction for new plans moving forward.
 image: /images/hero-banner.jpg

@@ -1,6 +1,6 @@
 ---
 title: "Job Profile: Systems Engineer (SIOT)"
-permalink: /job-profiles/Systems-Engineer-SIOT/overview/
+permalink: /job-profiles/systems-engineer-siot/overview/
 description: Play a key role in the technical design, development,
   implementation, and consultation centre for Government agencies.
 image: /images/hero-banner.jpg

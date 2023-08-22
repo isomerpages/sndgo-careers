@@ -1,6 +1,6 @@
 ---
 title: Angelia Lau (URA)
-permalink: /job-profiles/Geospatial-and-Systems-Analyst/Angelia-Lau/
+permalink: /job-profiles/geospatial-and-systems-analyst/angelia-lau/
 description: “The complex, multidimensional nature of urban analytics empowers
   us to impactfully take action and set directions to plan and shape Singapore."
 image: /images/People/Angelia-Lau-L.jpeg

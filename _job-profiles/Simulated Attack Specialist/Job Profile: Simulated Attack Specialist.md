@@ -1,6 +1,6 @@
 ---
 title: "Job Profile: Simulated Attack Specialist"
-permalink: /job-profiles/Simulated-Attack-Specialist/overview/
+permalink: /job-profiles/simulated-attack-specialist/overview/
 description: Play a unique role challenging the status quo to strengthen the
   resilience of our digital infrastructures.
 image: /images/hero-banner.jpg

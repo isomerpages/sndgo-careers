@@ -1,6 +1,6 @@
 ---
 title: Abdillah Ali (GovTech)
-permalink: /job-profiles/Infrastructure-Engineer/Abdillah-Ali/
+permalink: /job-profiles/infrastructure-engineer/abdillah-ali/
 description: Abdillah says one of the key focus areas of his work is to
   transform ICT infrastructure through modernisation and automation to enable
   Government agencies to function efficiently.
