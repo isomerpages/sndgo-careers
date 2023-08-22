@@ -7,7 +7,7 @@ description: “Knowing that what we design will lead to a safer and more secure
 third_nav_title: Computer Vision Engineer
 image: /images/people/chandrasehar-l.jpg
 ---
-<img src="/images/People/chandrasehar-l.jpg" alt="Chandrasehar S/O Rajaseharan" style="width:400px;" align="left">
+<img src="/images/people/chandrasehar-l.jpg" alt="Chandrasehar S/O Rajaseharan" style="width:400px;" align="left">
 <br clear="left">
 
 **Chandrasehar S/O Rajaseharan**<br>

@@ -4,7 +4,7 @@ permalink: /tech-careers/ict-infrastructure/
 description: Be part of the team to lay the foundation for the future and enable
   the delivery of critical digital services that is used by citizens, businesses
   and Government.
-image: /images/Careers/ict.png
+image: /images/careers/ict.png
 ---
 ![](/images/careers/hero-ict-infrastructure.jpg)
 

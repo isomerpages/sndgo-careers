@@ -4,7 +4,7 @@ permalink: /making-the-switch-from-private-sector-christopher-kim/
 description: Contemplating a switch from the private sector to a tech career in
   the government? Christopher shares his experience on taking the leap.
 third_nav_title: Making the switch
-image: /images/People/christopher-kim-l.jpeg
+image: /images/people/christopher-kim-l.jpeg
 ---
 <img src="/images/People/christopher-kim-l.jpeg" alt="Christopher Kim" style="width:400px;" align="left">
 <br clear="left">

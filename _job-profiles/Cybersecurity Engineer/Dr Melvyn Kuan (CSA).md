@@ -6,7 +6,7 @@ description: “At the end of the day, it is a fulfilling experience as we are
 image: /images/people/melvyn-kuan-l.png
 third_nav_title: Cybersecurity Engineer
 ---
-<img src="/images/People/Melvyn-Kuan-L.png" alt="Dr Melvyn Kuan" style="width:400px;" align="left">
+<img src="/images/people/melvyn-kuan-l.png" alt="Dr Melvyn Kuan" style="width:400px;" align="left">
 <br clear="left">
 
 **Dr Melvyn Kuan**<br>

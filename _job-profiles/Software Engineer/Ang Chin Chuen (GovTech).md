@@ -8,7 +8,7 @@ description: “One of the things I find fascinating is pair-programming as the
   working together can quickly unblock any mental impediments.
 image: /images/people/ang-chin-chuen-l.jpg
 ---
-<img src="/images/People/ang-chin-chuen-l.jpg" alt="Ang Chin Chuen" style="width:400px;" align="left">
+<img src="/images/people/ang-chin-chuen-l.jpg" alt="Ang Chin Chuen" style="width:400px;" align="left">
 <br clear="left">
 
 **Ang Chin Chuen**<br>

@@ -3,7 +3,7 @@ title: Sensors & Internet of Things
 permalink: /tech-careers/sensors-and-internet-of-things/
 description: Harness the many possibilities Sensors and the Internet of Things
   (SIOT) can bring about, across anything and everything.
-image: /images/Careers/sensors-iot.png
+image: /images/careers/sensors-iot.png
 ---
 ![](/images/careers/hero-sensors-internet-things.jpg)
 

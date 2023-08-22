@@ -4,7 +4,7 @@ permalink: /tech-careers/data-science-and-ai/
 description: Bring your talent to new frontiers and leverage on data science and
   AI to enable data-driven decision-making by citizens, businesses and
   Government.
-image: /images/Careers/data-science.png
+image: /images/careers/data-science.png
 ---
 ![](/images/careers/hero-data-science-ai.jpg)
 

@@ -6,7 +6,7 @@ description: “I love the burst of excitement when I manage to spot some
 image: /images/people/loke-hui-yi.jpg
 third_nav_title: Simulated Attack Specialist
 ---
-<img src="/images/People/Loke-Hui-Yi.jpg" alt="Loke Hui Yi" style="width:400px;" align="left">
+<img src="/images/people/loke-hui-yi.jpg" alt="Loke Hui Yi" style="width:400px;" align="left">
 <br clear="left">
 
 **Loke Hui Yi**<br>

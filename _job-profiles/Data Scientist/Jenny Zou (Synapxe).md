@@ -6,7 +6,7 @@ description: “I take pride that my work plays a part in making HealthTech bett
 image: /images/people/jenny-zou-l.jpg
 third_nav_title: Data Scientist
 ---
-<img src="/images/People/jenny-zou-l.jpg" alt="Jenny Zou" style="width:400px;" align="left">
+<img src="/images/people/jenny-zou-l.jpg" alt="Jenny Zou" style="width:400px;" align="left">
 <br clear="left">
 
 **Jenny Zou**<br>

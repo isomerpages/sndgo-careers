@@ -7,7 +7,7 @@ description: '"Protecting our cyberspace is a never-ending battle with new
 third_nav_title: Cybersecurity Engineer
 image: /images/people/heng-tian-hao-l.jpg
 ---
-<img src="/images/People/heng-tian-hao-l.jpg" alt="Heng Tian Hao" style="width:400px;" align="left">
+<img src="/images/people/heng-tian-hao-l.jpg" alt="Heng Tian Hao" style="width:400px;" align="left">
 <br clear="left">
 
 **Heng Tian Hao**<br>

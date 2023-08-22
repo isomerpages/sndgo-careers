@@ -6,7 +6,7 @@ description: '"Seeing how small design tweaks can have a huge impact in
 third_nav_title: Systems Analyst
 image: /images/people/nurul-afiqah-l.jpg
 ---
-<img src="/images/People/nurul-afiqah-l.jpg" alt="Nurul Afiqah" style="width:400px;" align="left">
+<img src="/images/people/nurul-afiqah-l.jpg" alt="Nurul Afiqah" style="width:400px;" align="left">
 <br clear="left">
 
 **Nurul Afiqah**<br>

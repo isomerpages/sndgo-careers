@@ -3,7 +3,7 @@ title: Application Design, Development & Deployment
 permalink: /tech-careers/application-design-development-and-deployment/
 description: The ‘rules’ are simple. Design for users. Engineer with care. Build
   inclusively. Transform experiences.
-image: /images/Careers/app-development.png
+image: /images/careers/app-development.png
 ---
 ![](/images/careers/hero-in-app-design.jpg)
 

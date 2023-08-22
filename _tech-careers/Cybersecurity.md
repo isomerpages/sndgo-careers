@@ -3,7 +3,7 @@ title: Cybersecurity
 permalink: /tech-careers/cybersecurity/
 description: Be our next generation of cybersecurity leaders. Join us to shape,
   transform and safeguard our cyber landscape.
-image: /images/Careers/cybersecurity.png
+image: /images/careers/cybersecurity.png
 ---
 ![](/images/careers/hero-cybersecurity.jpg)
 

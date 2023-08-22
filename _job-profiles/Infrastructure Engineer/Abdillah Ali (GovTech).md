@@ -5,7 +5,7 @@ description: Abdillah says one of the key focus areas of his work is to
   transform ICT infrastructure through modernisation and automation to enable
   Government agencies to function efficiently.
 third_nav_title: Infrastructure Engineer
-image: /images/People/abdillah_ali_l.jpeg
+image: /images/people/abdillah_ali_l.jpeg
 ---
 <img src="/images/People/abdillah_ali_l.jpeg" alt="Abdillah Ali" style="width:400px;" align="left">
 <br clear="left">
