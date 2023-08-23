@@ -8,7 +8,7 @@ description: Drive digital transformation across a wide spectrum of business
 third_nav_title: Systems Analyst
 image: /images/hero-banner.jpg
 ---
-![Systems Analyst](/images/Header/Header%20ICT%20Infra.jpeg)
+![Systems Analyst](/images/header/header_ict_infra.jpeg)
 
 # Systems Analyst
 Drive digital transformation across a wide spectrum of business domains. As part of an application development team, you will leverage innovation and technology to enable business excellence, work closely with various stakeholders to manage, design and develop systems.
