@@ -6,7 +6,7 @@ description: Harness the advances and possibilities of leading-edge technology
 image: /images/hero-banner.jpg
 third_nav_title: Computer Vision Engineer
 ---
-![Computer Vision Engineer](/images/Header/Header%20Sensors%20&amp;%20IOT.jpeg)
+![Computer Vision Engineer](/images/header/header%20sensors%20&amp;%20iot.jpeg)
 
 # Computer Vision Engineer
 Harness the advances and possibilities of leading-edge technology with your insights and vision. As a Computer Vision Engineer, you will play a key role in using technology to analyse video and audio to empower surveillance to work more intelligently across numerous public service applications. 
