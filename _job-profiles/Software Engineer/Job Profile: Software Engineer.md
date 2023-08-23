@@ -6,7 +6,7 @@ description: Build Singapore’s next-generation digital products and services t
   solve real-life problems.
 image: /images/hero-banner.jpg
 ---
-![Software Engineer](/images/Header/Header%20App%20Design%20&amp;%20Development.jpeg)
+![Software Engineer](/images/header/header%20app%20design%20&amp;%20development.jpeg)
 
 # Software Engineer
 Build Singapore’s next-generation digital products and services to solve real-life problems and make a lasting impact as you transform the way citizens live, work and play. 
