@@ -55,3 +55,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 google_analytics: UA-77555444-2
+facebook-pixel: ""
+is_government: false
+google_analytics_ga4: ""
+linkedin-insights: ""
