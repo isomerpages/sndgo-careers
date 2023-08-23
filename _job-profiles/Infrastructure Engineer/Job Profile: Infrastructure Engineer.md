@@ -7,7 +7,7 @@ description: Be part of a team scaling bold new heights of digital
 image: /images/hero-banner.jpg
 third_nav_title: Infrastructure Engineer
 ---
-![Infrastructure Engineer](/images/Header/Header%20ICT%20Infra.jpeg)
+![Infrastructure Engineer](/images/header/header_ict_infra.jpeg)
 
 # Infrastructure Engineer
 Be part of a team scaling bold new heights of digital transformation. As an Infrastructure Engineer, you have a pivotal role in areas ranging from data systems to hosting environments and services. The digital solutions you create will be the foundations on which Singapore’s Smart Nation is built on.
