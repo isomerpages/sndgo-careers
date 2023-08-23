@@ -6,7 +6,7 @@ description: Join us as a Cloud Administrator to explore new frontiers of tech
 image: /images/hero-banner.jpg
 third_nav_title: Cloud Administrator
 ---
-![Cloud Administrator](/images/Header/Header%20ICT%20Infra.jpeg)
+![Cloud Administrator](/images/Header/Header_ICT_Infra.jpeg)
 
 # Cloud Administrator
 Bring our Smart Nation projects to a new level by harnessing the vast potential and possibilities of cloud technology. Join us as a Cloud Administrator to explore new frontiers of tech as you architect, plan, and manage our cloud environments.
