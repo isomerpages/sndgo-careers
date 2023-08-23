@@ -6,7 +6,7 @@ description: Play a unique role challenging the status quo to strengthen the
 image: /images/hero-banner.jpg
 third_nav_title: Simulated Attack Specialist
 ---
-![Simulated Attack Specialist](/images/Header/Header%20Cybersecurity.jpeg)
+![Simulated Attack Specialist](/images/header/header%20cybersecurity.jpeg)
 
 # Simulated Attack Specialist
 You will play a unique role challenging the status quo to strengthen the resilience of our digital infrastructures. You will provide assurance for whole-of-Government, Critical Information Infrastructure (CII) and beyond through simulating the threat of advanced attackers.
