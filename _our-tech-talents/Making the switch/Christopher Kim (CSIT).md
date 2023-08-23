@@ -6,7 +6,7 @@ description: Contemplating a switch from the private sector to a tech career in
 third_nav_title: Making the switch
 image: /images/people/christopher-kim-l.jpeg
 ---
-<img src="/images/People/christopher-kim-l.jpeg" alt="Christopher Kim" style="width:400px;" align="left">
+<img src="/images/people/christopher-kim-l.jpeg" alt="Christopher Kim" style="width:400px;" align="left">
 <br clear="left">
 
 **Christopher Kim**<br>
