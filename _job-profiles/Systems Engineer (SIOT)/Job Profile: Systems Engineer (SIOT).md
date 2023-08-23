@@ -6,7 +6,7 @@ description: Play a key role in the technical design, development,
 image: /images/hero-banner.jpg
 third_nav_title: Systems Engineer (SIOT)
 ---
-![Systems Engineer (SIOT)](/images/Header/Header%20Sensors%20&amp;%20IOT.jpeg)
+![Systems Engineer (SIOT)](/images/header/header%20sensors%20&amp;%20iot.jpeg)
 
 # Systems Engineer (SIOT)
 Play a key role in the technical design, development, implementation, and consultation centre for Government agencies. 
