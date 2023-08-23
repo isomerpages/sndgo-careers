@@ -7,7 +7,7 @@ description: Abdillah says one of the key focus areas of his work is to
 third_nav_title: Infrastructure Engineer
 image: /images/people/abdillah_ali_l.jpeg
 ---
-<img src="/images/People/abdillah_ali_l.jpeg" alt="Abdillah Ali" style="width:400px;" align="left">
+<img src="/images/people/abdillah_ali_l.jpeg" alt="Abdillah Ali" style="width:400px;" align="left">
 <br clear="left">
 
 **Abdillah Ali**<br>
