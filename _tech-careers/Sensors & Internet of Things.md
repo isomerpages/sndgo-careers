@@ -30,7 +30,7 @@ Join one of our many teams to implement meaningful projects that impact the nati
 </div>
 <div class="row-testimonial">
 <div class="column-testimonial">
-<img src="/images/People/chandrasehar_t.jpeg" alt="Chandrasehar S/O Rajaseharan" title="Tech Talent"><br><em><strong>Chandrasehar S/O Rajaseharan</strong><br><span style="font-size:13px; line-height:14px">Lead Engineer, Sensors and Sense-making, Sense-making &amp; Surveillance Centre of Experitse, HTX<br>Joined in 2019</span></em><br><br>
+<img src="/images/people/chandrasehar_t.jpeg" alt="Chandrasehar S/O Rajaseharan" title="Tech Talent"><br><em><strong>Chandrasehar S/O Rajaseharan</strong><br><span style="font-size:13px; line-height:14px">Lead Engineer, Sensors and Sense-making, Sense-making &amp; Surveillance Centre of Experitse, HTX<br>Joined in 2019</span></em><br><br>
 “The challenges in designing the best video analytics solutions and the need to always keep track of new trends in technology, motivates me to push on in my work, knowing that what we design will lead to a more secure environment for our nation, including my loved ones.”<br><br></div>
 <div class="column-testimonial">
 <img src="/images/people/christopher-tong.png" alt="Christopher Tong" title="Tech Talent"><br><em><strong>Christopher Tong</strong><br><span style="font-size:13px; line-height:14px">Product Manager, Sensors &amp; Internet of Things, GovTech<br>Joined in 2019</span></em><br><br>
