@@ -36,14 +36,14 @@ Discover endless possibilities with data science and AI, from informing policy a
 <div class="row-testimonial">
 	
 <div class="column-testimonial">
-<img src="/images/People/Abigail-Soh-T.jpeg" alt="Abigail Soh" title="Tech Talent"><br><em><strong>Abigail Soh</strong><br><span style="font-size:13px; line-height:14px">Senior Manager, Analytics &amp; Insights, STB</span></em><br><br>“My work leverages on data analytics and visualisation to generate fresh insights on visitor expenditure, which in turn enables data-driven decisions by STB and Industry. It has been a rewarding journey being able to drive and witness several key shifts including pioneering a new statistical software, and enhancing the Tourism Receipts computation framework following the onset of the global pandemic in 2020.”<br><br></div>	
+<img src="/images/people/abigail-soh-t.jpeg" alt="Abigail Soh" title="Tech Talent"><br><em><strong>Abigail Soh</strong><br><span style="font-size:13px; line-height:14px">Senior Manager, Analytics &amp; Insights, STB</span></em><br><br>“My work leverages on data analytics and visualisation to generate fresh insights on visitor expenditure, which in turn enables data-driven decisions by STB and Industry. It has been a rewarding journey being able to drive and witness several key shifts including pioneering a new statistical software, and enhancing the Tourism Receipts computation framework following the onset of the global pandemic in 2020.”<br><br></div>	
 	
 <div class="column-testimonial">
-<img src="/images/People/Jason-Koh-T.jpeg" alt="Jason Koh" title="Tech Talent"><br><em><strong>Jason Koh</strong><br><span style="font-size:13px; line-height:14px">Lead Product Manager, Visitor Experience Technology, STB<br>Joined in 2021</span></em><br><br>
+<img src="/images/people/jason-koh-t.jpeg" alt="Jason Koh" title="Tech Talent"><br><em><strong>Jason Koh</strong><br><span style="font-size:13px; line-height:14px">Lead Product Manager, Visitor Experience Technology, STB<br>Joined in 2021</span></em><br><br>
 “At STB, we are Passion Made Possible! I enjoy working on various digital initiatives for tourism. I develop innovative and compelling digital tourism products and services to empower tourism businesses to enhance their offerings, and expand their global reach, and deliver quality visitor experiences.”<br><br></div>
 	
 <div class="column-testimonial">
-<img src="/images/People/Yifei-Zheng-T.jpeg" alt="Zheng Yifei" title="Tech Talent"><br><em><strong>Zheng Yifei</strong><br><span style="font-size:13px; line-height:14px">Manager, Data Science, STB<br>Joined in 2019</span></em><br><br>
+<img src="/images/people/yifei-zheng-t.jpeg" alt="Zheng Yifei" title="Tech Talent"><br><em><strong>Zheng Yifei</strong><br><span style="font-size:13px; line-height:14px">Manager, Data Science, STB<br>Joined in 2019</span></em><br><br>
 “As a Data Scientist, I harness data from diverse sources, transforming them into accessible and invaluable reports and dashboards. Adopting a bevy of machine learning and data visualisation techniques, allows me to uncover meaningful insights behind visitors’ behaviour and develop data-driven products crucial in shaping the ever-changing landscape of Singapore’s tourism sector.<br><br></div>
 
 </div>
