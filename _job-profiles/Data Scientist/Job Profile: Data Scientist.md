@@ -6,7 +6,7 @@ description: Join us as a Data Scientist and play a key role defining
 third_nav_title: Data Scientist
 image: /images/hero-banner.jpg
 ---
-![Data Scientist](/images/Header/Header%20Data%20Science%20&amp;%20AI.jpeg)
+![Data Scientist](/images/header/header%20data%20science%20&amp;%20ai.jpeg)
 
 # Data Scientist
 Digital insights and better discovery – driven by big data. Join us as a Data Scientist and play a key role defining Singapore’s next steps to be a Smart Nation. 
