@@ -1,13 +1,13 @@
 ---
 title: Chandrasehar (HTX)
-permalink: /job-profiles/Computer-Vision-Engineer/Chandrasehar/
+permalink: /job-profiles/computer-vision-engineer/chandrasehar/
 description: “Knowing that what we design will lead to a safer and more secure
   environment for all residents in Singapore, including my loved ones, is a key
   factor that motivates me in my work,” Chandrasehar says.
 third_nav_title: Computer Vision Engineer
-image: /images/People/chandrasehar-l.jpg
+image: /images/people/chandrasehar-l.jpg
 ---
-<img src="/images/People/chandrasehar-l.jpg" alt="Chandrasehar S/O Rajaseharan" style="width:400px;" align="left">
+<img src="/images/people/chandrasehar-l.jpg" alt="Chandrasehar S/O Rajaseharan" style="width:400px;" align="left">
 <br clear="left">
 
 **Chandrasehar S/O Rajaseharan**<br>

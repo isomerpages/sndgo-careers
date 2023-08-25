@@ -46,8 +46,8 @@ safe: false
 resources_name: Media-hub
 shareicon: /images/hero-banner.jpg
 homepage_resources: true
-staging: https://sndgo-careers-staging.netlify.app
-prod: https://sndgo-careers-prod.netlify.app
+staging: https://staging.d1izzhes769j0.amplifyapp.com/
+prod: https://master.d1izzhes769j0.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
@@ -55,3 +55,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 google_analytics: UA-77555444-2
+facebook-pixel: ""
+is_government: false
+google_analytics_ga4: ""
+linkedin-insights: ""

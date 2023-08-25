@@ -1,13 +1,13 @@
 ---
 title: Steven New (IRAS)
-permalink: /job-profiles/Cloud-Administrator/Steven-New/
+permalink: /job-profiles/cloud-administrator/steven-new/
 description: “I would like to think that our work would greatly aid IRAS’
   business users such as frontline tax officers in providing a safe, reliable
   and convenient experience when accessing sensitive tax information.”
 third_nav_title: Cloud Administrator
-image: /images/People/steven_new_l.jpeg
+image: /images/people/steven_new_l.jpeg
 ---
-<img src="/images/People/steven_new_l.jpeg" alt="Steven New" style="width:400px;" align="left">
+<img src="/images/people/steven_new_l.jpeg" alt="Steven New" style="width:400px;" align="left">
 <br clear="left">
 
 **Steven New**<br>

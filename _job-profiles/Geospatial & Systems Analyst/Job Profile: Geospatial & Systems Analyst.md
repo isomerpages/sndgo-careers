@@ -1,12 +1,12 @@
 ---
 title: "Job Profile: Geospatial & Systems Analyst"
-permalink: /job-profiles/Geospatial-and-Systems-Analyst/overview/
+permalink: /job-profiles/geospatial-and-systems-analyst/overview/
 description: Shape Singapore’s urban environment through data-driven insights
   and set the direction for new plans moving forward.
 image: /images/hero-banner.jpg
 third_nav_title: Geospatial & Systems Analyst
 ---
-![Geospatial &amp; Systems Analyst](/images/Header/Header%20Geospatial.jpeg)
+![Geospatial &amp; Systems Analyst](/images/header/header%20geospatial.jpeg)
 
 # Geospatial &amp; Systems Analyst
 Map new advancements in geospatial analyses as you harness a wide range of technologies to enhance how people go about their lives. Shape Singapore’s urban environment through data-driven insights and set the direction for new plans moving forward.
@@ -57,9 +57,9 @@ Map new advancements in geospatial analyses as you harness a wide range of techn
 <div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
         
 <div class="row" style="background-color: #f3f3f3;">
-      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/People/Angelia-Lau-S.jpeg" alt="Angelia Lau"></div>
+      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/people/angelia-lau-s.jpeg" alt="Angelia Lau"></div>
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
        <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Angelia Lau</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Systems Analyst, URA<br>Joined in 2020</span><br><br>
-    <span style="font-size: 16px; line-height: 23px;">“The complex, multidimensional nature of urban analytics empowers us to impactfully take action and set directions to plan and shape Singapore."<br><br> [Find out more about <a href="/job-profiles/Geospatial-and-Systems-Analyst/Angelia-Lau">Angelia Lau</a>]</span>
+    <span style="font-size: 16px; line-height: 23px;">“The complex, multidimensional nature of urban analytics empowers us to impactfully take action and set directions to plan and shape Singapore."<br><br> [Find out more about <a href="/job-profiles/geospatial-and-systems-analyst/angelia-lau">Angelia Lau</a>]</span>
       </div>
 </div>

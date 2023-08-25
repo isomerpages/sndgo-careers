@@ -1,14 +1,14 @@
 ---
 title: Teo Si Yan (GovTech)
-permalink: /job-profiles/Systems-Engineer-SIOT/Si-Yan/
+permalink: /job-profiles/systems-engineer-siot/si-yan/
 description: “Our projects either directly help citizens or businesses, or they
   enable other Government agencies to carry out their operations more
   effectively using technology, which helps citizens and businesses in the long
   run.”
 third_nav_title: Systems Engineer (SIOT)
-image: /images/People/si-yan-l.jpg
+image: /images/people/si-yan-l.jpg
 ---
-<img src="/images/People/si-yan-l.jpg" alt="Teo Si-Yan" style="width:400px;" align="left">
+<img src="/images/people/si-yan-l.jpg" alt="Teo Si-Yan" style="width:400px;" align="left">
 <br clear="left">
 
 **Teo Si-Yan**<br>

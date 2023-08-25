@@ -6,7 +6,7 @@ description: Join our multi-disciplinary team that’s dedicated to keeping
 third_nav_title: Cybersecurity Engineer
 image: /images/hero-banner.jpg
 ---
-![Cybersecurity Engineer](/images/Header/Header%20Cybersecurity.jpeg)
+![Cybersecurity Engineer](/images/header/header%20cybersecurity.jpeg)
 
 # Cybersecurity Engineer
 As more of our lives are spent online, there is even more importance attached to keeping our IT systems safe from cyber threats such as malware, phishing and ransomware. Join our multi-disciplinary team that’s dedicated to keeping national and whole-of-Government projects, systems and digital services safe – and be on the frontlines of Singapore’s digital transformation. 
@@ -45,7 +45,7 @@ As more of our lives are spent online, there is even more importance attached to
 <div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
         
 <div class="row" style="background-color: #f3f3f3;">
-      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/People/heng-tian-hao.jpg" alt="Heng Tian Hao"></div>
+      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/people/heng-tian-hao.jpg" alt="Heng Tian Hao"></div>
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
        <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Heng Tian Hao</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Senior Engineer, Cybersecurity Programme Centre, DSTA?<br>Joined in 2014</span><br><br>
     <span style="font-size: 16px; line-height: 23px;">“Protecting our cyberspace is a never-ending battle with new vulnerabilities and exploits discovered every day. This gets me fired up as I’m always looking for fresh challenges to overcome.”<br><br> [Find out more about <a href="/job-profiles/cybersecurity-engineer/heng-tian-hao">Heng Tian Hao</a>]</span>
@@ -53,7 +53,7 @@ As more of our lives are spent online, there is even more importance attached to
 </div>
 
 <div class="row" style="background-color: #f3f3f3;">
-      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/People/Melvyn-Kuan-S.png" alt="Dr Melvyn Kuan"></div>
+      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/people/melvyn-kuan-s.png" alt="Dr Melvyn Kuan"></div>
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
        <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Dr Melvyn Kuan</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Senior Assistant Director, Cybersecurity Engineering Centre, CSA<br>Joined in 2015</span><br><br>
     <span style="font-size: 16px; line-height: 23px;">“At the end of the day, it is a fulfilling experience as we are galvanising a global effort towards a more secure IoT ecosystem.”<br><br> [Find out more about <a href="/job-profiles/cybersecurity-engineer/dr-melvyn-kuan">Dr Melvyn Kuan</a>]</span>

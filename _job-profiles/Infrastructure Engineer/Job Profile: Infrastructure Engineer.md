@@ -1,13 +1,13 @@
 ---
 title: "Job Profile: Infrastructure Engineer"
-permalink: /job-profiles/Infrastructure-Engineer/overview/
+permalink: /job-profiles/infrastructure-engineer/overview/
 description: Be part of a team scaling bold new heights of digital
   transformation. As an Infrastructure Engineer, you have a pivotal role in
   areas ranging from data systems to hosting environments and services.
 image: /images/hero-banner.jpg
 third_nav_title: Infrastructure Engineer
 ---
-![Infrastructure Engineer](/images/Header/Header%20ICT%20Infra.jpeg)
+![Infrastructure Engineer](/images/header/header_ict_infra.jpeg)
 
 # Infrastructure Engineer
 Be part of a team scaling bold new heights of digital transformation. As an Infrastructure Engineer, you have a pivotal role in areas ranging from data systems to hosting environments and services. The digital solutions you create will be the foundations on which Singapore’s Smart Nation is built on.
@@ -48,6 +48,6 @@ Be part of a team scaling bold new heights of digital transformation. As an Infr
       <div class="column" style="padding: 10px 0px 30px 20px;"><img src="https://techcareers.smartnation.gov.sg/images/people/abdillah_ali.jpeg" alt="Abdillah Ali"></div>
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
        <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Abdillah Ali</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Infrastructure Engineer, GovTech<br>Joined in 2015</span><br><br>
-    <span style="font-size: 16px; line-height: 23px;">“I want to continuously learn, unlearn and re-learn technologies that can achieve better user experience and enable all public officers to perform their roles and play their parts in serving public good."<br><br> [Find out more about <a href="/job-profiles/Infrastructure-Engineer/Abdillah-Ali">Abdillah Ali</a>]</span>
+    <span style="font-size: 16px; line-height: 23px;">“I want to continuously learn, unlearn and re-learn technologies that can achieve better user experience and enable all public officers to perform their roles and play their parts in serving public good."<br><br> [Find out more about <a href="/job-profiles/infrastructure-engineer/abdillah-ali">Abdillah Ali</a>]</span>
       </div>
 </div>

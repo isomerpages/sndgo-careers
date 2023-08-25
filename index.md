@@ -21,20 +21,20 @@ sections:
       button: FIND OUT MORE
       url: /tech-careers/application-design-development-and-deployment/
       alt: App Design & Development
-      image: /images/Careers/app-development.png
+      image: /images/careers/app-development.png
   - infopic:
       title: Cybersecurity
       description: Defend our cyberspace. Protect our digital way of life.
       button: Find out more
       url: /tech-careers/cybersecurity/
-      image: /images/Careers/cybersecurity.png
+      image: /images/careers/cybersecurity.png
       alt: Cybersecurity
   - infopic:
       title: Data Science & AI
       description: Create tech marvels. Discover endless possibilities with Data and AI.
       button: Find out more
       url: /tech-careers/data-science-and-ai/
-      image: /images/Careers/data-science.png
+      image: /images/careers/data-science.png
       alt: Data Science & AI
   - infopic:
       title: Geospatial
@@ -42,7 +42,7 @@ sections:
       button: Find out more
       url: tech-careers/geospatial/
       alt: Geospatial
-      image: /images/Careers/geospatial.png
+      image: /images/careers/geospatial.png
   - infopic:
       title: "ICT Infrastructure "
       description: "Architect digital infrastructure to power Singapore's digital
@@ -50,13 +50,13 @@ sections:
       button: Find out more
       url: /tech-careers/ict-infrastructure/
       alt: "ICT Infrastructure "
-      image: /images/Careers/ict.png
+      image: /images/careers/ict.png
   - infopic:
       title: "Sensors & Internet of Things "
       description: Sensing Singapore, Connecting Citizens.
       button: Find out more
       url: /tech-careers/sensors-and-internet-of-things/
-      image: /images/Careers/sensors-iot.png
+      image: /images/careers/sensors-iot.png
       alt: "Sensors & Internet of Things "
   - infopic:
       title: "Tech Policy & Governance "
@@ -64,7 +64,7 @@ sections:
         leadership. Be the one who helps bring it all together.
       button: Find out more
       url: /tech-careers/tech-policy-and-governance/
-      image: /images/Careers/tech-governance.png
+      image: /images/careers/tech-governance.png
       alt: "Tech Policy & Governance "
   - infobar:
       url: /testimonials
