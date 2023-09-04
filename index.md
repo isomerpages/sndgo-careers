@@ -4,11 +4,12 @@ title: Careers in the Government’s ICT&SS sector
 description: Champion tech for public good.
 image: /images/hero-banner.jpg
 permalink: /
-notification: ""
+notification: Our website will be undergoing scheduled maintenance on 5 Sep from
+  10:30am to 1:30pm. During this time, the website may be unavailable. We
+  apologise for any inconvenience caused.
 sections:
   - hero:
       background: /images/hero-banner.gif
-      title: "                          "
   - infobar:
       title: Join us
       description: Champion tech for public good via a multifaceted career in the
@@ -44,28 +45,28 @@ sections:
       alt: Geospatial
       image: /images/careers/geospatial.png
   - infopic:
-      title: "ICT Infrastructure "
-      description: "Architect digital infrastructure to power Singapore's digital
-        transformation. "
+      title: ICT Infrastructure
+      description: Architect digital infrastructure to power Singapore's digital
+        transformation.
       button: Find out more
       url: /tech-careers/ict-infrastructure/
-      alt: "ICT Infrastructure "
+      alt: ICT Infrastructure
       image: /images/careers/ict.png
   - infopic:
-      title: "Sensors & Internet of Things "
+      title: Sensors & Internet of Things
       description: Sensing Singapore, Connecting Citizens.
       button: Find out more
       url: /tech-careers/sensors-and-internet-of-things/
       image: /images/careers/sensors-iot.png
-      alt: "Sensors & Internet of Things "
+      alt: Sensors & Internet of Things
   - infopic:
-      title: "Tech Policy & Governance "
+      title: Tech Policy & Governance
       description: Set the stage. A Smart Nation calls for tech, talent and thought
         leadership. Be the one who helps bring it all together.
       button: Find out more
       url: /tech-careers/tech-policy-and-governance/
       image: /images/careers/tech-governance.png
-      alt: "Tech Policy & Governance "
+      alt: Tech Policy & Governance
   - infobar:
       url: /testimonials
       title: Meet Our Experts
@@ -73,6 +74,3 @@ sections:
         the way we live, work and play.
       button: Find out more
 ---
-
-
-
