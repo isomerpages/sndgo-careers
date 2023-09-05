@@ -4,9 +4,7 @@ title: Careers in the Government’s ICT&SS sector
 description: Champion tech for public good.
 image: /images/hero-banner.jpg
 permalink: /
-notification: Our website will be undergoing scheduled maintenance on 5 Sep from
-  10:30am to 1:30pm. During this time, the website may be unavailable. We
-  apologise for any inconvenience caused.
+notification: ""
 sections:
   - hero:
       background: /images/hero-banner.gif
