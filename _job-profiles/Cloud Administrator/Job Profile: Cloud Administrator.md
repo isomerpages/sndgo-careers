@@ -46,7 +46,7 @@ Bring our Smart Nation projects to a new level by harnessing the vast potential 
 <div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
         
 <div class="row" style="background-color: #f3f3f3;">
-      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="https://techcareers.smartnation.gov.sg/images/People/steven_new.jpeg" alt="Steven New"></div>
+      <div class="column" style="padding: 10px 0px 30px 20px;"><img src="https://techcareers.smartnation.gov.sg/images/people/steven_new.jpeg" alt="Steven New"></div>
       <div class="column" style="width: 100%; padding: 10px 20px 30px 20px;">
        <span style="font-size: 22px; font-weight: bold; line-height: 30px;">Steven New</span><br><span style="font-size: 14px; font-style: italic; line-height: 16px;">Senior Infocomm Specialist, IRAS<br>Joined in 2017</span><br><br>
     <span style="font-size: 16px; line-height: 23px;">“I would like to think that our work would greatly aid IRAS’ business users such as frontline tax officers in providing a safe, reliable and convenient experience when accessing sensitive tax information.”<br><br> [Find out more about <a href="/job-profiles/cloud-administrator/steven-new">Steven New</a>]</span>
