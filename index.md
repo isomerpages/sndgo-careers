@@ -8,6 +8,16 @@ notification: ""
 sections:
   - hero:
       background: /images/hero-banner.gif
+      key_highlights:
+        - title: Discover Career Opportunities
+          description: Explore your options
+          url: ""
+        - title: Check out officers' testimonials
+          description: Find out more about the work
+          url: ""
+        - title: Get to know Smart nation
+          description: Learn all about the initiative
+          url: ""
   - infobar:
       title: Join us
       description: Champion tech for public good via a multifaceted career in the
