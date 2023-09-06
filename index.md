@@ -75,10 +75,4 @@ sections:
       url: /tech-careers/tech-policy-and-governance/
       image: /images/careers/tech-governance.png
       alt: Tech Policy & Governance
-  - infobar:
-      url: /testimonials
-      title: Meet Our Experts
-      description: Discover how our officers are creating new solutions to transform
-        the way we live, work and play.
-      button: Find out more
 ---
