@@ -9,15 +9,15 @@ sections:
   - hero:
       background: /images/hero-banner.gif
       key_highlights:
-        - title: Discover Career Opportunities
+        - title: Discover Careers in Tech
           description: Explore your options
-          url: ""
+          url: /tech-careers/application-design-development-and-deployment
         - title: Check out officers' testimonials
           description: Find out more about the work
-          url: ""
+          url: /testimonials
         - title: Get to know Smart nation
           description: Learn all about the initiative
-          url: ""
+          url: https://www.smartnation.gov.sg
   - infobar:
       title: Join us
       description: Champion tech for public good via a multifaceted career in the
