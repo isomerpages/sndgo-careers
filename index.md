@@ -8,6 +8,16 @@ notification: ""
 sections:
   - hero:
       background: /images/hero-banner.gif
+      key_highlights:
+        - title: Discover Careers in Tech
+          description: Explore your options
+          url: /tech-careers/application-design-development-and-deployment
+        - title: Check out officers' testimonials
+          description: Find out more about the work
+          url: /testimonials
+        - title: Get to know Smart nation
+          description: Learn all about the initiative
+          url: https://www.smartnation.gov.sg
   - infobar:
       title: Join us
       description: Champion tech for public good via a multifaceted career in the
@@ -65,10 +75,4 @@ sections:
       url: /tech-careers/tech-policy-and-governance/
       image: /images/careers/tech-governance.png
       alt: Tech Policy & Governance
-  - infobar:
-      url: /testimonials
-      title: Meet Our Experts
-      description: Discover how our officers are creating new solutions to transform
-        the way we live, work and play.
-      button: Find out more
 ---
