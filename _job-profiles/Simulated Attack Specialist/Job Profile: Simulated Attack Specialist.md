@@ -5,6 +5,7 @@ description: Play a unique role challenging the status quo to strengthen the
   resilience of our digital infrastructures.
 image: /images/hero-banner.jpg
 third_nav_title: Simulated Attack Specialist
+variant: markdown
 ---
 ![Simulated Attack Specialist](/images/header/header%20cybersecurity.jpeg)
 
@@ -44,7 +45,7 @@ You will play a unique role challenging the status quo to strengthen the resilie
 
 
 ​
-<div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
+<div class="row" style="font-size:34px; font-weight: 700; color: #4B789B; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
         
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/people/xavier-yeo-2.jpg" alt="Xavier Yeo"></div>
