@@ -5,6 +5,7 @@ description: '"Seeing how small design tweaks can have a huge impact in
   delivering better quality digital services was very satisfying!”'
 third_nav_title: Systems Analyst
 image: /images/people/nurul-afiqah-l.jpg
+variant: markdown
 ---
 <img src="/images/people/nurul-afiqah-l.jpg" alt="Nurul Afiqah" style="width:400px;" align="left">
 <br clear="left">
@@ -40,7 +41,7 @@ Another memorable moment was when she witnessed customers’ frustration with an
 
 After the session, her team went through multiple design sprints and many late nights to refine the app, and eventually developed a simpler, more elegant prototype within a month that was well received by participants in the second review session.
 
-<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #FF0000; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid red">She says: “Seeing how small design tweaks can have a huge impact in delivering better quality digital services was very satisfying!”</div>
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #4B789B; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid">She says: “Seeing how small design tweaks can have a huge impact in delivering better quality digital services was very satisfying!”</div>
 
 Ultimately, Afiqah hopes to use her understanding of automation tools and systems to provide innovative solutions to Singapore’s nation-building challenges.
 
