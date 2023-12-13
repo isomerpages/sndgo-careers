@@ -5,6 +5,7 @@ description: “The complex, multidimensional nature of urban analytics empowers
   us to impactfully take action and set directions to plan and shape Singapore."
 image: /images/people/angelia-lau-l.jpeg
 third_nav_title: Geospatial & Systems Analyst
+variant: markdown
 ---
 <img src="/images/people/angelia-lau-l.jpeg" alt="Stephanie Khoo" style="width:400px;" align="left">
 <br clear="left">
@@ -35,6 +36,6 @@ It struck me how interconnected the world is. The complex, multidimensional natu
 
 Today, she works on enhancing ePlanner, a geospatial Web application that empowers Singapore’s urban planners with the tools and data needed to better shape our urban environment. Some of the questions it could potentially help answer include whether a resident has a clinic or library within 20 minutes of public transport commute, or if there’s a park within a 10-minute cycle away.  
 
-<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #FF0000; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid red">“It is gratifying when we develop tools that allow us to critically assess the present built environment and lived experience, and to look into the future,” Angelia says.</div>
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #4B789B; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid">“It is gratifying when we develop tools that allow us to critically assess the present built environment and lived experience, and to look into the future,” Angelia says.</div>
 
 “Being able to see this information spatially and model various scenarios puts me in a role where I can impactfully take action and set direction, and advance URA’s ability to plan and shape Singapore.”
