@@ -5,6 +5,7 @@ description: “I take pride that my work plays a part in making HealthTech bett
   for all of us and helps Singapore strengthen its position as a Smart Nation.”
 image: /images/people/jenny-zou-l.jpg
 third_nav_title: Data Scientist
+variant: markdown
 ---
 <img src="/images/people/jenny-zou-l.jpg" alt="Jenny Zou" style="width:400px;" align="left">
 <br clear="left">
@@ -44,4 +45,4 @@ At NDCS and KKH,&nbsp;they deployed an AI-powered No-Show Predictive Model that 
 
 About one year’s worth of data, consisting about 3 million records, was used to develop the prediction model. Another year’s data was used to validate the model, which had a prediction accuracy of 77 per cent.
 
-<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #FF0000; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid red">She says: “I take pride that my work plays a part in making HealthTech better for all of us and helps Singapore strengthen its position as a Smart Nation.”</div>
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #4B789B; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid">She says: “I take pride that my work plays a part in making HealthTech better for all of us and helps Singapore strengthen its position as a Smart Nation.”</div>
