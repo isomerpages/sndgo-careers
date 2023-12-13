@@ -7,6 +7,7 @@ description: “There is a role for everyone to contribute to the growth and
   I find it most fulfilling to work on solutions that benefit consumers and
   organisations alike,” says Jin Chong.
 image: /images/people/ho-jin-chong-l.jpg
+variant: markdown
 ---
 <img src="/images/people/ho-jin-chong-l.jpg" alt="Ho Jin Chong" style="width:400px;" align="left">
 <br clear="left">
@@ -22,7 +23,7 @@ Digital trust is becoming increasingly valuable as more Singaporeans and busines
 
 And it is in this space that Jin Chong, who works in the Policy and Technology department of the Infocomm Media Development Authority, operates in. His role involves formulating and reviewing policies to make sure businesses who use citizens’ data do so responsibly.
 
-<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #FF0000; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid red">“There is a role for everyone to contribute to the growth and development of Singapore’s digital economy. I chose to do policy work because I find it most fulfilling to work on solutions that benefit consumers and organisations alike,” says Jin Chong.</div>
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #4B789B; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid">“There is a role for everyone to contribute to the growth and development of Singapore’s digital economy. I chose to do policy work because I find it most fulfilling to work on solutions that benefit consumers and organisations alike,” says Jin Chong.</div>
 
 “In IMDA, I get to experience that by being part of the governance team looking to strengthen Singapore as a trusted digital innovation hub,” he adds.
 
