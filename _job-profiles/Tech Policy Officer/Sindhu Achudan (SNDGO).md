@@ -6,6 +6,7 @@ description: “As I was interested in joining the public service and setting
   tech-related policies that will benefit our citizens, SNDGO‘s mission of
   ‘transforming Singapore through technology’ was very appealing to me.”
 image: /images/people/sindhu-achudan-l.jpg
+variant: markdown
 ---
 <img src="/images/people/sindhu-achudan-l.jpg" alt="Sindhu Achudan" style="width:400px;" align="left">
 <br clear="left">
@@ -29,7 +30,7 @@ She says SNDGO was no different from her previous start-up environment as it has
 
 Asked why she joined public service as a Tech Policy Officer, Sindhu shares she was inspired to make a difference in people’s lives through tech. 
 
-<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #FF0000; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid red">“As I was interested in joining the public service and setting tech-related policies that will benefit our citizens, SNDGO‘s mission of ‘transforming Singapore through technology’ was very appealing to me,” she says.</div>
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #4B789B; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid">“As I was interested in joining the public service and setting tech-related policies that will benefit our citizens, SNDGO‘s mission of ‘transforming Singapore through technology’ was very appealing to me,” she says.</div>
 
 As part of the Strategy and Masterplanning team at SNDGO, Sindhu works closely with Government agencies and industry partners to develop strategies and frameworks to improve user experience of Government digital services and products.
 
