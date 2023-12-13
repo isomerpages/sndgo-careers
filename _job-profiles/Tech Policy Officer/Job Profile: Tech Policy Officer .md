@@ -6,6 +6,7 @@ description: Dive into emerging technologies and formulate the new policies and
   strategies that empower innovation. Explore the myriad possibilities, with a
   vision for the future and a focus on how to effect it.
 image: /images/hero-banner.jpg
+variant: markdown
 ---
 ![Tech Policy Officer](/images/header/header%20tech%20policy%20&amp;%20governance.jpeg)
 
@@ -46,7 +47,7 @@ This is the domain where you transform what’s new to what’s to come. Dive in
 
 
 ​
-<div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
+<div class="row" style="font-size:34px; font-weight: 700; color: #4B789B; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
         
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/people/sindhu-achudan.jpg" alt="Sindhu Achudan"></div>
