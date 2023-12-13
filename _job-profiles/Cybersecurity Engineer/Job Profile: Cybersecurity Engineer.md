@@ -43,7 +43,7 @@ As more of our lives are spent online, there is even more importance attached to
 * Passion for cybersecurity and is a self-motivated individual 
 
 ​
-<div class="row" style="font-size:34px; font-weight: 700; color: 4B789B; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
+<div class="row" style="font-size:34px; font-weight: 700; color: #4B789B; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
         
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/people/heng-tian-hao.jpg" alt="Heng Tian Hao"></div>
