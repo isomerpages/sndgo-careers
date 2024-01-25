@@ -1,0 +1,61 @@
+title: Careers in the Government’s ICT&SS sector
+url: https://techcareers.smartnation.gov.sg
+favicon: /images/favicon.ico
+colors:
+  primary-color: "#132f4d"
+  secondary-color: "#4b789b"
+  media-colors:
+    - title: media-color-one
+      color: "#1e405e"
+    - title: media-color-two
+      color: "#73a0c3"
+    - title: media-color-three
+      color: "#96bedc"
+    - title: media-color-four
+      color: "#698396"
+    - title: media-color-five
+      color: "#869098"
+description: Champion tech for public good.
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+resources_name: Media-hub
+shareicon: /images/hero-banner.jpg
+homepage_resources: true
+staging: https://staging.d1izzhes769j0.amplifyapp.com/
+prod: https://master.d1izzhes769j0.amplifyapp.com/
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+google_analytics: UA-77555444-2
+facebook-pixel: ""
+is_government: false
+google_analytics_ga4: ""
+linkedin-insights: ""
