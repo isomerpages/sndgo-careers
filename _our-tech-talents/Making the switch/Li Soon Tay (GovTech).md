@@ -29,7 +29,7 @@ It was natural for me to join the start-up scene in Singapore given my prior exp
 
 As the team grew, there was a need to better represent the engineers when discussing business requirements with leadership and to understand user needs through research and usability tests. This fuelled the natural transition for me into product management. As I learned and grew, I knew I wanted to do even more.
 
-<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #4B789B; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid">I was keen to find more scalable work that drove direct impact to a larger group of users.</div>
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #a6221c; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid">I was keen to find more scalable work that drove direct impact to a larger group of users.</div>
 
 ### My Perception of GovTech
 
@@ -49,7 +49,7 @@ We primarily serve people living in Singapore and enjoy more than 4.2 million us
 
 ### #TechforPublicGood: A career that creates far-reaching impact
 
-<br><div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #4B789B; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid">One of my key takeaways that shaped my perspective of working in Public Service, with GovTech, is that it is not just about Tech. It is also about helping Singapore and the economy.</div>
+<br><div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #a6221c; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid">One of my key takeaways that shaped my perspective of working in Public Service, with GovTech, is that it is not just about Tech. It is also about helping Singapore and the economy.</div>
 
 Once we can understand that we will realize that our impact is much more far-reaching. There is also something unique about my role here that I personally will not be able to experience elsewhere.
 
