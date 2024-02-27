@@ -6,6 +6,7 @@ description: “Knowing that what we design will lead to a safer and more secure
   factor that motivates me in my work,” Chandrasehar says.
 third_nav_title: Computer Vision Engineer
 image: /images/people/chandrasehar-l.jpg
+variant: markdown
 ---
 <img src="/images/people/chandrasehar-l.jpg" alt="Chandrasehar S/O Rajaseharan" style="width:400px;" align="left">
 <br clear="left">
@@ -38,4 +39,4 @@ He also had to design solutions that could integrate with third-party algorithms
 
 Today, he recognises his work at HTX has a direct impact on the Home Team, by increasing his colleagues’ effectiveness at making sense of the information they have and reducing their workload. This, in turn, better equips them to protect our home.&nbsp;
 
-<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #FF0000; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid red">“Knowing that what we design will lead to a safer and more secure environment for all residents in Singapore, including my loved ones, is a key factor that motivates me in my work,” Chandrasehar says.</div>
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #4B789B; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid">“Knowing that what we design will lead to a safer and more secure environment for all residents in Singapore, including my loved ones, is a key factor that motivates me in my work,” Chandrasehar says.</div>

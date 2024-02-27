@@ -6,6 +6,7 @@ description: Abdillah says one of the key focus areas of his work is to
   Government agencies to function efficiently.
 third_nav_title: Infrastructure Engineer
 image: /images/people/abdillah_ali_l.jpeg
+variant: markdown
 ---
 <img src="/images/people/abdillah_ali_l.jpeg" alt="Abdillah Ali" style="width:400px;" align="left">
 <br clear="left">
@@ -26,7 +27,7 @@ Another project he was involved in was when the public sector introduced the Int
 
 When the policy was implemented and led to the challenge of an increase in the unauthorised use of portable storage devices by public officers when transferring data from the Internet, his team successfully provided workarounds that were secure while enhancing the user experience.
 
-<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #FF0000; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid red">“In my role, there’s never a dull moment,” Abdillah says.</div> 
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #4B789B; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid">“In my role, there’s never a dull moment,” Abdillah says.</div> 
 
 ### Making WFH work for the public sector
 
@@ -38,4 +39,4 @@ Abdillah says while they were working on other infrastructure-related projects, 
 
 Despite having overcome many challenging situations in his role, Abdillah isn’t resting on his laurels.
 
-<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #FF0000; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid red">“I want to continuously learn, unlearn and re-learn technologies that can achieve better user experience and enable all public officers to perform their roles and play their parts in serving public good,” he says.</div>
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #4B789B; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid">“I want to continuously learn, unlearn and re-learn technologies that can achieve better user experience and enable all public officers to perform their roles and play their parts in serving public good,” he says.</div>

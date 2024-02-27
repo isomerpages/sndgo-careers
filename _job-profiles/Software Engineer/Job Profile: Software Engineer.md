@@ -5,6 +5,7 @@ third_nav_title: Software Engineer
 description: Build Singapore’s next-generation digital products and services to
   solve real-life problems.
 image: /images/hero-banner.jpg
+variant: markdown
 ---
 ![Software Engineer](/images/header/header%20app%20design%20&amp;%20development.jpeg)
 
@@ -31,7 +32,7 @@ Build Singapore’s next-generation digital products and services to solve real-
 * Strong communication and interpersonal skills to collaborate with key stakeholders at all levels
 
 ​
-<div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
+<div class="row" style="font-size:34px; font-weight: 700; color: #4B789B; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
 
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/people/ang-chin-chuen.jpg" alt="Ang Chin Chuen"></div>

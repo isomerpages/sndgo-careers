@@ -5,6 +5,7 @@ description: Play a key role in the technical design, development,
   implementation, and consultation centre for Government agencies.
 image: /images/hero-banner.jpg
 third_nav_title: Systems Engineer (SIOT)
+variant: markdown
 ---
 ![Systems Engineer (SIOT)](/images/header/header%20sensors%20&amp;%20iot.jpeg)
 
@@ -63,7 +64,7 @@ Depending on your expertise and preference, you will be doing one or more of the
 
 
 ​
-<div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
+<div class="row" style="font-size:34px; font-weight: 700; color: #4B789B; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
         
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/people/si-yan.jpg" alt="Teo Si-Yan"></div>

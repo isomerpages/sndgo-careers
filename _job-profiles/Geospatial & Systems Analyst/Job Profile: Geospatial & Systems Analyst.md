@@ -5,6 +5,7 @@ description: Shape Singapore’s urban environment through data-driven insights
   and set the direction for new plans moving forward.
 image: /images/hero-banner.jpg
 third_nav_title: Geospatial & Systems Analyst
+variant: markdown
 ---
 ![Geospatial &amp; Systems Analyst](/images/header/header%20geospatial.jpeg)
 
@@ -54,7 +55,7 @@ Map new advancements in geospatial analyses as you harness a wide range of techn
 
 
 
-<div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
+<div class="row" style="font-size:34px; font-weight: 700; color: #4B789B; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
         
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/people/angelia-lau-s.jpeg" alt="Angelia Lau"></div>

@@ -6,6 +6,7 @@ description: “I believe that geospatial technologies have the ability to give 
   today, from climate change to sustainability and livability.”
 image: /images/people/stephanie-khoo-l.jpeg
 third_nav_title: Geospatial Specialist
+variant: markdown
 ---
 <img src="/images/people/stephanie-khoo-l.jpeg" alt="Stephanie Khoo" style="width:400px;" align="left">
 <br clear="left">
@@ -38,7 +39,7 @@ On a personal level, Stephanie hopes the work she does would go towards making S
 
 “Location analysis of demographic data and existing infrastructure can help us identify what facilities may be missing in a particular community, whether these are green spaces, community facilities or even accessibility features,” she explains. 
 
-<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #FF0000; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid red">“Addressing these needs and using geospatial technologies to identify the best placement of such features can help improve the liveability of our urban environment in an inclusive and sustainable way,” she adds.</div> 
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #4B789B; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid">“Addressing these needs and using geospatial technologies to identify the best placement of such features can help improve the liveability of our urban environment in an inclusive and sustainable way,” she adds.</div> 
 
 Ultimately, she is appreciative of being in a field that challenges her daily to pick up new skills and break new ground. 
 

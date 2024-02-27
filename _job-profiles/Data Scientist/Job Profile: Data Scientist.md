@@ -5,6 +5,7 @@ description: Join us as a Data Scientist and play a key role defining
   Singapore’s next steps to be a Smart Nation.
 third_nav_title: Data Scientist
 image: /images/hero-banner.jpg
+variant: markdown
 ---
 ![Data Scientist](/images/header/header%20data%20science%20&amp;%20ai.jpeg)
 
@@ -49,7 +50,7 @@ Digital insights and better discovery – driven by big data. Join us as a Data 
 
 
 ​
-<div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
+<div class="row" style="font-size:34px; font-weight: 700; color: #4B789B; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
         
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column" style="padding: 10px 0px 30px 20px;"><img src="https://techcareers.smartnation.gov.sg/images/people/eric-tan.jpg" alt="Eric Tan"></div>

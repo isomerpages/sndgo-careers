@@ -3,6 +3,7 @@ title: Joining Public Sector
 permalink: /joining-public-sector/
 description: ""
 third_nav_title: Making the switch
+variant: markdown
 ---
 # Why a tech career in the public sector may surprise you
 
@@ -25,8 +26,19 @@ HDB’s Senior Software Engineer, Joe Tan Chin Chong, and URA’s Senior Data Sc
 </div>
 
 
-### Contemplating a switch from the private sector to a tech career in the government?
+### Contemplating a switch to a tech career in the government? 
 
-Christopher Kim, Lead Architect of IT Infrastructure in CSIT, shares his experience on [taking the leap](/making-the-switch-from-private-sector-christopher-kim).
+Gain valuable insights from the stories shared by our tech talents.
 
-<div style="width:50%"> <img src="/images/people/christopher-kim-l.jpeg"></div>
+<div class="row" style="padding: 20px 0px 0px 0px;">
+
+<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/making-the-switch-from-private-sector-christopher-kim"><img src="/images/people/christopher-kim-l.jpeg" alt="Christopher Kim"></a><br><div class="header" style="font-size:18px"><b>Making the switch from private sector to government</b></div><br>Christopher Kim, Lead Architect of IT Infrastructure in CSIT
+	<br><br></div>
+
+<div class="col" style="padding: 10px 20px 10px 20px;"><a href="/my-evolution-into-public-service-li-soon-tay"><img src="/images/people/li_soon.png" alt="Li Soon Tay"></a><br>
+	<div class="header" style="font-size:18px"><b>My evolution into public service technology with Singpass</b></div><br>Li Soon Tay, Lead Product Manager at GovTech
+	<br><br></div>
+
+<div class="col" style="padding: 10px 20px 10px 20px;"></div>	
+	
+</div>

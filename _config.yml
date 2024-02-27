@@ -6,15 +6,15 @@ colors:
   secondary-color: "#a6221c"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#d01c18"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#da4751"
     - title: media-color-three
-      color: "#00838f"
+      color: "#b2b2b2"
     - title: media-color-four
-      color: "#00838f"
+      color: "#ff9c3d"
     - title: media-color-five
-      color: "#00838f"
+      color: "#ef6318"
 description: Champion tech for public good.
 permalink: none
 baseurl: ""

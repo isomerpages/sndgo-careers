@@ -5,6 +5,7 @@ description: Harness the advances and possibilities of leading-edge technology
   with your insights and vision.
 image: /images/hero-banner.jpg
 third_nav_title: Computer Vision Engineer
+variant: markdown
 ---
 ![Computer Vision Engineer](/images/header/header%20sensors%20&amp;%20iot.jpeg)
 
@@ -48,7 +49,7 @@ Harness the advances and possibilities of leading-edge technology with your insi
 	* Proficiency in programming languages such as Python, C++ as well as libraries such as Tensorflow, PyTorch and OpenCV are preferred
 
 ​
-<div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
+<div class="row" style="font-size:34px; font-weight: 700; color: #4B789B; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
         
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/people/chandrasehar.jpg" alt="Chandrasehar S/O Rajaseharan"></div>

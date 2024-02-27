@@ -6,6 +6,7 @@ description: “I would like to think that our work would greatly aid IRAS’
   and convenient experience when accessing sensitive tax information.”
 third_nav_title: Cloud Administrator
 image: /images/people/steven_new_l.jpeg
+variant: markdown
 ---
 <img src="/images/people/steven_new_l.jpeg" alt="Steven New" style="width:400px;" align="left">
 <br clear="left">
@@ -24,7 +25,7 @@ Today, the Senior Infocomm Specialist at the Inland Revenue Authority of Singapo
 
 In his day-to-day role, he manages the costs and resources needed to build a resilient cloud infrastructure on IRIN, supporting functionalities crucial for the agency’s work. 
 
-<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #FF0000; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid red">“I would like to think that our work would greatly aid IRAS’ business users such as frontline tax officers in providing a safe, reliable and convenient experience when accessing sensitive tax information,” Steven says.</div>
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #4B789B; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid">“I would like to think that our work would greatly aid IRAS’ business users such as frontline tax officers in providing a safe, reliable and convenient experience when accessing sensitive tax information,” Steven says.</div>
 
 
 
@@ -43,4 +44,4 @@ In the end, Steven says he was heartened to successfully assist in helping this 
 
 Ultimately, he recognises that his work at IRAS goes beyond the technical aspects of digital transformation. It is also about working with others – including taxpayers – to develop and refine solutions that benefit the greater community. 
 
-<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #FF0000; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid red">“I believe the notion of a Smart Nation is a team, rather than individual, effort.”</div>
+<div style="font-size:24px; font-weight: 400; line-height: 1.75; color: #4B789B; padding: 5px 0px 5px 40px; margin-left: 0; border-left: 2px solid">“I believe the notion of a Smart Nation is a team, rather than individual, effort.”</div>

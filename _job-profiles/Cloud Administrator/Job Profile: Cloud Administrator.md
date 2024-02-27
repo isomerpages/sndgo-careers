@@ -5,6 +5,7 @@ description: Join us as a Cloud Administrator to explore new frontiers of tech
   as you architect, plan, and manage our cloud environments.
 image: /images/hero-banner.jpg
 third_nav_title: Cloud Administrator
+variant: markdown
 ---
 ![Cloud Administrator](/images/header/header_ict_infra.jpeg)
 
@@ -43,7 +44,7 @@ Bring our Smart Nation projects to a new level by harnessing the vast potential 
 
 
 
-<div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
+<div class="row" style="font-size:34px; font-weight: 700; color: #4B789B; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
         
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column" style="padding: 10px 0px 30px 20px;"><img src="https://techcareers.smartnation.gov.sg/images/people/steven_new.jpeg" alt="Steven New"></div>

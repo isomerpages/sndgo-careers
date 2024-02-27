@@ -6,6 +6,7 @@ description: Join us as a Geospatial Specialist, where you will map out new ways
   and vibrant space for work, life and play.
 image: /images/hero-banner.jpg
 third_nav_title: Geospatial Specialist
+variant: markdown
 ---
 ![Geospatial &amp; Systems Analyst](/images/header/header%20geospatial.jpeg)
 
@@ -51,7 +52,7 @@ Have ideas on how Singapore’s built environment should look like, and want to 
 * Strong communication and interpersonal skills, problem-solving skills, and the ability to work in a team
 
 
-<div class="row" style="font-size:34px; font-weight: 700; color: #ed1a3b; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
+<div class="row" style="font-size:34px; font-weight: 700; color: #4B789B; background-color: #f3f3f3; padding: 20px 0px 20px 20px;"> Meet our experts</div>
         
 <div class="row" style="background-color: #f3f3f3;">
       <div class="column" style="padding: 10px 0px 30px 20px;"><img src="/images/people/stephanie-khoo-s.jpeg" alt="Stephanie Khoo"></div>
