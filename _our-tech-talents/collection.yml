@@ -2,8 +2,8 @@ collections:
   our-tech-talents:
     output: true
     order:
-      - Making the switch/Li Soon Tay (GovTech).md
+      - Making the switch/.keep
       - Making the switch/Joining Public Sector.md
       - Making the switch/Christopher Kim (CSIT).md
-      - Making the switch/.keep
+      - Making the switch/Li Soon Tay (GovTech).md
       - Life in public service.md
