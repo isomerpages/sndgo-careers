@@ -7,14 +7,14 @@ third_nav_title: Making the switch
 image: /images/people/christopher-kim-l.jpeg
 variant: markdown
 ---
-<img src="/images/people/christopher-kim-l.jpeg" alt="Christopher Kim" style="width:400px;" align="left">
+## Making the switch from private sector to government
+
+<br><img src="/images/people/christopher-kim-l.jpeg" alt="Christopher Kim" style="width:400px;" align="left">
 <br clear="left">
 
 **Christopher Kim**<br>
 Lead Architect, IT Infrastructure, [CSIT](https://www.csit.gov.sg/)<br>
 Joined in 2017
-
-# Making the switch from private sector to government
 
 What are my career prospects as a tech professional in a government organisation? Is the working culture very different? Will I be able to develop my technical skills? These are common questions that come to mind for those who are considering switching from the private sector to join the Government Information and Communications Technology &amp; Smart Systems (ICT&amp;SS) sector. Christopher Kim is one of many that made the switch, and he has not regretted taking that leap of faith to join the Centre for Strategic Infocomm Technologies (CSIT).
 
