@@ -52,7 +52,7 @@ Lead our Defence, Smart Nation and Digital Government transformation. You will b
 
 **Click on the link to [read more testimonials](/testimonials).**
 
-*Note: SNDGO is now part of the&nbsp;[Ministry of Digital Development and Information (MDDI)](https://mddi.giv.sg/)*
+*Note: SNDGO is now part of the&nbsp;[Ministry of Digital Development and Information (MDDI)](https://mddi.gov.sg/)*
 
 ### **Get set for Smart Moves Ahead**
 Discover tech policy &amp; governance career opportunities in these agencies.
