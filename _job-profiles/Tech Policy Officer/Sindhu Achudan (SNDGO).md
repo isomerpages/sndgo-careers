@@ -16,7 +16,7 @@ Senior Manager, Strategy and Masterplanning,<br>
 Smart Nation and Digital Government Office (SNDGO)<br>
 2019-2022<br>
 
-*Note: SNDGO is now part of the [Ministry of Digital Development and Information (MDDI)](https:///mddi.giv.sg)*<br>
+*Note: SNDGO is now part of the [Ministry of Digital Development and Information (MDDI)](https:///mddi.gov.sg)*<br>
 
 
 # Stepping Up for Public Good
