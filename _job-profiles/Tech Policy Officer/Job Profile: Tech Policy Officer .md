@@ -64,3 +64,5 @@ This is the domain where you transform what’s new to what’s to come. Dive in
     <span style="font-size: 16px; line-height: 23px;">"This is a dynamic sector to work in because technology evolves rapidly and it’s vital to ensure that policy evolves with industry needs. There is a role for everyone to contribute to growing and shaping the digital economy. I find it is meaningful to work on policy solutions that benefit consumers and organisations alike." <br><br>[Find out more about <a href="/job-profiles/tech-policy/ho-jin-chong">Ho Jin Chong</a>]</span>
       </div>
 </div>
+
+_Note: SNDGO is now part of the&nbsp;[Ministry of Digital Development and Information (MDDI)](https://mddi.giv.sg/)_
