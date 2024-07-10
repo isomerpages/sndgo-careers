@@ -3,6 +3,7 @@ title: List of Agencies
 permalink: /agencies/
 description: Discover cybersecurity career opportunities in these agencies.
 image: /images/hero-banner.jpg
+variant: markdown
 ---
 # Discover tech career opportunities in these agencies...
 
@@ -40,10 +41,10 @@ image: /images/hero-banner.jpg
 <div class="column-agencies"><a href="https://www.jtc.gov.sg/about-jtc/careers/join-us" target="new"><img src="/images/logos/logo-jtc.png" alt="JTC" title="JTC"></a></div>
 
 <div class="column-agencies"><a href="https://www.lta.gov.sg/content/ltagov/en/who_we_are/careers/join_lta.html" target="new"><img src="/images/logos/logo-lta.png" alt="LTA" title="LTA"></a></div>
+	
+<div class="column-agencies"><a href="https://www.mddi.gov.sg/join-us/careers/life-at-mddi/" target="new"><img src="/images/logos/logo_mddi.png" alt="MDDI" title="MDDI"></a></div>
 
 <div class="column-agencies"><a href="https://www.sla.gov.sg/join-us/our-work-at-sla" target="new"><img src="/images/logos/logo-sla.png" alt="SLA" title="SLA"></a></div>	
-
-<div class="column-agencies"><a href="https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=Smart%20Nation%20and%20Digital%20Government%20Office" target="new"><img src="/images/logos/logo-sndgo.png" alt="SNDGO" title="SNDGO"></a></div>
 
 <div class="column-agencies"><a href="https://www.stb.gov.sg/content/stb/en/careers/overview.html" target="new"><img src="/images/logos/logo-stb.png" alt="STB" title="STB"></a></div>	
 	
