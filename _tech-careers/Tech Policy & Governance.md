@@ -4,6 +4,7 @@ permalink: /tech-careers/tech-policy-and-governance/
 description: Design and drive forward-thinking tech policies that shape our
   Defence, Smart Nation and Digital Government agenda.
 image: /images/careers/tech-governance.png
+variant: markdown
 ---
 ![](/images/careers/hero-tech-policy-governance.jpg)
 
@@ -51,6 +52,8 @@ Lead our Defence, Smart Nation and Digital Government transformation. You will b
 
 **Click on the link to [read more testimonials](/testimonials).**
 
+*Note: SNDGO is now part of the&nbsp;[Ministry of Digital Development and Information (MDDI)](https://mddi.giv.sg/)*
+
 ### **Get set for Smart Moves Ahead**
 Discover tech policy &amp; governance career opportunities in these agencies.
 
@@ -80,4 +83,3 @@ Discover tech policy &amp; governance career opportunities in these agencies.
 <div class="column-agencies"></div>
 
 <div class="column-agencies"></div>
-
