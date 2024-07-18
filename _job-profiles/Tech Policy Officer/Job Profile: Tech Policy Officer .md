@@ -65,4 +65,4 @@ This is the domain where you transform what’s new to what’s to come. Dive in
       </div>
 </div>
 
-_Note: SNDGO is now part of the&nbsp;[Ministry of Digital Development and Information (MDDI)](https://mddi.giv.sg/)_
+_Note: SNDGO is now part of the&nbsp;[Ministry of Digital Development and Information (MDDI)](https://mddi.gov.sg/)_
