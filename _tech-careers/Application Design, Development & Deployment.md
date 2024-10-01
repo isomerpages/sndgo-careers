@@ -4,6 +4,7 @@ permalink: /tech-careers/application-design-development-and-deployment/
 description: The ‘rules’ are simple. Design for users. Engineer with care. Build
   inclusively. Transform experiences.
 image: /images/careers/app-development.png
+variant: markdown
 ---
 ![](/images/careers/hero-in-app-design.jpg)
 
@@ -60,22 +61,34 @@ Discover application design, development &amp; deployment career opportunities i
 
 <div class="column-agencies"><a href="https://www.csa.gov.sg/Explore/careers" target="new"><img src="/images/logos/logo-csa.png" alt="CSA" title="CSA"></a></div>
 
+</div>
+
+<div class="row-agencies">		
+	
 <div class="column-agencies"><a href="https://www.csit.gov.sg/join-us/careers" target="new"><img src="/images/logos/logo-csit-2021.jpg" alt="CSIT" title="CSIT"></a></div>
 
 <div class="column-agencies"><a href="https://careers.pageuppeople.com/845/cw/en/listing/" target="new"><img src="/images/logos/logo-dsta.png" alt="DSTA" title="DSTA"></a></div>
 
-</div>
-
-<div class="row-agencies">
-
 <div class="column-agencies"><a href="https://go.gov.sg/GovTechCareers" target="new"><img src="/images/logos/logo-govtech.png" alt="GovTech" title="GovTech"></a></div>
 
+</div>
+
+<div class="row-agencies">		
+	
 <div class="column-agencies"><a href="https://www.hdb.gov.sg/cs/infoweb/about-us/careers/career-opportunities" target="new"><img src="/images/logos/logo-hdb.png" alt="HDB" title="HDB"></a></div>
 
 <div class="column-agencies"><a href="https://www.iras.gov.sg/irashome/Careers/" target="new"><img src="/images/logos/logo-iras.png" alt="IRAS" title="IRAS"></a></div>
 
 <div class="column-agencies"><a href="https://www.sla.gov.sg/join-us/our-work-at-sla" target="new"><img src="/images/logos/logo-sla.png" alt="SLA" title="SLA"></a></div>
 
+</div>
+
+<div class="row-agencies">		
+	
 <div class="column-agencies"><a href="https://careers-public-healthtech-jobs.synapxe.sg" target="new"><img src="/images/logos/logo-synapxe.png" alt="Synapxe" title="Synapxe"></a></div>
 
+<div class="column-agencies"></div>	
+	
+<div class="column-agencies"></div>	
+	
 </div>

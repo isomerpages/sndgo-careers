@@ -65,21 +65,14 @@ Discover tech policy &amp; governance career opportunities in these agencies.
 
 <div class="column-agencies"><a href="https://www.imda.gov.sg/Who-We-Are/careers" target="new"><img src="/images/logos/logo-imda.png" alt="IMDA" title="IMDA"></a></div>
 
-<div class="column-agencies"><a href="https://www.iras.gov.sg/irashome/Careers/" target="new"><img src="/images/logos/logo-iras.png" alt="IRAS" title="IRAS"></a></div>
-	
-<div class="column-agencies"><a href="https://www.mddi.gov.sg/join-us/careers/life-at-mddi/" target="new"><img src="/images/logos/logo_mddi.png" alt="MDDI" title="MDDI"></a></div> 
 </div>
-
-
 
 <div class="row-agencies">	
 	
+<div class="column-agencies"><a href="https://www.iras.gov.sg/irashome/Careers/" target="new"><img src="/images/logos/logo-iras.png" alt="IRAS" title="IRAS"></a></div>
+	
+<div class="column-agencies"><a href="https://www.mddi.gov.sg/join-us/careers/life-at-mddi/" target="new"><img src="/images/logos/logo_mddisg.png" alt="MDDI" title="MDDI"></a></div> 
+	
 <div class="column-agencies"><a href="https://www.sla.gov.sg/join-us/our-work-at-sla" target="new"><img src="/images/logos/logo-sla.png" alt="SLA" title="SLA"></a></div>
 
-<div class="column-agencies"></div>
-
-<div class="column-agencies"></div>
-
-<div class="column-agencies"></div>
-
-<div class="column-agencies"></div></div>
+</div>
