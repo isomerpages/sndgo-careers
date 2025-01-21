@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h1>Discover tech career opportunities in these agencies...</h1>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="ASTAR" alt="ASTAR" src="/images/logos/logo-astar.png">
+<img style="width: 30%;" height="auto" width="100%" title="ASTAR" alt="ASTAR" src="/images/logos/logo-astar.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" title="CPFB" alt="CPFB" src="/images/logos/logo-cpf.png">
