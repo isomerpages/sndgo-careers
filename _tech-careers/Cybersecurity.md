@@ -100,7 +100,7 @@ safe and secure.”
 </div>
 <p>
 <br><strong>Peh Wei Ting, Jeslyn</strong><em><br></em>Senior Engineer, Cybersecurity
-Programme Centre<em><br>Joined in 2021</em>
+Programme Centre, DSTA<em><br>Joined in 2021</em>
 <br>
 <br>“I strengthen the cybersecurity of MINDEF and the Singapore Armed Forces
 (SAF), by performing vulnerability analysis of related software. I analyse
