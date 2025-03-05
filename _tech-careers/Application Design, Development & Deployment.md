@@ -26,8 +26,9 @@ a portal that creates a seamless experience for businesses applying for
 licenses. Your possibilities are limitless. Embody the spirit of innovation
 and play a part in enhancing the lives of Singaporeans.</p>
 <h3><strong>Hear from our tech talents</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Muhammad Hafidzuddin" src="/images/people/muhammad-hafidzuddin.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Muhammad Hafidzuddin" src="/images/people/muhammad-hafidzuddin.png">
 </div>
 <p>
 <br><strong><em>Muhammad Hafidzuddin </em></strong><em><br>Software Engineer, Government Digital Services, GovTech<br>Joined in 2019</em>
@@ -39,7 +40,7 @@ their digital experience and relationship with government services.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Charis Anne Lim" src="/images/people/charis-anne-lim.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Charis Anne Lim" src="/images/people/charis-anne-lim.png">
 </div>
 <p>
 <br><strong><em>Charis Anne Lim</em></strong><em><br>UX Designer, Government Digital Services, GovTech <br>Joined in 2019</em>
@@ -52,7 +53,7 @@ human-centred digital services.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Shane Soh" src="/images/people/shane-soh.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Shane Soh" src="/images/people/shane-soh.png">
 </div>
 <p>
 <br><strong><em>Shane Soh</em></strong><em><br>Engineering Manager, Analytics and Systems, CSIT<br>2015-2022</em>
@@ -65,7 +66,7 @@ security interests.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Daniel Ong" src="/images/people/daniel-ong.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Daniel Ong" src="/images/people/daniel-ong.png">
 </div>
 <p>
 <br><strong><em>Daniel Ong</em></strong><em><br>Front End Developer, Synapxe (Formerly IHiS)<br>2020-2021</em>
@@ -79,7 +80,7 @@ and MW Health, that have bolstered Singapore’s efforts in tackling the
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Apple Chan" src="/images/people/apple-chan.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Apple Chan" src="/images/people/apple-chan.png">
 </div>
 <p>
 <br><strong><em>Apple Chan</em></strong><em><br>Lead Consultant (Application), CPFB<br>Joined in 2009</em>
@@ -100,35 +101,20 @@ But a successful roll out of each project gives me immense satisfaction.”
 </p>
 <h3><strong>Get set for Smart Moves Ahead</strong></h3>
 <p>Discover application design, development &amp; deployment career opportunities
-in these agencies.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="ASTAR" alt="ASTAR" src="/images/logos/logo-astar.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="CPFB" alt="CPFB" src="/images/logos/logo-cpf.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="CSA" alt="CSA" src="/images/logos/logo-csa.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="CSIT" alt="CSIT" src="/images/logos/logo-csit-2021.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="DSTA" alt="DSTA" src="/images/logos/logo-dsta.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="GovTech" alt="GovTech" src="/images/logos/logo-govtech.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="HDB" alt="HDB" src="/images/logos/logo-hdb.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="IRAS" alt="IRAS" src="/images/logos/logo-iras.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="SLA" alt="SLA" src="/images/logos/logo-sla.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Synapxe" alt="Synapxe" src="/images/logos/logo-synapxe.png">
-</div>
+in these agencies.</p><a class="isomer-image-wrapper" href="https://www.a-star.edu.sg/career"><img style="width: 30%;" height="auto" width="100%" title="ASTAR" alt="ASTAR" src="/images/logos/logo-astar.png"></a>
+<a class="isomer-image-wrapper" href="https://www.cpf.gov.sg/member/who-we-are/careers">
+<img style="width: 30%;" height="auto" width="100%" title="CPFB" alt="CPFB" src="/images/logos/logo-cpf.png">
+</a><a class="isomer-image-wrapper" href="https://www.csa.gov.sg/about-csa/careers/"><img style="width: 30%;" height="auto" width="100%" title="CSA" alt="CSA" src="/images/logos/logo-csa.png"></a>
+<a class="isomer-image-wrapper" href="https://www.csit.gov.sg/join-us/careers">
+<img style="width: 30%;" height="auto" width="100%" title="CSIT" alt="CSIT" src="/images/logos/logo-csit-2021.jpg">
+</a><a class="isomer-image-wrapper" href="https://www.dsta.gov.sg/join-us/job-seeker/dsta-careers"><img style="width: 30%;" height="auto" width="100%" title="DSTA" alt="DSTA" src="/images/logos/logo-dsta.png"></a>
+<a class="isomer-image-wrapper" href="https://www.tech.gov.sg/careers/why-join-govtech/overview/">
+<img style="width: 30%;" height="auto" width="100%" title="GovTech" alt="GovTech" src="/images/logos/logo-govtech.png">
+</a><a class="isomer-image-wrapper" href="https://www.hdb.gov.sg/about-us/careers/career-opportunities"><img style="width: 30%;" height="auto" width="100%" title="HDB" alt="HDB" src="/images/logos/logo-hdb.png"></a>
+<a class="isomer-image-wrapper" href="https://www.iras.gov.sg/careers">
+<img style="width: 30%;" height="auto" width="100%" title="IRAS" alt="IRAS" src="/images/logos/logo-iras.png">
+</a><a class="isomer-image-wrapper" href="https://www.sla.gov.sg/join-us/our-work-at-sla"><img style="width: 30%;" height="auto" width="100%" title="SLA" alt="SLA" src="/images/logos/logo-sla.png"></a>
+<a class="isomer-image-wrapper" href="https://careers-public-healthtech-jobs.synapxe.sg/">
+<img style="width: 30%;" height="auto" width="100%" title="Synapxe" alt="Synapxe" src="/images/logos/logo-synapxe.png">
+</a>
 <p></p>
