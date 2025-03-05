@@ -30,6 +30,7 @@ and data are well-protected. Be part of the team to lay the foundation
 for the future and enable the delivery of critical digital services that
 is used by citizens, businesses and Government.</p>
 <h3><strong>Hear from our tech talents</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Ong Chee Siang" src="/images/people/ong_chee_siang_t.jpeg">
 </div>
