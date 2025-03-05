@@ -24,8 +24,9 @@ of the nation, to enhancing transport planning and more. Bring your talent
 to new frontiers and leverage on data science and AI to enable data-driven
 decision-making by citizens, businesses and Government.</p>
 <h3><strong>Hear from our tech talents</strong><br></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Elizabeth Lim" src="/images/people/elizabeth-lim.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Elizabeth Lim" src="/images/people/elizabeth-lim.png">
 </div>
 <p>
 <br><strong><em>Elizabeth Lim</em></strong><em><br>Data Scientist, Data Science &amp; Artificial Intelligence Division, GovTech<br>Joined in 2019</em>
@@ -40,7 +41,7 @@ agencies.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Huang Shisheng" src="/images/people/huang-shisheng.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Huang Shisheng" src="/images/people/huang-shisheng.png">
 </div>
 <p>
 <br><strong><em>Huang Shisheng </em></strong><em><br>Head, Risk Profiling Analytics, Data Science &amp; AI Centre of Expertise, HTX<br>Joined in 2019</em>
@@ -53,7 +54,7 @@ the safety and security domain of Singapore is a big pull factor for me.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Abigail Soh" src="/images/people/abigail-soh-t.jpeg">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Abigail Soh" src="/images/people/abigail-soh-t.jpeg">
 </div>
 <p>
 <br><strong><em>Abigail Soh</em></strong><em><br>Senior Manager, Analytics &amp; Insights, STB</em>
@@ -68,7 +69,7 @@ onset of the global pandemic in 2020.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Jason Koh" src="/images/people/jason-koh-t.jpeg">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Jason Koh" src="/images/people/jason-koh-t.jpeg">
 </div>
 <p>
 <br><strong><em>Jason Koh</em></strong><em><br>Lead Product Manager, Visitor Experience Technology, STB<br>Joined in 2021</em>
@@ -81,7 +82,7 @@ and expand their global reach, and deliver quality visitor experiences.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Zheng Yifei" src="/images/people/yifei-zheng-t.jpeg">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Zheng Yifei" src="/images/people/yifei-zheng-t.jpeg">
 </div>
 <p>
 <br><strong><em>Zheng Yifei</em></strong><em><br>Manager, Data Science, STB<br>Joined in 2019</em>
@@ -99,46 +100,25 @@ tourism sector.
 </p>
 <h3><strong>Get set for Smart Moves Ahead</strong></h3>
 <p>Discover data science &amp; AI career opportunities in these agencies.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="ASTAR" alt="ASTAR" src="/images/logos/logo-astar.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="CPFB" alt="CPFB" src="/images/logos/logo-cpf.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="CSA" alt="CSA" src="/images/logos/logo-csa.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="CSIT" alt="CSIT" src="/images/logos/logo-csit-2021.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="DSTA" alt="DSTA" src="/images/logos/logo-dsta.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="GovTech" alt="GovTech" src="/images/logos/logo-govtech.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="HDB" alt="HDB" src="/images/logos/logo-hdb.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="HTX" alt="HTX" src="/images/logos/logo-htx.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="IMDA" alt="IMDA" src="/images/logos/logo-imda.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="IRAS" alt="IRAS" src="/images/logos/logo-iras.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="LTA" alt="LTA" src="/images/logos/logo-lta.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="SLA" alt="SLA" src="/images/logos/logo-sla.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="STB" alt="STB" src="/images/logos/logo-stb.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Synapxe" alt="Synapxe" src="/images/logos/logo-synapxe.png">
-</div>
+<a class="isomer-image-wrapper" href="https://www.a-star.edu.sg/career">
+<img style="width: 30%;" height="auto" width="100%" title="ASTAR" alt="ASTAR" src="/images/logos/logo-astar.png">
+</a><a class="isomer-image-wrapper" href="https://www.cpf.gov.sg/member/who-we-are/careers"><img style="width: 30%;" height="auto" width="100%" title="CPFB" alt="CPFB" src="/images/logos/logo-cpf.png"></a>
+<a class="isomer-image-wrapper" href="https://www.csa.gov.sg/about-csa/careers/">
+<img style="width: 30%;" height="auto" width="100%" title="CSA" alt="CSA" src="/images/logos/logo-csa.png">
+</a><a class="isomer-image-wrapper" href="https://www.csit.gov.sg/join-us/careers"><img style="width: 30%;" height="auto" width="100%" title="CSIT" alt="CSIT" src="/images/logos/logo-csit-2021.jpg"></a>
+<a class="isomer-image-wrapper" href="https://www.dsta.gov.sg/join-us/job-seeker/dsta-careers">
+<img style="width: 30%;" height="auto" width="100%" title="DSTA" alt="DSTA" src="/images/logos/logo-dsta.png">
+</a><a class="isomer-image-wrapper" href="https://www.tech.gov.sg/careers/why-join-govtech/overview/"><img style="width: 30%;" height="auto" width="100%" title="GovTech" alt="GovTech" src="/images/logos/logo-govtech.png"></a>
+<a class="isomer-image-wrapper" href="https://www.hdb.gov.sg/about-us/careers/career-opportunities">
+<img style="width: 30%;" height="auto" width="100%" title="HDB" alt="HDB" src="/images/logos/logo-hdb.png">
+</a><a class="isomer-image-wrapper" href="https://www.htx.gov.sg/join-us/careers"><img style="width: 30%;" height="auto" width="100%" title="HTX" alt="HTX" src="/images/logos/logo-htx.png"></a>
+<a class="isomer-image-wrapper" href="https://www.imda.gov.sg/about-imda/careers-at-imda">
+<img style="width: 30%;" height="auto" width="100%" title="IMDA" alt="IMDA" src="/images/logos/logo-imda.png">
+</a><a class="isomer-image-wrapper" href="https://www.iras.gov.sg/careers"><img style="width: 30%;" height="auto" width="100%" title="IRAS" alt="IRAS" src="/images/logos/logo-iras.png"></a>
+<a class="isomer-image-wrapper" href="https://www.lta.gov.sg/content/ltagov/en/who_we_are/careers/join_lta.html">
+<img style="width: 30%;" height="auto" width="100%" title="LTA" alt="LTA" src="/images/logos/logo-lta.png">
+</a><a class="isomer-image-wrapper" href="https://www.sla.gov.sg/join-us/our-work-at-sla"><img style="width: 30%;" height="auto" width="100%" title="SLA" alt="SLA" src="/images/logos/logo-sla.png"></a>
+<a class="isomer-image-wrapper" href="https://www.stb.gov.sg/about-stb/careers-at-stb/">
+<img style="width: 30%;" height="auto" width="100%" title="STB" alt="STB" src="/images/logos/logo-stb.png">
+</a><a class="isomer-image-wrapper" href="https://careers-public-healthtech-jobs.synapxe.sg/"><img style="width: 30%;" height="auto" width="100%" title="Synapxe" alt="Synapxe" src="/images/logos/logo-synapxe.png"></a>
 <p></p>
