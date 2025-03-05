@@ -25,6 +25,7 @@ and the exciting work in other cybersecurity-related roles.</p>
 <p>Be our next generation of cybersecurity leaders. Join us to shape, transform
 and safeguard our cyber landscape.</p>
 <h3><strong>Hear from our tech talents</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Mohamed Riduan Ahmad" src="/images/people/mohamed-riduan-ahmad.png">
 </div>
