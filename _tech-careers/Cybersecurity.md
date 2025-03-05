@@ -25,8 +25,9 @@ and the exciting work in other cybersecurity-related roles.</p>
 <p>Be our next generation of cybersecurity leaders. Join us to shape, transform
 and safeguard our cyber landscape.</p>
 <h3><strong>Hear from our tech talents</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Mohamed Riduan Ahmad" src="/images/people/mohamed-riduan-ahmad.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Mohamed Riduan Ahmad" src="/images/people/mohamed-riduan-ahmad.png">
 </div>
 <p>
 <br><strong><em>Mohamed Riduan Ahmad</em></strong><em><br>Principal Engineer (Security), Cybersecurity &amp; Technology Group, Security &amp; Network Operations (SNO) Department, CPFB<br>Joined in 2012</em>
@@ -39,7 +40,7 @@ threats we see today.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Thomas Wong" src="/images/people/thomas_wong_t.jpeg">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Thomas Wong" src="/images/people/thomas_wong_t.jpeg">
 </div>
 <p>
 <br><strong><em>Thomas Wong</em></strong><em><br>Cybersecurity Analyst, Cyber Defence Group, Synapxe (Formerly IHiS)<br>Joined in 2019</em>
@@ -54,7 +55,7 @@ and people. IHiS is the place to be for HealthTech.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="ME4 Tan Suan Zhi" src="/images/people/tan-suan-zhi.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="ME4 Tan Suan Zhi" src="/images/people/tan-suan-zhi.png">
 </div>
 <p>
 <br><strong><em>ME4 Tan Suan Zhi </em></strong><em><br>Officer Commanding, Cyber Defence Group, SAF C4I, MINDEF<br>Joined in 2013</em>
@@ -69,7 +70,7 @@ is never a dull moment.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Juliana Seng" src="/images/people/juliana-seng.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Juliana Seng" src="/images/people/juliana-seng.png">
 </div>
 <p>
 <br><strong><em>Juliana Seng</em></strong><em><br>Tech Specialist, Information Security, CSIT<br>2018-2022</em>
@@ -83,7 +84,7 @@ advanced cyber threats.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Kok Kiat Han" src="/images/people/kok-kiat-han.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Kok Kiat Han" src="/images/people/kok-kiat-han.png">
 </div>
 <p>
 <br><strong><em>Kok Kiat Han</em></strong><em><br>Cyber Threat Intelligence Analyst, National Cyber Threat Monitoring Centre, CSA<br>Joined in 2019</em>
@@ -96,7 +97,7 @@ safe and secure.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSTA_Jeslyn_Peh_Testimonial_Accompanying_Photo.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/DSTA_Jeslyn_Peh_Testimonial_Accompanying_Photo.jpg">
 </div>
 <p>
 <br><strong>Peh Wei Ting, Jeslyn</strong><em><br></em>Senior Engineer, Cybersecurity
@@ -115,44 +116,23 @@ my efforts make cloud systems more secure and reliable for our users.”
 <p><strong>Click on the link to <a href="/testimonials" rel="noopener noreferrer nofollow" target="_blank">read more testimonials</a>.</strong>
 </p>
 <h3><strong>Get set for Smart Moves Ahead</strong></h3>
-<p>Discover cybersecurity career opportunities in these agencies.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="ASTAR" alt="ASTAR" src="/images/logos/logo-astar.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="CPFB" alt="CPFB" src="/images/logos/logo-cpf.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="CSA" alt="CSA" src="/images/logos/logo-csa.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="CSIT" alt="CSIT" src="/images/logos/logo-csit-2021.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="DSTA" alt="DSTA" src="/images/logos/logo-dsta.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="GovTech" alt="GovTech" src="/images/logos/logo-govtech.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="HDB" alt="HDB" src="/images/logos/logo-hdb.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="HTX" alt="HTX" src="/images/logos/logo-htx.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="IMDA" alt="IMDA" src="/images/logos/logo-imda.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="IRAS" alt="IRAS" src="/images/logos/logo-iras.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="LTA" alt="LTA" src="/images/logos/logo-lta.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="SLA" alt="SLA" src="/images/logos/logo-sla.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Synapxe" alt="Synapxe" src="/images/logos/logo-synapxe.png">
-</div>
+<p>Discover cybersecurity career opportunities in these agencies.</p><a class="isomer-image-wrapper" href="https://www.a-star.edu.sg/career"><img style="width: 30%;" height="auto" width="100%" title="ASTAR" alt="ASTAR" src="/images/logos/logo-astar.png"></a>
+<a class="isomer-image-wrapper" href="https://www.cpf.gov.sg/member/who-we-are/careers">
+<img style="width: 30%;" height="auto" width="100%" title="CPFB" alt="CPFB" src="/images/logos/logo-cpf.png">
+</a><a class="isomer-image-wrapper" href="https://www.csa.gov.sg/about-csa/careers/"><img style="width: 30%;" height="auto" width="100%" title="CSA" alt="CSA" src="/images/logos/logo-csa.png"></a>
+<a class="isomer-image-wrapper" href="https://www.csit.gov.sg/join-us/careers">
+<img style="width: 30%;" height="auto" width="100%" title="CSIT" alt="CSIT" src="/images/logos/logo-csit-2021.jpg">
+</a><a class="isomer-image-wrapper" href="https://www.dsta.gov.sg/join-us/job-seeker/dsta-careers"><img style="width: 30%;" height="auto" width="100%" title="DSTA" alt="DSTA" src="/images/logos/logo-dsta.png"></a>
+<a class="isomer-image-wrapper" href="https://www.tech.gov.sg/careers/why-join-govtech/overview/">
+<img style="width: 30%;" height="auto" width="100%" title="GovTech" alt="GovTech" src="/images/logos/logo-govtech.png">
+</a><a class="isomer-image-wrapper" href="https://www.hdb.gov.sg/about-us/careers/career-opportunities"><img style="width: 30%;" height="auto" width="100%" title="HDB" alt="HDB" src="/images/logos/logo-hdb.png"></a>
+<a class="isomer-image-wrapper" href="https://careers-public-healthtech-jobs.synapxe.sg/">
+<img style="width: 30%;" height="auto" width="100%" title="HTX" alt="HTX" src="/images/logos/logo-htx.png">
+</a><a class="isomer-image-wrapper" href="https://www.imda.gov.sg/about-imda/careers-at-imda"><img style="width: 30%;" height="auto" width="100%" title="IMDA" alt="IMDA" src="/images/logos/logo-imda.png"></a>
+<a class="isomer-image-wrapper" href="https://www.iras.gov.sg/careers">
+<img style="width: 30%;" height="auto" width="100%" title="IRAS" alt="IRAS" src="/images/logos/logo-iras.png">
+</a><a class="isomer-image-wrapper" href="https://www.lta.gov.sg/content/ltagov/en/who_we_are/careers/join_lta.html"><img style="width: 30%;" height="auto" width="100%" title="LTA" alt="LTA" src="/images/logos/logo-lta.png"></a>
+<a class="isomer-image-wrapper" href="https://www.sla.gov.sg/join-us/our-work-at-sla">
+<img style="width: 30%;" height="auto" width="100%" title="SLA" alt="SLA" src="/images/logos/logo-sla.png">
+</a><a class="isomer-image-wrapper" href="https://careers-public-healthtech-jobs.synapxe.sg/"><img style="width: 30%;" height="auto" width="100%" title="Synapxe" alt="Synapxe" src="/images/logos/logo-synapxe.png"></a>
 <p></p>
