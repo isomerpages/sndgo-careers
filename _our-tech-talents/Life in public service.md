@@ -38,8 +38,9 @@ variant: tiptap
 </li>
 </ul>
 <h2>Application Design, Development &amp; Deployment</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Muhammad Hafidzuddin" src="/images/people/muhammad-hafidzuddin.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Muhammad Hafidzuddin" src="/images/people/muhammad-hafidzuddin.png">
 </div>
 <p>
 <br><strong><em>Muhammad Hafidzuddin </em></strong><em><br>Software Engineer, Government Digital Services, GovTech<br>Joined in 2019</em>
@@ -51,7 +52,7 @@ their digital experience and relationship with government services.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Charis Anne Lim" src="/images/people/charis-anne-lim.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Charis Anne Lim" src="/images/people/charis-anne-lim.png">
 </div>
 <p>
 <br><strong><em>Charis Anne Lim</em></strong><em><br>UX Designer, Government Digital Services, GovTech <br>Joined in 2019</em>
@@ -64,7 +65,7 @@ human-centred digital services.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Shane Soh" src="/images/people/shane-soh.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Shane Soh" src="/images/people/shane-soh.png">
 </div>
 <p>
 <br><strong><em>Shane Soh</em></strong><em><br>Engineering Manager, Analytics and Systems, CSIT<br>2015-2022</em>
@@ -78,7 +79,7 @@ security interests.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Daniel Ong" src="/images/people/daniel-ong.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Daniel Ong" src="/images/people/daniel-ong.png">
 </div>
 <p>
 <br><strong><em>Daniel Ong</em></strong><em><br>Front End Developer, Synapxe (Formerly IHiS)<br>2020-2021</em>
@@ -92,7 +93,7 @@ and MW Health, that have bolstered Singapore’s efforts in tackling the
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Apple Chan" src="/images/people/apple-chan.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Apple Chan" src="/images/people/apple-chan.png">
 </div>
 <p>
 <br><strong><em>Apple Chan</em></strong><em><br>Lead Consultant (Application), CPFB<br>Joined in 2009</em>
@@ -112,8 +113,9 @@ But a successful roll out of each project gives me immense satisfaction.”
 <p><a href="#hear-from-our-tech-talents" rel="noopener noreferrer nofollow" target="_blank">Return to top</a>
 </p>
 <h2>Cybersecurity</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Juliana Seng" src="/images/people/juliana-seng.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Juliana Seng" src="/images/people/juliana-seng.png">
 </div>
 <p>
 <br><strong><em>Juliana Seng</em></strong><em><br>Tech Specialist, Information Security, CSIT<br>2018-2022</em>
@@ -127,7 +129,7 @@ advanced cyber threats.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="ME4 Tan Suan Zhi" src="/images/people/tan-suan-zhi.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="ME4 Tan Suan Zhi" src="/images/people/tan-suan-zhi.png">
 </div>
 <p>
 <br><strong><em>ME4 Tan Suan Zhi </em></strong><em><br>Officer Commanding, Cyber Defence Group, SAF C4I, MINDEF<br>Joined in 2013</em>
@@ -142,7 +144,7 @@ is never a dull moment.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Mohamed Riduan Ahmad" src="/images/people/mohamed-riduan-ahmad.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Mohamed Riduan Ahmad" src="/images/people/mohamed-riduan-ahmad.png">
 </div>
 <p>
 <br><strong><em>Mohamed Riduan Ahmad</em></strong><em><br>Principal Engineer (Security), Cybersecurity &amp; Technology Group, Security &amp; Network Operations (SNO) Department, CPFB<br>Joined in 2012</em>
@@ -155,7 +157,7 @@ threats we see today.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Thomas Wong" src="/images/people/thomas_wong_t.jpeg">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Thomas Wong" src="/images/people/thomas_wong_t.jpeg">
 </div>
 <p>
 <br><strong><em>Thomas Wong</em></strong><em><br>Cybersecurity Analyst, Cyber Defence Group, Synapxe (Formerly IHiS)<br>Joined in 2019</em>
@@ -170,7 +172,7 @@ and people. Synapxe is the place to be for HealthTech.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Jonathan Samraj" src="/images/people/jonathan-samraj.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Jonathan Samraj" src="/images/people/jonathan-samraj.png">
 </div>
 <p>
 <br><strong><em>Jonathan Samraj</em></strong><em><br>Senior Manager, Telecom Cybersecurity Engineer &amp; Specialist Office, IMDA<br>Joined in 2014</em>
@@ -184,7 +186,7 @@ enriching one indeed.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Wan Pei Feni" src="/images/people/wan-pei-fen.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Wan Pei Feni" src="/images/people/wan-pei-fen.png">
 </div>
 <p>
 <br><strong><em>Wan Pei Fen </em></strong><em><br>System Engineer, National Cyber Incident Response Centre, CSA<br>Joined in 2017</em>
@@ -198,7 +200,7 @@ to adapt to the dynamic nature of cybersecurity.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSTA_Jeslyn_Peh_Testimonial_Accompanying_Photo.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/DSTA_Jeslyn_Peh_Testimonial_Accompanying_Photo.jpg">
 </div>
 <p>
 <br><strong>Peh Wei Ting, Jeslyn</strong><em><br></em>Senior Engineer, Cybersecurity
@@ -215,7 +217,7 @@ my efforts make cloud systems more secure and reliable for our users.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Chong Tze Koi" src="/images/people/chong-tze-koi.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Chong Tze Koi" src="/images/people/chong-tze-koi.png">
 </div>
 <p>
 <br><strong><em>Chong Tze Koi</em></strong><em><br>Senior IT Security Specialist, Cybersecurity Operations &amp; Governance Department, Security Engineering &amp; Operations Section, HDB<br>Joined in 2012</em>
@@ -228,7 +230,7 @@ organization’s information assets and brand reputation.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Sean Tani" src="/images/people/sean-tan.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Sean Tani" src="/images/people/sean-tan.png">
 </div>
 <p>
 <br><strong><em>Sean Tan</em></strong><em><br>Head, Planning &amp; Architecture, Cybersecurity Centre of Expertise, HTX<br>Joined in 2019</em>
@@ -241,7 +243,7 @@ digitalisation by the nation is safe and a smarter way of life.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Tan Kee Hock" src="/images/people/kee-hock.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Tan Kee Hock" src="/images/people/kee-hock.png">
 </div>
 <p>
 <br><strong><em>Tan Kee Hock</em></strong><em><br>Cybersecurity Specialist, Cyber Security Group, GovTech<br>Joined in 2019</em>
@@ -254,7 +256,7 @@ landscape.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Kok Kiat Han" src="/images/people/kok-kiat-han.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Kok Kiat Han" src="/images/people/kok-kiat-han.png">
 </div>
 <p>
 <br><strong><em>Kok Kiat Han</em></strong><em><br>Cyber Threat Intelligence Analyst, National Cyber Threat Monitoring Centre, CSA<br>Joined in 2019</em>
@@ -267,7 +269,7 @@ safe and secure.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Ishita Mittal" src="/images/people/ishita-mittal.jpg">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Ishita Mittal" src="/images/people/ishita-mittal.jpg">
 </div>
 <p>
 <br><strong><em>Ishita Mittal</em></strong><em><br>Senior Systems Engineer, Cyber Defence Group, Synapxe (Formerly IHiS)<br>Joined in 2005</em>
@@ -283,8 +285,9 @@ smarter with each passing day.”
 <p><a href="#hear-from-our-tech-talents" rel="noopener noreferrer nofollow" target="_blank">Return to top</a>
 </p>
 <h2>Data Science &amp; AI</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Ng Jie Ning" src="/images/people/ng-jie-ning.jpg">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Ng Jie Ning" src="/images/people/ng-jie-ning.jpg">
 </div>
 <p>
 <br><strong><em>Ng Jie Ning</em></strong><em><br>Senior Analyst, Data Science Accelerator Department, CPFB<br>Joined in 2014</em>
@@ -298,7 +301,7 @@ policy decisions for the benefit of all CPF members.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Leow Gin Ee" src="/images/people/leow-gin-ee.jpg">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Leow Gin Ee" src="/images/people/leow-gin-ee.jpg">
 </div>
 <p>
 <br><strong><em>Leow Gin Ee</em></strong><em><br>Tech Specialist, Data Analytics, CSIT<br>Joined in 2020</em>
@@ -313,7 +316,7 @@ maintenance.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Stanley Yin Yu-Sheng" src="/images/people/stanley-yin-yu-sheng.jpg">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Stanley Yin Yu-Sheng" src="/images/people/stanley-yin-yu-sheng.jpg">
 </div>
 <p>
 <br><strong><em>Stanley Yin Yu-Sheng</em></strong><em><br>Senior Systems Analyst, Business Information Systems Department 2 / Data Management &amp; Development Support Section, HDB<br>Joined in 2018</em>
@@ -327,7 +330,7 @@ predictive analytics for Car-Lite initiatives.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Elizabeth Lim" src="/images/people/elizabeth-lim.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Elizabeth Lim" src="/images/people/elizabeth-lim.png">
 </div>
 <p>
 <br><strong><em>Elizabeth Lim</em></strong><em><br>Data Scientist, Data Science &amp; Artificial Intelligence Division, GovTech<br>Joined in 2019</em>
@@ -342,7 +345,7 @@ agencies.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Huang Shisheng" src="/images/people/huang-shisheng.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Huang Shisheng" src="/images/people/huang-shisheng.png">
 </div>
 <p>
 <br><strong><em>Huang Shisheng </em></strong><em><br>Head, Risk Profiling Analytics, Data Science &amp; AI Centre of Expertise, HTX<br>Joined in 2019</em>
@@ -355,7 +358,7 @@ the safety and security domain of Singapore is a big pull factor for me.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Abigail Soh" src="/images/people/abigail-soh-t.jpeg">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Abigail Soh" src="/images/people/abigail-soh-t.jpeg">
 </div>
 <p>
 <br><strong><em>Abigail Soh</em></strong><em><br>Senior Manager, Analytics &amp; Insights, STB</em>
@@ -370,7 +373,7 @@ onset of the global pandemic in 2020.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Jason Koh" src="/images/people/jason-koh-t.jpeg">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Jason Koh" src="/images/people/jason-koh-t.jpeg">
 </div>
 <p>
 <br><strong><em>Jason Koh</em></strong><em><br>Lead Product Manager, Visitor Experience Technology, STB<br>Joined in 2021</em>
@@ -383,7 +386,7 @@ and expand their global reach, and deliver quality visitor experiences.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Zheng Yifei" src="/images/people/yifei-zheng-t.jpeg">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Zheng Yifei" src="/images/people/yifei-zheng-t.jpeg">
 </div>
 <p>
 <br><strong><em>Zheng Yifei</em></strong><em><br>Manager, Data Science, STB<br>Joined in 2019</em>
@@ -400,8 +403,9 @@ tourism sector.
 <p><a href="#hear-from-our-tech-talents" rel="noopener noreferrer nofollow" target="_blank">Return to top</a>
 </p>
 <h2>Geospatial</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Lee Mou Jian" src="/images/people/lee-mou-jian.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Lee Mou Jian" src="/images/people/lee-mou-jian.png">
 </div>
 <p>
 <br><strong><em>Lee Mou Jian</em></strong><em><br>Assistant Manager, Geospatial &amp; Data Division, SLA<br>Joined in 2018</em>
@@ -415,7 +419,7 @@ better precision, in areas such as land use, transportation, and healthcare.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Abhishek Tandon" src="/images/people/abhishek-tandon.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Abhishek Tandon" src="/images/people/abhishek-tandon.png">
 </div>
 <p>
 <br><strong><em>Abhishek Tandon</em></strong><em><br>Deputy Director, Geospatial Development, National Parks Board (NParks)<br>Joined in 2015</em>
@@ -431,7 +435,7 @@ and helping to achieve our Smart Nation goal.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Roy Yuen Ze Min" src="/images/people/roy-yuen.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Roy Yuen Ze Min" src="/images/people/roy-yuen.png">
 </div>
 <p>
 <br><strong><em>Roy Yuen Ze Min</em></strong><em><br>Assistant Manager, Geospatial &amp; Data Division, SLA<br>Joined in 2017</em>
@@ -444,7 +448,7 @@ strong network alliances with local and foreign stakeholders.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Grace Xue" src="/images/people/grace-xue-t.jpeg">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Grace Xue" src="/images/people/grace-xue-t.jpeg">
 </div>
 <p>
 <br><strong><em>Grace Xue</em></strong><em><br>Executive Manager, Geological and Geospatial Development Department, BCA<br>Joined in 2010</em>
@@ -459,7 +463,7 @@ design requirements and overseeing the development of BGIS.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Ishpal Singh Gill" src="/images/people/ishpal-singh-gill-t.jpeg">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Ishpal Singh Gill" src="/images/people/ishpal-singh-gill-t.jpeg">
 </div>
 <p>
 <br><strong><em>Ishpal Singh Gill</em></strong><em><br>Senior Systems Analyst, Business Information Systems Department, HDB<br>Joined in 2018</em>
@@ -473,7 +477,7 @@ housing and a great living environment where communities thrive.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="See Shan Yi" src="/images/people/see-shan-yi-t.jpeg">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="See Shan Yi" src="/images/people/see-shan-yi-t.jpeg">
 </div>
 <p>
 <br><strong><em>See Shan Yi</em></strong><em><br>Geospatial Analyst, Land Planning and Redevelopment Group, JTC<br>Joined in 2018</em>
@@ -488,7 +492,7 @@ process.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Hazel Ang" src="/images/people/hazel-ang-t.jpeg">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Hazel Ang" src="/images/people/hazel-ang-t.jpeg">
 </div>
 <p>
 <br><strong><em>Hazel Ang</em></strong><em><br>Manager, Imagery Support Group, SAF C4I, SAF<br>Joined in 2018</em>
@@ -507,8 +511,9 @@ in keeping Singapore safe.”
 <p><a href="#hear-from-our-tech-talents" rel="noopener noreferrer nofollow" target="_blank">Return to top</a>
 </p>
 <h2>ICT Infrastructure</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Ong Chee Siang" src="/images/people/ong_chee_siang_t.jpeg">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Ong Chee Siang" src="/images/people/ong_chee_siang_t.jpeg">
 </div>
 <p>
 <br><strong><em>Ong Chee Siang</em></strong><em><br>Lead System Engineer (Cloud), CPFB<br>Joined in 2016</em>
@@ -523,7 +528,7 @@ environment, which took many rounds of iterations.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Lynn Choi" src="/images/people/lynn_choi_t.jpeg">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Lynn Choi" src="/images/people/lynn_choi_t.jpeg">
 </div>
 <p>
 <br><strong><em>Lynn Choi</em></strong><em><br>Deputy Director, Cloud Infrastructure and Services, CSIT<br>Joined in 2005</em>
@@ -540,7 +545,7 @@ a highly motivated environment that I enjoy working in.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Seow Caixiang" src="/images/people/seow_caixiang_t.jpeg">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Seow Caixiang" src="/images/people/seow_caixiang_t.jpeg">
 </div>
 <p>
 <br><strong><em>Seow Caixiang</em></strong><em><br>Senior Systems Specialist, Infrastructure Management Services Department / Systems Management Section, HDB<br>Joined in 2017</em>
@@ -553,7 +558,7 @@ as a learning opportunity.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Tan Wei Chong" src="/images/people/tan_wei_chong_t.jpeg">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Tan Wei Chong" src="/images/people/tan_wei_chong_t.jpeg">
 </div>
 <p>
 <br><strong><em>Tan Wei Chong</em></strong><em><br>Manager, Digital Infrastructure Planning, Regulation &amp; Competition Development Group, IMDA<br>Joined in 2016</em>
@@ -567,7 +572,7 @@ downstream pricing and achieve high quality connectivity and penetration.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Terence Wong" src="/images/people/terence_wong_t.jpeg">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Terence Wong" src="/images/people/terence_wong_t.jpeg">
 </div>
 <p>
 <br><strong><em>Terence Wong</em></strong><em><br>Infocomm Specialist, Infocomm Division, IRAS<br>Joined in 2020</em>
@@ -581,7 +586,7 @@ for citizens is what pushes me forward.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Reuben Wong" src="/images/people/reuben-wong.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Reuben Wong" src="/images/people/reuben-wong.png">
 </div>
 <p>
 <br><strong><em>Reuben Wong</em></strong><em><br>Senior Manager, Infrastructure Planning &amp; Facilitation, IMDA<br>Joined in 2011</em>
@@ -594,7 +599,7 @@ related applications.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Kenneth Yeo" src="/images/people/kenneth-yeo.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Kenneth Yeo" src="/images/people/kenneth-yeo.png">
 </div>
 <p>
 <br><strong><em>Kenneth Yeo</em></strong><em><br>Application Infrastructure, Government Infrastructure Group, GovTech<br>Joined in 2020</em>
@@ -609,8 +614,9 @@ is a learning opportunity.”
 <p><a href="#hear-from-our-tech-talents" rel="noopener noreferrer nofollow" target="_blank">Return to top</a>
 </p>
 <h2>Sensors &amp; Internet of Things</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Brandon Chua" src="/images/people/brandon-chua.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Brandon Chua" src="/images/people/brandon-chua.png">
 </div>
 <p>
 <br><strong><em>Brandon Chua</em></strong><em><br>Engineer, Sense-making &amp; Surveillance Centre of Expertise, HTX<br>Joined in 2020</em>
@@ -623,7 +629,7 @@ my family and loved ones.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Goh Kok Boon" src="/images/people/kok-boon.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Goh Kok Boon" src="/images/people/kok-boon.png">
 </div>
 <p>
 <br><strong><em>Goh Kok Boon </em></strong><em><br>Associate Embedded Engineer, Sensors &amp; Internet of Things, GovTech<br>Joined in 2019</em>
@@ -636,7 +642,7 @@ and improve the lives of my loved ones.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Ong Ling Ling" src="/images/people/ong-ling-ling.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Ong Ling Ling" src="/images/people/ong-ling-ling.png">
 </div>
 <p>
 <br><strong><em>Ong Ling Ling</em></strong><em><br>Solutions Architect, IMDA<br>Joined in 2018</em>
@@ -649,7 +655,7 @@ and ER to solve challenges faced today for a better tomorrow!”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Chandrasehar S/O Rajaseharan" src="/images/people/chandrasehar_t.jpeg">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Chandrasehar S/O Rajaseharan" src="/images/people/chandrasehar_t.jpeg">
 </div>
 <p>
 <br><strong><em>Chandrasehar S/O Rajaseharan</em></strong><em><br>Lead Engineer, Sensors and Sense-making, Sense-making &amp; Surveillance Centre of Expertise, HTX<br>Joined in 2019</em>
@@ -662,7 +668,7 @@ environment for our nation, including my loved ones.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Christopher Tong" src="/images/people/christopher-tong.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Christopher Tong" src="/images/people/christopher-tong.png">
 </div>
 <p>
 <br><strong><em>Christopher Tong</em></strong><em><br>Product Manager, Sensors &amp; Internet of Things, GovTech<br>Joined in 2019</em>
@@ -675,7 +681,7 @@ team that digitally transforms Singapore to become a Smart Nation.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Lau Lee Hong" src="/images/people/lau-lee-hong.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Lau Lee Hong" src="/images/people/lau-lee-hong.png">
 </div>
 <p>
 <br><strong><em>Lau Lee Hong</em></strong><em><br>Associate Embedded Engineer, Sensors &amp; Internet of Things, GovTech<br>2018-2021</em>
@@ -687,7 +693,7 @@ redefine what a Smart Nation really is!”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Ng Hon Wai" src="/images/people/ng-hon-wai.jpg">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Ng Hon Wai" src="/images/people/ng-hon-wai.jpg">
 </div>
 <p>
 <br><strong><em>Ng Hon Wai</em></strong><em><br>Senior Network Specialist, Infrastructure Management Services Department, HDB<br>Joined in 2011</em>
@@ -703,8 +709,9 @@ sustainability.”
 <p><a href="#hear-from-our-tech-talents" rel="noopener noreferrer nofollow" target="_blank">Return to top</a>
 </p>
 <h2>Tech Policy &amp; Governance</h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Annabelle Ng" src="/images/people/annabelle-ng.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Annabelle Ng" src="/images/people/annabelle-ng.png">
 </div>
 <p>
 <br><strong><em>Annabelle Ng</em></strong><em><br>Senior Manager, Standards, Cybersecurity &amp; Quality Assurance, SNDGO<br>Joined in 2020</em>
@@ -717,7 +724,7 @@ while operationalising existing policies to meet intended outcomes.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Kelvin Goh" src="/images/people/kelvin-goh.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Kelvin Goh" src="/images/people/kelvin-goh.png">
 </div>
 <p>
 <br><strong><em>Kelvin Goh</em></strong><em><br>Deputy Director, Government Data Office, Data Architecture, SNDGO<br>2020-2022</em>
@@ -730,7 +737,7 @@ and service delivery, in ways that benefit the public.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Loh Shin Yee" src="/images/people/loh-shin-yee.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Loh Shin Yee" src="/images/people/loh-shin-yee.png">
 </div>
 <p>
 <br><strong><em>Loh Shin Yee</em></strong><em><br>Assistant Director, Government Data Office, Data Policy, SNDGO<br>Joined in 2019</em>
@@ -744,7 +751,7 @@ to improve the transparency of our data security regime.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Wong De Ming" src="/images/people/wong-de-ming.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Wong De Ming" src="/images/people/wong-de-ming.png">
 </div>
 <p>
 <br><strong><em>Wong De Ming</em></strong><em><br>Senior Infocomm Specialist, Infocomm Division/ Infocomm Technology &amp; Planning Branch, IRAS<br>Joined in 2019</em>
@@ -758,7 +765,7 @@ can be delivered on time and within budget.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Ng Choon Sze Daphne" src="/images/people/ng-choon-sze.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Ng Choon Sze Daphne" src="/images/people/ng-choon-sze.png">
 </div>
 <p>
 <br><strong><em>Ng Choon Sze Daphne</em></strong><em><br>Infocomm Specialist, Infocomm Division/ Infocomm Technology &amp; Planning Branch, IRAS<br>Joined in 2020</em>
@@ -770,10 +777,10 @@ track leads to ensure that project milestones are met.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Justin Teh" src="/images/people/justin-teh.png">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Justin Teh" src="/images/people/justin-teh.png">
 </div>
-<p>
-<br><strong><em>Justin Teh</em></strong><em><br>Assistant Director, Planning &amp; Prioritisation Directorate, SNDGO<br>Joined in 2019</em>
+<p></p>
+<p><strong><em>Justin Teh</em></strong><em><br>Assistant Director, Planning &amp; Prioritisation Directorate, SNDGO<br>Joined in 2019</em>
 <br>
 <br>“Our roles and contributions here can power the next bound of Singapore’s
 Smart Nation transformation. Public or private, the tech sector is buzzing
