@@ -31,7 +31,7 @@ for the future and enable the delivery of critical digital services that
 is used by citizens, businesses and Government.</p>
 <h3><strong>Hear from our tech talents</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Ong Chee Siang" src="/images/people/ong_chee_siang_t.jpeg">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Ong Chee Siang" src="/images/people/ong_chee_siang_t.jpeg">
 </div>
 <p>
 <br><strong><em>Ong Chee Siang</em></strong><em><br>Lead System Engineer (Cloud), CPFB<br>Joined in 2016</em>
@@ -46,7 +46,7 @@ environment, which took many rounds of iterations.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Lynn Choi" src="/images/people/lynn_choi_t.jpeg">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Lynn Choi" src="/images/people/lynn_choi_t.jpeg">
 </div>
 <p>
 <br><strong><em>Lynn Choi</em></strong><em><br>Deputy Director, Cloud Infrastructure and Services, CSIT<br>Joined in 2005</em>
@@ -62,7 +62,7 @@ a highly motivated environment that I enjoy working in.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Seow Caixiang" src="/images/people/seow_caixiang_t.jpeg">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Seow Caixiang" src="/images/people/seow_caixiang_t.jpeg">
 </div>
 <p>
 <br><strong><em>Seow Caixiang</em></strong><em><br>Senior Systems Specialist, Infrastructure Management Services Department / Systems Management Section, HDB<br>Joined in 2017</em>
@@ -75,7 +75,7 @@ as a learning opportunity.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Tan Wei Chong" src="/images/people/tan_wei_chong_t.jpeg">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Tan Wei Chong" src="/images/people/tan_wei_chong_t.jpeg">
 </div>
 <p>
 <br><strong><em>Tan Wei Chong</em></strong><em><br>Manager, Digital Infrastructure Planning, Regulation &amp; Competition Development Group, IMDA<br>Joined in 2016</em>
@@ -89,7 +89,7 @@ downstream pricing and achieve high quality connectivity and penetration.”
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Tech Talent" alt="Terence Wong" src="/images/people/terence_wong_t.jpeg">
+<img style="width: 50%;" height="auto" width="100%" title="Tech Talent" alt="Terence Wong" src="/images/people/terence_wong_t.jpeg">
 </div>
 <p>
 <br><strong><em>Terence Wong</em></strong><em><br>Infocomm Specialist, Infocomm Division, IRAS<br>Joined in 2020</em>
@@ -106,43 +106,25 @@ for citizens is what pushes me forward.”
 </p>
 <h3><strong>Get set for Smart Moves Ahead</strong></h3>
 <p>Discover ICT infrastructure career opportunities in these agencies.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="ASTAR" alt="ASTAR" src="/images/logos/logo-astar.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="CPFB" alt="CPFB" src="/images/logos/logo-cpf.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="CSA" alt="CSA" src="/images/logos/logo-csa.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="CSIT" alt="CSIT" src="/images/logos/logo-csit-2021.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="DSTA" alt="DSTA" src="/images/logos/logo-dsta.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="GovTech" alt="GovTech" src="/images/logos/logo-govtech.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="HDB" alt="HDB" src="/images/logos/logo-hdb.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="HTX" alt="HTX" src="/images/logos/logo-htx.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="IMDA" alt="IMDA" src="/images/logos/logo-imda.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="IRAS" alt="IRAS" src="/images/logos/logo-iras.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="LTA" alt="LTA" src="/images/logos/logo-lta.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="SLA" alt="SLA" src="/images/logos/logo-sla.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" title="Synapxe" alt="Synapxe" src="/images/logos/logo-synapxe.png">
-</div>
+<a class="isomer-image-wrapper" href="https://www.a-star.edu.sg/career">
+<img style="width: 30%;" height="auto" width="100%" title="ASTAR" alt="ASTAR" src="/images/logos/logo-astar.png">
+</a><a class="isomer-image-wrapper" href="https://www.cpf.gov.sg/member/who-we-are/careers"><img style="width: 30%;" height="auto" width="100%" title="CPFB" alt="CPFB" src="/images/logos/logo-cpf.png"></a>
+<a class="isomer-image-wrapper" href="https://www.csa.gov.sg/about-csa/careers/">
+<img style="width: 30%;" height="auto" width="100%" title="CSA" alt="CSA" src="/images/logos/logo-csa.png">
+</a><a class="isomer-image-wrapper" href="https://www.csit.gov.sg/join-us/careers"><img style="width: 30%;" height="auto" width="100%" title="CSIT" alt="CSIT" src="/images/logos/logo-csit-2021.jpg"></a>
+<a class="isomer-image-wrapper" href="https://www.dsta.gov.sg/join-us/job-seeker/dsta-careers">
+<img style="width: 30%;" height="auto" width="100%" title="DSTA" alt="DSTA" src="/images/logos/logo-dsta.png">
+</a><a class="isomer-image-wrapper" href="https://www.tech.gov.sg/careers/why-join-govtech/overview/"><img style="width: 30%;" height="auto" width="100%" title="GovTech" alt="GovTech" src="/images/logos/logo-govtech.png"></a>
+<a class="isomer-image-wrapper" href="https://www.hdb.gov.sg/about-us/careers/career-opportunities">
+<img style="width: 30%;" height="auto" width="100%" title="HDB" alt="HDB" src="/images/logos/logo-hdb.png">
+</a><a class="isomer-image-wrapper" href="https://www.htx.gov.sg/join-us/careers"><img style="width: 30%;" height="auto" width="100%" title="HTX" alt="HTX" src="/images/logos/logo-htx.png"></a>
+<a class="isomer-image-wrapper" href="https://www.imda.gov.sg/about-imda/careers-at-imda">
+<img style="width: 30%;" height="auto" width="100%" title="IMDA" alt="IMDA" src="/images/logos/logo-imda.png">
+</a><a class="isomer-image-wrapper" href="https://www.iras.gov.sg/careers"><img style="width: 30%;" height="auto" width="100%" title="IRAS" alt="IRAS" src="/images/logos/logo-iras.png"></a>
+<a class="isomer-image-wrapper" href="https://www.lta.gov.sg/content/ltagov/en/who_we_are/careers/join_lta.html">
+<img style="width: 30%;" height="auto" width="100%" title="LTA" alt="LTA" src="/images/logos/logo-lta.png">
+</a><a class="isomer-image-wrapper" href="https://www.sla.gov.sg/join-us/our-work-at-sla"><img style="width: 30%;" height="auto" width="100%" title="SLA" alt="SLA" src="/images/logos/logo-sla.png"></a>
+<a class="isomer-image-wrapper" href="https://careers-public-healthtech-jobs.synapxe.sg/">
+<img style="width: 30%;" height="auto" width="100%" title="Synapxe" alt="Synapxe" src="/images/logos/logo-synapxe.png">
+</a>
 <p></p>
